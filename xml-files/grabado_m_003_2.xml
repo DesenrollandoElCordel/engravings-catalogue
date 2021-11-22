@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_072_2.xml">grabado_m_072_2</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo curioso y divertido de Enrique y Juana</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
               <item>
                 <title corresp="grabado_m_214_2.xml">grabado_m_214_2</title>
-                <locus/>
-                <date/>
+                <locus>Teresa Mojarro y Gangarilla</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_280_2.xml">grabado_m_280_2</title>
-                <locus/>
-                <date/>
+                <locus>Cada cual arrima el ascua. Pasillo nuevo entre hombre y muger</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
             </list>
           </note>
