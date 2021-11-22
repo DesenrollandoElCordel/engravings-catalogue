@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_002_2">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>grabado_m_002_2</title>
+        <respStmt>
+          <name xml:id="EL">Elina Leblanc</name>
+          <resp>Codificación TEI</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
+        <availability status="restricted">
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>grabado_m_002_2</title>
+          <author/>
+          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <date when="1800" cert="low">[s.a.]</date>
+          <ident type="DOI"/>
+          <figure>
+            <graphic url="" source="Moreno_002_1.jpg" n="483, 193, 232, 346"/>
+            <figDesc>
+              <locus target="Moreno_002.xml">Coplas nuevas para cantar los aficionados</locus>
+            </figDesc>
+          </figure>
+          <note type="similar_ejemplar">
+            <list n="4">
+              <item>
+                <title corresp="grabado_m_053_1.xml">grabado_m_053_1</title>
+                <locus/>
+                <date/>
+              </item>
+              <item>
+                <title corresp="grabado_m_119_3.xml">grabado_m_119_3</title>
+                <locus/>
+                <date/>
+              </item>
+              <item>
+                <title corresp="grabado_m_329_2.xml">grabado_m_329_2</title>
+                <locus/>
+                <date/>
+              </item>
+              <item>
+                <title corresp="grabado_m_347_3.xml">grabado_m_347_3</title>
+                <locus/>
+                <date/>
+              </item>
+            </list>
+          </note>
+          <note type="origen">Grabado extraído del pliego Moreno_002</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+      </projectDesc>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>Del pueblo</term>
+          <term>De pie</term>
+          <term>Sombrero/Tocado</term>
+          <term>Guitarra/Vihuela/Laúd</term>
+          <term>Calle</term>
+        </keywords>
+        <catRef scheme="#personaje_masculino" target="#del_pueblo_h"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#instrumento_musical" target="#guitarra"/>
+        <catRef scheme="#espacio_construido" target="#calle"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#EL" when="2021-11-22">Creación del documento</change>
+    </revisionDesc>
+  </teiHeader>
+  <facsimile>
+    <graphic url="grabado_m_002_2_thumbnail.jpg"/>
+  </facsimile>
+  <text>
+    <body>
+      <p/>
+    </body>
+  </text>
+</TEI>
