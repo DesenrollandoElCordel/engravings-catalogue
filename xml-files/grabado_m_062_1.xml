@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_190_3.xml">grabado_m_190_3</title>
-                <locus/>
-                <date/>
+                <locus>El Maltés de Madrid</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_191_1.xml">grabado_m_191_1</title>
-                <locus/>
-                <date/>
+                <locus>El Maltés de Madrid</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
               <item>
                 <title corresp="grabado_m_214_1.xml">grabado_m_214_1</title>
-                <locus/>
-                <date/>
+                <locus>Teresa Mojarro y Gangarilla</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
             </list>
           </note>
