@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_321_1.xml">grabado_m_321_1</title>
-                <locus/>
-                <date/>
+                <locus>Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_322_1.xml">grabado_m_322_1</title>
-                <locus/>
-                <date/>
+                <locus>Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
+                <date when="1866" cert="high">1866</date>
               </item>
               <item>
                 <title corresp="grabado_m_327_3.xml">grabado_m_327_3</title>
-                <locus/>
-                <date/>
+                <locus>Dionisia Pérez Losada. Nueva y curiosa relación</locus>
+                <date>1860</date>
               </item>
             </list>
           </note>
