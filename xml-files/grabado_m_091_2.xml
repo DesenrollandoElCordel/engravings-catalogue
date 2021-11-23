@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_259_2.xml">grabado_m_259_2</title>
-                <locus/>
-                <date/>
+                <locus>Coplas nuevas glosadas en décimas para cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_323_1.xml">grabado_m_323_1</title>
-                <locus/>
-                <date/>
+                <locus>Coplas de seguidillas</locus>
+                <date when="1861" cert="high">1861</date>
               </item>
               <item>
                 <title corresp="grabado_m_371_2.xml">grabado_m_371_2</title>
-                <locus/>
-                <date/>
+                <locus>Coplas nuevas para cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
