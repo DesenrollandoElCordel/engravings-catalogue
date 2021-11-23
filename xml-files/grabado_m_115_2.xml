@@ -33,23 +33,23 @@
             <list n="4">
               <item>
                 <title corresp="grabado_m_053_2.xml">grabado_m_053_2</title>
-                <locus/>
-                <date/>
+                <locus>Cartilla de casamientos</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_114_2.xml">grabado_m_114_2</title>
-                <locus/>
-                <date/>
+                <locus>Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas, que las mugeres han notado</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_249_1.xml">grabado_m_249_1</title>
-                <locus/>
-                <date/>
+                <locus>Trovos nuevos en que un galán enamorado de su dama le manifiesta el escesivo amor y cariño que la tiene</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_315_2.xml">grabado_m_315_2</title>
-                <locus/>
-                <date/>
+                <locus>Décimas nuevas</locus>
+                <date when="1857" cert="high">1857</date>
               </item>
             </list>
           </note>
