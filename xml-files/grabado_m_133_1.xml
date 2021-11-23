@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_132_2.xml">grabado_m_132_2</title>
-                <locus/>
-                <date/>
+                <locus>Relación jocosa. El amante más perfecto</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_232_2.xml">grabado_m_232_2</title>
-                <locus/>
-                <date/>
+                <locus>Condiciones, vicios y propiedades de las señoras mujeres</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_233_2.xml">grabado_m_233_2</title>
-                <locus/>
-                <date/>
+                <locus>Condiciones, vicios y propiedades de las señoras mujeres</locus>
+                <date when="1857" cert="high">1857</date>
               </item>
             </list>
           </note>
