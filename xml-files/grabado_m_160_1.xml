@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_043_1.xml">grabado_m_043_1</title>
-                <locus/>
-                <date/>
+                <locus>Décimas glosadas</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_060_1.xml">grabado_m_060_1</title>
-                <locus/>
-                <date/>
+                <locus>Residencia a mozos casados y viudos</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_090_2.xml">grabado_m_090_2</title>
-                <locus/>
-                <date/>
+                <locus>Canción de la Pepa</locus>
+                <date when="1855" cert="high">1855</date>
               </item>
             </list>
           </note>
