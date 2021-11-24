@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_012_1.xml">grabado_m_012_1</title>
-                <locus/>
-                <date/>
+                <locus>Sátira graciosa de los quince novios</locus>
+                <date when="1855" cert="high">1855</date>
               </item>
               <item>
                 <title corresp="grabado_m_270_1.xml">grabado_m_270_1</title>
-                <locus/>
-                <date/>
+                <locus>Nueva relación contra los hombres para mujer</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
             </list>
           </note>
