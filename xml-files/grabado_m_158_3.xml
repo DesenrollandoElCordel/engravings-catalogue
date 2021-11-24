@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_081_1.xml">grabado_m_081_1</title>
-                <locus/>
-                <date/>
+                <locus>La confesión de una niña</locus>
+                <date when="1855" cert="high">1855</date>
               </item>
               <item>
                 <title corresp="grabado_m_159_3.xml">grabado_m_159_3</title>
-                <locus/>
-                <date/>
+                <locus>Doña Violante</locus>
+                <date when="1800" cert="high">[s.a.]</date>
               </item>
             </list>
           </note>

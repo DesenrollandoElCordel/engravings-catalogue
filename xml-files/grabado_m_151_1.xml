@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_113_1.xml">grabado_m_113_1</title>
-                <locus/>
-                <date/>
+                <locus>Trovos nuevos para saber corresponder los finos amantes</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_276_2.xml">grabado_m_276_2</title>
-                <locus/>
-                <date/>
+                <locus>Relación de las cigarreras</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>
