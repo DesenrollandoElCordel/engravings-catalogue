@@ -33,43 +33,43 @@
             <list n="8">
               <item>
                 <title corresp="grabado_m_033_2.xml">grabado_m_033_2</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo de las Amazonas</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_158_1.xml">grabado_m_158_1</title>
-                <locus/>
-                <date/>
+                <locus>Doña Violante</locus>
+                <date when="1854" cert="high">1854</date>
               </item>
               <item>
                 <title corresp="grabado_m_159_1.xml">grabado_m_159_1</title>
-                <locus/>
-                <date/>
+                <locus>Doña Violante</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_167_2.xml">grabado_m_167_2</title>
-                <locus/>
-                <date/>
+                <locus>La princesa Ismenia</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_168_2.xml">grabado_m_168_2</title>
-                <locus/>
-                <date/>
+                <locus>La princesa Ismenia</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_209_2.xml">grabado_m_209_2</title>
-                <locus/>
-                <date/>
+                <locus>Florisela</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_210_2.xml">grabado_m_210_2</title>
-                <locus/>
-                <date/>
+                <locus>Florisela</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_237_3.xml">grabado_m_237_3</title>
-                <locus/>
-                <date/>
+                <locus>El rey Basilio de Dinamarca</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>

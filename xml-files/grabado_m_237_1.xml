@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_033_1.xml">grabado_m_033_1</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo de las Amazonas</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_208_1.xml">grabado_m_208_1</title>
-                <locus/>
-                <date/>
+                <locus>Décimas nuevas. Disputa entre un moro y un cristiano sobre los mandamientos de la ley de Dios</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_236_1.xml">grabado_m_236_1</title>
-                <locus/>
-                <date/>
+                <locus>El rey Basilio de Dinamarca</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>
