@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_222_2.xml">grabado_m_222_2</title>
-                <locus/>
-                <date/>
+                <locus>Celinda y D. Antonio Moreno</locus>
+                <date when="1858" cert="high">1857</date>
               </item>
               <item>
                 <title corresp="grabado_m_363_2.xml">grabado_m_363_2</title>
-                <locus/>
-                <date/>
+                <locus>Relación nueva. El mayor monstruo</locus>
+                <date when="1865" cert="high">1865</date>
               </item>
             </list>
           </note>
