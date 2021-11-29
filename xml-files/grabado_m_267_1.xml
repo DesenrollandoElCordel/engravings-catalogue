@@ -33,28 +33,28 @@
             <list n="5">
               <item>
                 <title corresp="grabado_m_198_1.xml">grabado_m_198_1</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo de Diego Corriente</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_266_1.xml">grabado_m_266_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación andaluza. El Tremendo</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_271_1.xml">grabado_m_271_1</title>
-                <locus/>
-                <date/>
+                <locus>Pedro Becerra o el corazón de un bandido</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_275_1.xml">grabado_m_275_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación de Periquillo el Tunante</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_288_1.xml">grabado_m_288_1</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo en verso andaluz. Lo ejecutan Curro, Dolores y El Tremendo</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>

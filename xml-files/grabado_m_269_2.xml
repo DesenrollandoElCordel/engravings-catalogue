@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_021_1.xml">grabado_m_021_1</title>
-                <locus/>
-                <date/>
+                <locus>Matraca de hombre y muger</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_088_1.xml">grabado_m_088_1</title>
-                <locus/>
-                <date/>
+                <locus>Juan Rana y Antón Rapao</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_268_2.xml">grabado_m_268_2</title>
-                <locus/>
-                <date/>
+                <locus>Relación de Quintana</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
