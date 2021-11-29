@@ -33,23 +33,23 @@
             <list n="4">
               <item>
                 <title corresp="grabado_m_018_1.xml">grabado_m_018_1</title>
-                <locus/>
-                <date/>
+                <locus>Sátira burlesca de la vida, milagros, usos y costumbres de cuatro clases de mugeres que hay en Madrid</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_138_2.xml">grabado_m_138_2</title>
-                <locus/>
-                <date/>
+                <locus>Décimas en trovos modernos y divertidos</locus>
+                <date when="1852" cert="high">1852</date>
               </item>
               <item>
                 <title corresp="grabado_m_155_2.xml">grabado_m_155_2</title>
-                <locus/>
-                <date/>
+                <locus>Sátira graciosa en que se avisa a todos los hombres los motivo que hay para no casarse</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_191_3.xml">grabado_m_191_3</title>
-                <locus/>
-                <date/>
+                <locus>El Maltés de Madrid</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>

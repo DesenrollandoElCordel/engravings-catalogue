@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_029_2.xml">grabado_m_029_2</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo del Cid Campeador</locus>
+                <date when="1853" cert="high">1853</date>
               </item>
               <item>
                 <title corresp="grabado_m_173_1.xml">grabado_m_173_1</title>
-                <locus/>
-                <date/>
+                <locus>Los dos príncipes de Italia</locus>
+                <date>1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_209_1.xml">grabado_m_209_1</title>
-                <locus/>
-                <date/>
+                <locus>Florisela</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
