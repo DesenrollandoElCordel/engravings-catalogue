@@ -21,7 +21,7 @@
           <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
-          <date when="1859" cert="high">1859</date>
+          <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="" source="Moreno_207_1.jpg" n="194, 207, 1199, 771"/>
@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_206_1.xml">grabado_m_206_1</title>
-                <locus/>
-                <date/>
+                <locus>Antonio Montero y Diego de Frías</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_254_1.xml">grabado_m_254_1</title>
-                <locus/>
-                <date/>
+                <locus>Colección de canciones modernas.</locus>
+                <date>[s.a.]</date>
               </item>
             </list>
           </note>

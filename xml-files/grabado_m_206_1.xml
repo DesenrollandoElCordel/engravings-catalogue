@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_207_1.xml">grabado_m_207_1</title>
-                <locus/>
-                <date/>
+                <locus>Antonio Montero y Diego de Frías</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_254_1.xml">grabado_m_254_1</title>
-                <locus/>
-                <date/>
+                <locus>Colección de canciones modernas</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>

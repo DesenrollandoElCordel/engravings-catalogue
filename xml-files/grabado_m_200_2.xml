@@ -33,23 +33,23 @@
             <list n="4">
               <item>
                 <title corresp="grabado_m_242_2.xml">grabado_m_242_2</title>
-                <locus/>
-                <date/>
+                <locus>Daños que vienen a los hombres por las señoras mugeres</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_243_2.xml">grabado_m_243_2</title>
-                <locus/>
-                <date/>
+                <locus>Daños que vienen a los hombres por las señoras mugeres</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
               <item>
                 <title corresp="grabado_m_244_1.xml">grabado_m_244_1</title>
-                <locus/>
-                <date/>
+                <locus>Décimas glosadas para cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_251_2.xml">grabado_m_251_2</title>
-                <locus/>
-                <date/>
+                <locus>Colección de canciones españolas</locus>
+                <date when="1857" cert="high">1857</date>
               </item>
             </list>
           </note>
