@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_098_1.xml">grabado_m_098_1</title>
-                <locus/>
-                <date/>
+                <locus>Sainete nuevo titulado El cuarto de la viuda</locus>
+                <date when="1850" cert="high">1850</date>
               </item>
               <item>
                 <title corresp="grabado_m_291_1.xml">grabado_m_291_1</title>
-                <locus/>
-                <date/>
+                <locus>Sainete nuevo titulado El payo de la carta</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
             </list>
           </note>

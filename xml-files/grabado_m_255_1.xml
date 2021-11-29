@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_155_1.xml">grabado_m_155_1</title>
-                <locus/>
-                <date/>
+                <locus>Sátira graciosa en que se avisa a todos los hombres los motivo que hay para no casarse</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_313_1.xml">grabado_m_313_1</title>
-                <locus/>
-                <date/>
+                <locus>Décimas nuevas para cantar los aficionados a la guitarra</locus>
+                <date when="1864" cert="high">1864</date>
               </item>
             </list>
           </note>
