@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_038_1.xml">grabado_m_038_1</title>
-                <locus/>
-                <date/>
+                <locus>Desposorio de Cristo nuestro señor con la santísima cruz</locus>
+                <date when="1865" cert="high">1865</date>
               </item>
               <item>
                 <title corresp="grabado_m_374_2.xml">grabado_m_374_2</title>
-                <locus/>
-                <date/>
+                <locus>Décimas trovadas que cantan al valiente ejército español vencedor de la raza mahometana en África</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>

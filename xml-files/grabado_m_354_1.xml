@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_161_1.xml">grabado_m_161_1</title>
-                <locus/>
-                <date/>
+                <locus>Cántico a la sagrada Magnífica</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_241_1.xml">grabado_m_241_1</title>
-                <locus/>
-                <date/>
+                <locus>Coplas para cantar los despertadores de las mañanas</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
             </list>
           </note>

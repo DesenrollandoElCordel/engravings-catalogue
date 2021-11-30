@@ -32,14 +32,14 @@
           <note type="similar_ejemplar">
             <list n="2">
               <item>
-                <title corresp="grabado_m_340_1.xml">grabado_m_340_1</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_m_253_2.xml">grabado_m_253_2</title>
+                <locus>Colección de canciones andaluzas</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
               <item>
-                <title corresp="grabado_m_253_2.xml">grabado_m_253_2</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_m_340_1.xml">grabado_m_340_1</title>
+                <locus>Papel nuevo para representar</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
