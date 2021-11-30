@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_116_1.xml">grabado_m_116_1</title>
-                <locus/>
-                <date/>
+                <locus>Sainete nuevo titulado La estatua fingida o Jorge el Sagristán</locus>
+                <date when="1864" cert="high">1864</date>
               </item>
               <item>
                 <title corresp="grabado_m_279_1.xml">grabado_m_279_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación burlesca intitulada Suceso de la pulga</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>

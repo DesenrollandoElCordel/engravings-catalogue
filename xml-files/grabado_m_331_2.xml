@@ -33,33 +33,33 @@
             <list n="6">
               <item>
                 <title corresp="grabado_m_113_2.xml">grabado_m_113_2</title>
-                <locus/>
-                <date/>
+                <locus>Trovos nuevos para saber corresponder los finos amantes</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_198_2.xml">grabado_m_198_2</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo de Diego Corriente</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_250_2.xml">grabado_m_250_2</title>
-                <locus/>
-                <date/>
+                <locus>Décimas glosadas en las que se manifiesta los desprecios que hace una dama a todos los que la pretenden</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_268_1.xml">grabado_m_268_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación de Quintana</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_278_2.xml">grabado_m_278_2</title>
-                <locus/>
-                <date/>
+                <locus>Décimas</locus>
+                <date when="1860" cert="high">1860</date>
               </item>
               <item>
                 <title corresp="grabado_m_314_1.xml">grabado_m_314_1</title>
-                <locus/>
-                <date/>
+                <locus>Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
