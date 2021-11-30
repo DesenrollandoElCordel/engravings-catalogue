@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_116_1.xml">grabado_m_116_1</title>
-                <locus/>
-                <date/>
+                <locus>Sainete nuevo titulado La estatua fingida o Jorge el Sagristán</locus>
+                <date when="1864" cert="high">1864</date>
               </item>
               <item>
                 <title corresp="grabado_m_331_1.xml">grabado_m_331_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación en contra de las mugeres</locus>
+                <date when="1861" cert="high">1861</date>
               </item>
             </list>
           </note>
