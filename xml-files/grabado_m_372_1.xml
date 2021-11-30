@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_285_2.xml">grabado_m_285_2</title>
-                <locus/>
-                <date/>
+                <locus>Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca</locus>
+                <date when="1860" cert="high">1860</date>
               </item>
               <item>
                 <title corresp="grabado_m_360_1.xml">grabado_m_360_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
+                <date when="1865" cert="high">1865</date>
               </item>
             </list>
           </note>

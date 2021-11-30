@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_285_3.xml">grabado_m_285_3</title>
-                <locus/>
-                <date/>
+                <locus>Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca</locus>
+                <date when="1860" cert="high">1860</date>
               </item>
               <item>
                 <title corresp="grabado_m_360_2.xml">grabado_m_360_2</title>
-                <locus/>
-                <date/>
+                <locus>Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
+                <date when="1865" cert="high">1865</date>
               </item>
               <item>
                 <title corresp="grabado_m_369_3.xml">grabado_m_369_3</title>
-                <locus/>
-                <date/>
+                <locus>Boda de negros</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>

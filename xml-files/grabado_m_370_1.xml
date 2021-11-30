@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_018_2.xml">grabado_m_018_2</title>
-                <locus/>
-                <date/>
+                <locus>Sátira burlesca de la vida, milagros, usos y costumbres de cuatro clases de mugeres que hay en Madrid</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
               <item>
                 <title corresp="grabado_m_107_1.xml">grabado_m_107_1</title>
-                <locus/>
-                <date/>
+                <locus>Carta de amor que dirige un galán a su dama en la que se puede poner el nombre de cualquier muger</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_286_2.xml">grabado_m_286_2</title>
-                <locus/>
-                <date/>
+                <locus>Trovos nuevos y divertidos para obsequiar un fino amante a su bella dama</locus>
+                <date when="1856" cert="high">1856</date>
               </item>
             </list>
           </note>
