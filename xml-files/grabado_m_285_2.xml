@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_360_1.xml">grabado_m_360_1</title>
-                <locus/>
-                <date/>
+                <locus>Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
+                <date when="1865" cert="high">1865</date>
               </item>
               <item>
                 <title corresp="grabado_m_372_1.xml">grabado_m_372_1</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo nuevo titulado El animal de Ungría</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>

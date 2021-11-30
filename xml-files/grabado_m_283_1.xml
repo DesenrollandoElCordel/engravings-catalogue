@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_151_4.xml">grabado_m_151_4</title>
-                <locus/>
-                <date/>
+                <locus>Los amores de Madrid</locus>
+                <date when="1861" cert="high">1861</date>
               </item>
               <item>
                 <title corresp="grabado_m_293_2.xml">grabado_m_293_2</title>
-                <locus/>
-                <date/>
+                <locus>El fraile fingido</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
             </list>
           </note>
