@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_067_1.xml">grabado_m_067_1</title>
-                <locus/>
-                <date/>
+                <locus>Sátira nueva, graciosa y entretenida en que se declara el casamiento que hizo Francisquito</locus>
+                <date when="1860" cert="high">1860</date>
               </item>
               <item>
                 <title corresp="grabado_m_283_2.xml">grabado_m_283_2</title>
-                <locus/>
-                <date/>
+                <locus>Los tristes recuerdos de un miriñaque</locus>
+                <date when="1865" cert="high">1865</date>
               </item>
             </list>
           </note>

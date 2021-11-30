@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_212_2.xml">grabado_m_212_2</title>
-                <locus/>
-                <date/>
+                <locus>Doña Rosa la cautiva</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_299_2.xml">grabado_m_299_2</title>
-                <locus/>
-                <date/>
+                <locus>Receta para las mujeres mal casadas</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
               <item>
                 <title corresp="grabado_m_350_1.xml">grabado_m_350_1</title>
-                <locus/>
-                <date/>
+                <locus>La zurra. 1560 zapatazos a Culo-pelado</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
