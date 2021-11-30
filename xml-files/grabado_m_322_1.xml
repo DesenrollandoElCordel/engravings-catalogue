@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_078_1.xml">grabado_m_078_1</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo andaluz ejecutado por Antonia, José y Don Cándido, por Juanillo el de Burgo</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_321_1.xml">grabado_m_321_1</title>
-                <locus/>
-                <date/>
+                <locus>Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_327_3.xml">grabado_m_327_3</title>
-                <locus/>
-                <date/>
+                <locus>Dionisia Pérez Losada. Nueva y curiosa relación</locus>
+                <date when="1860" cert="high">1860</date>
               </item>
             </list>
           </note>

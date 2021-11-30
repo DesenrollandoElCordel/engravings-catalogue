@@ -33,13 +33,13 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_119_1.xml">grabado_m_119_1</title>
-                <locus/>
-                <date/>
+                <locus>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_290_2.xml">grabado_m_290_2</title>
-                <locus/>
-                <date/>
+                <locus>Colección de canciones. El pilluelo de Madrid</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
             </list>
           </note>

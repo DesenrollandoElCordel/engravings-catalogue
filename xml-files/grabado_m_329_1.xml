@@ -33,18 +33,18 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_002_1.xml">grabado_m_002_1</title>
-                <locus/>
-                <date/>
+                <locus>Coplas nuevas paras cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_242_1.xml">grabado_m_242_1</title>
-                <locus/>
-                <date/>
+                <locus>Daños que vienen a los hombres por las señoras mugeres</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_243_1.xml">grabado_m_243_1</title>
-                <locus/>
-                <date/>
+                <locus>Daños que vienen a los hombres por las señoras mugeres</locus>
+                <date when="1858" cert="high">1858</date>
               </item>
             </list>
           </note>

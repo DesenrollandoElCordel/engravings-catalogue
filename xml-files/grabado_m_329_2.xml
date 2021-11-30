@@ -30,26 +30,21 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="4">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_002_2.xml">grabado_m_002_2</title>
-                <locus/>
-                <date/>
+                <locus>Coplas nuevas paras cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_053_1.xml">grabado_m_053_1</title>
-                <locus/>
-                <date/>
+                <locus>Cartilla de casamientos</locus>
+                <date when="1859" cert="high">1859</date>
               </item>
               <item>
                 <title corresp="grabado_m_119_3.xml">grabado_m_119_3</title>
-                <locus/>
-                <date/>
-              </item>
-              <item>
-                <title corresp="grabado_m_329_2.xml">grabado_m_329_2</title>
-                <locus/>
-                <date/>
+                <locus>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
