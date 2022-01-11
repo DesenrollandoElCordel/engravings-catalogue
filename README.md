@@ -26,8 +26,19 @@ The xml:id of these categories and keywords are then used in the Excel file to d
 
 #### 2.3. Detection of similarity
 To detect similar illustrations in the Moreno Corpus, we used the [VGG Image Search Engine (VISE)](https://www.robots.ox.ac.uk/~vgg/software/vise/index.html), developed by the Department of Engineering Science of the Oxford University.
-The results obtained with this tool have been write down in the Excel file.
+The results obtained with this tool have been noted in the Excel file.
 
 <img src="Readme-pictures/Example_SimilarIllustrations_ExcelFile.png" width="300px"/>
 
 ### 3. Encoding
+The [xml-files folder](xml-files) contains the description of each illustration with a XML TEI file. These files have been generated from the Excel file with the Python script [xslx_tei_files.py](https://github.com/DesenrollandoElCordel/code-python/blob/main/xslx_tei_files.py).
+This script transforms each line of Excel file into a TEI file, which contains the following information :
+
+- The name of the illustration (i.e. its identifier) ;
+- The date (`\<date\>`), the publisher (`\<publisher\>`) and the publication place (`\<pubPlace\>`) ;
+- The DOI identifier of the overall catalogue (`\<ident type="DOI"\>`)
+- Information about the image of the *pliego* (`\<figure\>`) from which the illustrastion was extracted. A `\<graphic>` element contains the name of the image and the coordinates of the illustration. We also add the title of the *pliego* with `\<figDesc\>`.
+- Information about similar illustrations (`\<note type="similar_ejemplar"\>`). Each similar illustration is encoded with `\<item\>`. We precise the name of the illustration (`\<title\>`), the date of publication (`\<date\>`) and the title of the *pliego* (`\<locus\>`).
+- For developing purposes, we present the keywords in two different ways : `\<catRef\>` for the creation of a faceted search on the Web application and `\<keywords\>` for the presentation of bibliographical metadata.
+
+The ODD and the schema used for the encoding of this catalogue can be found in the Schema folder.
