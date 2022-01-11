@@ -15,6 +15,14 @@ These new coordinates are recorded in ...
 #### 2.1. General description
 The illustrations were first described in an Excel file (...). We indicate the identifier of the *pliego* and the number of the page from which the illustration was extracted ; its coordinates on this page ; the title of the pliego, as well as its date, publisher and place of publication ; several keywords spread in different categories ; the list of similar illustrations in the corpus ; and finally some technical information about the status of the data (extracted, encoded, etc.).
 #### 2.2. Keywords categories
+Specific categories and keywords has been created to fit the particularities of *pliegos*' illustrations.
+These categories are described in an XML TEI file ([taxonomy_grabados.xml](taxonomy_grabados.xml)), which follows the [model](https://teipublisher.com/exist/apps/tei-publisher/doc/documentation.xml?odd=docbook.odd&id=facets) recommended by the application [TEI-Publisher](http://teipublisher.com/exist/apps/tei-publisher-home/index.html) that we are using for the publication Web of our project.
+
+<img src="Readme-pictures/Example_Taxonomy_Category.png" width="600px"/>
+
+The xml:id of these categories and keywords are then used in the Excel file to describe each illustration.
+
+<img src="Readme-pictures/Example_Keywords_ExcelFile.png" width="200px"/>
 
 #### 2.3. Detection of similarity
 
