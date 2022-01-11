@@ -13,7 +13,7 @@ These new coordinates are recorded in ...
 
 ### 2. Description of the illustrations
 #### 2.1. General description
-The illustrations were first described in an [Excel file](Index_Grabados_Moreno.xslx). We indicate the identifier of the *pliego* and the number of the page from which the illustration was extracted ; its coordinates on this page ; the title of the pliego, as well as its date, publisher and place of publication ; several keywords spread in different categories ; the list of similar illustrations in the corpus ; and finally some technical information about the status of the data (extracted, encoded, etc.).
+The illustrations were first described in an [Excel file](Index_Grabados_Moreno.xlsx). We indicate the identifier of the *pliego* and the number of the page from which the illustration was extracted ; its coordinates on this page ; the title of the pliego, as well as its date, publisher and place of publication ; several keywords spread in different categories ; the list of similar illustrations in the corpus ; and finally some technical information about the status of the data (extracted, encoded, etc.).
 #### 2.2. Keywords categories
 Specific categories and keywords has been created to fit the particularities of *pliegos*' illustrations.
 These categories are described in an XML TEI file ([taxonomy_grabados.xml](taxonomy_grabados.xml)), which follows the [model](https://teipublisher.com/exist/apps/tei-publisher/doc/documentation.xml?odd=docbook.odd&id=facets) recommended by the application [TEI-Publisher](http://teipublisher.com/exist/apps/tei-publisher-home/index.html) that we are using for the publication Web of our project.
