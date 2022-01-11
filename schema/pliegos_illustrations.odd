@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>pliegos_illustrations</title>
+        <author xml:id="EL">Elina Leblanc</author>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1">Version 0.1</edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>Project "Desenrollando el cordel/Démêler le cordel/Untangling the cordel"
+          (2020-2023)</authority>
+        <date when="2022"/>
+        <ptr target="https://github.com/DesenrollandoElCordel"/>
+        <availability status="restricted">
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change who="#EL" when="2022-01-11">Creation of the file</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>TEI Customization for the description of pliegos' illustrations</head>
+
+      <div xml:id="Presentation">
+        <p>The project <ref target="#Cordel"><hi rend="italic">Desenrollando el cordel/Démêler le
+              cordel/Untangling the cordel</hi></ref> (2020-2023) is a research project that aims to
+          study, describe, digitise and put online within a digital library the collection of
+          pliegos de cordel belonging to the University Library of Geneva. To do this, the entire
+          corpus available at the University Library of Geneva (915 Spanish chapbooks) was scanned
+          and encoded in conformity with the XML-TEI standards. The illustrations that decorate the
+          pliegos have been extracted, described in an Excel file and transformed in XML-TEI in
+          order to create a catalogue on the future digital library.</p>
+        <p>This schema contains the elements chosen to describe the illustrations of our corpus.</p>
+      </div>
+
+      <div>
+        <schemaSpec ident="pliegos_illustrations" start="TEI" prefix="tei_" targetLang="en"
+          docLang="en">
+          <moduleRef key="tei"/>
+          <moduleRef key="header"
+            include="teiHeader fileDesc titleStmt publicationStmt sourceDesc authority availability licence encodingDesc projectDesc profileDesc textClass keywords catRef revisionDesc change"/>
+          <moduleRef key="core"
+            include="p title respStmt resp name author bibl pubPlace publisher date graphic note list item term"/>
+          <moduleRef key="textstructure" include="TEI text body"/>
+          <moduleRef key="tagdocs" include="ident"/>
+          <moduleRef key="figures" include="figure figDesc"/>
+          <moduleRef key="msdescription" include="locus"/>
+          <moduleRef key="transcr" include="facsimile"/>
+
+          <classRef key="att.global.linking"/>
+
+          <classSpec ident="att.declarable" type="atts" mode="delete"/>
+          <classSpec ident="att.declaring" type="atts" mode="delete"/>
+          <classSpec ident="att.fragmentable" type="atts" mode="delete"/>
+          <classSpec ident="att.global.rendition" type="atts" mode="delete"/>
+          <classSpec ident="att.written" type="atts" mode="delete"/>
+        </schemaSpec>
+      </div>
+    </body>
+  </text>
+</TEI>
