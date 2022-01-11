@@ -18,13 +18,16 @@ The illustrations were first described in an Excel file (...). We indicate the i
 Specific categories and keywords has been created to fit the particularities of *pliegos*' illustrations.
 These categories are described in an XML TEI file ([taxonomy_grabados.xml](taxonomy_grabados.xml)), which follows the [model](https://teipublisher.com/exist/apps/tei-publisher/doc/documentation.xml?odd=docbook.odd&id=facets) recommended by the application [TEI-Publisher](http://teipublisher.com/exist/apps/tei-publisher-home/index.html) that we are using for the publication Web of our project.
 
-<img src="Readme-pictures/Example_Taxonomy_Category.png" width="600px"/>
+<img src="Readme-pictures/Example_Taxonomy_Category.png" width="300px"/>
 
 The xml:id of these categories and keywords are then used in the Excel file to describe each illustration.
 
 <img src="Readme-pictures/Example_Keywords_ExcelFile.png" width="200px"/>
 
 #### 2.3. Detection of similarity
+To detect similar illustrations in the Moreno Corpus, we used the [VGG Image Search Engine (VISE)](https://www.robots.ox.ac.uk/~vgg/software/vise/index.html), developed by the Department of Engineering Science of the Oxford University.
+The results obtained with this tool have been write down in the Excel file.
 
+<img src="Readme-pictures/Example_SimilarIllustrations_ExcelFile.png" width="300px"/>
 
 ### 3. Encoding
