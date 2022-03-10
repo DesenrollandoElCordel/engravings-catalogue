@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_080_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_080_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_080_1.jpg" n="395, 320, 992, 1356"/>
+            <graphic url="fedora_ug8110119/395,320,992,1356/full/0/default.jpg" source="Moreno_080_1.jpg" n="395, 320, 992, 1356" />
             <figDesc>
               <locus target="Moreno_080.xml">Despertador espiritual</locus>
             </figDesc>
@@ -55,7 +54,7 @@
           <term>De pie</term>
           <term>Sentado, -a</term>
           <term>Arrodillado, -a</term>
-          <term/>
+          <term />
           <term>Jesús</term>
           <term>Paraíso</term>
           <term>Infierno</term>
@@ -63,17 +62,17 @@
           <term>Crucifijo</term>
           <term>Cielo/Nube</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#religion" target="#santa_trinida"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#paraiso"/>
-        <catRef scheme="#religion" target="#infierno"/>
-        <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#accesorios_varios" target="#crucifijo"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#sentado" />
+        <catRef scheme="#actitud" target="#arrodillado" />
+        <catRef scheme="#religion" target="#santa_trinida" />
+        <catRef scheme="#religion" target="#jesus" />
+        <catRef scheme="#religion" target="#paraiso" />
+        <catRef scheme="#religion" target="#infierno" />
+        <catRef scheme="#religion" target="#angel" />
+        <catRef scheme="#accesorios_varios" target="#crucifijo" />
+        <catRef scheme="#ambiente_natural" target="#cielo" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -81,11 +80,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_080_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_080_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

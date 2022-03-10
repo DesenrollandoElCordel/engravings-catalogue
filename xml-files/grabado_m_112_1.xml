@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_112_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_112_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_112_1.jpg" n="293, 410, 1390, 1085"/>
+            <graphic url="fedora_ug8106190/293,410,1390,1085/full/0/default.jpg" source="Moreno_112_1.jpg" n="293, 410, 1390, 1085" />
             <figDesc>
               <locus target="Moreno_112.xml">Relación histórica de santa Genoveva sacada de la verídica historia de la misma Santa</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_112</note>
         </bibl>
       </sourceDesc>
@@ -52,14 +51,14 @@
           <term>Bosque/Selva</term>
           <term>Árbol</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino"/>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#animales" target="#ciervo"/>
-        <catRef scheme="#accesorios_varios" target="#libro"/>
-        <catRef scheme="#ambiente_natural" target="#cueva"/>
-        <catRef scheme="#ambiente_natural" target="#bosque"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
+        <catRef scheme="#personaje_masculino" target="#nino" />
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
+        <catRef scheme="#actitud" target="#sentado" />
+        <catRef scheme="#animales" target="#ciervo" />
+        <catRef scheme="#accesorios_varios" target="#libro" />
+        <catRef scheme="#ambiente_natural" target="#cueva" />
+        <catRef scheme="#ambiente_natural" target="#bosque" />
+        <catRef scheme="#ambiente_natural" target="#arbol" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -67,11 +66,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_112_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_112_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

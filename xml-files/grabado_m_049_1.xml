@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_049_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_049_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_049_1.jpg" n="585, 216, 399, 793"/>
+            <graphic url="fedora_ug8105156/585,216,399,793/full/0/default.jpg" source="Moreno_049_1.jpg" n="585, 216, 399, 793" />
             <figDesc>
               <locus target="Moreno_049.xml">La tía Girula. Chiste moderno</locus>
             </figDesc>
@@ -66,10 +65,10 @@
           <term>Bailando</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#bailando"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#personaje_femenino" target="#mujer" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#bailando" />
+        <catRef scheme="#atuendo" target="#sombrero" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -77,11 +76,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_049_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_049_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_123_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_123_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_123_1.jpg" n="303, 307, 1144, 924"/>
+            <graphic url="fedora_ug8103500/303,307,1144,924/full/0/default.jpg" source="Moreno_123_1.jpg" n="303, 307, 1144, 924" />
             <figDesc>
               <locus target="Moreno_123.xml">Los cinco hijos de un parto</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_123</note>
         </bibl>
       </sourceDesc>
@@ -53,15 +52,15 @@
           <term>Alcoba/Cocina</term>
           <term>Cama</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino"/>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tumbado"/>
-        <catRef scheme="#atuendo" target="#baston"/>
-        <catRef scheme="#arma_blanca" target="#florete"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
-        <catRef scheme="#espacio_construido" target="#alcoba"/>
-        <catRef scheme="#espacio_construido" target="#cama"/>
+        <catRef scheme="#personaje_masculino" target="#nino" />
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#tumbado" />
+        <catRef scheme="#atuendo" target="#baston" />
+        <catRef scheme="#arma_blanca" target="#florete" />
+        <catRef scheme="#accesorios_varios" target="#flor" />
+        <catRef scheme="#espacio_construido" target="#alcoba" />
+        <catRef scheme="#espacio_construido" target="#cama" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -69,11 +68,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_123_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_123_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_198_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_198_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_198_1.jpg" n="708, 260, 537, 766"/>
+            <graphic url="fedora_ug8109538/708,260,537,766/full/0/default.jpg" source="Moreno_198_1.jpg" n="708, 260, 537, 766" />
             <figDesc>
               <locus target="Moreno_198.xml">Pasillo de Diego Corriente</locus>
             </figDesc>
@@ -83,12 +82,12 @@
           <term>Sombrero/Tocado</term>
           <term>Hoz</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#fumando"/>
-        <catRef scheme="#animales" target="#asno"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#accesorios_varios" target="#hoz"/>
+        <catRef scheme="#personaje_masculino" target="#hombre" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#fumando" />
+        <catRef scheme="#animales" target="#asno" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#accesorios_varios" target="#hoz" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -96,11 +95,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_198_2_thumbnail.jpg"/>
+    <graphic url="grabado_m_198_2_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

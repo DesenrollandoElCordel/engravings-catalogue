@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_285_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_285_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1860" cert="high">1860</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_285_1.jpg" n="635, 469, 439, 684"/>
+            <graphic url="fedora_ug8107074/635,469,439,684/full/0/default.jpg" source="Moreno_285_1.jpg" n="635, 469, 439, 684" />
             <figDesc>
               <locus target="Moreno_285.xml">Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca</locus>
             </figDesc>
@@ -59,8 +58,8 @@
           <term>Mujer</term>
           <term>De pie</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#personaje_femenino" target="#mujer" />
+        <catRef scheme="#actitud" target="#de_pie" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -68,11 +67,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_285_2_thumbnail.jpg"/>
+    <graphic url="grabado_m_285_2_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

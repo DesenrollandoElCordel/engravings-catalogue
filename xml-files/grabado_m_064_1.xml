@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_064_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_064_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_064_1.jpg" n="206, 259, 584, 979"/>
+            <graphic url="fedora_ug8103459/206,259,584,979/full/0/default.jpg" source="Moreno_064_1.jpg" n="206, 259, 584, 979" />
             <figDesc>
               <locus target="Moreno_064.xml">Pasillo del sordo y el arriero</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_064</note>
         </bibl>
       </sourceDesc>
@@ -51,13 +50,13 @@
           <term>Pared</term>
           <term>Calle</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#del_pueblo_h"/>
-        <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#espacio_construido" target="#casa"/>
-        <catRef scheme="#espacio_construido" target="#pared"/>
-        <catRef scheme="#espacio_construido" target="#calle"/>
+        <catRef scheme="#personaje_masculino" target="#del_pueblo_h" />
+        <catRef scheme="#grupos_personajes" target="#hombres" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#espacio_construido" target="#casa" />
+        <catRef scheme="#espacio_construido" target="#pared" />
+        <catRef scheme="#espacio_construido" target="#calle" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -65,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_064_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_064_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_318_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_318_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1849" cert="high">1849</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_318_1.jpg" n="452, 294, 926, 1079"/>
+            <graphic url="fedora_ug8109378/452,294,926,1079/full/0/default.jpg" source="Moreno_318_1.jpg" n="452, 294, 926, 1079" />
             <figDesc>
               <locus target="Moreno_318.xml">Descripción del genio y condiciones que tienen los habitantes de las diferentes provincias de España</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_318</note>
         </bibl>
       </sourceDesc>
@@ -51,13 +50,13 @@
           <term>Armadura</term>
           <term>Escudo</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#animales" target="#leon"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#arma_blanca" target="#asta"/>
-        <catRef scheme="#arma_blanca" target="#armadura"/>
-        <catRef scheme="#arma_blanca" target="#escudo"/>
+        <catRef scheme="#personaje_femenino" target="#mujer" />
+        <catRef scheme="#actitud" target="#sentado" />
+        <catRef scheme="#animales" target="#leon" />
+        <catRef scheme="#atuendo" target="#capa" />
+        <catRef scheme="#arma_blanca" target="#asta" />
+        <catRef scheme="#arma_blanca" target="#armadura" />
+        <catRef scheme="#arma_blanca" target="#escudo" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -65,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_318_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_318_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

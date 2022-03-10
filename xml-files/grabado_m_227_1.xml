@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_227_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_227_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_227_1.jpg" n="740, 273, 394, 813"/>
+            <graphic url="fedora_ug8104661/740,273,394,813/full/0/default.jpg" source="Moreno_227_1.jpg" n="740, 273, 394, 813" />
             <figDesc>
               <locus target="Moreno_227.xml">Nueva relación jocosa del patán de Sevilla</locus>
             </figDesc>
@@ -96,10 +95,10 @@
           <term>Sombrero/Tocado</term>
           <term>Bastón</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#del_pueblo_h"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#personaje_masculino" target="#del_pueblo_h" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#atuendo" target="#baston" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -107,11 +106,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_227_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_227_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

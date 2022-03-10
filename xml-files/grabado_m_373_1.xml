@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_373_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_373_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1865" cert="high">1865</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_373_1.jpg" n="366, 237, 447, 882"/>
+            <graphic url="" source="Moreno_373_1.jpg" n="366, 237, 447, 882" />
             <figDesc>
               <locus target="Moreno_373.xml">Relación nueva. Reglas de un dictámen, y dictámen de unas reglas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_373</note>
         </bibl>
       </sourceDesc>
@@ -47,9 +46,9 @@
           <term>De pie</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#personaje_masculino" target="#gentilhombre" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#atuendo" target="#sombrero" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -57,11 +56,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_373_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_373_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

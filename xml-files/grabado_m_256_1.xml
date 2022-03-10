@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_256_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_256_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1865" cert="high">1865</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_256_1.jpg" n="414, 237, 949, 1317"/>
+            <graphic url="fedora_ug8107666/414,237,949,1317/full/0/default.jpg" source="Moreno_256_1.jpg" n="414, 237, 949, 1317" />
             <figDesc>
               <locus target="Moreno_256.xml">Famoso romance del gigante cananeo san Cristóbal</locus>
             </figDesc>
@@ -61,15 +60,15 @@
           <term>Casa/Choza</term>
           <term>Orillas del mar</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino"/>
-        <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#accesorios_varios" target="#palma"/>
-        <catRef scheme="#espacio_construido" target="#casa"/>
-        <catRef scheme="#ambiente_maritimo" target="#orillas_mar"/>
+        <catRef scheme="#personaje_masculino" target="#nino" />
+        <catRef scheme="#grupos_personajes" target="#hombres" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#sentado" />
+        <catRef scheme="#religion" target="#jesus" />
+        <catRef scheme="#atuendo" target="#capa" />
+        <catRef scheme="#accesorios_varios" target="#palma" />
+        <catRef scheme="#espacio_construido" target="#casa" />
+        <catRef scheme="#ambiente_maritimo" target="#orillas_mar" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -77,11 +76,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_256_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_256_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

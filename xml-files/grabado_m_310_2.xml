@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_310_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_310_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1860" cert="high">1860</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_310_5.jpg" n="441, 126, 1035, 1355"/>
+            <graphic url="" source="Moreno_310_5.jpg" n="441, 126, 1035, 1355" />
             <figDesc>
               <locus target="Moreno_310.xml">Toma de Sevilla por el santo rey Don Fernando</locus>
             </figDesc>
@@ -55,9 +54,9 @@
           <term>Virgen María</term>
           <term>Jesús</term>
         </keywords>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#religion" target="#virgen_maria"/>
-        <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#religion" target="#virgen_maria" />
+        <catRef scheme="#religion" target="#jesus" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -65,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_310_2_thumbnail.jpg"/>
+    <graphic url="grabado_m_310_2_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

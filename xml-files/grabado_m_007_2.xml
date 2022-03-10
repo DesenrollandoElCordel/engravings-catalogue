@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_007_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_007_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_007_1.jpg" n="703, 568, 476, 658"/>
+            <graphic url="fedora_ug8109401/703,568,476,658/full/0/default.jpg" source="Moreno_007_1.jpg" n="703, 568, 476, 658" />
             <figDesc>
               <locus target="Moreno_007.xml">Antonio Narváez y Rosaura</locus>
             </figDesc>
@@ -54,8 +53,8 @@
           <term>De pie</term>
           <term>Oso</term>
         </keywords>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#animales" target="#oso"/>
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#animales" target="#oso" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -63,11 +62,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_007_2_thumbnail.jpg"/>
+    <graphic url="grabado_m_007_2_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

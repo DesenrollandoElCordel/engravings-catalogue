@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_274_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_274_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1855" cert="high">1855</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_274_1.jpg" n="852, 443, 427, 693"/>
+            <graphic url="fedora_ug8109264/852,443,427,693/full/0/default.jpg" source="Moreno_274_1.jpg" n="852, 443, 427, 693" />
             <figDesc>
               <locus target="Moreno_274.xml">Trobos nuevos y canciones</locus>
             </figDesc>
@@ -95,9 +94,9 @@
           <term>De pie</term>
           <term>Abanico</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#abanico"/>
+        <catRef scheme="#personaje_femenino" target="#mujer" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#atuendo" target="#abanico" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -105,11 +104,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_274_2_thumbnail.jpg"/>
+    <graphic url="grabado_m_274_2_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

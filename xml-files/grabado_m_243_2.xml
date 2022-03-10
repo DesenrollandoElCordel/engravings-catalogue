@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_243_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_243_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_243_1.jpg" n="891, 364, 444, 752"/>
+            <graphic url="fedora_ug8109318/891,364,444,752/full/0/default.jpg" source="Moreno_243_1.jpg" n="891, 364, 444, 752" />
             <figDesc>
               <locus target="Moreno_243.xml">Daños que vienen a los hombres por las señoras mugeres</locus>
             </figDesc>
@@ -73,12 +72,12 @@
           <term>Guitarra/Vihuela/Laúd</term>
           <term>Árbol</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#instrumento_musical" target="#guitarra"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
+        <catRef scheme="#personaje_masculino" target="#hombre" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#tocando_musica" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#instrumento_musical" target="#guitarra" />
+        <catRef scheme="#ambiente_natural" target="#arbol" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -86,11 +85,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_243_2_thumbnail.jpg"/>
+    <graphic url="grabado_m_243_2_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

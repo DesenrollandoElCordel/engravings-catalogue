@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_211_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_211_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_211_1.jpg" n="494, 318, 1020, 1385"/>
+            <graphic url="fedora_ug8103314/494,318,1020,1385/full/0/default.jpg" source="Moreno_211_1.jpg" n="494, 318, 1020, 1385" />
             <figDesc>
               <locus target="Moreno_211.xml">Testamento y subida a los cielos de María Santísima</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_211</note>
         </bibl>
       </sourceDesc>
@@ -50,12 +49,12 @@
           <term>Cielo/Nube</term>
           <term>Friso</term>
         </keywords>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#religion" target="#virgen_maria"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
-        <catRef scheme="#elementos_decorativos" target="#friso"/>
+        <catRef scheme="#actitud" target="#sentado" />
+        <catRef scheme="#religion" target="#virgen_maria" />
+        <catRef scheme="#religion" target="#jesus" />
+        <catRef scheme="#religion" target="#angel" />
+        <catRef scheme="#ambiente_natural" target="#cielo" />
+        <catRef scheme="#elementos_decorativos" target="#friso" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -63,11 +62,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_211_1_thumbnail.jpg"/>
+    <graphic url="grabado_m_211_1_thumbnail.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>
