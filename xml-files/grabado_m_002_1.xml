@@ -25,7 +25,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_002_1.jpg" n="195, 94, 282, 432"/>
+            <graphic url="fedora_ug8104459/195,94,282,432/full/0/default.jpg" source="Moreno_002_1.jpg" n="195, 94, 282, 432"/>
             <figDesc>
               <locus target="Moreno_002.xml">Coplas nuevas para cantar los aficionados</locus>
             </figDesc>
