@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_101_1">
   <teiHeader>
     <fileDesc>
@@ -12,24 +13,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_101_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108971/118,330,1452,2110/full/0/default.jpg" source="Moreno_101_1.jpg" n="118, 330, 1452, 2110" />
+            <graphic url="fedora_ug8108971/118,330,1452,2110/full/0/default.jpg" source="Moreno_101_1.jpg" n="118, 330, 1452, 2110"/>
             <figDesc>
               <locus target="Moreno_101.xml">Nuestra Señora de los Dolores</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_101</note>
         </bibl>
       </sourceDesc>
@@ -48,11 +49,11 @@
           <term>Espada</term>
           <term>Friso</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer" />
-        <catRef scheme="#religion" target="#virgen_maria" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#arma_blanca" target="#espada" />
-        <catRef scheme="#elementos_decorativos" target="#friso" />
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#religion" target="#virgen_maria"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#arma_blanca" target="#espada"/>
+        <catRef scheme="#elementos_decorativos" target="#friso"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,11 +61,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_101_1_thumbnail.jpg" />
+    <graphic url="grabado_m_101_1_thumbnail.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

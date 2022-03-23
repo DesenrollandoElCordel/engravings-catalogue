@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_302_1">
   <teiHeader>
     <fileDesc>
@@ -12,24 +13,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_302_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_302_1.jpg" n="368, 257, 1086, 637" />
+            <graphic url="" source="Moreno_302_1.jpg" n="368, 257, 1086, 637"/>
             <figDesc>
               <locus target="Moreno_302.xml">El molinero de Arcos</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_302</note>
         </bibl>
       </sourceDesc>
@@ -51,14 +52,14 @@
           <term>Cama</term>
           <term>Alcoba/Cocina</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#tumbado" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#capa" />
-        <catRef scheme="#arma_blanca" target="#espada" />
-        <catRef scheme="#espacio_construido" target="#cama" />
-        <catRef scheme="#espacio_construido" target="#alcoba" />
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#tumbado"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#capa"/>
+        <catRef scheme="#arma_blanca" target="#espada"/>
+        <catRef scheme="#espacio_construido" target="#cama"/>
+        <catRef scheme="#espacio_construido" target="#alcoba"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -66,11 +67,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_302_1_thumbnail.jpg" />
+    <graphic url="grabado_m_302_1_thumbnail.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

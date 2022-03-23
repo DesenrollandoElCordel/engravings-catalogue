@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_131_1">
   <teiHeader>
     <fileDesc>
@@ -12,19 +13,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_131_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108116/862,226,469,828/full/0/default.jpg" source="Moreno_131_1.jpg" n="862, 226, 469, 828" />
+            <graphic url="fedora_ug8108116/862,226,469,828/full/0/default.jpg" source="Moreno_131_1.jpg" n="862, 226, 469, 828"/>
             <figDesc>
               <locus target="Moreno_131.xml">Nueva relación alegre y divertida del chasco que le ha dado una muger á su marido siendo arriero</locus>
             </figDesc>
@@ -95,10 +96,10 @@
           <term>Sombrero/Tocado</term>
           <term>Bastón</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#del_pueblo_h" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#baston" />
+        <catRef scheme="#personaje_masculino" target="#del_pueblo_h"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#baston"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -106,11 +107,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_131_1_thumbnail.jpg" />
+    <graphic url="grabado_m_131_1_thumbnail.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

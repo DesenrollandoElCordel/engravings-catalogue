@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_082_2">
   <teiHeader>
     <fileDesc>
@@ -12,24 +13,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_082_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1850" cert="high">1850</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108738/229,211,1391,1025/full/0/default.jpg" source="Moreno_082_5.jpg" n="229, 211, 1391, 1025" />
+            <graphic url="fedora_ug8108738/229,211,1391,1025/full/0/default.jpg" source="Moreno_082_5.jpg" n="229, 211, 1391, 1025"/>
             <figDesc>
               <locus target="Moreno_082.xml">Juan de Prados o el chasco del arriero</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_082</note>
         </bibl>
       </sourceDesc>
@@ -51,14 +52,14 @@
           <term>Alcoba/Cocina</term>
           <term>Silla/Banco</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#monje" />
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#peleando" />
-        <catRef scheme="#atuendo" target="#baston" />
-        <catRef scheme="#accesorios_varios" target="#libro" />
-        <catRef scheme="#espacio_construido" target="#alcoba" />
-        <catRef scheme="#espacio_construido" target="#silla" />
+        <catRef scheme="#personaje_masculino" target="#monje"/>
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#peleando"/>
+        <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#accesorios_varios" target="#libro"/>
+        <catRef scheme="#espacio_construido" target="#alcoba"/>
+        <catRef scheme="#espacio_construido" target="#silla"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -66,11 +67,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="grabado_m_082_2_thumbnail.jpg" />
+    <graphic url="grabado_m_082_2_thumbnail.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>
