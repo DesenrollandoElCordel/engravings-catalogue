@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_347_3">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,47 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_347_3</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1861" cert="high">1861</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="fedora_ug8110108/207,344,474,665/full/0/default.jpg" source="Moreno_347_1.jpg" n="207, 344, 474, 665"/>
+            <graphic url="fedora_ug8110108/207,344,474,665/full/0/default.jpg" source="Moreno_347_1.jpg" n="207, 344, 474, 665" />
             <figDesc>
               <locus target="Moreno_347.xml">Coplas nuevas en que se declara un amante y dama su amor</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list>
+              <item>
+                <title corresp="grabado_m_002_2.xml">grabado_m_002_2</title>
+                <locus>Coplas nuevas paras cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_053_1.xml">grabado_m_053_1</title>
+                <locus>Cartilla de casamientos</locus>
+                <date when="1859" cert="high">1859</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_119_3.xml">grabado_m_119_3</title>
+                <locus>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</locus>
+                <date when="1800" cert="low">[s.a.]</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_329_2.xml">grabado_m_329_2</title>
+                <locus>Coplas nuevas para cantar los aficionados</locus>
+                <date when="1800" cert="low">[s.a.]</date>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Moreno_347</note>
         </bibl>
       </sourceDesc>
@@ -46,14 +68,16 @@
           <term>Hombre</term>
           <term>De pie</term>
           <term>Tocando música</term>
+          <term>Guitarra/Vihuela/Laúd</term>
           <term>Sombrero/Tocado</term>
           <term>Peldaño</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#accesorios_varios" target="#peldano"/>
+        <catRef scheme="#personaje_masculino" target="#hombre" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#tocando_musica" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#instrumento_musical" target="#guitarra" />
+        <catRef scheme="#accesorios_varios" target="#peldano" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -61,11 +85,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110108/207,344,474,665/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8110108/207,344,474,665/200,/0/default.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

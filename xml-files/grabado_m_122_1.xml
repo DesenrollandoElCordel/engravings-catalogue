@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_122_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_122_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="fedora_ug8106312/158,323,1391,949/full/0/default.jpg" source="Moreno_122_1.jpg" n="158, 323, 1391, 949"/>
+            <graphic url="fedora_ug8106312/158,323,1391,949/full/0/default.jpg" source="Moreno_122_1.jpg" n="158, 323, 1391, 949" />
             <figDesc>
               <locus target="Moreno_122.xml">El hijo del berdugo</locus>
             </figDesc>
@@ -59,13 +58,13 @@
           <term>Alcoba/Cocina</term>
           <term>Cama</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#arma_blanca" target="#florete"/>
-        <catRef scheme="#espacio_construido" target="#alcoba"/>
-        <catRef scheme="#espacio_construido" target="#cama"/>
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#hablando" />
+        <catRef scheme="#actitud" target="#arrodillado" />
+        <catRef scheme="#arma_blanca" target="#florete" />
+        <catRef scheme="#espacio_construido" target="#alcoba" />
+        <catRef scheme="#espacio_construido" target="#cama" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -73,11 +72,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106312/158,323,1391,949/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106312/158,323,1391,949/200,/0/default.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

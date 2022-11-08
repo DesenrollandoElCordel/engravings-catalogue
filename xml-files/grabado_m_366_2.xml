@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_366_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_366_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="fedora_ug8110138/873,342,464,623/full/0/default.jpg" source="Moreno_366_1.jpg" n="873, 342, 464, 623"/>
+            <graphic url="fedora_ug8110138/873,342,464,623/full/0/default.jpg" source="Moreno_366_1.jpg" n="873, 342, 464, 623" />
             <figDesc>
               <locus target="Moreno_366.xml">El baratero</locus>
             </figDesc>
@@ -58,17 +57,17 @@
         <keywords>
           <term>Hombre</term>
           <term>De pie</term>
-          <term/>
+          <term />
           <term>Sombrero/Tocado</term>
           <term>Capa</term>
           <term>Cuchillo</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#pelando"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#arma_blanca" target="#cuchillo"/>
+        <catRef scheme="#personaje_masculino" target="#hombre" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#pelando" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#atuendo" target="#capa" />
+        <catRef scheme="#arma_blanca" target="#cuchillo" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -76,11 +75,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110138/873,342,464,623/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8110138/873,342,464,623/200,/0/default.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

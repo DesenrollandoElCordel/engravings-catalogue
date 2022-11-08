@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_076_1">
   <teiHeader>
     <fileDesc>
@@ -13,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_076_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_076_1.jpg" n="440, 312, 956, 1360"/>
+            <graphic url="" source="Moreno_076_1.jpg" n="440, 312, 956, 1360" />
             <figDesc>
               <locus target="Moreno_076.xml">Romance espiritual de la Santísima Trinidad</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar" />
           <note type="origen">Grabado extraído del pliego Moreno_076</note>
         </bibl>
       </sourceDesc>
@@ -52,14 +51,14 @@
           <term>Paloma</term>
           <term>Cielo/Nube</term>
         </keywords>
-        <catRef scheme="#actitud" target="#rezando"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#religion" target="#santa_cruz"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#santa_trinidad"/>
-        <catRef scheme="#religion" target="#paraiso"/>
-        <catRef scheme="#animales" target="#paloma"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#actitud" target="#rezando" />
+        <catRef scheme="#actitud" target="#arrodillado" />
+        <catRef scheme="#religion" target="#santa_cruz" />
+        <catRef scheme="#religion" target="#jesus" />
+        <catRef scheme="#religion" target="#santa_trinidad" />
+        <catRef scheme="#religion" target="#paraiso" />
+        <catRef scheme="#animales" target="#paloma" />
+        <catRef scheme="#ambiente_natural" target="#cielo" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -67,11 +66,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="200," />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

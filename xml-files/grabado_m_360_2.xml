@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_360_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_360_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1865" cert="high">1865</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_360_1.jpg" n="940, 239, 449, 706"/>
+            <graphic url="" source="Moreno_360_1.jpg" n="940, 239, 449, 706" />
             <figDesc>
               <locus target="Moreno_360.xml">Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
             </figDesc>
@@ -66,10 +65,10 @@
           <term>Pañuelo</term>
           <term>Flor/Ramo de flores</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#panuelo"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#personaje_femenino" target="#mujer" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#atuendo" target="#panuelo" />
+        <catRef scheme="#accesorios_varios" target="#flor" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -77,11 +76,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="200," />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

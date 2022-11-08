@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_289_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_289_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="" source="Moreno_289_1.jpg" n="760, 585, 386, 526"/>
+            <graphic url="" source="Moreno_289_1.jpg" n="760, 585, 386, 526" />
             <figDesc>
               <locus target="Moreno_289.xml">El cautivo de Gerona</locus>
             </figDesc>
@@ -60,9 +59,9 @@
           <term>Arrodillado, -a</term>
           <term>Encadenado, -a</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#actitud" target="#encadenado"/>
+        <catRef scheme="#personaje_masculino" target="#hombre" />
+        <catRef scheme="#actitud" target="#arrodillado" />
+        <catRef scheme="#actitud" target="#encadenado" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -70,11 +69,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="200," />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

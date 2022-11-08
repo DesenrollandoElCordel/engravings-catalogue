@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_237_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_237_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="fedora_ug8106316/93,170,513,828/full/0/default.jpg" source="Moreno_237_1.jpg" n="93, 170, 513, 828"/>
+            <graphic url="fedora_ug8106316/93,170,513,828/full/0/default.jpg" source="Moreno_237_1.jpg" n="93, 170, 513, 828" />
             <figDesc>
               <locus target="Moreno_237.xml">El rey Basilio de Dinamarca</locus>
             </figDesc>
@@ -66,12 +65,14 @@
           <term>Capa</term>
           <term>Espada</term>
           <term>Armadura</term>
+          <term>Flor/Ramo de flores</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#soldado"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#arma_blanca" target="#espada"/>
-        <catRef scheme="#arma_blanca" target="#armadura"/>
+        <catRef scheme="#personaje_masculino" target="#soldado" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#atuendo" target="#capa" />
+        <catRef scheme="#arma_blanca" target="#espada" />
+        <catRef scheme="#arma_blanca" target="#armadura" />
+        <catRef scheme="#accesorios_varios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -79,11 +80,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106316/93,170,513,828/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106316/93,170,513,828/200,/0/default.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

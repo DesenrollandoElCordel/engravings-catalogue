@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_220_2">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_220_2</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="fedora_ug8104558/764,332,740,662/full/0/default.jpg" source="Moreno_220_1.jpg" n="764, 332, 740, 662"/>
+            <graphic url="fedora_ug8104558/764,332,740,662/full/0/default.jpg" source="Moreno_220_1.jpg" n="764, 332, 740, 662" />
             <figDesc>
               <locus target="Moreno_220.xml">Sátira nueva y curiosa que declara ¡O cuánto puede el dinero!</locus>
             </figDesc>
@@ -33,9 +32,9 @@
           <note type="similar_ejemplar">
             <list n="1">
               <item>
-                <title corresp="grabado_m_219_2.xml">grabado_m_219_2</title>
-                <locus>Sátira nueva y curiosa que declara ¡¡¡O cuánto puede el dinero!!!</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <title corresp="grabado_m_010_2.xml">grabado_m_010_2</title>
+                <locus>Relación chistosa titulada Todas me gustan</locus>
+                <date when="1856" cert="low">1856</date>
               </item>
             </list>
           </note>
@@ -55,9 +54,9 @@
           <term>De pie</term>
           <term>Hablando</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#grupos_personajes" target="#mujeres" />
+        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#actitud" target="#hablando" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -65,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8104558/764,332,740,662/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8104558/764,332,740,662/200,/0/default.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>

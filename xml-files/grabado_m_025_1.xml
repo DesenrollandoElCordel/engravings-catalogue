@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_025_1">
   <teiHeader>
     <fileDesc>
@@ -13,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_025_1</title>
-          <author/>
+          <author />
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI"/>
+          <ident type="DOI" />
           <figure>
-            <graphic url="fedora_ug8103136/394,189,986,709/full/0/default.jpg" source="Moreno_025_1.jpg" n="394, 189, 986, 709"/>
+            <graphic url="fedora_ug8103136/394,189,986,709/full/0/default.jpg" source="Moreno_025_1.jpg" n="394, 189, 986, 709" />
             <figDesc>
               <locus target="Moreno_025.xml">Coplas al Santísimo Nacimiento del Niño de Dios</locus>
             </figDesc>
@@ -61,15 +60,15 @@
           <term>Bastón</term>
           <term>Estrella</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino"/>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#religion" target="#sagrada_familia"/>
-        <catRef scheme="#religion" target="#virgen_maria"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#baston"/>
-        <catRef scheme="#ambiente_natural" target="#estrella"/>
+        <catRef scheme="#personaje_masculino" target="#nino" />
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
+        <catRef scheme="#actitud" target="#arrodillado" />
+        <catRef scheme="#religion" target="#sagrada_familia" />
+        <catRef scheme="#religion" target="#virgen_maria" />
+        <catRef scheme="#religion" target="#jesus" />
+        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#atuendo" target="#baston" />
+        <catRef scheme="#ambiente_natural" target="#estrella" />
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -77,11 +76,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8103136/394,189,986,709/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8103136/394,189,986,709/200,/0/default.jpg" />
   </facsimile>
   <text>
     <body>
-      <p/>
+      <p />
     </body>
   </text>
 </TEI>
