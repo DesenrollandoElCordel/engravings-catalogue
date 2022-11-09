@@ -52,21 +52,27 @@
         <keywords>
           <term>Gentilhombre</term>
           <term>Hombres</term>
+          <term>De pie</term>
           <term>Cabalgando</term>
           <term>Combatiendo</term>
           <term>Caballo</term>
           <term>Sombrero/Tocado</term>
           <term>Escopeta</term>
-          <term/>
+          <term>Pistola</term>
+          <term>Campo de batalla</term>
+          <term>Árbol</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#cabalgando"/>
         <catRef scheme="#actitud" target="#combatiendo"/>
         <catRef scheme="#animales" target="#caballo"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#arma_de_fuego" target="#escopeta"/>
-        <catRef scheme="#arma_de_fuego" target="#pistoleta"/>
+        <catRef scheme="#arma_de_fuego" target="#pistola"/>
+        <catRef scheme="#espacio_construido" target="#campo_batalla"/>
+        <catRef scheme="#ambiente_natural" target="#arbol"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

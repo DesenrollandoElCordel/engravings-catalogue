@@ -30,21 +30,26 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="3">
+            <list n="4">
               <item>
-                <title corresp="grabado_m_002_1.xml">grabado_m_002_1</title>
-                <locus>Coplas nuevas paras cantar los aficionados</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <title corresp="grabado_m_200_2.xml">grabado_m_200_2</title>
+                <locus>Nuevo y curioso romance en el que se declaran las excelencias de la gente del campo</locus>
+                <date when="1853" cert="high">1853</date>
               </item>
               <item>
-                <title corresp="grabado_m_242_2.xml">grabado_m_242_2</title>
+                <title corresp="grabado_m_242_1.xml">grabado_m_242_1</title>
                 <locus>Daños que vienen a los hombres por las señoras mugeres</locus>
                 <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
-                <title corresp="grabado_m_329_1.xml">grabado_m_329_1</title>
-                <locus>Coplas nuevas para cantar los aficionados</locus>
+                <title corresp="grabado_m_244_1.xml">grabado_m_244_1</title>
+                <locus>Décimas glosadas para cantar los aficionados</locus>
                 <date when="1800" cert="low">[s.a.]</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_251_2.xml">grabado_m_251_2</title>
+                <locus>Colección de canciones españolas</locus>
+                <date when="1857" cert="high">1857</date>
               </item>
             </list>
           </note>

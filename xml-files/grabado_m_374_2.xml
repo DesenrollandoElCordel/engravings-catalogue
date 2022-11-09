@@ -55,13 +55,17 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Hombre</term>
           <term>Santa Cruz</term>
           <term>Jesús</term>
           <term>Ciudad/Pueblo</term>
+          <term>Cielo/Nube</term>
         </keywords>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#religion" target="#santa_cruz"/>
         <catRef scheme="#religion" target="#jesus"/>
         <catRef scheme="#espacio_construido" target="#ciudad"/>
+        <catRef scheme="#ambiente_natural" target="#cielo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

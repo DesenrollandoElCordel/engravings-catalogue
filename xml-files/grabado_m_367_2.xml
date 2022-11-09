@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_367_1.jpg" n="861, 376, 481, 609"/>
+            <graphic url="fedora_ug8109902/861,376,481,609/full/0/default.jpg" source="Moreno_367_1.jpg" n="861, 376, 481, 609"/>
             <figDesc>
               <locus target="Moreno_367.xml">El baratero</locus>
             </figDesc>
@@ -57,15 +57,17 @@
         <keywords>
           <term>Hombre</term>
           <term>De pie</term>
-          <term/>
+          <term>Peleando</term>
           <term>Sombrero/Tocado</term>
           <term>Capa</term>
+          <term>Cuchillo</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#pelando"/>
+        <catRef scheme="#actitud" target="#peleando"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#atuendo" target="#capa"/>
+        <catRef scheme="#arma_blanca" target="#cuchillo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -73,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8109902/861,376,481,609/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -65,12 +65,14 @@
           <term>Bailando</term>
           <term>Tocando música</term>
           <term>Castañetas</term>
+          <term>Flor/Ramo de flores</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#bailando"/>
         <catRef scheme="#actitud" target="#tocando_musica"/>
         <catRef scheme="#instrumento_musical" target="#castanetas"/>
+        <catRef scheme="#accesorios_varios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

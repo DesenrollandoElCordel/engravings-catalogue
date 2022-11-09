@@ -54,11 +54,13 @@
           <term>De pie</term>
           <term>Sombrero/Tocado</term>
           <term>Bastón</term>
+          <term>Florete</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#arma_blanca" target="#florete"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

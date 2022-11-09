@@ -63,11 +63,13 @@
           <term>Hombre</term>
           <term>De pie</term>
           <term>Tocando música</term>
+          <term>Sombrero/Tocado</term>
           <term>Guitarra/Vihuela/Laúd</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#tocando_musica"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#instrumento_musical" target="#guitarra"/>
       </textClass>
     </profileDesc>

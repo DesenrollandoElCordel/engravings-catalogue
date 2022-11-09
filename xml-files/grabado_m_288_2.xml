@@ -24,7 +24,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_288_1.jpg" n="989, 277, 423, 809"/>
+            <graphic url="https://iiif.unige.ch/iiif/2/fedora_ug8108936/989,277,423,809/full/0/default.jpg" source="Moreno_288_1.jpg" n="989, 277, 423, 809"/>
             <figDesc>
               <locus target="Moreno_288.xml">Pasillo en verso andaluz</locus>
             </figDesc>
@@ -61,10 +61,12 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
+          <term>De pie</term>
           <term>Bailando</term>
           <term>Sombrero/Tocado</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#bailando"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
@@ -74,7 +76,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="https://iiif.unige.ch/iiif/2/fedora_ug8108936/989,277,423,809/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

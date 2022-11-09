@@ -55,13 +55,15 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Gentilhombre</term>
+          <term>Hombre</term>
           <term>De pie</term>
           <term>Sombrero/Tocado</term>
+          <term>Capa</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#capa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

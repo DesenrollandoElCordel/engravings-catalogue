@@ -54,21 +54,17 @@
           <term>Hombres y mujeres</term>
           <term>De pie</term>
           <term>Tumbado, -a</term>
-          <term>Peleando</term>
+          <term>Combatiendo</term>
           <term>Sombrero/Tocado</term>
           <term>Florete</term>
-          <term>Pared</term>
-          <term>Calle</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#virago"/>
         <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#tumbado"/>
-        <catRef scheme="#actitud" target="#peleando"/>
+        <catRef scheme="#actitud" target="#combatiendo"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#arma_blanca" target="#florete"/>
-        <catRef scheme="#espacio_construido" target="#pared"/>
-        <catRef scheme="#espacio_construido" target="#calle"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

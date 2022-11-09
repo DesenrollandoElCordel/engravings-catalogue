@@ -53,12 +53,14 @@
           <term>Arrodillado, -a</term>
           <term>Rezando</term>
           <term>Ángel/Ángeles</term>
+          <term>Paraíso</term>
           <term>Cielo/Nube</term>
           <term>Friso</term>
         </keywords>
         <catRef scheme="#actitud" target="#arrodillado"/>
         <catRef scheme="#actitud" target="#rezando"/>
         <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#religion" target="#paraiso"/>
         <catRef scheme="#ambiente_natural" target="#cielo"/>
         <catRef scheme="#elementos_decorativos" target="#friso"/>
       </textClass>

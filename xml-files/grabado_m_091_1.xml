@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_091_1.jpg" n="113, 147, 208, 376"/>
+            <graphic url="fedora_ug8106525/113,147,208,376/full/0/default.jpg" source="Moreno_091_1.jpg" n="113, 147, 208, 376"/>
             <figDesc>
               <locus target="Moreno_091.xml">Coplas nuevas, para cantar los aficionados</locus>
             </figDesc>
@@ -100,12 +100,14 @@
           <term>Tocando música</term>
           <term>Sombrero/Tocado</term>
           <term>Guitarra/Vihuela/Laúd</term>
+          <term>Peldaño</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#tocando_musica"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#instrumento_musical" target="#guitarra"/>
+        <catRef scheme="#accesorios_varios" target="#peldano"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -113,7 +115,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8106525/113,147,208,376/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

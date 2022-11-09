@@ -50,6 +50,7 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Gentilhombre</term>
           <term>Hombres</term>
           <term>De pie</term>
           <term>Combatiendo</term>
@@ -61,6 +62,7 @@
           <term>Campo de batalla</term>
           <term>Árbol</term>
         </keywords>
+        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#combatiendo"/>

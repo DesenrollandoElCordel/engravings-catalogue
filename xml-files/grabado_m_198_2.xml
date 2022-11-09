@@ -29,40 +29,7 @@
               <locus target="Moreno_198.xml">Pasillo de Diego Corriente</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar">
-            <list n="6">
-              <item>
-                <title corresp="grabado_m_113_2.xml">grabado_m_113_2</title>
-                <locus>Trovos nuevos para saber corresponder los finos amantes</locus>
-                <date when="1800" cert="low">[s.a.]</date>
-              </item>
-              <item>
-                <title corresp="grabado_m_250_2.xml">grabado_m_250_2</title>
-                <locus>Décimas glosadas en las que se manifiesta los desprecios que hace una dama</locus>
-                <date when="1856" cert="high">1856</date>
-              </item>
-              <item>
-                <title corresp="grabado_m_268_1.xml">grabado_m_268_1</title>
-                <locus>Relación de Quintana</locus>
-                <date when="1800" cert="low">[s.a.]</date>
-              </item>
-              <item>
-                <title corresp="grabado_m_278_2.xml">grabado_m_278_2</title>
-                <locus>Décimas</locus>
-                <date when="1860" cert="high">1860</date>
-              </item>
-              <item>
-                <title corresp="grabado_m_314_1.xml">grabado_m_314_1</title>
-                <locus>Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio</locus>
-                <date when="1800" cert="low">[s.a.]</date>
-              </item>
-              <item>
-                <title corresp="grabado_m_331_2.xml">grabado_m_331_2</title>
-                <locus>Relación en contra de las mugeres</locus>
-                <date when="1861" cert="high">1861</date>
-              </item>
-            </list>
-          </note>
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_198</note>
         </bibl>
       </sourceDesc>

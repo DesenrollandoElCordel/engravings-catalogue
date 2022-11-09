@@ -45,7 +45,7 @@
           <term>Hombre</term>
           <term>De pie</term>
           <term>Perro</term>
-          <term/>
+          <term>Liebre/Conejo</term>
           <term>Sombrero/Tocado</term>
           <term>Escopeta</term>
           <term>Árbol</term>
@@ -54,7 +54,7 @@
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#animales" target="#perro"/>
-        <catRef scheme="#animales" target="#conejo"/>
+        <catRef scheme="#animales" target="#liebre"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#arma_de_fuego" target="#escopeta"/>
         <catRef scheme="#ambiente_natural" target="#arbol"/>

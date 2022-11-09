@@ -57,12 +57,12 @@
         <keywords>
           <term>Moro</term>
           <term>De pie</term>
-          <term/>
+          <term>Sombrero/Tocado</term>
           <term>Capa</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#moro"/>
         <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombero"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#atuendo" target="#capa"/>
       </textClass>
     </profileDesc>

@@ -51,14 +51,12 @@
       <textClass>
         <keywords>
           <term>Soldado</term>
-          <term>Moro</term>
           <term>De pie</term>
           <term>Sombrero/Tocado</term>
           <term>Escopeta</term>
           <term>Espada</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#soldado"/>
-        <catRef scheme="#personaje_masculino" target="#moro"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#arma_de_fuego" target="#escopeta"/>

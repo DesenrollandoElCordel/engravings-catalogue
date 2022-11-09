@@ -50,10 +50,12 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Arrodillado, -a</term>
           <term>Santa Cruz</term>
           <term>Jesús</term>
           <term>Ángel/Ángeles</term>
         </keywords>
+        <catRef scheme="#actitud" target="#arrodillado"/>
         <catRef scheme="#religion" target="#santa_cruz"/>
         <catRef scheme="#religion" target="#jesus"/>
         <catRef scheme="#religion" target="#angel"/>

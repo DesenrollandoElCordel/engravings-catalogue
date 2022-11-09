@@ -47,7 +47,6 @@
           <term>De pie</term>
           <term>Sombrero/Tocado</term>
           <term>Capa</term>
-          <term>Alcoba/Cocina</term>
           <term>Puerta</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#moro"/>
@@ -55,7 +54,6 @@
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#espacio_construido" target="#alcoba"/>
         <catRef scheme="#espacio_construido" target="#puerta"/>
       </textClass>
     </profileDesc>

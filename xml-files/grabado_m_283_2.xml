@@ -57,11 +57,13 @@
         <keywords>
           <term>Mujer</term>
           <term>De pie</term>
+          <term>Bailando</term>
           <term>Sombrero/Tocado</term>
           <term>Abanico</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#bailando"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#atuendo" target="#abanico"/>
       </textClass>

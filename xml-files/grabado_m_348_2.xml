@@ -53,12 +53,10 @@
           <term>Hombre</term>
           <term>De pie</term>
           <term>Hablando</term>
-          <term>Capa</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#atuendo" target="#capa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

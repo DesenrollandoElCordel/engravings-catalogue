@@ -51,6 +51,7 @@
       <textClass>
         <keywords>
           <term>Hombres y mujeres</term>
+          <term>De pie</term>
           <term>Bailando</term>
           <term>Sentado, -a</term>
           <term>Tocando música</term>
@@ -60,6 +61,7 @@
           <term>Silla/Banco</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#bailando"/>
         <catRef scheme="#actitud" target="#sentado"/>
         <catRef scheme="#actitud" target="#tocando_musica"/>

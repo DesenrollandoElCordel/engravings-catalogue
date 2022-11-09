@@ -53,6 +53,7 @@
           <term>Hombres y mujeres</term>
           <term>De pie</term>
           <term>Bailando</term>
+          <term>Sentado, -a</term>
           <term>Tocando música</term>
           <term>Sombrero/Tocado</term>
           <term>Guitarra/Vihuela/Laúd</term>
@@ -62,6 +63,7 @@
         <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#bailando"/>
+        <catRef scheme="#actitud" target="#sentado"/>
         <catRef scheme="#actitud" target="#tocando_musica"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
         <catRef scheme="#instrumento_musical" target="#guitarra"/>

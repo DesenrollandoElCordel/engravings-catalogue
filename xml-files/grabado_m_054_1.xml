@@ -46,14 +46,12 @@
           <term>De pie</term>
           <term>Sentado, -a</term>
           <term>Flor/Ramo de flores</term>
-          <term/>
           <term>Silla/Banco</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#actitud" target="#sentado"/>
         <catRef scheme="#accesorios_varios" target="#flor"/>
-        <catRef scheme="#espacio_construido" target="#alcova"/>
         <catRef scheme="#espacio_construido" target="#silla"/>
       </textClass>
     </profileDesc>
