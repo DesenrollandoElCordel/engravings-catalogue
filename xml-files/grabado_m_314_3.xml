@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_314_3</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_314_1.jpg" n="1125, 303, 402, 788" />
+            <graphic url="" source="Moreno_314_1.jpg" n="1125, 303, 402, 788"/>
             <figDesc>
               <locus target="Moreno_314.xml">Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio</locus>
             </figDesc>
@@ -55,10 +55,10 @@
           <term>Sombrero/Tocado</term>
           <term>Bastón</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#baston" />
+        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#baston"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -66,11 +66,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

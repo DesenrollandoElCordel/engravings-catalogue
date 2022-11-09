@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_102_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106040/629,371,989,955/full/0/default.jpg" source="Moreno_102_1.jpg" n="629, 371, 989, 955" />
+            <graphic url="fedora_ug8106040/629,371,989,955/full/0/default.jpg" source="Moreno_102_1.jpg" n="629, 371, 989, 955"/>
             <figDesc>
               <locus target="Moreno_102.xml">La doncella condenada. Nueva relación</locus>
             </figDesc>
@@ -61,11 +61,11 @@
           <term>Diablo/Demonio</term>
           <term>Monstruo/Criatura fantástica</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#religion" target="#infierno" />
-        <catRef scheme="#religion" target="#diablo" />
-        <catRef scheme="#monstruo" target="#criatura" />
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#religion" target="#infierno"/>
+        <catRef scheme="#religion" target="#diablo"/>
+        <catRef scheme="#monstruo" target="#criatura"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -73,11 +73,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106040/629,371,989,955/200,/0/default.jpg" />
+    <graphic url="fedora_ug8106040/629,371,989,955/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_070_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108454/148,337,1333,999/full/0/default.jpg" source="Moreno_070_1.jpg" n="148, 337, 1333, 999" />
+            <graphic url="fedora_ug8108454/148,337,1333,999/full/0/default.jpg" source="Moreno_070_1.jpg" n="148, 337, 1333, 999"/>
             <figDesc>
               <locus target="Moreno_070.xml">Verdadera relación y curioso romance de la vida y muerte del bienaventurado San Alejo</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_070</note>
         </bibl>
       </sourceDesc>
@@ -47,10 +47,10 @@
           <term>Difunto, a/moribundo, -a</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#difunto" />
-        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#difunto"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,11 +58,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8108454/148,337,1333,999/200,/0/default.jpg" />
+    <graphic url="fedora_ug8108454/148,337,1333,999/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

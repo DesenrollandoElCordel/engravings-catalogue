@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_349_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_349_1.jpg" n="757, 251, 727, 629" />
+            <graphic url="" source="Moreno_349_1.jpg" n="757, 251, 727, 629"/>
             <figDesc>
               <locus target="Moreno_349.xml">La zurra. 1560 zapatazos a Culo-pelado</locus>
             </figDesc>
@@ -71,11 +71,11 @@
           <term>Abanico</term>
           <term>Flor/Ramo de flores</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#atuendo" target="#abanico" />
-        <catRef scheme="#accesorios_varios" target="#flor" />
+        <catRef scheme="#grupos_personajes" target="#mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#atuendo" target="#abanico"/>
+        <catRef scheme="#accesorios_varios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -83,11 +83,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

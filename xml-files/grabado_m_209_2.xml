@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_209_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_209_1.jpg" n="483, 296, 417, 703" />
+            <graphic url="" source="Moreno_209_1.jpg" n="483, 296, 417, 703"/>
             <figDesc>
               <locus target="Moreno_209.xml">Florisela</locus>
             </figDesc>
@@ -88,8 +88,8 @@
           <term>Dama</term>
           <term>De pie</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#dama" />
-        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#personaje_femenino" target="#dama"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -97,11 +97,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_316_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1861" cert="high">1861</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_316_5.jpg" n="157, 142, 1195, 585" />
+            <graphic url="" source="Moreno_316_5.jpg" n="157, 142, 1195, 585"/>
             <figDesc>
               <locus target="Moreno_316.xml">Nuevo y curioso romance en que se declaran las virtudes del día a lo divino</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_316</note>
         </bibl>
       </sourceDesc>
@@ -48,11 +48,11 @@
           <term>Campo</term>
           <term>Árbol</term>
         </keywords>
-        <catRef scheme="#espacio_construido" target="#casa" />
-        <catRef scheme="#ambiente_natural" target="#luna" />
-        <catRef scheme="#ambiente_natural" target="#cielo" />
-        <catRef scheme="#ambiente_natural" target="#campo" />
-        <catRef scheme="#ambiente_natural" target="#arbol" />
+        <catRef scheme="#espacio_construido" target="#casa"/>
+        <catRef scheme="#ambiente_natural" target="#luna"/>
+        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#ambiente_natural" target="#campo"/>
+        <catRef scheme="#ambiente_natural" target="#arbol"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,11 +60,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

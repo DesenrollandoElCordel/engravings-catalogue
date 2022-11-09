@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_091_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_091_1.jpg" n="316, 167, 211, 354" />
+            <graphic url="" source="Moreno_091_1.jpg" n="316, 167, 211, 354"/>
             <figDesc>
               <locus target="Moreno_091.xml">Coplas nuevas, para cantar los aficionados</locus>
             </figDesc>
@@ -66,11 +66,11 @@
           <term>Bailando</term>
           <term>Castañetas</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#tocando_musica" />
-        <catRef scheme="#actitud" target="#bailando" />
-        <catRef scheme="#instrumento_musical" target="#castanetas" />
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#tocando_musica"/>
+        <catRef scheme="#actitud" target="#bailando"/>
+        <catRef scheme="#instrumento_musical" target="#castanetas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -78,11 +78,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

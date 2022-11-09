@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_271_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105265/877,389,475,693/full/0/default.jpg" source="Moreno_271_1.jpg" n="877, 389, 475, 693" />
+            <graphic url="fedora_ug8105265/877,389,475,693/full/0/default.jpg" source="Moreno_271_1.jpg" n="877, 389, 475, 693"/>
             <figDesc>
               <locus target="Moreno_271.xml">Pedro Becerra o el corazón de un bandido</locus>
             </figDesc>
@@ -70,10 +70,10 @@
           <term>Fumando</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#fumando" />
-        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#fumando"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -81,11 +81,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8105265/877,389,475,693/200,/0/default.jpg" />
+    <graphic url="fedora_ug8105265/877,389,475,693/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

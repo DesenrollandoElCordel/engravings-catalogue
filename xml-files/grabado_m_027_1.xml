@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_027_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109824/118,266,1055,897/full/0/default.jpg" source="Moreno_027_1.jpg" n="118, 266, 1055, 897" />
+            <graphic url="fedora_ug8109824/118,266,1055,897/full/0/default.jpg" source="Moreno_027_1.jpg" n="118, 266, 1055, 897"/>
             <figDesc>
               <locus target="Moreno_027.xml">Nueva y curiosa relación de la peregrina doctora</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_027</note>
         </bibl>
       </sourceDesc>
@@ -50,13 +50,13 @@
           <term>Alcoba/Cocina</term>
           <term>Cama</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#arrodillado" />
-        <catRef scheme="#actitud" target="#difunto" />
-        <catRef scheme="#muerte" target="#calavera" />
-        <catRef scheme="#espacio_construido" target="#alcoba" />
-        <catRef scheme="#espacio_construido" target="#cama" />
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#arrodillado"/>
+        <catRef scheme="#actitud" target="#difunto"/>
+        <catRef scheme="#muerte" target="#calavera"/>
+        <catRef scheme="#espacio_construido" target="#alcoba"/>
+        <catRef scheme="#espacio_construido" target="#cama"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -64,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109824/118,266,1055,897/200,/0/default.jpg" />
+    <graphic url="fedora_ug8109824/118,266,1055,897/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_199_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1865" cert="high">1865</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103180/682,1231,563,335/full/0/default.jpg" source="Moreno_199_1.jpg" n="682, 1231, 563, 335" />
+            <graphic url="fedora_ug8103180/682,1231,563,335/full/0/default.jpg" source="Moreno_199_1.jpg" n="682, 1231, 563, 335"/>
             <figDesc>
               <locus target="Moreno_199.xml">Sainete nuevo titulado El paje de la obligación</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_199</note>
         </bibl>
       </sourceDesc>
@@ -45,8 +45,8 @@
           <term>Libro/Papeles</term>
           <term>Busto</term>
         </keywords>
-        <catRef scheme="#accesorios_varios" target="#libro" />
-        <catRef scheme="#elementos_decorativos" target="#busto" />
+        <catRef scheme="#accesorios_varios" target="#libro"/>
+        <catRef scheme="#elementos_decorativos" target="#busto"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -54,11 +54,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8103180/682,1231,563,335/200,/0/default.jpg" />
+    <graphic url="fedora_ug8103180/682,1231,563,335/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

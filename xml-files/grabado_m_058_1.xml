@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_058_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108960/216,353,1414,1903/full/0/default.jpg" source="Moreno_058_1.jpg" n="216, 353, 1414, 1903" />
+            <graphic url="fedora_ug8108960/216,353,1414,1903/full/0/default.jpg" source="Moreno_058_1.jpg" n="216, 353, 1414, 1903"/>
             <figDesc>
               <locus target="Moreno_058.xml">El santísimo Cristo de Zalamea</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_058</note>
         </bibl>
       </sourceDesc>
@@ -53,20 +53,20 @@
           <term>Ave</term>
           <term>Pared</term>
           <term>Cama</term>
-          <term />
+          <term/>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#corriendo" />
-        <catRef scheme="#actitud" target="#tumbado" />
-        <catRef scheme="#religion" target="#santa_cruz" />
-        <catRef scheme="#religion" target="#jesus" />
-        <catRef scheme="#religion" target="#angel" />
-        <catRef scheme="#animales" target="#serpiente" />
-        <catRef scheme="#animales" target="#ave" />
-        <catRef scheme="#espacio_construido" target="#pared" />
-        <catRef scheme="#espacio_construido" target="#cama" />
-        <catRef scheme="#ambiente_maritimo" target="#nave" />
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#corriendo"/>
+        <catRef scheme="#actitud" target="#tumbado"/>
+        <catRef scheme="#religion" target="#santa_cruz"/>
+        <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#animales" target="#serpiente"/>
+        <catRef scheme="#animales" target="#ave"/>
+        <catRef scheme="#espacio_construido" target="#pared"/>
+        <catRef scheme="#espacio_construido" target="#cama"/>
+        <catRef scheme="#ambiente_maritimo" target="#nave"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -74,11 +74,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8108960/216,353,1414,1903/200,/0/default.jpg" />
+    <graphic url="fedora_ug8108960/216,353,1414,1903/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

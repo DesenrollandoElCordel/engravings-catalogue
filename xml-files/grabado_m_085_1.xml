@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_085_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1854" cert="high">1854</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110117/249,351,433,857/full/0/default.jpg" source="Moreno_085_1.jpg" n="249, 351, 433, 857" />
+            <graphic url="fedora_ug8110117/249,351,433,857/full/0/default.jpg" source="Moreno_085_1.jpg" n="249, 351, 433, 857"/>
             <figDesc>
               <locus target="Moreno_085.xml">Canción del segador de Lorca</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_085</note>
         </bibl>
       </sourceDesc>
@@ -46,9 +46,9 @@
           <term>De pie</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -56,11 +56,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110117/249,351,433,857/200,/0/default.jpg" />
+    <graphic url="fedora_ug8110117/249,351,433,857/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

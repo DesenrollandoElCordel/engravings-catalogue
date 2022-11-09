@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_185_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107313/130,246,1695,2363/full/0/default.jpg" source="Moreno_185_2.jpg" n="130, 246, 1695, 2363" />
+            <graphic url="fedora_ug8107313/130,246,1695,2363/full/0/default.jpg" source="Moreno_185_2.jpg" n="130, 246, 1695, 2363"/>
             <figDesc>
               <locus target="Moreno_185.xml">Las siete palabras que habló Nuestro señor Jesucristo y el decendimiento de la cruz</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_185</note>
         </bibl>
       </sourceDesc>
@@ -44,7 +44,7 @@
         <keywords>
           <term>Friso</term>
         </keywords>
-        <catRef scheme="#elementos_decorativos" target="#friso" />
+        <catRef scheme="#elementos_decorativos" target="#friso"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -52,11 +52,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8107313/130,246,1695,2363/200,/0/default.jpg" />
+    <graphic url="fedora_ug8107313/130,246,1695,2363/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

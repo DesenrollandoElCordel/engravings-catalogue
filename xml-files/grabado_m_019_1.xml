@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_019_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110157/153,323,564,919/full/0/default.jpg" source="Moreno_019_1.jpg" n="153, 323, 564, 919" />
+            <graphic url="fedora_ug8110157/153,323,564,919/full/0/default.jpg" source="Moreno_019_1.jpg" n="153, 323, 564, 919"/>
             <figDesc>
               <locus target="Moreno_019.xml">Despedimiento de un galán para ausentarse por la esquivez de una dama</locus>
             </figDesc>
@@ -80,10 +80,10 @@
           <term>Sombrero/Tocado</term>
           <term>Abanico</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#dama" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#abanico" />
+        <catRef scheme="#personaje_femenino" target="#dama"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#abanico"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -91,11 +91,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110157/153,323,564,919/200,/0/default.jpg" />
+    <graphic url="fedora_ug8110157/153,323,564,919/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

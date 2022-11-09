@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_098_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1850" cert="high">1850</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107898/783,1473,308,363/full/0/default.jpg" source="Moreno_098_1.jpg" n="783, 1473, 308, 363" />
+            <graphic url="fedora_ug8107898/783,1473,308,363/full/0/default.jpg" source="Moreno_098_1.jpg" n="783, 1473, 308, 363"/>
             <figDesc>
               <locus target="Moreno_098.xml">Sainete nuevo titulado El cuarto de la viuda</locus>
             </figDesc>
@@ -57,7 +57,7 @@
         <keywords>
           <term>Busto</term>
         </keywords>
-        <catRef scheme="#elementos_decorativos" target="#busto" />
+        <catRef scheme="#elementos_decorativos" target="#busto"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -65,11 +65,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8107898/783,1473,308,363/200,/0/default.jpg" />
+    <graphic url="fedora_ug8107898/783,1473,308,363/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

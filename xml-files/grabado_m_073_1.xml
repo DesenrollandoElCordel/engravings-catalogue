@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_073_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1855" cert="high">1855</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105020/311,324,513,784/full/0/default.jpg" source="Moreno_073_1.jpg" n="311, 324, 513, 784" />
+            <graphic url="fedora_ug8105020/311,324,513,784/full/0/default.jpg" source="Moreno_073_1.jpg" n="311, 324, 513, 784"/>
             <figDesc>
               <locus target="Moreno_073.xml">Las princesas encantadas y deslealtad de hermanos</locus>
             </figDesc>
@@ -52,7 +52,7 @@
         <keywords>
           <term>Castillo/Torre</term>
         </keywords>
-        <catRef scheme="#espacio_construido" target="#castillo" />
+        <catRef scheme="#espacio_construido" target="#castillo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,11 +60,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8105020/311,324,513,784/200,/0/default.jpg" />
+    <graphic url="fedora_ug8105020/311,324,513,784/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

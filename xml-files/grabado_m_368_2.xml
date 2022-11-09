@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_368_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1863" cert="high">1863</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_368_5.jpg" n="176, 187, 1590, 361" />
+            <graphic url="" source="Moreno_368_5.jpg" n="176, 187, 1590, 361"/>
             <figDesc>
               <locus target="Moreno_368.xml">El hechizo de Sevilla</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_368</note>
         </bibl>
       </sourceDesc>
@@ -44,7 +44,7 @@
         <keywords>
           <term>Friso</term>
         </keywords>
-        <catRef scheme="#elementos_decorativos" target="#friso" />
+        <catRef scheme="#elementos_decorativos" target="#friso"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -52,11 +52,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

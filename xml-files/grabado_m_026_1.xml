@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_026_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108465/256,292,1247,934/full/0/default.jpg" source="Moreno_026_1.jpg" n="256, 292, 1247, 934" />
+            <graphic url="fedora_ug8108465/256,292,1247,934/full/0/default.jpg" source="Moreno_026_1.jpg" n="256, 292, 1247, 934"/>
             <figDesc>
               <locus target="Moreno_026.xml">La gran victoria que tuvo don Juan de Austria contra la armada turquesa en el golfo de Lepanto</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_026</note>
         </bibl>
       </sourceDesc>
@@ -53,16 +53,16 @@
           <term>Batalla naval</term>
           <term>Alta mar</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres" />
-        <catRef scheme="#actitud" target="#combatiendo" />
-        <catRef scheme="#actitud" target="#difunto" />
-        <catRef scheme="#muerte" target="#calavera" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#instrumento_musical" target="#pandereta" />
-        <catRef scheme="#arma_de_fuego" target="#escopeta" />
-        <catRef scheme="#ambiente_maritimo" target="#navio" />
-        <catRef scheme="#ambiente_maritimo" target="#batalla_naval" />
-        <catRef scheme="#ambiente_maritimo" target="#alta_mar" />
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#actitud" target="#combatiendo"/>
+        <catRef scheme="#actitud" target="#difunto"/>
+        <catRef scheme="#muerte" target="#calavera"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#instrumento_musical" target="#pandereta"/>
+        <catRef scheme="#arma_de_fuego" target="#escopeta"/>
+        <catRef scheme="#ambiente_maritimo" target="#navio"/>
+        <catRef scheme="#ambiente_maritimo" target="#batalla_naval"/>
+        <catRef scheme="#ambiente_maritimo" target="#alta_mar"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -70,11 +70,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8108465/256,292,1247,934/200,/0/default.jpg" />
+    <graphic url="fedora_ug8108465/256,292,1247,934/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

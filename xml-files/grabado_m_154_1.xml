@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_154_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1864" cert="high">1864</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110210/300,346,1269,942/full/0/default.jpg" source="Moreno_154_1.jpg" n="300, 346, 1269, 942" />
+            <graphic url="fedora_ug8110210/300,346,1269,942/full/0/default.jpg" source="Moreno_154_1.jpg" n="300, 346, 1269, 942"/>
             <figDesc>
               <locus target="Moreno_154.xml">Don Antonio Benavides de la Cerda</locus>
             </figDesc>
@@ -59,14 +59,14 @@
           <term>Árbol</term>
           <term>Campo</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#capa" />
-        <catRef scheme="#arma_blanca" target="#espada" />
-        <catRef scheme="#ambiente_natural" target="#arbol" />
-        <catRef scheme="#ambiente_natural" target="#campo" />
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#capa"/>
+        <catRef scheme="#arma_blanca" target="#espada"/>
+        <catRef scheme="#ambiente_natural" target="#arbol"/>
+        <catRef scheme="#ambiente_natural" target="#campo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -74,11 +74,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110210/300,346,1269,942/200,/0/default.jpg" />
+    <graphic url="fedora_ug8110210/300,346,1269,942/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

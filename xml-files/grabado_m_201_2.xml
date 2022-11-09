@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_201_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1854" cert="high">1854</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105882/994,431,532,698/full/0/default.jpg" source="Moreno_201_1.jpg" n="994, 431, 532, 698" />
+            <graphic url="fedora_ug8105882/994,431,532,698/full/0/default.jpg" source="Moreno_201_1.jpg" n="994, 431, 532, 698"/>
             <figDesc>
               <locus target="Moreno_201.xml">El milagro de san Antonio del doblón</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_201</note>
         </bibl>
       </sourceDesc>
@@ -47,10 +47,10 @@
           <term>Arrodillado, -a</term>
           <term>Rezando</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino" />
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
-        <catRef scheme="#actitud" target="#arrodillado" />
-        <catRef scheme="#actitud" target="#rezando" />
+        <catRef scheme="#personaje_masculino" target="#nino"/>
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#arrodillado"/>
+        <catRef scheme="#actitud" target="#rezando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,11 +58,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8105882/994,431,532,698/200,/0/default.jpg" />
+    <graphic url="fedora_ug8105882/994,431,532,698/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

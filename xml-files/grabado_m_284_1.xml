@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_284_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109658/315,395,1075,1490/full/0/default.jpg" source="Moreno_284_1.jpg" n="315, 395, 1075, 1490" />
+            <graphic url="fedora_ug8109658/315,395,1075,1490/full/0/default.jpg" source="Moreno_284_1.jpg" n="315, 395, 1075, 1490"/>
             <figDesc>
               <locus target="Moreno_284.xml">El jardín engañoso</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_284</note>
         </bibl>
       </sourceDesc>
@@ -50,13 +50,13 @@
           <term>Flor/Ramo de flores</term>
           <term>Cielo/Nube</term>
         </keywords>
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#religion" target="#virgen_maria" />
-        <catRef scheme="#religion" target="#jesus" />
-        <catRef scheme="#religion" target="#angel" />
-        <catRef scheme="#religion" target="#paraiso" />
-        <catRef scheme="#accesorios_varios" target="#flor" />
-        <catRef scheme="#ambiente_natural" target="#cielo" />
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#religion" target="#virgen_maria"/>
+        <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#religion" target="#paraiso"/>
+        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#ambiente_natural" target="#cielo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -64,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109658/315,395,1075,1490/200,/0/default.jpg" />
+    <graphic url="fedora_ug8109658/315,395,1075,1490/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

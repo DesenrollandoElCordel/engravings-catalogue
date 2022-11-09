@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_202_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109217/463,304,381,571/full/0/default.jpg" source="Moreno_202_1.jpg" n="463, 304, 381, 571" />
+            <graphic url="fedora_ug8109217/463,304,381,571/full/0/default.jpg" source="Moreno_202_1.jpg" n="463, 304, 381, 571"/>
             <figDesc>
               <locus target="Moreno_202.xml">Confesión que hace un enamorado</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_202</note>
         </bibl>
       </sourceDesc>
@@ -47,10 +47,10 @@
           <term>Rezando</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#arrodillado" />
-        <catRef scheme="#actitud" target="#rezando" />
-        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#arrodillado"/>
+        <catRef scheme="#actitud" target="#rezando"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,11 +58,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109217/463,304,381,571/200,/0/default.jpg" />
+    <graphic url="fedora_ug8109217/463,304,381,571/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

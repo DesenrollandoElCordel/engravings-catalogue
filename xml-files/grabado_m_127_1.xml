@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_127_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1854" cert="medium">1854 [?]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107046/274,266,1235,910/full/0/default.jpg" source="Moreno_127_1.jpg" n="274, 266, 1235, 910" />
+            <graphic url="fedora_ug8107046/274,266,1235,910/full/0/default.jpg" source="Moreno_127_1.jpg" n="274, 266, 1235, 910"/>
             <figDesc>
               <locus target="Moreno_127.xml">Relación del conde Alarcos</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_127</note>
         </bibl>
       </sourceDesc>
@@ -52,15 +52,15 @@
           <term>Alcoba/Cocina</term>
           <term>Cama</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino" />
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#arrodillado" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#capa" />
-        <catRef scheme="#espacio_construido" target="#alcoba" />
-        <catRef scheme="#espacio_construido" target="#cama" />
+        <catRef scheme="#personaje_masculino" target="#nino"/>
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#arrodillado"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#capa"/>
+        <catRef scheme="#espacio_construido" target="#alcoba"/>
+        <catRef scheme="#espacio_construido" target="#cama"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -68,11 +68,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8107046/274,266,1235,910/200,/0/default.jpg" />
+    <graphic url="fedora_ug8107046/274,266,1235,910/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

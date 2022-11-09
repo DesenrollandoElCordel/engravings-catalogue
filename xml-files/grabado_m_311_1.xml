@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_311_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1861" cert="high">1861</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_311_1.jpg" n="420, 282, 914, 878" />
+            <graphic url="" source="Moreno_311_1.jpg" n="420, 282, 914, 878"/>
             <figDesc>
               <locus target="Moreno_311.xml">Don Fernando del Pulgar</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_311</note>
         </bibl>
       </sourceDesc>
@@ -48,11 +48,11 @@
           <term>Asta</term>
           <term>Armadura</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#cabalgando" />
-        <catRef scheme="#animales" target="#caballo" />
-        <catRef scheme="#arma_blanca" target="#asta" />
-        <catRef scheme="#arma_blanca" target="#armadura" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#cabalgando"/>
+        <catRef scheme="#animales" target="#caballo"/>
+        <catRef scheme="#arma_blanca" target="#asta"/>
+        <catRef scheme="#arma_blanca" target="#armadura"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,11 +60,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

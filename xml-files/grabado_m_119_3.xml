@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_119_3</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108755/1098,360,481,674/full/0/default.jpg" source="Moreno_119_1.jpg" n="1098, 360, 481, 674" />
+            <graphic url="fedora_ug8108755/1098,360,481,674/full/0/default.jpg" source="Moreno_119_1.jpg" n="1098, 360, 481, 674"/>
             <figDesc>
               <locus target="Moreno_119.xml">Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</locus>
             </figDesc>
@@ -72,12 +72,12 @@
           <term>Guitarra/Vihuela/Laúd</term>
           <term>Peldaño</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#tocando_musica" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#instrumento_musical" target="#guitarra" />
-        <catRef scheme="#accesorios_varios" target="#peldano" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#tocando_musica"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#instrumento_musical" target="#guitarra"/>
+        <catRef scheme="#accesorios_varios" target="#peldano"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -85,11 +85,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8108755/1098,360,481,674/200,/0/default.jpg" />
+    <graphic url="fedora_ug8108755/1098,360,481,674/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_307_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_307_1.jpg" n="515, 283, 743, 857" />
+            <graphic url="" source="Moreno_307_1.jpg" n="515, 283, 743, 857"/>
             <figDesc>
               <locus target="Moreno_307.xml">Trobos para cantar los aficionados</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_307</note>
         </bibl>
       </sourceDesc>
@@ -49,12 +49,12 @@
           <term>Guitarra/Vihuela/Laúd</term>
           <term>Pared</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#tocando_musica" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#instrumento_musical" target="#guitarra" />
-        <catRef scheme="#espacio_construido" target="#pared" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#tocando_musica"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#instrumento_musical" target="#guitarra"/>
+        <catRef scheme="#espacio_construido" target="#pared"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,11 +62,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_071_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105463/512,241,686,428/full/0/default.jpg" source="Moreno_071_1.jpg" n="512, 241, 686, 428" />
+            <graphic url="fedora_ug8105463/512,241,686,428/full/0/default.jpg" source="Moreno_071_1.jpg" n="512, 241, 686, 428"/>
             <figDesc>
               <locus target="Moreno_071.xml">Apartamiento del alma y el cuerpo</locus>
             </figDesc>
@@ -54,9 +54,9 @@
           <term>Flor/Ramo de flores</term>
           <term>Sepulcro</term>
         </keywords>
-        <catRef scheme="#religion" target="#angel" />
-        <catRef scheme="#accesorios_varios" target="#flor" />
-        <catRef scheme="#espacio_construido" target="#sepulcro" />
+        <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#espacio_construido" target="#sepulcro"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -64,11 +64,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8105463/512,241,686,428/200,/0/default.jpg" />
+    <graphic url="fedora_ug8105463/512,241,686,428/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

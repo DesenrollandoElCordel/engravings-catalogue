@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_018_3</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103487/948,411,329,652/full/0/default.jpg" source="Moreno_018_1.jpg" n="948, 411, 329, 652" />
+            <graphic url="fedora_ug8103487/948,411,329,652/full/0/default.jpg" source="Moreno_018_1.jpg" n="948, 411, 329, 652"/>
             <figDesc>
               <locus target="Moreno_018.xml">Sátira burlesca de la vida, milagros, usos y costumbres de cuatro clases de mugeres que hay en Madrid</locus>
             </figDesc>
@@ -53,8 +53,8 @@
           <term>Anciana</term>
           <term>De pie</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#anciana" />
-        <catRef scheme="#actitud" target="#de_pie" />
+        <catRef scheme="#personaje_femenino" target="#anciana"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,11 +62,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8103487/948,411,329,652/200,/0/default.jpg" />
+    <graphic url="fedora_ug8103487/948,411,329,652/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

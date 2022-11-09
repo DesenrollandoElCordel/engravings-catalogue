@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_142_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106017/398,302,438,748/full/0/default.jpg" source="Moreno_142_1.jpg" n="398, 302, 438, 748" />
+            <graphic url="fedora_ug8106017/398,302,438,748/full/0/default.jpg" source="Moreno_142_1.jpg" n="398, 302, 438, 748"/>
             <figDesc>
               <locus target="Moreno_142.xml">Nueva relación de la riqueza y la pobreza</locus>
             </figDesc>
@@ -56,11 +56,11 @@
           <term>Sombrero/Tocado</term>
           <term>Bastón</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#baston" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#baston"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -68,11 +68,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106017/398,302,438,748/200,/0/default.jpg" />
+    <graphic url="fedora_ug8106017/398,302,438,748/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

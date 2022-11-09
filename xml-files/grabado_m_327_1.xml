@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_327_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1860" cert="high">1860</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_327_1.jpg" n="1021, 303, 649, 894" />
+            <graphic url="" source="Moreno_327_1.jpg" n="1021, 303, 649, 894"/>
             <figDesc>
               <locus target="Moreno_327.xml">Dionisia Pérez Losada. Nueva y curiosa relación</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_327</note>
         </bibl>
       </sourceDesc>
@@ -51,14 +51,14 @@
           <term>Ciudad/Pueblo</term>
           <term>Cielo/Nube</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres" />
-        <catRef scheme="#actitud" target="#arrodillado" />
-        <catRef scheme="#actitud" target="#rezando" />
-        <catRef scheme="#religion" target="#jesus" />
-        <catRef scheme="#religion" target="#virgen_maria" />
-        <catRef scheme="#atuendo" target="#baston" />
-        <catRef scheme="#espacio_construido" target="#ciudad" />
-        <catRef scheme="#ambiente_natural" target="#cielo" />
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#actitud" target="#arrodillado"/>
+        <catRef scheme="#actitud" target="#rezando"/>
+        <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#religion" target="#virgen_maria"/>
+        <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#espacio_construido" target="#ciudad"/>
+        <catRef scheme="#ambiente_natural" target="#cielo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -66,11 +66,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

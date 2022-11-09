@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_219_2</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109126/816,275,688,630/full/0/default.jpg" source="Moreno_219_1.jpg" n="816, 275, 688, 630" />
+            <graphic url="fedora_ug8109126/816,275,688,630/full/0/default.jpg" source="Moreno_219_1.jpg" n="816, 275, 688, 630"/>
             <figDesc>
               <locus target="Moreno_219.xml">Sátira nueva y curiosa que declara ¡¡¡O cuánto puede el dinero!!!</locus>
             </figDesc>
@@ -71,11 +71,11 @@
           <term>Abanico</term>
           <term>Flor/Ramo de flores</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#atuendo" target="#abanico" />
-        <catRef scheme="#accesorios_varios" target="#flor" />
+        <catRef scheme="#grupos_personajes" target="#mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#atuendo" target="#abanico"/>
+        <catRef scheme="#accesorios_varios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -83,11 +83,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109126/816,275,688,630/200,/0/default.jpg" />
+    <graphic url="fedora_ug8109126/816,275,688,630/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

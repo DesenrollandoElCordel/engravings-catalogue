@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_321_4</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_321_5.jpg" n="1059, 198, 558, 783" />
+            <graphic url="" source="Moreno_321_5.jpg" n="1059, 198, 558, 783"/>
             <figDesc>
               <locus target="Moreno_321.xml">Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_321</note>
         </bibl>
       </sourceDesc>
@@ -45,8 +45,8 @@
           <term>Navío/Barco</term>
           <term>Alta mar</term>
         </keywords>
-        <catRef scheme="#ambiente_maritimo" target="#navio" />
-        <catRef scheme="#ambiente_maritimo" target="#alta_mar" />
+        <catRef scheme="#ambiente_maritimo" target="#navio"/>
+        <catRef scheme="#ambiente_maritimo" target="#alta_mar"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -54,11 +54,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

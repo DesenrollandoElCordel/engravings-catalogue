@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_100_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107386/302,408,1251,928/full/0/default.jpg" source="Moreno_100_1.jpg" n="302, 408, 1251, 928" />
+            <graphic url="fedora_ug8107386/302,408,1251,928/full/0/default.jpg" source="Moreno_100_1.jpg" n="302, 408, 1251, 928"/>
             <figDesc>
               <locus target="Moreno_100.xml">Relación histórica de la gloriosa virgen y mártir Santa Filomena</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_100</note>
         </bibl>
       </sourceDesc>
@@ -48,11 +48,11 @@
           <term>Flor/Ramo de flores</term>
           <term>Sepulcro</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer" />
-        <catRef scheme="#actitud" target="#tumbado" />
-        <catRef scheme="#muerte" target="#calavera" />
-        <catRef scheme="#accesorios_varios" target="#flor" />
-        <catRef scheme="#espacio_construido" target="#sepulcro" />
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#actitud" target="#tumbado"/>
+        <catRef scheme="#muerte" target="#calavera"/>
+        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#espacio_construido" target="#sepulcro"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,11 +60,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8107386/302,408,1251,928/200,/0/default.jpg" />
+    <graphic url="fedora_ug8107386/302,408,1251,928/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

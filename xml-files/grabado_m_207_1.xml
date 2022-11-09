@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_207_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110126/194,207,1199,771/full/0/default.jpg" source="Moreno_207_1.jpg" n="194, 207, 1199, 771" />
+            <graphic url="fedora_ug8110126/194,207,1199,771/full/0/default.jpg" source="Moreno_207_1.jpg" n="194, 207, 1199, 771"/>
             <figDesc>
               <locus target="Moreno_207.xml">Antonio Montero y Diego de Frías</locus>
             </figDesc>
@@ -60,10 +60,10 @@
           <term>Caballo</term>
           <term>Sombrero/Tocado</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#pareja" />
-        <catRef scheme="#actitud" target="#cabalgando" />
-        <catRef scheme="#animales" target="#caballo" />
-        <catRef scheme="#atuendo" target="#sombrero" />
+        <catRef scheme="#grupos_personajes" target="#pareja"/>
+        <catRef scheme="#actitud" target="#cabalgando"/>
+        <catRef scheme="#animales" target="#caballo"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -71,11 +71,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110126/194,207,1199,771/200,/0/default.jpg" />
+    <graphic url="fedora_ug8110126/194,207,1199,771/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

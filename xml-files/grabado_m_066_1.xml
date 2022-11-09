@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_066_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109899/198,290,1393,969/full/0/default.jpg" source="Moreno_066_1.jpg" n="198, 290, 1393, 969" />
+            <graphic url="fedora_ug8109899/198,290,1393,969/full/0/default.jpg" source="Moreno_066_1.jpg" n="198, 290, 1393, 969"/>
             <figDesc>
               <locus target="Moreno_066.xml">Griselda y Gualtero. Nueva relación</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_066</note>
         </bibl>
       </sourceDesc>
@@ -51,14 +51,14 @@
           <term>Espada</term>
           <term>Silla/Banco</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#sentado" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#capa" />
-        <catRef scheme="#arma_blanca" target="#espada" />
-        <catRef scheme="#espacio_construido" target="#silla" />
+        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#sentado"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#capa"/>
+        <catRef scheme="#arma_blanca" target="#espada"/>
+        <catRef scheme="#espacio_construido" target="#silla"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -66,11 +66,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109899/198,290,1393,969/200,/0/default.jpg" />
+    <graphic url="fedora_ug8109899/198,290,1393,969/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

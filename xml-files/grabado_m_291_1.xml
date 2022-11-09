@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_291_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_291_1.jpg" n="683, 1647, 386, 338" />
+            <graphic url="" source="Moreno_291_1.jpg" n="683, 1647, 386, 338"/>
             <figDesc>
               <locus target="Moreno_291.xml">Sainete nuevo titulado El payo de la carta</locus>
             </figDesc>
@@ -58,8 +58,8 @@
           <term>Hombre</term>
           <term>Busto</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#elementos_decorativos" target="#busto" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#elementos_decorativos" target="#busto"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -67,11 +67,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

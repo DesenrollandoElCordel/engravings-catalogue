@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_040_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_040_1.jpg" n="257, 201, 450, 768" />
+            <graphic url="" source="Moreno_040_1.jpg" n="257, 201, 450, 768"/>
             <figDesc>
               <locus target="Moreno_040.xml">Juan de Naballa</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_040</note>
         </bibl>
       </sourceDesc>
@@ -47,10 +47,10 @@
           <term>Bastón</term>
           <term>Silla/Banco</term>
         </keywords>
-        <catRef scheme="#actitud" target="#sentado" />
-        <catRef scheme="#religion" target="#diablo" />
-        <catRef scheme="#atuendo" target="#baston" />
-        <catRef scheme="#espacio_construido" target="#silla" />
+        <catRef scheme="#actitud" target="#sentado"/>
+        <catRef scheme="#religion" target="#diablo"/>
+        <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#espacio_construido" target="#silla"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,11 +58,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200," />
+    <graphic url="200,"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

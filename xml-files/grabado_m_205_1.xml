@@ -12,19 +12,19 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_205_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110238/358,370,967,975/full/0/default.jpg" source="Moreno_205_1.jpg" n="358, 370, 967, 975" />
+            <graphic url="fedora_ug8110238/358,370,967,975/full/0/default.jpg" source="Moreno_205_1.jpg" n="358, 370, 967, 975"/>
             <figDesc>
               <locus target="Moreno_205.xml">Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas</locus>
             </figDesc>
@@ -61,11 +61,11 @@
           <term>Infierno</term>
           <term>Monstruo/Criatura fantástica</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#religion" target="#diablo" />
-        <catRef scheme="#religion" target="#infierno" />
-        <catRef scheme="#monstruo" target="#criatura" />
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#religion" target="#diablo"/>
+        <catRef scheme="#religion" target="#infierno"/>
+        <catRef scheme="#monstruo" target="#criatura"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -73,11 +73,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110238/358,370,967,975/200,/0/default.jpg" />
+    <graphic url="fedora_ug8110238/358,370,967,975/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

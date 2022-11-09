@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_044_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1854" cert="high">1854</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105573/161,383,314,581/full/0/default.jpg" source="Moreno_044_1.jpg" n="161, 383, 314, 581" />
+            <graphic url="fedora_ug8105573/161,383,314,581/full/0/default.jpg" source="Moreno_044_1.jpg" n="161, 383, 314, 581"/>
             <figDesc>
               <locus target="Moreno_044.xml">Décimas glosadas y trovos para cantar los aficionados</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_044</note>
         </bibl>
       </sourceDesc>
@@ -47,10 +47,10 @@
           <term>Sombrero/Tocado</term>
           <term>Capa</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#atuendo" target="#sombrero" />
-        <catRef scheme="#atuendo" target="#capa" />
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#atuendo" target="#capa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,11 +58,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8105573/161,383,314,581/200,/0/default.jpg" />
+    <graphic url="fedora_ug8105573/161,383,314,581/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>

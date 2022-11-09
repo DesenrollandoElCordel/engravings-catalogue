@@ -12,24 +12,24 @@
       <publicationStmt>
         <authority>Bibliothèque Universitaire de Genève (BUNIGE)</authority>
         <availability status="restricted">
-          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/" />
+          <licence n="cc by nc sa" target="https://creativecommons.org/licenses/by-nc-sa/4.0/"/>
         </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title>grabado_m_109_1</title>
-          <author />
+          <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1853" cert="high">1853</date>
-          <ident type="DOI" />
+          <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104321/87,271,1058,911/full/0/default.jpg" source="Moreno_109_1.jpg" n="87, 271, 1058, 911" />
+            <graphic url="fedora_ug8104321/87,271,1058,911/full/0/default.jpg" source="Moreno_109_1.jpg" n="87, 271, 1058, 911"/>
             <figDesc>
               <locus target="Moreno_109.xml">Sátira graciosa en que se declara el litigio que tienen entre suegra y nuera</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar" />
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Moreno_109</note>
         </bibl>
       </sourceDesc>
@@ -47,10 +47,10 @@
           <term>Hablando</term>
           <term>Casa/Choza</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#mujeres" />
-        <catRef scheme="#actitud" target="#de_pie" />
-        <catRef scheme="#actitud" target="#hablando" />
-        <catRef scheme="#espacio_construido" target="#casa" />
+        <catRef scheme="#grupos_personajes" target="#mujeres"/>
+        <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#espacio_construido" target="#casa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,11 +58,11 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8104321/87,271,1058,911/200,/0/default.jpg" />
+    <graphic url="fedora_ug8104321/87,271,1058,911/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
-      <p />
+      <p/>
     </body>
   </text>
 </TEI>
