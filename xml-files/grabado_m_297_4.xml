@@ -24,12 +24,25 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_297_4.jpg" n="867, 195, 387, 814"/>
+            <graphic url="https://iiif.unige.ch/iiif/2/fedora_ug8103266/867,195,387,814/full/0/default.jpg" source="Moreno_297_4.jpg" n="867, 195, 387, 814"/>
             <figDesc>
               <locus target="Moreno_297.xml">Colección de canciones nuevas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="2">
+              <item>
+                <title corresp="grabado_m_246_2.xml">grabado_m_246_2</title>
+                <locus>Canción del rosero</locus>
+                <date when="1859" cert="high">1859</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_276_1.xml">grabado_m_276_1</title>
+                <locus>Relación de las cigarreras</locus>
+                <date when="1858" cert="high">1858</date>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Moreno_297</note>
         </bibl>
       </sourceDesc>
@@ -56,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="https://iiif.unige.ch/iiif/2/fedora_ug8103266/867,195,387,814/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

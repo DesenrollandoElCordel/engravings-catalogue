@@ -30,11 +30,16 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_255_2.xml">grabado_m_255_2</title>
                 <locus>Coplas glosadas en décimas y trovos muy discretos y entretenidos</locus>
                 <date when="1856" cert="high">1856</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_297_2.xml">grabado_m_297_2</title>
+                <locus>Colección de canciones nuevas</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
               <item>
                 <title corresp="grabado_m_313_2.xml">grabado_m_313_2</title>

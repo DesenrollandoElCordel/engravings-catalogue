@@ -55,15 +55,19 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Niño</term>
           <term>De pie</term>
           <term>Jesús</term>
           <term>Virgen María</term>
           <term>Ángel/Ángeles</term>
+          <term>Estrella</term>
         </keywords>
+        <catRef scheme="#personaje_masculino" target="#nino"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#religion" target="#jesus"/>
         <catRef scheme="#religion" target="#virgen_maria"/>
         <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#ambiente_natural" target="#estrella"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

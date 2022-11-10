@@ -24,7 +24,7 @@
           <date when="1865" cert="high">1865</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_360_1.jpg" n="451, 236, 478, 711"/>
+            <graphic url="fedora_ug8108722/451,236,478,711/full/0/default.jpg" source="Moreno_360_1.jpg" n="451, 236, 478, 711"/>
             <figDesc>
               <locus target="Moreno_360.xml">Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
             </figDesc>
@@ -38,8 +38,8 @@
               </item>
               <item>
                 <title corresp="grabado_m_372_1.xml">grabado_m_372_1</title>
-                <locus/>
-                <date/>
+                <locus>Pasillo nuevo titulado El animal de Ungría</locus>
+                <date when="1800" cert="low">[s.a.]</date>
               </item>
             </list>
           </note>
@@ -67,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8108722/451,236,478,711/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

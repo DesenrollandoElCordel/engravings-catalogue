@@ -24,7 +24,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_299_1.jpg" n="759, 843, 398, 670"/>
+            <graphic url="fedora_ug8106837/759,843,398,670/full/0/default.jpg" source="Moreno_299_1.jpg" n="759, 843, 398, 670"/>
             <figDesc>
               <locus target="Moreno_299.xml">Receta para las mujeres mal casadas</locus>
             </figDesc>
@@ -62,9 +62,11 @@
         <keywords>
           <term>Mujer</term>
           <term>De pie</term>
+          <term>Hablando</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#actitud" target="#de_pie"/>
+        <catRef scheme="#actitud" target="#hablando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -72,7 +74,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8106837/759,843,398,670/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

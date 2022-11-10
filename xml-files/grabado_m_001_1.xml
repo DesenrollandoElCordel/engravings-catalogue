@@ -30,11 +30,16 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
               <item>
                 <title corresp="grabado_m_281_1.xml">grabado_m_281_1</title>
                 <locus>Nueva relación burlesca</locus>
-                <date>1855</date>
+                <date when="1855" cert="high">1855</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_373_2.xml">grabado_m_373_2</title>
+                <locus>Relación nueva. Reglas de un dictámen, y dictámen de unas reglas</locus>
+                <date when="1865" cert="1865">1865</date>
               </item>
             </list>
           </note>

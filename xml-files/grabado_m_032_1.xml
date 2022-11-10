@@ -18,7 +18,7 @@
       <sourceDesc>
         <bibl>
           <title>grabado_m_032_1</title>
-          <author/>
+          <author>Castello</author>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>

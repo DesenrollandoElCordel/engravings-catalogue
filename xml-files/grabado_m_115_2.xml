@@ -30,7 +30,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="4">
+            <list n="5">
               <item>
                 <title corresp="grabado_m_053_2.xml">grabado_m_053_2</title>
                 <locus>Cartilla de casamientos</locus>
@@ -45,6 +45,11 @@
                 <title corresp="grabado_m_249_1.xml">grabado_m_249_1</title>
                 <locus>Trovos nuevos en que un galán enamorado de su dama le manifiesta el escesivo amor y cariño que la tiene</locus>
                 <date when="1859" cert="high">1859</date>
+              </item>
+              <item>
+                <title corresp="grabado_m_251_1.xml">grabado_m_251_1</title>
+                <locus>Colección de canciones españolas</locus>
+                <date when="1857">1857</date>
               </item>
               <item>
                 <title corresp="grabado_m_315_2.xml">grabado_m_315_2</title>

@@ -48,7 +48,6 @@
           <term>Guantes</term>
           <term>Sombrilla/Paraguas</term>
           <term>Cesta</term>
-          <term>Alcoba/Cocina</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#pareja"/>
         <catRef scheme="#actitud" target="#de_pie"/>
@@ -56,7 +55,6 @@
         <catRef scheme="#atuendo" target="#guantes"/>
         <catRef scheme="#atuendo" target="#sombrilla"/>
         <catRef scheme="#accesorios_varios" target="#cesta"/>
-        <catRef scheme="#espacio_construido" target="#alcoba"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

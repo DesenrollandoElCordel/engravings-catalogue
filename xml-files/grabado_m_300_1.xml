@@ -45,7 +45,7 @@
           <term>Hombre</term>
           <term>Tumbado, -a</term>
           <term>Sombrero/Tocado</term>
-          <term/>
+          <term>Pistola</term>
           <term>Espada</term>
           <term>Libro/Papeles</term>
           <term>Cama</term>
@@ -54,7 +54,7 @@
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#actitud" target="#tumbado"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#arma_de_fuego" target="#pistoleta"/>
+        <catRef scheme="#arma_de_fuego" target="#pistola"/>
         <catRef scheme="#arma_blanca" target="#espada"/>
         <catRef scheme="#accesorios_varios" target="#libro"/>
         <catRef scheme="#espacio_construido" target="#cama"/>

@@ -53,12 +53,10 @@
           <term>De pie</term>
           <term>Virgen María</term>
           <term>Jesús</term>
-          <term>Flor/Ramo de flores</term>
         </keywords>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#religion" target="#virgen_maria"/>
         <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

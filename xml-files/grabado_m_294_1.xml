@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_m_294_1</title>
-          <author/>
+          <author>M. Lopez</author>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_294_1.jpg" n="70, 242, 807, 870"/>
+            <graphic url="fedora_ug8106730/70,242,807,870/full/0/default.jpg" source="Moreno_294_1.jpg" n="70, 242, 807, 870"/>
             <figDesc>
               <locus target="Moreno_294.xml">Romance del valiente Santa Cruz</locus>
             </figDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8106730/70,242,807,870/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

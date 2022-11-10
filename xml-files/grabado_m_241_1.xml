@@ -24,7 +24,7 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_241_1.jpg" n="561, 193, 713, 959"/>
+            <graphic url="fedora_ug8104691/561,193,713,959/full/0/default.jpg" source="Moreno_241_1.jpg" n="561, 193, 713, 959"/>
             <figDesc>
               <locus target="Moreno_241.xml">Coplas para cantar los despertadores de las mañanas etc.</locus>
             </figDesc>
@@ -55,16 +55,18 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Niño</term>
           <term>De pie</term>
           <term>Virgen María</term>
           <term>Jesús</term>
-          <term/>
+          <term>Ángel/Ángeles</term>
           <term>Estrella</term>
         </keywords>
+        <catRef scheme="#personaje_masculino" target="#nino"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#religion" target="#virgen_maria"/>
         <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#angeles"/>
+        <catRef scheme="#religion" target="#angel"/>
         <catRef scheme="#ambiente_natural" target="#estrella"/>
       </textClass>
     </profileDesc>
@@ -73,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8104691/561,193,713,959/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
