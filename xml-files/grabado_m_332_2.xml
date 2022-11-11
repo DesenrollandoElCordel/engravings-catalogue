@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_332_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_332_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_332_1.jpg" n="748, 269, 347, 841"/>
+            <graphic url="fedora_ug8108593/748,269,347,841/full/0/default.jpg" source="Moreno_332_1.jpg" n="748, 269, 347, 841"/>
             <figDesc>
               <locus target="Moreno_332.xml">Pasillo nuevo andaluz ejecutado entre tío Curro el enamorado y Pepe el valentón</locus>
             </figDesc>
@@ -58,7 +57,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8108593/748,269,347,841/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

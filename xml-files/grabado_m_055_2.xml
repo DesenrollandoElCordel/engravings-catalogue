@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_055_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_055_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110058/196,272,1343,934/full/0/default.jpg" source="Moreno_055_5.jpg" n="196, 272, 1343, 934"/>
+            <graphic url="fedora_ug8110058/196,200,1343,934/full/0/default.jpg" source="Moreno_055_5.jpg" n="196, 200, 1343, 934"/>
             <figDesc>
               <locus target="Moreno_055.xml">El casamiento entre dos damas. Romance</locus>
             </figDesc>
@@ -66,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110058/196,272,1343,934/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8110058/196,200,1343,934/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_042_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_042_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107895/423,370,433,682/full/0/default.jpg" source="Moreno_042_1.jpg" n="423, 370, 433, 682"/>
+            <graphic url="fedora_ug8107895/400,330,410,650/full/0/default.jpg" source="Moreno_042_1.jpg" n="400, 330, 410, 650"/>
             <figDesc>
               <locus target="Moreno_042.xml">Despedida de dos finos amantes</locus>
             </figDesc>
@@ -66,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8107895/423,370,433,682/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8107895/400,330,410,650/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

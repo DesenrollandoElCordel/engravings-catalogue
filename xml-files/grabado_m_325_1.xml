@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_325_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_325_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_325_1.jpg" n="686, 371, 433, 723"/>
+            <graphic url="fedora_ug8105776/686,371,433,723/full/0/default.jpg" source="Moreno_325_1.jpg" n="686, 371, 433, 723"/>
             <figDesc>
               <locus target="Moreno_325.xml">Despedida de Madrid. Jácara divertida y chistosa</locus>
             </figDesc>
@@ -115,7 +114,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8105776/686,371,433,723/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

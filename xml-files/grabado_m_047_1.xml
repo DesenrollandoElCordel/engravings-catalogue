@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_047_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_047_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103265/368,221,909,738/full/0/default.jpg" source="Moreno_047_1.jpg" n="368, 221, 909, 738"/>
+            <graphic url="fedora_ug8103265/330,180,909,725/full/0/default.jpg" source="Moreno_047_1.jpg" n="330, 180, 909, 725"/>
             <figDesc>
               <locus target="Moreno_047.xml">Pasillo jocoso de la visita del hospital</locus>
             </figDesc>
@@ -68,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8103265/368,221,909,738/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8103265/330,180,909,725/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

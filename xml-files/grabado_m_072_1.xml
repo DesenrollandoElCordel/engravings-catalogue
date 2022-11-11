@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_072_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_072_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103534/545,274,498,752/full/0/default.jpg" source="Moreno_072_1.jpg" n="545, 274, 498, 752"/>
+            <graphic url="fedora_ug8103534/560,274,460,700/full/0/default.jpg" source="Moreno_072_1.jpg" n="560, 274, 460, 700"/>
             <figDesc>
               <locus target="Moreno_072.xml">Pasillo curioso y divertido de Enrique y Juana</locus>
             </figDesc>
@@ -64,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8103534/545,274,498,752/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8103534/560,274,460,700/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

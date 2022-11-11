@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_299_3">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_299_3</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_299_1.jpg" n="1156, 663, 428, 855"/>
+            <graphic url="fedora_ug8106837/1156,663,428,855/full/0/default.jpg" source="Moreno_299_1.jpg" n="1156, 663, 428, 855"/>
             <figDesc>
               <locus target="Moreno_299.xml">Receta para las mujeres mal casadas</locus>
             </figDesc>
@@ -73,7 +72,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8106837/1156,663,428,855/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

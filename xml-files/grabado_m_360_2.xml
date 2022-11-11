@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_360_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_360_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1865" cert="high">1865</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_360_1.jpg" n="940, 239, 449, 706"/>
+            <graphic url="fedora_ug8108722/940,239,449,706/full/0/default.jpg" source="Moreno_360_1.jpg" n="940, 239, 449, 706"/>
             <figDesc>
               <locus target="Moreno_360.xml">Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
             </figDesc>
@@ -76,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8108722/940,239,449,706/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

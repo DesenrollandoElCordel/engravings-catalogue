@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_273_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_273_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106871/264,142,1226,215/full/0/default.jpg" source="Moreno_273_2.jpg" n="264, 142, 1226, 215"/>
+            <graphic url="fedora_ug8106871/264,142,1000,90/full/0/default.jpg" source="Moreno_273_2.jpg" n="264, 142, 1000, 90"/>
             <figDesc>
               <locus target="Moreno_273.xml">Sainete titulado Pancho y Mendrugo</locus>
             </figDesc>
@@ -52,7 +51,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106871/264,142,1226,215/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106871/264,142,1000,90/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_052_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_052_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108050/585,151,717,662/full/0/default.jpg" source="Moreno_052_1.jpg" n="585, 151, 717, 662"/>
+            <graphic url="fedora_ug8108050/555,120,717,662/full/0/default.jpg" source="Moreno_052_1.jpg" n="555, 120, 717, 662"/>
             <figDesc>
               <locus target="Moreno_052.xml">Memorial de las mocitas andaluzas</locus>
             </figDesc>
@@ -64,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8108050/585,151,717,662/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8108050/555,120,717,662/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

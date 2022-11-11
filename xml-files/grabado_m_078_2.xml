@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_078_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_078_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105081/583,401,455,736/full/0/default.jpg" source="Moreno_078_1.jpg" n="583, 401, 455, 736"/>
+            <graphic url="fedora_ug8105081/553,370,455,736/200,/0/default.jpg" source="Moreno_078_1.jpg" n="553, 370, 455, 736"/>
             <figDesc>
               <locus target="Moreno_078.xml">Pasillo andaluz ejecutado por Antonia, José y Don Cándido. Por Juanillo el de Burgo</locus>
             </figDesc>
@@ -56,7 +55,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8105081/583,401,455,736/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8105081/553,370,455,736/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

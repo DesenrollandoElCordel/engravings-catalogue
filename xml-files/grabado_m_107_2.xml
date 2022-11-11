@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_107_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_107_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108954/884,301,308,740/full/0/default.jpg" source="Moreno_107_1.jpg" n="884, 301, 308, 740"/>
+            <graphic url="fedora_ug8108954/854,280,308,740/full/0/default.jpg" source="Moreno_107_1.jpg" n="854, 280, 308, 740"/>
             <figDesc>
               <locus target="Moreno_107.xml">Carta de amor que dirige un galán a su dama</locus>
             </figDesc>
@@ -116,7 +115,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8108954/884,301,308,740/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8108954/854,280,308,740/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

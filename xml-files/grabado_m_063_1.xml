@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_063_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_063_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110118/255,401,1200,731/full/0/default.jpg" source="Moreno_063_1.jpg" n="255, 401, 1200, 731"/>
+            <graphic url="fedora_ug8110118/245,360,1200,731/full/0/default.jpg" source="Moreno_063_1.jpg" n="245, 360, 1200, 731"/>
             <figDesc>
               <locus target="Moreno_063.xml">El raton de Canarias</locus>
             </figDesc>
@@ -56,7 +55,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110118/255,401,1200,731/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8110118/245,360,1200,731/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

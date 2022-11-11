@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_277_8">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_277_8</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_277_29.jpg" n="648, 190, 1321, 1054"/>
+            <graphic url="fedora_ug8109337/648,190,660,860/full/0/default.jpg" source="Moreno_277_29.jpg" n="648, 190, 1321, 1054"/>
             <figDesc>
               <locus target="Moreno_277.xml">Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</locus>
             </figDesc>
@@ -118,7 +117,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8109337/648,190,660,860/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_280_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_280_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_280_1.jpg" n="956, 328, 365, 605"/>
+            <graphic url="fedora_ug8110310/956,328,365,605/full/0/default.jpg" source="Moreno_280_1.jpg" n="956, 328, 365, 605"/>
             <figDesc>
               <locus target="Moreno_280.xml">Cada cual arrima el ascua. Pasillo nuevo entre hombre y muger</locus>
             </figDesc>
@@ -74,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8110310/956,328,365,605/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

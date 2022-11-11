@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_117_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_117_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106529/141,107,1375,831/full/0/default.jpg" source="Moreno_117_1.jpg" n="141, 107, 1375, 831"/>
+            <graphic url="fedora_ug8106529/201,90,1150,810/full/0/default.jpg" source="Moreno_117_1.jpg" n="201, 90, 1150, 810"/>
             <figDesc>
               <locus target="Moreno_117.xml">Vida ejemplar de santa Rosalía</locus>
             </figDesc>
@@ -72,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106529/141,107,1375,831/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106529/201,90,1150,810/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

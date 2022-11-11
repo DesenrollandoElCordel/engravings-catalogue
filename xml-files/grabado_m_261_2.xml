@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_261_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_261_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_261_1.jpg" n="851, 276, 459, 787"/>
+            <graphic url="fedora_ug8104401/851,276,459,787/full/0/default.jpg" source="Moreno_261_1.jpg" n="851, 276, 459, 787"/>
             <figDesc>
               <locus target="Moreno_261.xml">Nueva relación del torero andaluz</locus>
             </figDesc>
@@ -66,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8104401/851,276,459,787/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

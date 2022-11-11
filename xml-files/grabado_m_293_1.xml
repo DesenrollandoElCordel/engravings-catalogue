@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_293_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_293_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_293_1.jpg" n="483, 331, 430, 808"/>
+            <graphic url="fedora_ug8109108/483,331,430,808/full/0/default.jpg" source="Moreno_293_1.jpg" n="483, 331, 430, 808"/>
             <figDesc>
               <locus target="Moreno_293.xml">El fraile fingido</locus>
             </figDesc>
@@ -56,7 +55,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8109108/483,331,430,808/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

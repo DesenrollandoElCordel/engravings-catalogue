@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_368_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_368_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1863" cert="high">1863</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_368_5.jpg" n="176, 187, 1590, 361"/>
+            <graphic url="fedora_ug8109540/176,187,1410,161/full/0/default.jpg" source="Moreno_368_5.jpg" n="176, 187, 1590, 361"/>
             <figDesc>
               <locus target="Moreno_368.xml">El hechizo de Sevilla</locus>
             </figDesc>
@@ -52,7 +51,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8109540/176,187,1410,161/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

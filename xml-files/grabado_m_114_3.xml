@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_114_3">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_114_3</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109411/1220,502,453,708/full/0/default.jpg" source="Moreno_114_1.jpg" n="1220, 502, 453, 708"/>
+            <graphic url="fedora_ug8109411/1180,420,453,715/full/0/default.jpg" source="Moreno_114_1.jpg" n="1180, 420, 453, 715"/>
             <figDesc>
               <locus target="Moreno_114.xml">Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas, que las mugeres han notado</locus>
             </figDesc>
@@ -64,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109411/1220,502,453,708/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8109411/1180,420,453,715/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

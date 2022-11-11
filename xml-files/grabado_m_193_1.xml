@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_193_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_193_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106726/338,249,1326,1577/full/0/default.jpg" source="Moreno_193_1.jpg" n="338, 249, 1326, 1577"/>
+            <graphic url="fedora_ug8106726/338,249,1000,1320/full/0/default.jpg" source="Moreno_193_1.jpg" n="338, 249, 1000, 1320"/>
             <figDesc>
               <locus target="Moreno_193.xml">Devota oración a María Santísima del Pilar</locus>
             </figDesc>
@@ -70,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106726/338,249,1326,1577/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106726/338,249,1000,1320/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

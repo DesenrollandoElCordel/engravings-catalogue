@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_037_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_037_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103867/855,464,1223,1117/full/0/default.jpg" source="Moreno_037_1.jpg" n="855, 464, 1223, 1117"/>
+            <graphic url="fedora_ug8103867/855,464,380,650/full/0/default.jpg" source="Moreno_037_1.jpg" n="855, 464, 380, 650"/>
             <figDesc>
               <locus target="Moreno_037.xml">Chiste gracioso de un médico y un arriero</locus>
             </figDesc>
@@ -83,7 +82,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8103867/855,464,1223,1117/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8103867/855,464,380,650/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

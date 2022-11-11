@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_059_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_059_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106043/394,509,426,753/full/0/default.jpg" source="Moreno_059_1.jpg" n="394, 509, 426, 753"/>
+            <graphic url="fedora_ug8106043/350,480,415,705/full/0/default.jpg" source="Moreno_059_1.jpg" n="350, 480, 415, 705"/>
             <figDesc>
               <locus target="Moreno_059.xml">El valiente enamorao</locus>
             </figDesc>
@@ -110,7 +109,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106043/394,509,426,753/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106043/350,480,415,705/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

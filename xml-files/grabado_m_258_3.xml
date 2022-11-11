@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_258_3">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_258_3</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1867" cert="high">1867</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_258_3.jpg" n="2, 169, 1416, 267"/>
+            <graphic url="fedora_ug8109815/2,169,1416,85/full/0/default.jpg" source="Moreno_258_3.jpg" n="2, 169, 1416, 267"/>
             <figDesc>
               <locus target="Moreno_258.xml">Sainete titulado el caudal del estudiante</locus>
             </figDesc>
@@ -52,7 +51,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8109815/2,169,1416,85/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

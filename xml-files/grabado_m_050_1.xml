@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_050_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_050_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106070/454,408,1050,945/full/0/default.jpg" source="Moreno_050_1.jpg" n="454, 408, 1050, 945"/>
+            <graphic url="fedora_ug8106070/400,350,1020,945/full/0/default.jpg" source="Moreno_050_1.jpg" n="400, 350, 1020, 945"/>
             <figDesc>
               <locus target="Moreno_050.xml">Coloquio entre un moro y un cristiano sobre la pureza de la Virgen María</locus>
             </figDesc>
@@ -70,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8106070/454,408,1050,945/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8106070/400,350,1020,945/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

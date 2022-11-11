@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_328_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_328_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1860" cert="high">1860</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_328_1.jpg" n="101, 501, 471, 944"/>
+            <graphic url="fedora_ug8108418/101,501,471,944/full/0/default.jpg" source="Moreno_328_1.jpg" n="101, 501, 471, 944"/>
             <figDesc>
               <locus target="Moreno_328.xml">El matón de Andalucía</locus>
             </figDesc>
@@ -62,7 +61,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8108418/101,501,471,944/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

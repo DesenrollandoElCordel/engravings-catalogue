@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_068_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_068_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110314/959,407,464,611/full/0/default.jpg" source="Moreno_068_1.jpg" n="959, 407, 464, 611"/>
+            <graphic url="fedora_ug8110314/940,350,464,611/full/0/default.jpg" source="Moreno_068_1.jpg" n="940, 350, 464, 611"/>
             <figDesc>
               <locus target="Moreno_068.xml">Juan de Robles</locus>
             </figDesc>
@@ -75,7 +74,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110314/959,407,464,611/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8110314/940,350,464,611/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

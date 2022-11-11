@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_183_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_183_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1850" cert="high">1850</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109465/144,911,1102,967/full/0/default.jpg" source="Moreno_183_1.jpg" n="144, 911, 1102, 967"/>
+            <graphic url="fedora_ug8109465/144,911,960,50/full/0/default.jpg" source="Moreno_183_1.jpg" n="144, 911, 960, 50"/>
             <figDesc>
               <locus target="Moreno_183.xml">Sainete. El mesonero encantado</locus>
             </figDesc>
@@ -52,7 +51,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109465/144,911,1102,967/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8109465/144,911,960,50/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

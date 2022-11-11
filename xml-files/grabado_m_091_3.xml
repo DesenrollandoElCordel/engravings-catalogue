@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_091_3">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_091_3</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="" source="Moreno_091_1.jpg" n="528, 183, 233, 335"/>
+            <graphic url="fedora_ug8106525/528,183,233,335/full/0/default.jpg" source="Moreno_091_1.jpg" n="528, 183, 233, 335"/>
             <figDesc>
               <locus target="Moreno_091.xml">Coplas nuevas, para cantar los aficionados</locus>
             </figDesc>
@@ -69,7 +68,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="200,"/>
+    <graphic url="fedora_ug8106525/528,183,233,335/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

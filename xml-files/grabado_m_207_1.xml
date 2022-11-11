@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_207_1">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_207_1</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110126/194,207,1199,771/full/0/default.jpg" source="Moreno_207_1.jpg" n="194, 207, 1199, 771"/>
+            <graphic url="fedora_ug8110126/300,210,650,771/full/0/default.jpg" source="Moreno_207_1.jpg" n="300, 210, 650, 771"/>
             <figDesc>
               <locus target="Moreno_207.xml">Antonio Montero y Diego de Frías</locus>
             </figDesc>
@@ -71,7 +70,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8110126/194,207,1199,771/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8110126/300,210,650,771/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

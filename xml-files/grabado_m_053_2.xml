@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_053_2">
   <teiHeader>
     <fileDesc>
@@ -19,12 +18,12 @@
         <bibl>
           <title>grabado_m_053_2</title>
           <author/>
-          <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109900/908,322,420,652/full/0/default.jpg" source="Moreno_053_1.jpg" n="908, 322, 420, 652"/>
+            <graphic url="fedora_ug8109900/870,280,420,652/full/0/default.jpg" source="Moreno_053_1.jpg" n="870, 280, 420, 652"/>
             <figDesc>
               <locus target="Moreno_053.xml">Cartilla de casamientos</locus>
             </figDesc>
@@ -84,7 +83,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="fedora_ug8109900/908,322,420,652/200,/0/default.jpg"/>
+    <graphic url="fedora_ug8109900/870,280,420,652/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
