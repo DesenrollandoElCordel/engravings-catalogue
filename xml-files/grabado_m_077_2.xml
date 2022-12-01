@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_077_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110093/1090,510,480,725/full/0/default.jpg" source="Moreno_077_1.jpg" n="1090, 510, 480, 725"/>
+            <graphic url="fedora_ug8110093/1090,510,480,725/full/0/default.jpg"
+              source="Moreno_077_1.jpg" n="1090, 510, 480, 725"/>
             <figDesc>
               <locus target="Moreno_077.xml">Doña Teresa en la cueva</locus>
             </figDesc>
@@ -32,8 +34,12 @@
             <list n="1">
               <item>
                 <title corresp="grabado_m_348_2.xml">grabado_m_348_2</title>
-                <locus>Nueva relación burlesca en la que se refiere el chasco que le dio un arriero a un sacristán</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Nueva relación burlesca en la que se refiere el chasco que le dio un
+                    arriero a un sacristán</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +49,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

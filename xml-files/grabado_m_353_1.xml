@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_353_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106794/223,290,517,803/full/0/default.jpg" source="Moreno_353_1.jpg" n="223, 290, 517, 803"/>
+            <graphic url="fedora_ug8106794/223,290,517,803/full/0/default.jpg"
+              source="Moreno_353_1.jpg" n="223, 290, 517, 803"/>
             <figDesc>
               <locus target="Moreno_353.xml">Pasillo divertido entre Mazapán y Chicharrón</locus>
             </figDesc>
@@ -32,13 +34,20 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_078_3.xml">grabado_m_078_3</title>
-                <locus>Pasillo andaluz ejecutado por Antonia, José y Don Cándido, por Juanillo el de Burgo</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Pasillo andaluz ejecutado por Antonia, José y Don Cándido, por Juanillo el
+                    de Burgo</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_352_1.xml">grabado_m_352_1</title>
-                <locus>Pasillo divertido entre Mazapán y Chicharrón</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Pasillo divertido entre Mazapán y Chicharrón</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -48,7 +57,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

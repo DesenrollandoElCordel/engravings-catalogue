@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_322_2">
   <teiHeader>
     <fileDesc>
@@ -23,57 +24,88 @@
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105523/912,483,423,722/full/0/default.jpg" source="Moreno_322_1.jpg" n="912, 483, 423, 722"/>
+            <graphic url="fedora_ug8105523/912,483,423,722/full/0/default.jpg"
+              source="Moreno_322_1.jpg" n="912, 483, 423, 722"/>
             <figDesc>
-              <locus target="Moreno_322.xml">Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
+              <locus target="Moreno_322.xml">Don Pedro Juan de la Rosa y Doña María de
+                Bargas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="9">
               <item>
                 <title corresp="grabado_m_021_2.xml">grabado_m_021_2</title>
-                <locus>Matraca de hombre y muger</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Matraca de hombre y muger</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_042_2.xml">grabado_m_042_2</title>
-                <locus>Despedida de dos finos amantes</locus>
-                <date when="1855" cert="high">1855</date>
+                <bibl>
+                  <title>Despedida de dos finos amantes</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_130_2.xml">grabado_m_130_2</title>
-                <locus>Nueva relación elegre y divertida del chasco que le ha dado una muger á su marido siendo arriero</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Nueva relación elegre y divertida del chasco que le ha dado una muger á su
+                    marido siendo arriero</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_131_2.xml">grabado_m_131_2</title>
-                <locus>Nueva relación alegre y divertida del chasco que le ha dado una muger á su marido siendo arriero</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Nueva relación alegre y divertida del chasco que le ha dado una muger á su
+                    marido siendo arriero</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_173_2.xml">grabado_m_173_2</title>
-                <locus>Los dos príncipes de Italia</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Los dos príncipes de Italia</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_270_2.xml">grabado_m_270_2</title>
-                <locus>Nueva relación contra los hombres para mujer</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Nueva relación contra los hombres para mujer</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_274_2.xml">grabado_m_274_2</title>
-                <locus>Trobos nuevos y canciones</locus>
-                <date when="1855" cert="high">1855</date>
+                <bibl>
+                  <title>Trobos nuevos y canciones</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_279_3.xml">grabado_m_279_3</title>
-                <locus>Relación burlesca intitulada Suceso de la pulga</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Relación burlesca intitulada Suceso de la pulga</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_321_2.xml">grabado_m_321_2</title>
-                <locus>Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Don Pedro Juan de la Rosa y Doña María de Bargas</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -83,7 +115,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

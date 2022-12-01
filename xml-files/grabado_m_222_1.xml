@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_222_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106098/260,384,411,771/full/0/default.jpg" source="Moreno_222_1.jpg" n="260, 384, 411, 771"/>
+            <graphic url="fedora_ug8106098/260,384,411,771/full/0/default.jpg"
+              source="Moreno_222_1.jpg" n="260, 384, 411, 771"/>
             <figDesc>
               <locus target="Moreno_222.xml">Celinda y D. Antonio Moreno</locus>
             </figDesc>
@@ -32,8 +34,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_m_221_1.xml">grabado_m_221_1</title>
-                <locus>Celinda y D. Antonio Moreno</locus>
-                <date when="1861" cert="medium">1861 [?]</date>
+                <bibl>
+                  <title>Celinda y D. Antonio Moreno</title>
+                  <date when="1861" cert="medium">1861 [?]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +48,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

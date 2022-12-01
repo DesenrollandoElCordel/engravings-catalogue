@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_350_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107715/332,288,423,674/full/0/default.jpg" source="Moreno_350_1.jpg" n="332, 288, 423, 674"/>
+            <graphic url="fedora_ug8107715/332,288,423,674/full/0/default.jpg"
+              source="Moreno_350_1.jpg" n="332, 288, 423, 674"/>
             <figDesc>
               <locus target="Moreno_350.xml">La zurra. 1560 zapatazos a Culo-pelado</locus>
             </figDesc>
@@ -32,18 +34,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_212_2.xml">grabado_m_212_2</title>
-                <locus>Doña Rosa la cautiva</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Doña Rosa la cautiva</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_299_2.xml">grabado_m_299_2</title>
-                <locus>Receta para las mujeres mal casadas</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Receta para las mujeres mal casadas</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_349_1.xml">grabado_m_349_1</title>
-                <locus>La zurra. 1560 zapatazos a Culo-pelado</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>La zurra. 1560 zapatazos a Culo-pelado</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -53,7 +64,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

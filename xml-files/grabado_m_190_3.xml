@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_190_3">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104410/1018,222,360,777/full/0/default.jpg" source="Moreno_190_1.jpg" n="1018, 222, 360, 777"/>
+            <graphic url="fedora_ug8104410/1018,222,360,777/full/0/default.jpg"
+              source="Moreno_190_1.jpg" n="1018, 222, 360, 777"/>
             <figDesc>
               <locus target="Moreno_190.xml">El Maltés de Madrid</locus>
             </figDesc>
@@ -32,18 +34,28 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_062_1.xml">grabado_m_062_1</title>
-                <locus>Sátira muy graciosa de los trages y modas que se ponen muchas mugeres</locus>
-                <date when="1855" cert="high">1855</date>
+                <bibl>
+                  <title>Sátira muy graciosa de los trages y modas que se ponen muchas
+                    mugeres</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_191_1.xml">grabado_m_191_1</title>
-                <locus>El Maltés de Madrid</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>El Maltés de Madrid</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_214_1.xml">grabado_m_214_1</title>
-                <locus>Teresa Mojarro y Gangarilla</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Teresa Mojarro y Gangarilla</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -53,7 +65,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

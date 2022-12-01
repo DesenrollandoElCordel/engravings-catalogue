@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_256_1">
   <teiHeader>
     <fileDesc>
@@ -23,17 +24,22 @@
           <date when="1865" cert="high">1865</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107666/414,237,949,1317/full/0/default.jpg" source="Moreno_256_1.jpg" n="414, 237, 949, 1317"/>
+            <graphic url="fedora_ug8107666/414,237,949,1317/full/0/default.jpg"
+              source="Moreno_256_1.jpg" n="414, 237, 949, 1317"/>
             <figDesc>
-              <locus target="Moreno_256.xml">Famoso romance del gigante cananeo san Cristóbal</locus>
+              <locus target="Moreno_256.xml">Famoso romance del gigante cananeo san
+                Cristóbal</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_m_257_1.xml">grabado_m_257_1</title>
-                <locus>Famosos romances del gigante cananeo san Cristóbal</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Famosos romances del gigante cananeo san Cristóbal</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +49,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

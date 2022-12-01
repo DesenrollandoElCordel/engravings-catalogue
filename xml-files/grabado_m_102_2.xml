@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_102_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106040/629,371,989,955/full/0/default.jpg" source="Moreno_102_1.jpg" n="629, 371, 989, 955"/>
+            <graphic url="fedora_ug8106040/629,371,989,955/full/0/default.jpg"
+              source="Moreno_102_1.jpg" n="629, 371, 989, 955"/>
             <figDesc>
               <locus target="Moreno_102.xml">La doncella condenada. Nueva relación</locus>
             </figDesc>
@@ -32,13 +34,21 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_204_1.xml">grabado_m_204_1</title>
-                <locus>Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas</locus>
-                <date when="1861" cert="high">1861</date>
+                <bibl>
+                  <title>Romance gracioso y entretenido en que se refiere el testamento que hizo el
+                    maldito Judas</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_205_1.xml">grabado_m_205_1</title>
-                <locus>Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Romance gracioso y entretenido en que se refiere el testamento que hizo el
+                    maldito Judas</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -48,7 +58,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

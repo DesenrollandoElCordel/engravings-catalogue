@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_100_1">
   <teiHeader>
     <fileDesc>
@@ -23,9 +24,11 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107386/302,408,1251,928/full/0/default.jpg" source="Moreno_100_1.jpg" n="302, 408, 1251, 928"/>
+            <graphic url="fedora_ug8107386/302,408,1251,928/full/0/default.jpg"
+              source="Moreno_100_1.jpg" n="302, 408, 1251, 928"/>
             <figDesc>
-              <locus target="Moreno_100.xml">Relación histórica de la gloriosa virgen y mártir Santa Filomena</locus>
+              <locus target="Moreno_100.xml">Relación histórica de la gloriosa virgen y mártir Santa
+                Filomena</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,7 +38,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

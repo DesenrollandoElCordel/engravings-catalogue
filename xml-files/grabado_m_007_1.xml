@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_007_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109401/161,610,512,637/full/0/default.jpg" source="Moreno_007_1.jpg" n="161, 610, 512, 637"/>
+            <graphic url="fedora_ug8109401/161,610,512,637/full/0/default.jpg"
+              source="Moreno_007_1.jpg" n="161, 610, 512, 637"/>
             <figDesc>
               <locus target="Moreno_007.xml">Antonio Narváez y Rosaura</locus>
             </figDesc>
@@ -32,8 +34,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_m_068_1.xml">grabado_m_068_1</title>
-                <locus>Juan de Robles</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Juan de Robles</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +48,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
@@ -58,7 +66,7 @@
         <catRef scheme="#personaje_masculino" target="#soldado"/>
         <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#arma_de_fuego" target="#escopeta"/>
+        <catRef scheme="#todas" target="#escopeta"/>
         <catRef scheme="#arma_blanca" target="#espada"/>
       </textClass>
     </profileDesc>

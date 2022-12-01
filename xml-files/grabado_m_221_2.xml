@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_221_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1861" cert="medium">1861 [?]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109947/629,182,495,744/full/0/default.jpg" source="Moreno_221_1.jpg" n="629, 182, 495, 744"/>
+            <graphic url="fedora_ug8109947/629,182,495,744/full/0/default.jpg"
+              source="Moreno_221_1.jpg" n="629, 182, 495, 744"/>
             <figDesc>
               <locus target="Moreno_221.xml">Celinda y D. Antonio Moreno</locus>
             </figDesc>
@@ -32,13 +34,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_222_2.xml">grabado_m_222_2</title>
-                <locus>Celinda y D. Antonio Moreno</locus>
-                <date when="1858" cert="high">1857</date>
+                <bibl>
+                  <title>Celinda y D. Antonio Moreno</title>
+                  <date when="1858" cert="high">1857</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_363_2.xml">grabado_m_363_2</title>
-                <locus>Relación nueva. El mayor monstruo</locus>
-                <date when="1865" cert="high">1865</date>
+                <bibl>
+                  <title>Relación nueva. El mayor monstruo</title>
+                  <date when="1865" cert="high">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -48,7 +56,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

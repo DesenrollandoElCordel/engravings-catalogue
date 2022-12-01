@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_253_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110168/306,348,619,669/full/0/default.jpg" source="Moreno_253_1.jpg" n="306, 348, 619, 669"/>
+            <graphic url="fedora_ug8110168/306,348,619,669/full/0/default.jpg"
+              source="Moreno_253_1.jpg" n="306, 348, 619, 669"/>
             <figDesc>
               <locus target="Moreno_253.xml">Colección de canciones andaluzas</locus>
             </figDesc>
@@ -32,8 +34,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_m_246_1.xml">grabado_m_246_1</title>
-                <locus>Canción del rosero</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Canción del rosero</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +48,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

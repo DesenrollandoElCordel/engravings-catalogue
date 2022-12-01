@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_140_2">
   <teiHeader>
     <fileDesc>
@@ -23,37 +24,57 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108949/820,261,376,721/full/0/default.jpg" source="Moreno_140_1.jpg" n="820, 261, 376, 721"/>
+            <graphic url="fedora_ug8108949/820,261,376,721/full/0/default.jpg"
+              source="Moreno_140_1.jpg" n="820, 261, 376, 721"/>
             <figDesc>
-              <locus target="Moreno_140.xml">Trovos modernos en los que manifiesta un galán a su dama el mucho amor que le tiene</locus>
+              <locus target="Moreno_140.xml">Trovos modernos en los que manifiesta un galán a su
+                dama el mucho amor que le tiene</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="5">
               <item>
                 <title corresp="grabado_m_062_3.xml">grabado_m_062_3</title>
-                <locus>Sátira muy graciosa de los trages y modas que se ponen muchas mugeres</locus>
-                <date when="1855" cert="high">1855</date>
+                <bibl>
+                  <title>Sátira muy graciosa de los trages y modas que se ponen muchas
+                    mugeres</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_128_2.xml">grabado_m_128_2</title>
-                <locus>Diálogo entre galán y dama cuyo título es Cobrar la fama es nobleza y desempeñar su agravio</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Diálogo entre galán y dama cuyo título es Cobrar la fama es nobleza y
+                    desempeñar su agravio</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_139_2.xml">grabado_m_139_2</title>
-                <locus>Trovos modernos por los que manifiesta un galán a su dama el mucho amor que le tiene</locus>
-                <date when="1857" cert="high">1857</date>
+                <bibl>
+                  <title>Trovos modernos por los que manifiesta un galán a su dama el mucho amor que
+                    le tiene</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_151_2.xml">grabado_m_151_2</title>
-                <locus>Los amores de Madrid</locus>
-                <date when="1861" cert="high">1861</date>
+                <bibl>
+                  <title>Los amores de Madrid</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_281_2.xml">grabado_m_281_2</title>
-                <locus>Nueva relación burlesca</locus>
-                <date when="1855" cert="high">1855</date>
+                <bibl>
+                  <title>Nueva relación burlesca</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -63,7 +84,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

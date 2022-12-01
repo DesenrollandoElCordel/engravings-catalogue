@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_268_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104351/863,234,410,712/full/0/default.jpg" source="Moreno_268_1.jpg" n="863, 234, 410, 712"/>
+            <graphic url="fedora_ug8104351/863,234,410,712/full/0/default.jpg"
+              source="Moreno_268_1.jpg" n="863, 234, 410, 712"/>
             <figDesc>
               <locus target="Moreno_268.xml">Relación de Quintana</locus>
             </figDesc>
@@ -32,33 +34,53 @@
             <list n="6">
               <item>
                 <title corresp="grabado_m_113_2.xml">grabado_m_113_2</title>
-                <locus>Trovos nuevos para saber corresponder los finos amantes</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Trovos nuevos para saber corresponder los finos amantes</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_198_2.xml">grabado_m_198_2</title>
-                <locus>Pasillo de Diego Corriente</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Pasillo de Diego Corriente</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_250_2.xml">grabado_m_250_2</title>
-                <locus>Décimas glosadas en las que se manifiesta los desprecios que hace una dama a todos los que la pretenden</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Décimas glosadas en las que se manifiesta los desprecios que hace una dama
+                    a todos los que la pretenden</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_278_2.xml">grabado_m_278_2</title>
-                <locus>Décimas</locus>
-                <date when="1860" cert="high">1860</date>
+                <bibl>
+                  <title>Décimas</title>
+                  <date when="1860" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_314_1.xml">grabado_m_314_1</title>
-                <locus>Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Curioso romance de la vida, hechos y atrocidades de don Agustín
+                    Florencio</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_331_2.xml">grabado_m_331_2</title>
-                <locus>Relación en contra de las mugeres</locus>
-                <date when="1861" cert="high">1861</date>
+                <bibl>
+                  <title>Relación en contra de las mugeres</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -68,7 +90,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

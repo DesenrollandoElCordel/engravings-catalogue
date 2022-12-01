@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_210_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109770/140,421,386,682/full/0/default.jpg" source="Moreno_210_1.jpg" n="140, 421, 386, 682"/>
+            <graphic url="fedora_ug8109770/140,421,386,682/full/0/default.jpg"
+              source="Moreno_210_1.jpg" n="140, 421, 386, 682"/>
             <figDesc>
               <locus target="Moreno_210.xml">Florisela</locus>
             </figDesc>
@@ -32,18 +34,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_029_2.xml">grabado_m_029_2</title>
-                <locus>Pasillo del Cid Campeador</locus>
-                <date when="1853" cert="high">1853</date>
+                <bibl>
+                  <title>Pasillo del Cid Campeador</title>
+                  <date when="1853" cert="high">1853</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_173_1.xml">grabado_m_173_1</title>
-                <locus>Los dos príncipes de Italia</locus>
-                <date>1856</date>
+                <bibl>
+                  <title>Los dos príncipes de Italia</title>
+                  <date>1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_209_1.xml">grabado_m_209_1</title>
-                <locus>Florisela</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Florisela</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -53,7 +64,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

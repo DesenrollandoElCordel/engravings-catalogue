@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_264_2">
   <teiHeader>
     <fileDesc>
@@ -23,67 +24,106 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106587/850,242,334,725/full/0/default.jpg" source="Moreno_264_1.jpg" n="850, 242, 334, 725"/>
+            <graphic url="fedora_ug8106587/850,242,334,725/full/0/default.jpg"
+              source="Moreno_264_1.jpg" n="850, 242, 334, 725"/>
             <figDesc>
-              <locus target="Moreno_264.xml">Relación de Currillo y Don Camilo en verso andaluz</locus>
+              <locus target="Moreno_264.xml">Relación de Currillo y Don Camilo en verso
+                andaluz</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="11">
               <item>
                 <title corresp="grabado_m_010_1.xml">grabado_m_010_1</title>
-                <locus>Relación chistosa titulada Todas me gustan</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Relación chistosa titulada Todas me gustan</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_011_2.xml">grabado_m_011_2</title>
-                <locus>Relación chistosa titulada Todas me gustan</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Relación chistosa titulada Todas me gustan</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_062_2.xml">grabado_m_062_2</title>
-                <locus>Sátira muy graciosa de los trages y modas que se ponen muchas mugeres</locus>
-                <date when="1855" cert="high">1855</date>
+                <bibl>
+                  <title>Sátira muy graciosa de los trages y modas que se ponen muchas
+                    mugeres</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_107_2.xml">grabado_m_107_2</title>
-                <locus>Carta de amor que dirige un galán a su dama en la que se puede poner el nombre de cualquier muger</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Carta de amor que dirige un galán a su dama en la que se puede poner el
+                    nombre de cualquier muger</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_128_1.xml">grabado_m_128_1</title>
-                <locus>Diálogo entre galán y dama cuyo título es Cobrar la fama es nobleza y desempeñar su agravio</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Diálogo entre galán y dama cuyo título es Cobrar la fama es nobleza y
+                    desempeñar su agravio</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_141_2.xml">grabado_m_141_2</title>
-                <locus>Nueva relación de la riqueza y la pobreza</locus>
-                <date when="1851" cert="high">1851</date>
+                <bibl>
+                  <title>Nueva relación de la riqueza y la pobreza</title>
+                  <date when="1851" cert="high">1851</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_142_2.xml">grabado_m_142_2</title>
-                <locus>Nueva relación de la riqueza y la pobreza</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Nueva relación de la riqueza y la pobreza</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_190_2.xml">grabado_m_190_2</title>
-                <locus>El Maltés de Madrid</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>El Maltés de Madrid</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_191_2.xml">grabado_m_191_2</title>
-                <locus>El Maltés de Madrid</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>El Maltés de Madrid</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_265_2.xml">grabado_m_265_2</title>
-                <locus>Relación de Currillo y Don Camilo en verso andaluz</locus>
-                <date when="1866" cert="high">1866</date>
+                <bibl>
+                  <title>Relación de Currillo y Don Camilo en verso andaluz</title>
+                  <date when="1866" cert="high">1866</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_286_1.xml">grabado_m_286_1</title>
-                <locus>Trovos nuevos y divertidos para obsequiar un fino amante a su bella dama</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Trovos nuevos y divertidos para obsequiar un fino amante a su bella
+                    dama</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -93,7 +133,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

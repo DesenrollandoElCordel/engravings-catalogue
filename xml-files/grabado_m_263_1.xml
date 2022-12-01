@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_263_1">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110106/145,170,1467,2004/full/0/default.jpg" source="Moreno_263_1.jpg" n="145, 170, 1467, 2004"/>
+            <graphic url="fedora_ug8110106/145,170,1467,2004/full/0/default.jpg"
+              source="Moreno_263_1.jpg" n="145, 170, 1467, 2004"/>
             <figDesc>
               <locus target="Moreno_263.xml">Sainete del Sí</locus>
             </figDesc>
@@ -35,7 +37,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

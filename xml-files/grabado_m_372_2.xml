@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_372_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110079/809,236,433,701/full/0/default.jpg" source="Moreno_372_1.jpg" n="809, 236, 433, 701"/>
+            <graphic url="fedora_ug8110079/809,236,433,701/full/0/default.jpg"
+              source="Moreno_372_1.jpg" n="809, 236, 433, 701"/>
             <figDesc>
               <locus target="Moreno_372.xml">Pasillo nuevo titulado El animal de Ungría</locus>
             </figDesc>
@@ -32,18 +34,29 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_285_3.xml">grabado_m_285_3</title>
-                <locus>Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca</locus>
-                <date when="1860" cert="high">1860</date>
+                <bibl>
+                  <title>Admirable historia del príncipe Filiberto de Esparta y la princesa de
+                    Dinamarca</title>
+                  <date when="1860" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_360_2.xml">grabado_m_360_2</title>
-                <locus>Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</locus>
-                <date when="1865" cert="high">1865</date>
+                <bibl>
+                  <title>Relación nueva en todas ciencias y artes titulada El exceso en las
+                    mujeres</title>
+                  <date when="1865" cert="high">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_369_3.xml">grabado_m_369_3</title>
-                <locus>Boda de negros</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Boda de negros</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -53,7 +66,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

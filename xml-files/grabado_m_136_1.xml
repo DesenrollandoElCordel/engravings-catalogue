@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_136_1">
   <teiHeader>
     <fileDesc>
@@ -23,17 +24,22 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103648/398,302,1072,770/full/0/default.jpg" source="Moreno_136_1.jpg" n="398, 302, 1072, 770"/>
+            <graphic url="fedora_ug8103648/398,302,1072,770/full/0/default.jpg"
+              source="Moreno_136_1.jpg" n="398, 302, 1072, 770"/>
             <figDesc>
-              <locus target="Moreno_136.xml">Relación de la vida, pasión y muerte de Cristo nuestro señor</locus>
+              <locus target="Moreno_136.xml">Relación de la vida, pasión y muerte de Cristo nuestro
+                señor</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_m_135_1.xml">grabado_m_135_1</title>
-                <locus>Relación de la vida, pasión y muerte de Cristo nuestro señor</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Relación de la vida, pasión y muerte de Cristo nuestro señor</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +49,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

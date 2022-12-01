@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_175_1">
   <teiHeader>
     <fileDesc>
@@ -23,9 +24,11 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103988/566,317,705,893/full/0/default.jpg" source="Moreno_175_1.jpg" n="566, 317, 705, 893"/>
+            <graphic url="fedora_ug8103988/566,317,705,893/full/0/default.jpg"
+              source="Moreno_175_1.jpg" n="566, 317, 705, 893"/>
             <figDesc>
-              <locus target="Moreno_175.xml">Calendario nuevo y curioso para este presente año y todos los venideros</locus>
+              <locus target="Moreno_175.xml">Calendario nuevo y curioso para este presente año y
+                todos los venideros</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,7 +38,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

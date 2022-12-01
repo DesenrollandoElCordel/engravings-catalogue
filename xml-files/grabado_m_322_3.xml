@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_322_3">
   <teiHeader>
     <fileDesc>
@@ -23,17 +24,22 @@
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104178/276,494,691,561/full/0/default.jpg" source="Moreno_322_5.jpg" n="276, 494, 691, 561"/>
+            <graphic url="fedora_ug8104178/276,494,691,561/full/0/default.jpg"
+              source="Moreno_322_5.jpg" n="276, 494, 691, 561"/>
             <figDesc>
-              <locus target="Moreno_322.xml">Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
+              <locus target="Moreno_322.xml">Don Pedro Juan de la Rosa y Doña María de
+                Bargas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_m_321_3.xml">grabado_m_321_3</title>
-                <locus>Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
-                <date when="1859" cert="high">1859</date>
+                <bibl>
+                  <title>Don Pedro Juan de la Rosa y Doña María de Bargas</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -43,7 +49,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

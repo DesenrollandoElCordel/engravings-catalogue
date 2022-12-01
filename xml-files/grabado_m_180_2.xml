@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_180_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1853" cert="high">1853</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105888/890,439,382,689/full/0/default.jpg" source="Moreno_180_1.jpg" n="890, 439, 382, 689"/>
+            <graphic url="fedora_ug8105888/890,439,382,689/full/0/default.jpg"
+              source="Moreno_180_1.jpg" n="890, 439, 382, 689"/>
             <figDesc>
               <locus target="Moreno_180.xml">Agravios y desagravios de la reina Sultana</locus>
             </figDesc>
@@ -32,13 +34,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_007_3.xml">grabado_m_007_3</title>
-                <locus>Antonio Narváez y Rosaura</locus>
-                <date cert="high" when="1858">1858</date>
+                <bibl>
+                  <title>Antonio Narváez y Rosaura</title>
+                  <date cert="high" when="1858">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_179_2.xml">grabado_m_179_2</title>
-                <locus>Agravios y desagravios de la reina Sultana</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Agravios y desagravios de la reina Sultana</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -48,7 +56,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_246_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109470/754,203,450,842/full/0/default.jpg" source="Moreno_246_3.jpg" n="754, 203, 450, 842"/>
+            <graphic url="fedora_ug8109470/754,203,450,842/full/0/default.jpg"
+              source="Moreno_246_3.jpg" n="754, 203, 450, 842"/>
             <figDesc>
               <locus target="Moreno_246.xml">Canción del rosero</locus>
             </figDesc>
@@ -32,13 +34,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_m_276_1.xml">grabado_m_276_1</title>
-                <locus>Relación de las cigarreras</locus>
-                <date when="1858" cert="high">1858</date>
+                <bibl>
+                  <title>Relación de las cigarreras</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_297_4.xml">grabado_m_297_2</title>
-                <locus>Colección de canciones nuevas</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Colección de canciones nuevas</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -48,7 +56,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

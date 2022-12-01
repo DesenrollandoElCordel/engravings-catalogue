@@ -1,3 +1,4 @@
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_269_2">
   <teiHeader>
     <fileDesc>
@@ -23,7 +24,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110080/905,494,334,558/full/0/default.jpg" source="Moreno_269_1.jpg" n="905, 494, 334, 558"/>
+            <graphic url="fedora_ug8110080/905,494,334,558/full/0/default.jpg"
+              source="Moreno_269_1.jpg" n="905, 494, 334, 558"/>
             <figDesc>
               <locus target="Moreno_269.xml">Relación de Quintana</locus>
             </figDesc>
@@ -32,18 +34,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_m_021_1.xml">grabado_m_021_1</title>
-                <locus>Matraca de hombre y muger</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Matraca de hombre y muger</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_088_1.xml">grabado_m_088_1</title>
-                <locus>Juan Rana y Antón Rapao</locus>
-                <date when="1856" cert="high">1856</date>
+                <bibl>
+                  <title>Juan Rana y Antón Rapao</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_268_2.xml">grabado_m_268_2</title>
-                <locus>Relación de Quintana</locus>
-                <date when="1800" cert="low">[s.a.]</date>
+                <bibl>
+                  <title>Relación de Quintana</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -53,7 +64,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
