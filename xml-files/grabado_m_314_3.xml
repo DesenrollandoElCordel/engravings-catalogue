@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_314_3">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_314_3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108399/1125,303,402,788/full/0/default.jpg"
-              source="Moreno_314_1.jpg" n="1125, 303, 402, 788"/>
+            <graphic url="fedora_ug8108399/1125,303,402,788/full/0/default.jpg" source="Moreno_314_1.jpg" n="1125, 303, 402, 788"/>
             <figDesc>
-              <locus target="Moreno_314.xml">Curioso romance de la vida, hechos y atrocidades de don
-                Agustín Florencio</locus>
+              <locus target="Moreno_314.xml">Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -36,10 +33,10 @@
               <item>
                 <title corresp="grabado_m_178_2.xml">grabado_m_178_2</title>
                 <bibl>
-                  <title>Pasillo del capitán Cascada y el licenciado Torrejón</title>
-                  <date when="1856" cert="high">1856</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Pasillo del capitán Cascada y el licenciado Torrejón</title>
+                <date when="1856" cert="high">1856</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -49,10 +46,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

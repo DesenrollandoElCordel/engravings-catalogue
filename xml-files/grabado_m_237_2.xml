@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_237_2">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_237_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106316/611,273,471,710/full/0/default.jpg"
-              source="Moreno_237_1.jpg" n="611, 273, 471, 710"/>
+            <graphic url="fedora_ug8106316/611,273,471,710/full/0/default.jpg" source="Moreno_237_1.jpg" n="611, 273, 471, 710"/>
             <figDesc>
               <locus target="Moreno_237.xml">El rey Basilio de Dinamarca</locus>
             </figDesc>
@@ -35,66 +33,66 @@
               <item>
                 <title corresp="grabado_m_029_1.xml">grabado_m_029_1</title>
                 <bibl>
-                  <title>Pasillo del Cid Campeador, Don Rodrigo Díaz de Vivar</title>
-                  <date when="1853" cert="high">1853</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Pasillo del Cid Campeador, Don Rodrigo Díaz de Vivar</title>
+                <date when="1853" cert="high">1853</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_149_1.xml">grabado_m_149_1</title>
                 <bibl>
-                  <title>Pasillo de Sancho Ortiz de las Roelas</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Pasillo de Sancho Ortiz de las Roelas</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_167_1.xml">grabado_m_167_1</title>
                 <bibl>
-                  <title>La princesa Ismenia</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>La princesa Ismenia</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_168_1.xml">grabado_m_168_1</title>
                 <bibl>
-                  <title>La princesa Ismenia</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>La princesa Ismenia</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_187_1.xml">grabado_m_187_1</title>
                 <bibl>
-                  <title>Carlo Magno</title>
-                  <date when="1856" cert="high">1856</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Carlo Magno</title>
+                <date when="1856" cert="high">1856</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_209_3.xml">grabado_m_209_3</title>
                 <bibl>
-                  <title>Florisela</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Florisela</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_210_3.xml">grabado_m_210_3</title>
                 <bibl>
-                  <title>Florisela</title>
-                  <date when="1856" cert="high">1856</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Florisela</title>
+                <date when="1856" cert="high">1856</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_236_2.xml">grabado_m_236_2</title>
                 <bibl>
-                  <title>El rey Basilio de Dinamarca</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>El rey Basilio de Dinamarca</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -104,10 +102,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

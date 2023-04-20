@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_338_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_338_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107922/717,287,745,999/full/0/default.jpg"
-              source="Moreno_338_1.jpg" n="717, 287, 745, 999"/>
+            <graphic url="fedora_ug8107922/717,287,745,999/full/0/default.jpg" source="Moreno_338_1.jpg" n="717, 287, 745, 999"/>
             <figDesc>
-              <locus target="Moreno_338.xml">Décimas trovadas, que cantan al valiente ejército
-                español</locus>
+              <locus target="Moreno_338.xml">Décimas trovadas, que cantan al valiente ejército español</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -36,11 +33,10 @@
               <item>
                 <title corresp="grabado_m_374_1.xml">grabado_m_374_1</title>
                 <bibl>
-                  <title>Décimas trovadas que cantan al valiente ejército español vencedor de la
-                    raza mahometana en África</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Décimas trovadas que cantan al valiente ejército español vencedor de la raza mahometana en África</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -50,10 +46,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

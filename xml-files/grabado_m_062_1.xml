@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_062_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_062_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110130/330,180,369,770/full/0/default.jpg"
-              source="Moreno_062_1.jpg" n="330, 180, 369, 770"/>
+            <graphic url="fedora_ug8110130/330,180,369,770/full/0/default.jpg" source="Moreno_062_1.jpg" n="330, 180, 369, 770"/>
             <figDesc>
-              <locus target="Moreno_062.xml">Sátira muy graciosa de los trages y modas que se ponen
-                muchas mugeres</locus>
+              <locus target="Moreno_062.xml">Sátira muy graciosa de los trages y modas que se ponen muchas mugeres</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -36,26 +33,26 @@
               <item>
                 <title corresp="grabado_m_190_3.xml">grabado_m_190_3</title>
                 <bibl>
-                  <title>El Maltés de Madrid</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>El Maltés de Madrid</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_191_1.xml">grabado_m_191_1</title>
                 <bibl>
-                  <title>El Maltés de Madrid</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>El Maltés de Madrid</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_214_1.xml">grabado_m_214_1</title>
                 <bibl>
-                  <title>Teresa Mojarro y Gangarilla</title>
-                  <date when="1856" cert="high">1856</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Teresa Mojarro y Gangarilla</title>
+                <date when="1856" cert="high">1856</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -65,10 +62,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_228_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_228_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106737/502,516,844,684/full/0/default.jpg"
-              source="Moreno_228_1.jpg" n="502, 516, 844, 684"/>
+            <graphic url="fedora_ug8106737/502,516,844,684/full/0/default.jpg" source="Moreno_228_1.jpg" n="502, 516, 844, 684"/>
             <figDesc>
               <locus target="Moreno_228.xml">Siete hermanos vandoleros</locus>
             </figDesc>
@@ -37,10 +35,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

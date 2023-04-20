@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_338_2">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_338_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107922/256,605,469,647/full/0/default.jpg"
-              source="Moreno_338_1.jpg" n="256, 605, 469, 647"/>
+            <graphic url="fedora_ug8107922/256,605,469,647/full/0/default.jpg" source="Moreno_338_1.jpg" n="256, 605, 469, 647"/>
             <figDesc>
-              <locus target="Moreno_338.xml">Décimas trovadas, que cantan al valiente ejército
-                español</locus>
+              <locus target="Moreno_338.xml">Décimas trovadas, que cantan al valiente ejército español</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -36,98 +33,90 @@
               <item>
                 <title corresp="grabado_m_111_1.xml">grabado_m_111_1</title>
                 <bibl>
-                  <title>Décimas nuevas de la sagrada pasión</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Décimas nuevas de la sagrada pasión</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_188_2.xml">grabado_m_188_2</title>
                 <bibl>
-                  <title>El contador espiritual</title>
-                  <date when="1857" cert="high">1857</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>El contador espiritual</title>
+                <date when="1857" cert="high">1857</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_189_2.xml">grabado_m_189_2</title>
                 <bibl>
-                  <title>El contador espiritual</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>El contador espiritual</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_1.xml">grabado_m_277_1</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_2.xml">grabado_m_277_2</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_3.xml">grabado_m_277_3</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_4.xml">grabado_m_277_4</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_5.xml">grabado_m_277_5</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_6.xml">grabado_m_277_6</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_7.xml">grabado_m_277_7</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_277_8.xml">grabado_m_277_8</title>
                 <bibl>
-                  <title>Relación que pueden representar dos niños esplicando los principales
-                    Misterios de nuestra Santa Fé</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación que pueden representar dos niños esplicando los principales Misterios de nuestra Santa Fé</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -137,10 +126,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

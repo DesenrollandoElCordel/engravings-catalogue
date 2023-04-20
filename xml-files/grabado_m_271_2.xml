@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_271_2">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_271_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105265/877,389,475,693/full/0/default.jpg"
-              source="Moreno_271_1.jpg" n="877, 389, 475, 693"/>
+            <graphic url="fedora_ug8105265/877,389,475,693/full/0/default.jpg" source="Moreno_271_1.jpg" n="877, 389, 475, 693"/>
             <figDesc>
               <locus target="Moreno_271.xml">Pedro Becerra o el corazón de un bandido</locus>
             </figDesc>
@@ -35,35 +33,34 @@
               <item>
                 <title corresp="grabado_m_059_2.xml">grabado_m_059_2</title>
                 <bibl>
-                  <title>El valiente enamorao</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>El valiente enamorao</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_229_1.xml">grabado_m_229_1</title>
                 <bibl>
-                  <title>Relación andaluza de las hazañas hechos y valentías de Pepillo el
-                    Jerezano</title>
-                  <date when="1859" cert="high">1859</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación andaluza de las hazañas hechos y valentías de Pepillo el Jerezano</title>
+                <date when="1859" cert="high">1859</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_234_3.xml">grabado_m_234_3</title>
                 <bibl>
-                  <title>Relación burlesca El bañado en los pelambres</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación burlesca El bañado en los pelambres</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_342_2.xml">grabado_m_342_2</title>
                 <bibl>
-                  <title>Pregunta que hace un curioso a su amigo aventurero</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Pregunta que hace un curioso a su amigo aventurero</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -73,10 +70,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_125_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_125_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104730/707,482,376,893/full/0/default.jpg"
-              source="Moreno_125_1.jpg" n="707, 482, 376, 893"/>
+            <graphic url="fedora_ug8104730/707,482,376,893/full/0/default.jpg" source="Moreno_125_1.jpg" n="707, 482, 376, 893"/>
             <figDesc>
               <locus target="Moreno_125.xml">La divina Peregrina</locus>
             </figDesc>
@@ -35,18 +33,18 @@
               <item>
                 <title corresp="grabado_m_027_2.xml">grabado_m_027_2</title>
                 <bibl>
-                  <title>Nueva y curiosa relación de la peregrina doctora</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Nueva y curiosa relación de la peregrina doctora</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_126_1.xml">grabado_m_126_1</title>
                 <bibl>
-                  <title>La divina Peregrina</title>
-                  <date when="1800">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>La divina Peregrina</title>
+                <date when="1800">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -56,10 +54,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

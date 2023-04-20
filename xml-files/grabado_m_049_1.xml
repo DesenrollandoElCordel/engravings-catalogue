@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_049_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_049_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105156/560,170,399,793/200,/0/default.jpg"
-              source="Moreno_049_1.jpg" n="560, 170, 399, 793"/>
+            <graphic url="fedora_ug8105156/560,170,399,793/full/0/default.jpg" source="Moreno_049_1.jpg" n="560, 170, 399, 793"/>
             <figDesc>
               <locus target="Moreno_049.xml">La tía Girula. Chiste moderno</locus>
             </figDesc>
@@ -35,26 +33,26 @@
               <item>
                 <title corresp="grabado_m_048_1.xml">grabado_m_048_1</title>
                 <bibl>
-                  <title>La tía Girula. Chiste moderno</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>La tía Girula. Chiste moderno</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_090_1.xml">grabado_m_090_1</title>
                 <bibl>
-                  <title>Canción de la Pepa</title>
-                  <date when="1855" cert="high">1855</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Canción de la Pepa</title>
+                <date when="1855" cert="high">1855</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_288_2.xml">grabado_m_288_2</title>
                 <bibl>
-                  <title>Pasillo en verso andaluz. Lo ejecutan Curro, Dolores y El Tremendo</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Pasillo en verso andaluz. Lo ejecutan Curro, Dolores y El Tremendo</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -64,10 +62,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

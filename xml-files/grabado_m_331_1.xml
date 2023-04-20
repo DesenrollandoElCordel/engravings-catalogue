@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_331_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_331_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105478/214,257,460,819/full/0/default.jpg"
-              source="Moreno_331_1.jpg" n="214, 257, 460, 819"/>
+            <graphic url="fedora_ug8105478/214,257,460,819/full/0/default.jpg" source="Moreno_331_1.jpg" n="214, 257, 460, 819"/>
             <figDesc>
               <locus target="Moreno_331.xml">Relación en contra de las mugeres</locus>
             </figDesc>
@@ -35,18 +33,18 @@
               <item>
                 <title corresp="grabado_m_116_1.xml">grabado_m_116_1</title>
                 <bibl>
-                  <title>Sainete nuevo titulado La estatua fingida o Jorge el Sagristán</title>
-                  <date when="1864" cert="high">1864</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Sainete nuevo titulado La estatua fingida o Jorge el Sagristán</title>
+                <date when="1864" cert="high">1864</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_279_1.xml">grabado_m_279_1</title>
                 <bibl>
-                  <title>Relación burlesca intitulada Suceso de la pulga</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación burlesca intitulada Suceso de la pulga</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -56,10 +54,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

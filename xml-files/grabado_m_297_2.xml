@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_297_2">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_297_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109531/847,344,469,696/full/0/default.jpg"
-              source="Moreno_297_1.jpg" n="847, 344, 469, 696"/>
+            <graphic url="fedora_ug8109531/847,344,469,696/full/0/default.jpg" source="Moreno_297_1.jpg" n="847, 344, 469, 696"/>
             <figDesc>
               <locus target="Moreno_297.xml">Colección de canciones nuevas</locus>
             </figDesc>
@@ -35,26 +33,26 @@
               <item>
                 <title corresp="grabado_m_246_2.xml">grabado_m_246_2</title>
                 <bibl>
-                  <title>Canción del rosero</title>
-                  <date when="1859" cert="high">1859</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Canción del rosero</title>
+                <date when="1859" cert="high">1859</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_276_1.xml">grabado_m_276_1</title>
                 <bibl>
-                  <title>Relación de las cigarreras</title>
-                  <date when="1858" cert="high">1858</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación de las cigarreras</title>
+                <date when="1858" cert="high">1858</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_313_2.xml">grabado_m_313_2</title>
                 <bibl>
-                  <title>Décimas nuevas para cantar los aficionados a la guitarra</title>
-                  <date when="1864" cert="high">1864</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Décimas nuevas para cantar los aficionados a la guitarra</title>
+                <date when="1864" cert="high">1864</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -64,10 +62,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

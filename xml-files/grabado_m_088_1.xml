@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_088_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_088_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109991/462,361,362,610/full/0/default.jpg"
-              source="Moreno_088_1.jpg" n="462, 361, 362, 610"/>
+            <graphic url="fedora_ug8109991/462,361,362,610/full/0/default.jpg" source="Moreno_088_1.jpg" n="462, 361, 362, 610"/>
             <figDesc>
               <locus target="Moreno_088.xml">Juan Rana y Antón Rapao</locus>
             </figDesc>
@@ -35,26 +33,26 @@
               <item>
                 <title corresp="grabado_m_021_1.xml">grabado_m_021_1</title>
                 <bibl>
-                  <title>Matraca de hombre y muger</title>
-                  <date when="1856" cert="high">1856</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Matraca de hombre y muger</title>
+                <date when="1856" cert="high">1856</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_268_2.xml">grabado_m_268_2</title>
                 <bibl>
-                  <title>Relación de Quintana</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación de Quintana</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_269_2.xml">grabado_m_269_2</title>
                 <bibl>
-                  <title>Relación de Quintana</title>
-                  <date when="1859" cert="high">1859</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Relación de Quintana</title>
+                <date when="1859" cert="high">1859</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -64,10 +62,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

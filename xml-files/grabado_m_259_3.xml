@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_259_3">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_259_3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105183/962,293,469,651/full/0/default.jpg"
-              source="Moreno_259_1.jpg" n="962, 293, 469, 651"/>
+            <graphic url="fedora_ug8105183/962,293,469,651/full/0/default.jpg" source="Moreno_259_1.jpg" n="962, 293, 469, 651"/>
             <figDesc>
-              <locus target="Moreno_259.xml">Coplas nuevas glosadas en décimas para cantar los
-                aficionados</locus>
+              <locus target="Moreno_259.xml">Coplas nuevas glosadas en décimas para cantar los aficionados</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -36,18 +33,18 @@
               <item>
                 <title corresp="grabado_m_091_3.xml">grabado_m_091_3</title>
                 <bibl>
-                  <title>Coplas nuevas, para cantar los aficionados</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Coplas nuevas, para cantar los aficionados</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_371_3.xml">grabado_m_371_3</title>
                 <bibl>
-                  <title>Coplas nuevas para cantar los aficionados </title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Coplas nuevas para cantar los aficionados </title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -57,10 +54,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

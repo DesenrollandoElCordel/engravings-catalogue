@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_318_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_318_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1849" cert="high">1849</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109378/452,294,926,1079/full/0/default.jpg"
-              source="Moreno_318_1.jpg" n="452, 294, 926, 1079"/>
+            <graphic url="fedora_ug8109378/452,294,926,1079/full/0/default.jpg" source="Moreno_318_1.jpg" n="452, 294, 926, 1079"/>
             <figDesc>
-              <locus target="Moreno_318.xml">Descripción del genio y condiciones que tienen los
-                habitantes de las diferentes provincias de España</locus>
+              <locus target="Moreno_318.xml">Descripción del genio y condiciones que tienen los habitantes de las diferentes provincias de España</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -38,10 +35,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

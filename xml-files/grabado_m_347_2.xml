@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_347_2">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_347_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,9 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110108/681,175,432,823/full/0/default.jpg"
-              source="Moreno_347_1.jpg" n="681, 175, 432, 823"/>
+            <graphic url="fedora_ug8110108/681,175,432,823/full/0/default.jpg" source="Moreno_347_1.jpg" n="681, 175, 432, 823"/>
             <figDesc>
-              <locus target="Moreno_347.xml">Coplas nuevas en que se declara un amante y dama su
-                amor</locus>
+              <locus target="Moreno_347.xml">Coplas nuevas en que se declara un amante y dama su amor</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -36,19 +33,18 @@
               <item>
                 <title corresp="grabado_m_067_1.xml">grabado_m_067_1</title>
                 <bibl>
-                  <title>Sátira nueva, graciosa y entretenida en que se declara el casamiento que
-                    hizo Francisquito</title>
-                  <date when="1860" cert="high">1860</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Sátira nueva, graciosa y entretenida en que se declara el casamiento que hizo Francisquito</title>
+                <date when="1860" cert="high">1860</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_283_2.xml">grabado_m_283_2</title>
                 <bibl>
-                  <title>Los tristes recuerdos de un miriñaque</title>
-                  <date when="1865" cert="high">1865</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Los tristes recuerdos de un miriñaque</title>
+                <date when="1865" cert="high">1865</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -58,10 +54,7 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>

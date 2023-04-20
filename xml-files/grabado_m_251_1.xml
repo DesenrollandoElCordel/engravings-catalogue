@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_251_1">
+<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_251_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107728/732,300,456,690/full/0/default.jpg"
-              source="Moreno_251_1.jpg" n="732, 300, 456, 690"/>
+            <graphic url="fedora_ug8107728/732,300,456,690/full/0/default.jpg" source="Moreno_251_1.jpg" n="732, 300, 456, 690"/>
             <figDesc>
               <locus target="Moreno_251.xml">Colección de canciones españolas</locus>
             </figDesc>
@@ -35,45 +33,42 @@
               <item>
                 <title corresp="grabado_m_053_2.xml">grabado_m_053_2</title>
                 <bibl>
-                  <title>Cartilla de casamientos</title>
-                  <date when="1859" cert="high">1859</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Cartilla de casamientos</title>
+                <date when="1859" cert="high">1859</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_114_2.xml">grabado_m_114_2</title>
                 <bibl>
-                  <title>Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas,
-                    que las mugeres han notado en los hombres</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas, que las mugeres han notado en los hombres</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_115_2.xml">grabado_m_115_2</title>
                 <bibl>
-                  <title>Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas,
-                    que las mugeres han notado en los hombres</title>
-                  <date when="1800" cert="low">[s.a.]</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas, que las mugeres han notado en los hombres</title>
+                <date when="1800" cert="low">[s.a.]</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_249_1.xml">grabado_m_249_1</title>
                 <bibl>
-                  <title>Trovos nuevos en que un galán enamorado de su dama le manifiesta el
-                    escesivo amor y cariño que la tiene</title>
-                  <date when="1859" cert="high">1859</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Trovos nuevos en que un galán enamorado de su dama le manifiesta el escesivo amor y cariño que la tiene</title>
+                <date when="1859" cert="high">1859</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
               <item>
                 <title corresp="grabado_m_315_2.xml">grabado_m_315_2</title>
                 <bibl>
-                  <title>Décimas nuevas</title>
-                  <date when="1857" cert="high">1857</date>
-                  <publisher>José María Moreno</publisher>
-                </bibl>
+<title>Décimas nuevas</title>
+                <date when="1857" cert="high">1857</date>
+<publisher>José María Moreno</publisher>
+</bibl>
               </item>
             </list>
           </note>
@@ -83,14 +78,13 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
-          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
-          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
-          Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
-      <textClass> </textClass>
+      <textClass>
+        
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change who="#EL" when="2021-11-22">Creación del documento</change>
