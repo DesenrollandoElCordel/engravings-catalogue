@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_253_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_253_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110168/306,348,619,669/full/0/default.jpg" source="Moreno_253_1.jpg" n="306, 348, 619, 669"/>
+            <graphic url="fedora_ug8110168/306,348,619,669/full/0/default.jpg"
+              source="Moreno_253_1.jpg" n="306, 348, 619, 669"/>
             <figDesc>
               <locus target="Moreno_253.xml">Colección de canciones andaluzas</locus>
             </figDesc>
@@ -33,10 +35,10 @@
               <item>
                 <title corresp="grabado_m_246_1.xml">grabado_m_246_1</title>
                 <bibl>
-<title>Canción del rosero</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Canción del rosero</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,25 +48,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>Sentado, -a</term>
-          <term>Tocando música</term>
-          <term>Guitarra/Vihuela/Laúd</term>
-          <term>Peldaño</term>
-          <term>Silla/Banco</term>
+          <term>Instrumentos musicales</term>
+          <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#instrumento_musical" target="#guitarra"/>
-        <catRef scheme="#accesorios_varios" target="#peldano"/>
-        <catRef scheme="#espacio_construido" target="#silla"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

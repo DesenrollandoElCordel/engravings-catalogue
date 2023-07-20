@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_207_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_207_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110126/940,272,500,700/full/0/default.jpg" source="Moreno_207_1.jpg" n="940, 272, 500, 700"/>
+            <graphic url="fedora_ug8110126/940,272,500,700/full/0/default.jpg"
+              source="Moreno_207_1.jpg" n="940, 272, 500, 700"/>
             <figDesc>
               <locus target="Moreno_207.xml">Antonio Montero y Diego de Frías</locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_206_2.xml">grabado_m_206_2</title>
                 <bibl>
-<title>Antonio Montero y Diego de Frías</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Antonio Montero y Diego de Frías</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,21 +49,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
-          <term>Capa</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

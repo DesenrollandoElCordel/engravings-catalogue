@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_100_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_100_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107386/302,408,1251,928/full/0/default.jpg" source="Moreno_100_1.jpg" n="302, 408, 1251, 928"/>
+            <graphic url="fedora_ug8107386/302,408,1251,928/full/0/default.jpg"
+              source="Moreno_100_1.jpg" n="302, 408, 1251, 928"/>
             <figDesc>
-              <locus target="Moreno_100.xml">Relación histórica de la gloriosa virgen y mártir Santa Filomena</locus>
+              <locus target="Moreno_100.xml">Relación histórica de la gloriosa virgen y mártir Santa
+                Filomena</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,23 +39,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujer</term>
-          <term>Tumbado, -a</term>
-          <term>Calavera</term>
-          <term>Flor/Ramo de flores</term>
-          <term>Sepulcro</term>
+          <term>Muerte</term>
+          <term>Santo/Santa</term>
+          <term>Flores</term>
+          <term>Lugar de sepultura</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#tumbado"/>
-        <catRef scheme="#muerte" target="#calavera"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
-        <catRef scheme="#espacio_construido" target="#sepulcro"/>
+        <catRef scheme="#muerte" target="#muerte"/>
+        <catRef scheme="#religion" target="#santo"/>
+        <catRef scheme="#accesorios" target="#flor"/>
+        <catRef scheme="#construidos" target="#sepultura"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

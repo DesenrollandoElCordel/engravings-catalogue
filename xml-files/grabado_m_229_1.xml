@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_229_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_229_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +24,11 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110010/611,315,544,694/full/0/default.jpg" source="Moreno_229_1.jpg" n="611, 315, 544, 694"/>
+            <graphic url="fedora_ug8110010/611,315,544,694/full/0/default.jpg"
+              source="Moreno_229_1.jpg" n="611, 315, 544, 694"/>
             <figDesc>
-              <locus target="Moreno_229.xml">Relación andaluza de las hazañas hechos y valentías de Pepillo el Jerezano</locus>
+              <locus target="Moreno_229.xml">Relación andaluza de las hazañas hechos y valentías de
+                Pepillo el Jerezano</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,34 +36,34 @@
               <item>
                 <title corresp="grabado_m_059_2.xml">grabado_m_059_2</title>
                 <bibl>
-<title>El valiente enamorao</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>El valiente enamorao</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_234_3.xml">grabado_m_234_3</title>
                 <bibl>
-<title>Relación burlesca El bañado en los pelambres</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación burlesca El bañado en los pelambres</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_271_2.xml">grabado_m_271_2</title>
                 <bibl>
-<title>Pedro Becerra o el corazón de un bandido</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pedro Becerra o el corazón de un bandido</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_342_2.xml">grabado_m_342_2</title>
                 <bibl>
-<title>Pregunta que hace un curioso a su amigo aventurero</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pregunta que hace un curioso a su amigo aventurero</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,23 +73,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
           <term>Fumando</term>
-          <term>Sombrero/Tocado</term>
-          <term>Capa</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#fumando"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
+        <catRef scheme="#accion" target="#fumando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

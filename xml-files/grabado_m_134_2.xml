@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_134_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_134_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104033/185,146,590,929/full/0/default.jpg" source="Moreno_134_1.jpg" n="185, 146, 590, 929"/>
+            <graphic url="fedora_ug8104033/185,146,590,929/full/0/default.jpg"
+              source="Moreno_134_1.jpg" n="185, 146, 590, 929"/>
             <figDesc>
               <locus target="Moreno_134.xml">Rosaura la de Trujillo</locus>
             </figDesc>
@@ -35,29 +38,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Perro</term>
-          <term>Liebre/Conejo</term>
-          <term>Sombrero/Tocado</term>
-          <term>Escopeta</term>
-          <term>Árbol</term>
-          <term>Bosque/Selva</term>
+          <term>Animales domésticos</term>
+          <term>Armas</term>
+          <term>Bosque</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#animales" target="#perro"/>
-        <catRef scheme="#animales" target="#liebre"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#arma_de_fuego" target="#escopeta"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
-        <catRef scheme="#ambiente_natural" target="#bosque"/>
+        <catRef scheme="#animales" target="#domesticos"/>
+        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#naturales" target="#bosque"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

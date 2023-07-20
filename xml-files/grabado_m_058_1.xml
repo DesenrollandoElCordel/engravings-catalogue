@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_058_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_058_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108960/216,353,1414,1903/full/0/default.jpg" source="Moreno_058_1.jpg" n="216, 353, 1414, 1903"/>
+            <graphic url="fedora_ug8108960/216,353,1414,1903/full/0/default.jpg"
+              source="Moreno_058_1.jpg" n="216, 353, 1414, 1903"/>
             <figDesc>
               <locus target="Moreno_058.xml">El santísimo Cristo de Zalamea</locus>
             </figDesc>
@@ -35,37 +38,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombres</term>
-          <term>De pie</term>
-          <term>Corriendo</term>
-          <term>Tumbado, -a</term>
-          <term>Santa Cruz</term>
-          <term>Jesús</term>
-          <term>Ángel/Ángeles</term>
-          <term>Serpiente</term>
-          <term>Ave</term>
-          <term>Pared</term>
-          <term>Cama</term>
-          <term>Navío/Barco</term>
+          <term>Jesucristo</term>
+          <term>Simbolismo cristiano</term>
+          <term>Ángel(es)</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#corriendo"/>
-        <catRef scheme="#actitud" target="#tumbado"/>
-        <catRef scheme="#religion" target="#santa_cruz"/>
         <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
         <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#animales" target="#serpiente"/>
-        <catRef scheme="#animales" target="#ave"/>
-        <catRef scheme="#espacio_construido" target="#pared"/>
-        <catRef scheme="#espacio_construido" target="#cama"/>
-        <catRef scheme="#ambiente_maritimo" target="#navio"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

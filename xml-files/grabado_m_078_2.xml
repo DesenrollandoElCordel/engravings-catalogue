@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_078_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_078_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105081/553,370,455,736/full/0/default.jpg" source="Moreno_078_1.jpg" n="553, 370, 455, 736"/>
+            <graphic url="fedora_ug8105081/553,370,455,736/full/0/default.jpg"
+              source="Moreno_078_1.jpg" n="553, 370, 455, 736"/>
             <figDesc>
-              <locus target="Moreno_078.xml">Pasillo andaluz ejecutado por Antonia, José y Don Cándido. Por Juanillo el de Burgo</locus>
+              <locus target="Moreno_078.xml">Pasillo andaluz ejecutado por Antonia, José y Don
+                Cándido. Por Juanillo el de Burgo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,19 +39,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
-          <term>Bailando</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#bailando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_368_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_368_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1863" cert="high">1863</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103309/207,237,1213,1161/full/0/default.jpg" source="Moreno_368_1.jpg" n="207, 237, 1213, 1161"/>
+            <graphic url="fedora_ug8103309/207,237,1213,1161/full/0/default.jpg"
+              source="Moreno_368_1.jpg" n="207, 237, 1213, 1161"/>
             <figDesc>
               <locus target="Moreno_368.xml">El hechizo de Sevilla</locus>
             </figDesc>
@@ -35,37 +37,28 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Moro</term>
           <term>Hombres</term>
-          <term>De pie</term>
           <term>Hablando</term>
-          <term>Sombrero/Tocado</term>
-          <term>Bastón</term>
-          <term>Cuchillo</term>
-          <term>Casa/Choza</term>
-          <term>Árbol</term>
+          <term>Armas</term>
+          <term>Casa</term>
+          <term>Paisaje</term>
           <term>Navío/Barco</term>
-          <term>Orillas del mar</term>
-          <term>Puerto</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#moro"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#baston"/>
-        <catRef scheme="#arma_blanca" target="#cuchillo"/>
-        <catRef scheme="#espacio_construido" target="#casa"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
-        <catRef scheme="#ambiente_maritimo" target="#navio"/>
-        <catRef scheme="#ambiente_maritimo" target="#orillas_mar"/>
-        <catRef scheme="#ambiente_maritimo" target="#puerto"/>
+        <catRef scheme="#accion" target="#hablando"/>
+        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#construidos" target="#casa"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
+        <catRef scheme="#transporte" target="#navio"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

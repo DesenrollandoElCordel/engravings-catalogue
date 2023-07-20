@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_090_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_090_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109709/721,223,530,930/full/0/default.jpg" source="Moreno_090_3.jpg" n="721, 223, 530, 930"/>
+            <graphic url="fedora_ug8109709/721,223,530,930/full/0/default.jpg"
+              source="Moreno_090_3.jpg" n="721, 223, 530, 930"/>
             <figDesc>
               <locus target="Moreno_090.xml">Canción de la Pepa</locus>
             </figDesc>
@@ -33,26 +36,26 @@
               <item>
                 <title corresp="grabado_m_043_1.xml">grabado_m_043_1</title>
                 <bibl>
-<title>Décimas glosadas</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Décimas glosadas</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_060_1.xml">grabado_m_060_1</title>
                 <bibl>
-<title>Residencia a mozos casados y viudos</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Residencia a mozos casados y viudos</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_160_1.xml">grabado_m_160_1</title>
                 <bibl>
-<title>Nueva relación titulada La vida del zapatero</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Nueva relación titulada La vida del zapatero</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,23 +65,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Tocando música</term>
-          <term>Sombrero/Tocado</term>
-          <term>Guitarra/Vihuela/Laúd</term>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#instrumento_musical" target="#guitarra"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

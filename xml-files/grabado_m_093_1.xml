@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_093_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_093_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107730/318,249,1125,714/full/0/default.jpg" source="Moreno_093_1.jpg" n="318, 249, 1125, 714"/>
+            <graphic url="fedora_ug8107730/318,249,1125,714/full/0/default.jpg"
+              source="Moreno_093_1.jpg" n="318, 249, 1125, 714"/>
             <figDesc>
               <locus target="Moreno_093.xml">Gritos fúnebres, lastimosos y contemplativos</locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_092_1.xml">grabado_m_092_1</title>
                 <bibl>
-<title>Gritos fúnebres, lastimosos y contemplativos</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Gritos fúnebres, lastimosos y contemplativos</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,22 +49,23 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Obispo/Papa</term>
-          <term>Hombres y mujeres</term>
-          <term>De pie</term>
+          <term>Religioso</term>
+          <term>Mujere(s) y Hombre(s)</term>
           <term>Rezando</term>
           <term>Infierno</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#obispo"/>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#rezando"/>
+        <catRef scheme="#personaje_masculino" target="#religioso"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#rezando"/>
         <catRef scheme="#religion" target="#infierno"/>
       </textClass>
     </profileDesc>

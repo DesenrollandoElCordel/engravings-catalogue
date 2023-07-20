@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_069_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_069_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104154/570,317,704,521/full/0/default.jpg" source="Moreno_069_1.jpg" n="570, 317, 704, 521"/>
+            <graphic url="fedora_ug8104154/570,317,704,521/full/0/default.jpg"
+              source="Moreno_069_1.jpg" n="570, 317, 704, 521"/>
             <figDesc>
               <locus target="Moreno_069.xml">Apartamiento del alma y el cuerpo</locus>
             </figDesc>
@@ -56,12 +58,12 @@
       <textClass>
         <keywords>
           <term>Ángel/Ángeles</term>
-          <term>Flor/Ramo de flores</term>
-          <term>Sepulcro</term>
+          <term>Flores</term>
+          <term>Lugar de sepultura</term>
         </keywords>
         <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
-        <catRef scheme="#espacio_construido" target="#sepulcro"/>
+        <catRef scheme="#accesorios" target="#flor"/>
+        <catRef scheme="#construidos" target="#sepultura"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

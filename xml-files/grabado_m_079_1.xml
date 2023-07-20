@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_079_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_079_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107723/479,410,966,1403/full/0/default.jpg" source="Moreno_079_1.jpg" n="479, 410, 966, 1403"/>
+            <graphic url="fedora_ug8107723/479,410,966,1403/full/0/default.jpg"
+              source="Moreno_079_1.jpg" n="479, 410, 966, 1403"/>
             <figDesc>
               <locus target="Moreno_079.xml">Despertador espiritual</locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_080_1.xml">grabado_m_080_1</title>
                 <bibl>
-<title>Despertador espiritual</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Despertador espiritual</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,35 +49,28 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Sentado, -a</term>
-          <term>Arrodillado, -a</term>
-          <term>Santa trinidad</term>
-          <term>Jesús</term>
-          <term>Paraíso</term>
+          <term>Mujere(s) y Hombre(s)</term>
+          <term>Rezando</term>
+          <term>Trinidad</term>
+          <term>Ángel(es)</term>
           <term>Infierno</term>
-          <term>Ángel/Ángeles</term>
-          <term>Crucifijo</term>
-          <term>Cielo/Nube</term>
+          <term>Simbolismo cristiano</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#religion" target="#santa_trinidad"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#paraiso"/>
-        <catRef scheme="#religion" target="#infierno"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#rezando"/>
+        <catRef scheme="#religion" target="#trinidad"/>
         <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#accesorios_varios" target="#crucifijo"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#religion" target="#infierno"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

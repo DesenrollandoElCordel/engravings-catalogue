@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_085_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_085_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110117/827,346,412,882/full/0/default.jpg" source="Moreno_085_1.jpg" n="827, 346, 412, 882"/>
+            <graphic url="fedora_ug8110117/827,346,412,882/full/0/default.jpg"
+              source="Moreno_085_1.jpg" n="827, 346, 412, 882"/>
             <figDesc>
               <locus target="Moreno_085.xml">Canción del segador de Lorca</locus>
             </figDesc>
@@ -33,10 +36,11 @@
               <item>
                 <title corresp="grabado_m_285_1.xml">grabado_m_285_1</title>
                 <bibl>
-<title>Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca</title>
-                <date when="1860" cert="high">1860</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Admirable historia del príncipe Filiberto de Esparta y la princesa de
+                    Dinamarca</title>
+                  <date when="1860" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,23 +50,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Del pueblo</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
-          <term>Hoz</term>
-          <term>Hatillo</term>
+          <term>Hombre</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#del_pueblo_h"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#accesorios_varios" target="#hoz"/>
-        <catRef scheme="#accesorios_varios" target="#hatillo"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

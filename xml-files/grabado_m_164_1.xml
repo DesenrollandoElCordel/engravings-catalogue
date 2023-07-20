@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_164_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_164_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110191/296,315,1185,763/full/0/default.jpg" source="Moreno_164_1.jpg" n="296, 315, 1185, 763"/>
+            <graphic url="fedora_ug8110191/296,315,1185,763/full/0/default.jpg"
+              source="Moreno_164_1.jpg" n="296, 315, 1185, 763"/>
             <figDesc>
               <locus target="Moreno_164.xml">Don Pedro Salinas</locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_039_1.xml">grabado_m_039_1</title>
                 <bibl>
-<title>Don Rodulfo de Pedrajas. Nueva relación</title>
-                <date when="1856" cert="high">1856</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Don Rodulfo de Pedrajas. Nueva relación</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,35 +49,28 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Gentilhombre</term>
           <term>Hombres</term>
-          <term>De pie</term>
           <term>Cabalgando</term>
-          <term>Combatiendo</term>
-          <term>Caballo</term>
-          <term>Sombrero/Tocado</term>
-          <term>Escopeta</term>
-          <term>Pistola</term>
-          <term>Campo de batalla</term>
-          <term>Árbol</term>
+          <term>Luchando</term>
+          <term>Animales domésticos</term>
+          <term>Armas</term>
+          <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#cabalgando"/>
-        <catRef scheme="#actitud" target="#combatiendo"/>
-        <catRef scheme="#animales" target="#caballo"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#arma_de_fuego" target="#escopeta"/>
-        <catRef scheme="#arma_de_fuego" target="#pistola"/>
-        <catRef scheme="#espacio_construido" target="#campo_batalla"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
+        <catRef scheme="#accion" target="#cabalgando"/>
+        <catRef scheme="#accion" target="#luchando"/>
+        <catRef scheme="#animales" target="#domesticos"/>
+        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_190_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_190_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104410/303,316,356,673/full/0/default.jpg" source="Moreno_190_1.jpg" n="303, 316, 356, 673"/>
+            <graphic url="fedora_ug8104410/303,316,356,673/full/0/default.jpg"
+              source="Moreno_190_1.jpg" n="303, 316, 356, 673"/>
             <figDesc>
               <locus target="Moreno_190.xml">El Maltés de Madrid</locus>
             </figDesc>
@@ -35,19 +37,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
           <term>Abanico</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#abanico"/>
+        <catRef scheme="#accesorios" target="#abanico"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

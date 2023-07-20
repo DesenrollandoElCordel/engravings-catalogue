@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_272_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_272_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104088/469,323,430,708/full/0/default.jpg" source="Moreno_272_1.jpg" n="469, 323, 430, 708"/>
+            <graphic url="fedora_ug8104088/469,323,430,708/full/0/default.jpg"
+              source="Moreno_272_1.jpg" n="469, 323, 430, 708"/>
             <figDesc>
               <locus target="Moreno_272.xml">El príncipe de los montes</locus>
             </figDesc>
@@ -35,23 +38,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Dama</term>
-          <term>De pie</term>
-          <term>Pañuelo</term>
+          <term>Mujer</term>
           <term>Abanico</term>
-          <term>Flor/Ramo de flores</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#dama"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#panuelo"/>
-        <catRef scheme="#atuendo" target="#abanico"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#accesorios" target="#abanico"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_292_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_292_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104646/208,291,1256,866/full/0/default.jpg" source="Moreno_292_1.jpg" n="208, 291, 1256, 866"/>
+            <graphic url="fedora_ug8104646/208,291,1256,866/full/0/default.jpg"
+              source="Moreno_292_1.jpg" n="208, 291, 1256, 866"/>
             <figDesc>
               <locus target="Moreno_292.xml">Doña Teresa de Llanos </locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_104_1.xml">grabado_m_104_1</title>
                 <bibl>
-<title>La valiente Espinela</title>
-                <date when="1856" cert="high">1856</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>La valiente Espinela</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,27 +49,26 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Virago</term>
-          <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Combatiendo</term>
-          <term>Tumbado, -a</term>
-          <term>Sombrero/Tocado</term>
-          <term>Florete</term>
+          <term>Hombres</term>
+          <term>Luchando</term>
+          <term>Armas</term>
+          <term/>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#virago"/>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#combatiendo"/>
-        <catRef scheme="#actitud" target="#tumbado"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#arma_blanca" target="#florete"/>
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#accion" target="#luchando"/>
+        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#construidos" target="#calle ?"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

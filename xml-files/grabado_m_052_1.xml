@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_052_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_052_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108050/555,120,717,662/full/0/default.jpg" source="Moreno_052_1.jpg" n="555, 120, 717, 662"/>
+            <graphic url="fedora_ug8108050/555,120,717,662/full/0/default.jpg"
+              source="Moreno_052_1.jpg" n="555, 120, 717, 662"/>
             <figDesc>
               <locus target="Moreno_052.xml">Memorial de las mocitas andaluzas</locus>
             </figDesc>
@@ -35,27 +38,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Pareja</term>
-          <term>De pie</term>
-          <term>Hablando</term>
-          <term>Sombrero/Tocado</term>
-          <term>Capa</term>
-          <term>Calle</term>
-          <term>Pared</term>
+          <term>Hombres</term>
+          <term>Papeles</term>
+          <term>Interior de un edificio</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#pareja"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#espacio_construido" target="#calle"/>
-        <catRef scheme="#espacio_construido" target="#pared"/>
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#accesorios" target="#papel"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_322_3">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_322_3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,10 +25,12 @@
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104178/963,330,572,748/full/0/default.jpg" source="Moreno_322_5.jpg" n="963, 330, 572, 748"/>
-            
+            <graphic url="fedora_ug8104178/963,330,572,748/full/0/default.jpg"
+              source="Moreno_322_5.jpg" n="963, 330, 572, 748"/>
+
             <figDesc>
-              <locus target="Moreno_322.xml">Don Pedro Juan de la Rosa y Doña María de Bargas</locus>
+              <locus target="Moreno_322.xml">Don Pedro Juan de la Rosa y Doña María de
+                Bargas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -34,10 +38,10 @@
               <item>
                 <title corresp="grabado_m_321_3.xml">grabado_m_321_3</title>
                 <bibl>
-<title>Don Pedro Juan de la Rosa y Doña María de Bargas</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Don Pedro Juan de la Rosa y Doña María de Bargas</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -47,21 +51,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujeres</term>
-          <term>De pie</term>
-          <term>Hablando</term>
-          <term>Sombrero/Tocado</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

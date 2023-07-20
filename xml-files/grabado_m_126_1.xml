@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_126_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_126_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110054/567,282,414,919/full/0/default.jpg" source="Moreno_126_1.jpg" n="567, 282, 414, 919"/>
+            <graphic url="fedora_ug8110054/567,282,414,919/full/0/default.jpg"
+              source="Moreno_126_1.jpg" n="567, 282, 414, 919"/>
             <figDesc>
               <locus target="Moreno_126.xml">La divina Peregrina</locus>
             </figDesc>
@@ -33,18 +36,18 @@
               <item>
                 <title corresp="grabado_m_027_2.xml">grabado_m_027_2</title>
                 <bibl>
-<title>Nueva y curiosa relación de la peregrina doctora</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Nueva y curiosa relación de la peregrina doctora</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_125_1.xml">grabado_m_125_1</title>
                 <bibl>
-<title>La divina Peregrina</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>La divina Peregrina</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,23 +57,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
-          <term>Bastón</term>
-          <term>Capa</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#baston"/>
-        <catRef scheme="#atuendo" target="#capa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

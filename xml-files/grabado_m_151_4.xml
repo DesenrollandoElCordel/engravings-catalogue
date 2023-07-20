@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_151_4">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_151_4">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109508/854,284,392,793/full/0/default.jpg" source="Moreno_151_3.jpg" n="854, 284, 392, 793"/>
+            <graphic url="fedora_ug8109508/854,284,392,793/full/0/default.jpg"
+              source="Moreno_151_3.jpg" n="854, 284, 392, 793"/>
             <figDesc>
               <locus target="Moreno_151.xml">Los amores de Madrid</locus>
             </figDesc>
@@ -33,18 +36,18 @@
               <item>
                 <title corresp="grabado_m_283_1.xml">grabado_m_283_1</title>
                 <bibl>
-<title>Los tristes recuerdos de un miriñaque</title>
-                <date when="1865" cert="high">1865</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Los tristes recuerdos de un miriñaque</title>
+                  <date when="1865" cert="high">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_293_2.xml">grabado_m_293_2</title>
                 <bibl>
-<title>El fraile fingido</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>El fraile fingido</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,19 +57,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_329_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_329_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107317/998,442,479,657/full/0/default.jpg" source="Moreno_329_1.jpg" n="998, 442, 479, 657"/>
+            <graphic url="fedora_ug8107317/998,442,479,657/full/0/default.jpg"
+              source="Moreno_329_1.jpg" n="998, 442, 479, 657"/>
             <figDesc>
               <locus target="Moreno_329.xml">Coplas nuevas para cantar los aficionados</locus>
             </figDesc>
@@ -33,34 +36,34 @@
               <item>
                 <title corresp="grabado_m_002_2.xml">grabado_m_002_2</title>
                 <bibl>
-<title>Coplas nuevas paras cantar los aficionados</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Coplas nuevas paras cantar los aficionados</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_053_1.xml">grabado_m_053_1</title>
                 <bibl>
-<title>Cartilla de casamientos</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Cartilla de casamientos</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_119_3.xml">grabado_m_119_3</title>
                 <bibl>
-<title>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_347_3.xml">grabado_m_347_3</title>
                 <bibl>
-<title>Coplas nuevas en que se declara un amante y dama su amor</title>
-                <date when="1861" cert="high">1861</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Coplas nuevas en que se declara un amante y dama su amor</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,25 +73,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Tocando música</term>
-          <term>Sombrero/Tocado</term>
-          <term>Guitarra/Vihuela/Laúd</term>
-          <term>Peldaño</term>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#instrumento_musical" target="#guitarra"/>
-        <catRef scheme="#accesorios_varios" target="#peldano"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

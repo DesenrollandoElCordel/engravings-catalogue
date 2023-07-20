@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_189_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_189_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105500/221,301,1312,1317/full/0/default.jpg" source="Moreno_189_1.jpg" n="221, 301, 1312, 1317"/>
+            <graphic url="fedora_ug8105500/221,301,1312,1317/full/0/default.jpg"
+              source="Moreno_189_1.jpg" n="221, 301, 1312, 1317"/>
             <figDesc>
               <locus target="Moreno_189.xml">El contador espiritual</locus>
             </figDesc>
@@ -33,10 +35,10 @@
               <item>
                 <title corresp="grabado_m_188_1.xml">grabado_m_188_1</title>
                 <bibl>
-<title>El contador espiritual</title>
-                <date when="1857" cert="high">1857</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>El contador espiritual</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,31 +48,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Sentado, -a</term>
-          <term>Santa Trinidad</term>
-          <term>Dios</term>
-          <term>Jesús</term>
-          <term>Espíritu Santo</term>
-          <term>Ángel/Ángeles</term>
-          <term>Paraíso</term>
-          <term>Crucifijo</term>
-          <term>Cielo/Nube</term>
+          <term>Trinidad</term>
+          <term>Ángel(es)</term>
+          <term>Simbolismo cristiano</term>
         </keywords>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#religion" target="#santa_trinidad"/>
-        <catRef scheme="#religion" target="#dios"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#espiritu_santo"/>
+        <catRef scheme="#religion" target="#trinidad"/>
         <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#religion" target="#paraiso"/>
-        <catRef scheme="#accesorios_varios" target="#crucifijo"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

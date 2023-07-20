@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_303_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_303_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107683/164,251,1324,1124/full/0/default.jpg" source="Moreno_303_1.jpg" n="164, 251, 1324, 1124"/>
+            <graphic url="fedora_ug8107683/164,251,1324,1124/full/0/default.jpg"
+              source="Moreno_303_1.jpg" n="164, 251, 1324, 1124"/>
             <figDesc>
               <locus target="Moreno_303.xml">Doña Isabel Gallardo</locus>
             </figDesc>
@@ -35,27 +38,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term>De pie</term>
-          <term>Sentado, -a</term>
-          <term>Sombrero/Tocado</term>
-          <term>Capa</term>
-          <term>Escopeta</term>
-          <term>Árbol</term>
+          <term>Armas</term>
+          <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#arma_de_fuego" target="#escopeta"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
+        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

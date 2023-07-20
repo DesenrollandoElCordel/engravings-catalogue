@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_311_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_311_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110283/420,282,914,878/full/0/default.jpg" source="Moreno_311_1.jpg" n="420, 282, 914, 878"/>
+            <graphic url="fedora_ug8110283/420,282,914,878/full/0/default.jpg"
+              source="Moreno_311_1.jpg" n="420, 282, 914, 878"/>
             <figDesc>
               <locus target="Moreno_311.xml">Don Fernando del Pulgar</locus>
             </figDesc>
@@ -35,23 +38,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
+          <term>Soldado</term>
           <term>Cabalgando</term>
-          <term>Caballo</term>
-          <term>Asta</term>
-          <term>Armadura</term>
+          <term>Animales domésticos</term>
+          <term>Armas</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#cabalgando"/>
-        <catRef scheme="#animales" target="#caballo"/>
-        <catRef scheme="#arma_blanca" target="#asta"/>
-        <catRef scheme="#arma_blanca" target="#armadura"/>
+        <catRef scheme="#personaje_masculino" target="#soldado"/>
+        <catRef scheme="#accion" target="#cabalgando"/>
+        <catRef scheme="#animales" target="#domesticos"/>
+        <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_235_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_235_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107400/321,268,1345,694/full/0/default.jpg" source="Moreno_235_1.jpg" n="321, 268, 1345, 694"/>
+            <graphic url="fedora_ug8107400/321,268,1345,694/full/0/default.jpg"
+              source="Moreno_235_1.jpg" n="321, 268, 1345, 694"/>
             <figDesc>
               <locus target="Moreno_235.xml">Jocosa relación para reír y pasar el tiempo</locus>
             </figDesc>
@@ -35,17 +38,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>León</term>
-          <term>Insecto</term>
+          <term>Animales salvajes</term>
+          <term>Otros animales</term>
         </keywords>
-        <catRef scheme="#animales" target="#leon"/>
-        <catRef scheme="#animales" target="#insecto"/>
+        <catRef scheme="#animales" target="#salvajes"/>
+        <catRef scheme="#animales" target="#otros_animales"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

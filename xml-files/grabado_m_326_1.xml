@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_326_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_326_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106670/631,256,484,721/full/0/default.jpg" source="Moreno_326_1.jpg" n="631, 256, 484, 721"/>
+            <graphic url="fedora_ug8106670/631,256,484,721/full/0/default.jpg"
+              source="Moreno_326_1.jpg" n="631, 256, 484, 721"/>
             <figDesc>
-              <locus target="Moreno_326.xml">Romance de los misterios del santo sacrificio de la misa</locus>
+              <locus target="Moreno_326.xml">Romance de los misterios del santo sacrificio de la
+                misa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,27 +39,26 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Monje/Cura</term>
+          <term>Religioso</term>
           <term>Hombres</term>
-          <term>De pie</term>
-          <term>Jesús</term>
-          <term>Libro/Papeles</term>
-          <term>Crucifijo</term>
-          <term>Iglesia/Altar</term>
+          <term>Simbolismo cristiano</term>
+          <term>Libros</term>
+          <term>Lugar de culto</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#monje"/>
+        <catRef scheme="#personaje_masculino" target="#religioso"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#accesorios_varios" target="#libro"/>
-        <catRef scheme="#accesorios_varios" target="#crucifijo"/>
-        <catRef scheme="#espacio_construido" target="#iglesia"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#accesorios" target="#libro"/>
+        <catRef scheme="#construidos" target="#culto"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

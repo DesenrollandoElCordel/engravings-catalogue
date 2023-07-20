@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_003_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_003_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108871/876,359,355,658/full/0/default.jpg" source="Moreno_003_1.jpg" n="876, 359, 355, 658"/>
+            <graphic url="fedora_ug8108871/876,359,355,658/full/0/default.jpg"
+              source="Moreno_003_1.jpg" n="876, 359, 355, 658"/>
             <figDesc>
               <locus target="Moreno_003.xml">Pasillo de D. Sancho y su mayordomo Crispín</locus>
             </figDesc>
@@ -33,26 +36,26 @@
               <item>
                 <title corresp="grabado_m_072_2.xml">grabado_m_072_2</title>
                 <bibl>
-<title>Pasillo curioso y divertido de Enrique y Juana</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pasillo curioso y divertido de Enrique y Juana</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_214_2.xml">grabado_m_214_2</title>
                 <bibl>
-<title>Teresa Mojarro y Gangarilla</title>
-                <date when="1856" cert="high">1856</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Teresa Mojarro y Gangarilla</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_280_2.xml">grabado_m_280_2</title>
                 <bibl>
-<title>Cada cual arrima el ascua. Pasillo nuevo entre hombre y muger</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Cada cual arrima el ascua. Pasillo nuevo entre hombre y muger</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,19 +65,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Gentilhombre</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
+          <term/>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_362_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_362_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1865" cert="high">1865</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110249/163,378,547,772/full/0/default.jpg" source="Moreno_362_1.jpg" n="163, 378, 547, 772"/>
+            <graphic url="fedora_ug8110249/163,378,547,772/full/0/default.jpg"
+              source="Moreno_362_1.jpg" n="163, 378, 547, 772"/>
             <figDesc>
-              <locus target="Moreno_362.xml">Nueva relación titulada No hay mal que por bien no venga</locus>
+              <locus target="Moreno_362.xml">Nueva relación titulada No hay mal que por bien no
+                venga</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,10 +37,10 @@
               <item>
                 <title corresp="grabado_m_073_1.xml">grabado_m_073_1</title>
                 <bibl>
-<title>Las princesas encantadas y deslealtad de hermanos</title>
-                <date when="1855" cert="high">1855</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Las princesas encantadas y deslealtad de hermanos</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,15 +50,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Castillo/Torre</term>
+          <term>Torre</term>
         </keywords>
-        <catRef scheme="#espacio_construido" target="#castillo"/>
+        <catRef scheme="#construidos" target="#torre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

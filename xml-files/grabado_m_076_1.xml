@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_076_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_076_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103770/440,312,956,1360/full/0/default.jpg" source="Moreno_076_1.jpg" n="440, 312, 956, 1360"/>
+            <graphic url="fedora_ug8103770/440,312,956,1360/full/0/default.jpg"
+              source="Moreno_076_1.jpg" n="440, 312, 956, 1360"/>
             <figDesc>
               <locus target="Moreno_076.xml">Romance espiritual de la Santísima Trinidad</locus>
             </figDesc>
@@ -35,29 +38,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Rezando</term>
-          <term>Arrodillado, -a</term>
-          <term>Santa Cruz</term>
-          <term>Jesús</term>
-          <term>Santa Trinidad</term>
-          <term>Paraíso</term>
-          <term>Paloma</term>
-          <term>Cielo/Nube</term>
+          <term>Trinidad</term>
+          <term>Ángel(es)</term>
         </keywords>
-        <catRef scheme="#actitud" target="#rezando"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#religion" target="#santa_cruz"/>
-        <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#religion" target="#santa_trinidad"/>
-        <catRef scheme="#religion" target="#paraiso"/>
-        <catRef scheme="#animales" target="#paloma"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#religion" target="#trinidad"/>
+        <catRef scheme="#religion" target="#angel"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

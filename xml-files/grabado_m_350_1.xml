@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_350_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_350_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107715/332,288,423,674/full/0/default.jpg" source="Moreno_350_1.jpg" n="332, 288, 423, 674"/>
+            <graphic url="fedora_ug8107715/332,288,423,674/full/0/default.jpg"
+              source="Moreno_350_1.jpg" n="332, 288, 423, 674"/>
             <figDesc>
               <locus target="Moreno_350.xml">La zurra. 1560 zapatazos a Culo-pelado</locus>
             </figDesc>
@@ -33,26 +36,26 @@
               <item>
                 <title corresp="grabado_m_212_2.xml">grabado_m_212_2</title>
                 <bibl>
-<title>Doña Rosa la cautiva</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Doña Rosa la cautiva</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_299_2.xml">grabado_m_299_2</title>
                 <bibl>
-<title>Receta para las mujeres mal casadas</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Receta para las mujeres mal casadas</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_349_1.xml">grabado_m_349_1</title>
                 <bibl>
-<title>La zurra. 1560 zapatazos a Culo-pelado</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>La zurra. 1560 zapatazos a Culo-pelado</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,19 +65,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
-          <term>Hablando</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

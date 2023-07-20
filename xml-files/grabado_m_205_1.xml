@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_205_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_205_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110238/358,370,967,975/full/0/default.jpg" source="Moreno_205_1.jpg" n="358, 370, 967, 975"/>
+            <graphic url="fedora_ug8110238/358,370,967,975/full/0/default.jpg"
+              source="Moreno_205_1.jpg" n="358, 370, 967, 975"/>
             <figDesc>
-              <locus target="Moreno_205.xml">Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas</locus>
+              <locus target="Moreno_205.xml">Romance gracioso y entretenido en que se refiere el
+                testamento que hizo el maldito Judas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,18 +37,19 @@
               <item>
                 <title corresp="grabado_m_102_2.xml">grabado_m_102_2</title>
                 <bibl>
-<title>La doncella condenada. Nueva relación</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>La doncella condenada. Nueva relación</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_204_1.xml">grabado_m_204_1</title>
                 <bibl>
-<title>Romance gracioso y entretenido en que se refiere el testamento que hizo el maldito Judas</title>
-                <date when="1861" cert="high">1861</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Romance gracioso y entretenido en que se refiere el testamento que hizo el
+                    maldito Judas</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,23 +59,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujer</term>
-          <term>De pie</term>
-          <term>Diablo/Demonio</term>
+          <term>Hombre</term>
+          <term>Demonio(s)</term>
           <term>Infierno</term>
-          <term>Monstruo/Criatura fantástica</term>
+          <term>Animales imaginarios</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#religion" target="#diablo"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#religion" target="#demonio"/>
         <catRef scheme="#religion" target="#infierno"/>
-        <catRef scheme="#monstruo" target="#criatura"/>
+        <catRef scheme="#animales" target="#imaginarios"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

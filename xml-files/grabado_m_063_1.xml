@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_063_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_063_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110118/245,360,1200,731/full/0/default.jpg" source="Moreno_063_1.jpg" n="245, 360, 1200, 731"/>
+            <graphic url="fedora_ug8110118/245,360,1200,731/full/0/default.jpg"
+              source="Moreno_063_1.jpg" n="245, 360, 1200, 731"/>
             <figDesc>
               <locus target="Moreno_063.xml">El raton de Canarias</locus>
             </figDesc>
@@ -35,19 +38,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Del pueblo</term>
-          <term>De pie</term>
-          <term>Rata/Ratón</term>
+          <term>Mujer</term>
+          <term>Otros animales</term>
+          <term>Interior de un edificio</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#del_pueblo_f"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#animales" target="#raton"/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#animales" target="#otros_animales"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

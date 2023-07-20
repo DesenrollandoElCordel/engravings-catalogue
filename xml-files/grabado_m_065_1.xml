@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_065_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_065_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107770/114,154,1415,703/full/0/default.jpg" source="Moreno_065_1.jpg" n="114, 154, 1415, 703"/>
+            <graphic url="fedora_ug8107770/114,154,1415,703/full/0/default.jpg"
+              source="Moreno_065_1.jpg" n="114, 154, 1415, 703"/>
             <figDesc>
               <locus target="Moreno_065.xml">La renegada de Valladolid</locus>
             </figDesc>
@@ -35,25 +38,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Moro</term>
-          <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
-          <term>Capa</term>
-          <term>Puerta</term>
+          <term>Mujere(s) y Hombre(s)</term>
+          <term>Hablando</term>
+          <term>Interior de un edificio</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#moro"/>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#espacio_construido" target="#puerta"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#hablando"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

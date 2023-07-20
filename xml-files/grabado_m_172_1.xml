@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_172_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_172_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1874" cert="high">1874</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106655/263,227,1174,972/full/0/default.jpg" source="Moreno_172_1.jpg" n="263, 227, 1174, 972"/>
+            <graphic url="fedora_ug8106655/263,227,1174,972/full/0/default.jpg"
+              source="Moreno_172_1.jpg" n="263, 227, 1174, 972"/>
             <figDesc>
               <locus target="Moreno_172.xml">Don Diego de Peñaloza y Doña María Leonarda</locus>
             </figDesc>
@@ -35,29 +38,26 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Soldado</term>
-          <term>Pareja</term>
+          <term>Hombre</term>
+          <term>Mujer</term>
           <term>Cabalgando</term>
-          <term>Caballo</term>
-          <term>Sombrero/Tocado</term>
-          <term>Armadura</term>
-          <term>Casa/Choza</term>
-          <term>Árbol</term>
+          <term>Animales domésticos</term>
+          <term>Casa</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#soldado"/>
-        <catRef scheme="#grupos_personajes" target="#pareja"/>
-        <catRef scheme="#actitud" target="#cabalgando"/>
-        <catRef scheme="#animales" target="#caballo"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#arma_blanca" target="#armadura"/>
-        <catRef scheme="#espacio_construido" target="#casa"/>
-        <catRef scheme="#ambiente_natural" target="#arbol"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#accion" target="#cabalgando"/>
+        <catRef scheme="#animales" target="#domesticos"/>
+        <catRef scheme="#construidos" target="#casa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

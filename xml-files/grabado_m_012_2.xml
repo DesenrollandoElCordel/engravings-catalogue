@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_012_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_012_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108150/854,307,589,953/full/0/default.jpg" source="Moreno_012_1.jpg" n="854, 307, 589, 953"/>
+            <graphic url="fedora_ug8108150/854,307,589,953/full/0/default.jpg"
+              source="Moreno_012_1.jpg" n="854, 307, 589, 953"/>
             <figDesc>
               <locus target="Moreno_012.xml">Sátira graciosa de los quince novios</locus>
             </figDesc>
@@ -33,10 +36,11 @@
               <item>
                 <title corresp="grabado_m_019_2.xml">grabado_m_019_2</title>
                 <bibl>
-<title>Despedimiento de un galán para ausentarse por la esquivez de una dama</title>
-                <date>[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Despedimiento de un galán para ausentarse por la esquivez de una
+                    dama</title>
+                  <date>[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,19 +50,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Gentilhombre</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
+          <term>Hombre</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

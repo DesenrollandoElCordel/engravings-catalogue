@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_007_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_007_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109401/703,568,476,658/full/0/default.jpg" source="Moreno_007_1.jpg" n="703, 568, 476, 658"/>
+            <graphic url="fedora_ug8109401/703,568,476,658/full/0/default.jpg"
+              source="Moreno_007_1.jpg" n="703, 568, 476, 658"/>
             <figDesc>
               <locus target="Moreno_007.xml">Antonio Narváez y Rosaura</locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_327_2.xml">grabado_m_327_2</title>
                 <bibl>
-<title>Dionisia Pérez Losada. Nueva y curiosa relación</title>
-                <date when="1800" cert="high">1860</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Dionisia Pérez Losada. Nueva y curiosa relación</title>
+                  <date when="1800" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,17 +49,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>De pie</term>
-          <term>Oso</term>
+          <term>Animales salvajes</term>
         </keywords>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#animales" target="#oso"/>
+        <catRef scheme="#animales" target="#salvajes"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

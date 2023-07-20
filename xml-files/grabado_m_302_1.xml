@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_302_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_302_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105215/368,257,1086,637/full/0/default.jpg" source="Moreno_302_1.jpg" n="368, 257, 1086, 637"/>
+            <graphic url="fedora_ug8105215/368,257,1086,637/full/0/default.jpg"
+              source="Moreno_302_1.jpg" n="368, 257, 1086, 637"/>
             <figDesc>
               <locus target="Moreno_302.xml">El molinero de Arcos</locus>
             </figDesc>
@@ -35,29 +38,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term>De pie</term>
-          <term>Tumbado, -a</term>
-          <term>Sombrero/Tocado</term>
-          <term>Capa</term>
-          <term>Espada</term>
-          <term>Cama</term>
-          <term>Alcoba/Cocina</term>
+          <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tumbado"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#arma_blanca" target="#espada"/>
-        <catRef scheme="#espacio_construido" target="#cama"/>
-        <catRef scheme="#espacio_construido" target="#alcoba"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

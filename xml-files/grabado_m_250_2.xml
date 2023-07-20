@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_250_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_250_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107118/789,506,395,703/full/0/default.jpg" source="Moreno_250_1.jpg" n="789, 506, 395, 703"/>
+            <graphic url="fedora_ug8107118/789,506,395,703/full/0/default.jpg"
+              source="Moreno_250_1.jpg" n="789, 506, 395, 703"/>
             <figDesc>
-              <locus target="Moreno_250.xml">Décimas glosadas en las que se manifiesta los desprecios que hace una dama a todos los que la pretenden</locus>
+              <locus target="Moreno_250.xml">Décimas glosadas en las que se manifiesta los
+                desprecios que hace una dama a todos los que la pretenden</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,50 +37,51 @@
               <item>
                 <title corresp="grabado_m_113_2.xml">grabado_m_113_2</title>
                 <bibl>
-<title>Trovos nuevos para saber corresponder los finos amantes</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Trovos nuevos para saber corresponder los finos amantes</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_198_2.xml">grabado_m_198_2</title>
                 <bibl>
-<title>Pasillo de Diego Corriente</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pasillo de Diego Corriente</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_268_1.xml">grabado_m_268_1</title>
                 <bibl>
-<title>Relación de Quintana</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación de Quintana</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_278_2.xml">grabado_m_278_2</title>
                 <bibl>
-<title>Décimas</title>
-                <date when="1860" cert="high">1860</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Décimas</title>
+                  <date when="1860" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_314_1.xml">grabado_m_314_1</title>
                 <bibl>
-<title>Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Curioso romance de la vida, hechos y atrocidades de don Agustín
+                    Florencio</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_331_2.xml">grabado_m_331_2</title>
                 <bibl>
-<title>Relación en contra de las mugeres</title>
-                <date when="1861" cert="high">1861</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación en contra de las mugeres</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -86,21 +91,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
-          <term>Hablando</term>
           <term>Abanico</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#atuendo" target="#abanico"/>
+        <catRef scheme="#accesorios" target="#abanico"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

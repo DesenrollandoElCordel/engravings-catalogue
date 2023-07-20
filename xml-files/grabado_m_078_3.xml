@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_078_3">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_078_3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105081/1018,319,517,778/full/0/default.jpg" source="Moreno_078_1.jpg" n="1018, 319, 517, 778"/>
+            <graphic url="fedora_ug8105081/1018,319,517,778/full/0/default.jpg"
+              source="Moreno_078_1.jpg" n="1018, 319, 517, 778"/>
             <figDesc>
-              <locus target="Moreno_078.xml">Pasillo andaluz ejecutado por Antonia, José y Don Cándido. Por Juanillo el de Burgo</locus>
+              <locus target="Moreno_078.xml">Pasillo andaluz ejecutado por Antonia, José y Don
+                Cándido. Por Juanillo el de Burgo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,18 +37,18 @@
               <item>
                 <title corresp="grabado_m_352_1.xml">grabado_m_352_1</title>
                 <bibl>
-<title>Pasillo divertido entre Mazapán y Chicharrón</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pasillo divertido entre Mazapán y Chicharrón</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_353_1.xml">grabado_m_353_1</title>
                 <bibl>
-<title>Pasillo divertido entre Mazapán y Chicharrón</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pasillo divertido entre Mazapán y Chicharrón</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,21 +58,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Sombrero</term>
-          <term>Bastón</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="baston"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

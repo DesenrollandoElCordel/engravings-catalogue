@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_281_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_281_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109741/315,358,554,842/full/0/default.jpg" source="Moreno_281_1.jpg" n="315, 358, 554, 842"/>
+            <graphic url="fedora_ug8109741/315,358,554,842/full/0/default.jpg"
+              source="Moreno_281_1.jpg" n="315, 358, 554, 842"/>
             <figDesc>
               <locus target="Moreno_281.xml">Nueva relación burlesca</locus>
             </figDesc>
@@ -33,18 +36,18 @@
               <item>
                 <title corresp="grabado_m_001_1.xml">grabado_m_001_1</title>
                 <bibl>
-<title>Testamento de D. Guindo y Pascual Cerezo</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Testamento de D. Guindo y Pascual Cerezo</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_373_2.xml">grabado_m_373_2</title>
                 <bibl>
-<title>Relación nueva. Reglas de un dictámen, y dictámen de unas reglas</title>
-                <date when="1865" cert="1865">1865</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación nueva. Reglas de un dictámen, y dictámen de unas reglas</title>
+                  <date when="1865" cert="1865">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,21 +57,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Gentilhombre</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
-          <term>Bastón</term>
+          <term>Hombre</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

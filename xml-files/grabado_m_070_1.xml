@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_070_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_070_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +24,11 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108454/148,337,1333,999/full/0/default.jpg" source="Moreno_070_1.jpg" n="148, 337, 1333, 999"/>
+            <graphic url="fedora_ug8108454/148,337,1333,999/full/0/default.jpg"
+              source="Moreno_070_1.jpg" n="148, 337, 1333, 999"/>
             <figDesc>
-              <locus target="Moreno_070.xml">Verdadera relación y curioso romance de la vida y muerte del bienaventurado San Alejo</locus>
+              <locus target="Moreno_070.xml">Verdadera relación y curioso romance de la vida y
+                muerte del bienaventurado San Alejo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,21 +38,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Difunto, a/moribundo, -a</term>
-          <term>Sombrero/Tocado</term>
+          <term>Muerte</term>
+          <term>Santo</term>
+          <term>Área de agua</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#difunto"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#muerte" target="#muerte"/>
+        <catRef scheme="#religion" target="#santo"/>
+        <catRef scheme="#naturales" target="#agua"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

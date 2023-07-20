@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_245_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_245_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110151/446,256,469,771/full/0/default.jpg" source="Moreno_245_1.jpg" n="446, 256, 469, 771"/>
+            <graphic url="fedora_ug8110151/446,256,469,771/full/0/default.jpg"
+              source="Moreno_245_1.jpg" n="446, 256, 469, 771"/>
             <figDesc>
               <locus target="Moreno_245.xml">Colección de canciones andaluzas</locus>
             </figDesc>
@@ -33,10 +36,10 @@
               <item>
                 <title corresp="grabado_m_369_1.xml">grabado_m_369_1</title>
                 <bibl>
-<title>Nueva relación que hace Doña Margarita Cachuela</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Nueva relación que hace Doña Margarita Cachuela</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,19 +49,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Negra</term>
+          <term>Mujer</term>
           <term>Bailando</term>
-          <term>Flor/Ramo de flores</term>
+          <term>Flores</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#negra"/>
-        <catRef scheme="#actitud" target="#bailando"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#accion" target="#bailando"/>
+        <catRef scheme="#accesorios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

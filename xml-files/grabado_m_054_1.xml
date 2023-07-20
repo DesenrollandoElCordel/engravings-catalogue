@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_054_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_054_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109964/230,350,1151,874/full/0/default.jpg" source="Moreno_054_1.jpg" n="230, 350, 1151, 874"/>
+            <graphic url="fedora_ug8109964/230,350,1151,874/full/0/default.jpg"
+              source="Moreno_054_1.jpg" n="230, 350, 1151, 874"/>
             <figDesc>
               <locus target="Moreno_054.xml">Casamiento entre dos damas. Nueva relación</locus>
             </figDesc>
@@ -35,23 +37,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Sentado, -a</term>
-          <term>Flor/Ramo de flores</term>
-          <term>Silla/Banco</term>
+          <term>Flores</term>
+          <term>Interior de un edificio</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
-        <catRef scheme="#espacio_construido" target="#silla"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accesorios" target="#flor"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

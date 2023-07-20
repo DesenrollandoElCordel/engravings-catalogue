@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_141_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_141_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105251/929,349,330,736/full/0/default.jpg" source="Moreno_141_1.jpg" n="929, 349, 330, 736"/>
+            <graphic url="fedora_ug8105251/929,349,330,736/full/0/default.jpg"
+              source="Moreno_141_1.jpg" n="929, 349, 330, 736"/>
             <figDesc>
               <locus target="Moreno_141.xml">Nueva relación de la riqueza y la pobreza</locus>
             </figDesc>
@@ -136,15 +139,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Gentilhombre</term>
-          <term>De pie</term>
-          <term>Sombrero/Tocado</term>
-          <term>Bastón</term>
+          <term>Hombre</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#gentilhombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#atuendo" target="#baston"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

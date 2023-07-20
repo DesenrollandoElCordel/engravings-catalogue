@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_208_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_208_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107740/321,321,510,811/full/0/default.jpg" source="Moreno_208_1.jpg" n="321, 321, 510, 811"/>
+            <graphic url="fedora_ug8107740/321,321,510,811/full/0/default.jpg"
+              source="Moreno_208_1.jpg" n="321, 321, 510, 811"/>
             <figDesc>
-              <locus target="Moreno_208.xml">Décimas nuevas. Disputa entre un moro y un cristiano sobre los mandamientos de la ley de Dios</locus>
+              <locus target="Moreno_208.xml">Décimas nuevas. Disputa entre un moro y un cristiano
+                sobre los mandamientos de la ley de Dios</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,26 +37,26 @@
               <item>
                 <title corresp="grabado_m_033_1.xml">grabado_m_033_1</title>
                 <bibl>
-<title>Pasillo de las Amazonas</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pasillo de las Amazonas</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_236_1.xml">grabado_m_236_1</title>
                 <bibl>
-<title>El rey Basilio de Dinamarca</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>El rey Basilio de Dinamarca</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_237_1.xml">grabado_m_237_1</title>
                 <bibl>
-<title>El rey Basilio de Dinamarca</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>El rey Basilio de Dinamarca</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,25 +66,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Soldado</term>
-          <term>De pie</term>
-          <term>Capa</term>
-          <term>Espada</term>
-          <term>Armadura</term>
-          <term>Flor/Ramo de flores</term>
+          <term>Armas</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#soldado"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#capa"/>
-        <catRef scheme="#arma_blanca" target="#espada"/>
-        <catRef scheme="#arma_blanca" target="#armadura"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_369_3">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_369_3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110137/1019,275,409,648/full/0/default.jpg" source="Moreno_369_1.jpg" n="1019, 275, 409, 648"/>
+            <graphic url="fedora_ug8110137/1019,275,409,648/full/0/default.jpg"
+              source="Moreno_369_1.jpg" n="1019, 275, 409, 648"/>
             <figDesc>
               <locus target="Moreno_369.xml">Boda de negros</locus>
             </figDesc>
@@ -33,26 +36,28 @@
               <item>
                 <title corresp="grabado_m_285_3.xml">grabado_m_285_3</title>
                 <bibl>
-<title>Admirable historia del príncipe Filiberto de Esparta y la princesa de Dinamarca</title>
-                <date when="1860" cert="high">1860</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Admirable historia del príncipe Filiberto de Esparta y la princesa de
+                    Dinamarca</title>
+                  <date when="1860" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_360_2.xml">grabado_m_360_2</title>
                 <bibl>
-<title>Relación nueva en todas ciencias y artes titulada El exceso en las mujeres</title>
-                <date when="1865" cert="high">1865</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación nueva en todas ciencias y artes titulada El exceso en las
+                    mujeres</title>
+                  <date when="1865" cert="high">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_372_2.xml">grabado_m_372_2</title>
                 <bibl>
-<title>Pasillo nuevo titulado El animal de Ungría</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Pasillo nuevo titulado El animal de Ungría</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,21 +67,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
-          <term>Pañuelo</term>
-          <term>Flor/Ramo de flores</term>
+          <term>Flores</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#atuendo" target="#panuelo"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#accesorios" target="#flor"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_287_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_287_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109151/469,324,1005,812/full/0/default.jpg" source="Moreno_287_1.jpg" n="469, 324, 1005, 812"/>
+            <graphic url="fedora_ug8109151/469,324,1005,812/full/0/default.jpg"
+              source="Moreno_287_1.jpg" n="469, 324, 1005, 812"/>
             <figDesc>
               <locus target="Moreno_287.xml">Relación burlesca titulada el modo de vivir</locus>
             </figDesc>
@@ -35,25 +38,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term>De pie</term>
-          <term>Arrodillado, -a</term>
-          <term>Sombrero/Tocado</term>
-          <term>Monedas</term>
-          <term>Pared</term>
+          <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#arrodillado"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#accesorios_varios" target="#monedas"/>
-        <catRef scheme="#espacio_construido" target="#pared"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

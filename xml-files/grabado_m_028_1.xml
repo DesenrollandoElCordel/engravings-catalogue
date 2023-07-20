@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_028_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_028_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110224/461,302,704,894/full/0/default.jpg" source="Moreno_028_1.jpg" n="461, 302, 704, 894"/>
+            <graphic url="fedora_ug8110224/461,302,704,894/full/0/default.jpg"
+              source="Moreno_028_1.jpg" n="461, 302, 704, 894"/>
             <figDesc>
               <locus target="Moreno_028.xml">Zelos de san José</locus>
             </figDesc>
@@ -35,27 +38,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Niño</term>
-          <term>Hombres</term>
-          <term>De pie</term>
-          <term>Jesús</term>
-          <term>Bastón</term>
-          <term>Flor/Ramo de flores</term>
-          <term>Cielo/Nube</term>
+          <term>Jesucristo</term>
+          <term>San José</term>
+          <term>Flores</term>
+          <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#nino"/>
-        <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
         <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#atuendo" target="#baston"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#religion" target="#jose"/>
+        <catRef scheme="#accesorios" target="#flor"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

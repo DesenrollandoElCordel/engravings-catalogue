@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_114_3">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_114_3">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109411/1180,420,453,715/full/0/default.jpg" source="Moreno_114_1.jpg" n="1180, 420, 453, 715"/>
+            <graphic url="fedora_ug8109411/1180,420,453,715/full/0/default.jpg"
+              source="Moreno_114_1.jpg" n="1180, 420, 453, 715"/>
             <figDesc>
-              <locus target="Moreno_114.xml">Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas, que las mugeres han notado</locus>
+              <locus target="Moreno_114.xml">Sátira graciosa en la que se manifiestan los nombres,
+                propiedades y faltas, que las mugeres han notado</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,10 +37,11 @@
               <item>
                 <title corresp="grabado_m_115_3.xml">grabado_m_115_3</title>
                 <bibl>
-<title>Sátira graciosa en que se manifiestan los nombres, propiedades y faltas que las mujeres han notado</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Sátira graciosa en que se manifiestan los nombres, propiedades y faltas que
+                    las mujeres han notado</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,19 +51,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term>De pie</term>
           <term>Hablando</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
+        <catRef scheme="#accion" target="#hablando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

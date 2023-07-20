@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_143_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_143_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104539/503,364,992,895/full/0/default.jpg" source="Moreno_143_1.jpg" n="503, 364, 992, 895"/>
+            <graphic url="fedora_ug8104539/503,364,992,895/full/0/default.jpg"
+              source="Moreno_143_1.jpg" n="503, 364, 992, 895"/>
             <figDesc>
               <locus target="Moreno_143.xml">Ana Contreras</locus>
             </figDesc>
@@ -35,25 +38,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Atado, -a</term>
-          <term>Sentado, -a</term>
-          <term>Sombrero/Tocado</term>
-          <term>Casaldo/Patíbulo</term>
+          <term>Mujer</term>
+          <term>Hombres</term>
+          <term>Patíbulo</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#atado"/>
-        <catRef scheme="#actitud" target="#sentado"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#espacio_construido" target="#casaldo"/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#construidos" target="#patibulo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

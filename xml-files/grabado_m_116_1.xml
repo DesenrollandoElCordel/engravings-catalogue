@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_116_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_116_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104857/274,296,428,865/full/0/default.jpg" source="Moreno_116_1.jpg" n="274, 296, 428, 865"/>
+            <graphic url="fedora_ug8104857/274,296,428,865/full/0/default.jpg"
+              source="Moreno_116_1.jpg" n="274, 296, 428, 865"/>
             <figDesc>
-              <locus target="Moreno_116.xml">Sainete nuevo titulado La estatua fingida o Jorge el Sagristán</locus>
+              <locus target="Moreno_116.xml">Sainete nuevo titulado La estatua fingida o Jorge el
+                Sagristán</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,18 +37,18 @@
               <item>
                 <title corresp="grabado_m_279_1.xml">grabado_m_279_1</title>
                 <bibl>
-<title>Relación burlesca intitulada Suceso de la pulga</title>
-                <date when="1858" cert="high">1858</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación burlesca intitulada Suceso de la pulga</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_331_1.xml">grabado_m_331_1</title>
                 <bibl>
-<title>Relación en contra de las mugeres</title>
-                <date when="1861" cert="high">1861</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Relación en contra de las mugeres</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,21 +58,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
           <term>Hablando</term>
-          <term>Peldaño</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#accesorios_varios" target="#peldano"/>
+        <catRef scheme="#accion" target="#hablando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

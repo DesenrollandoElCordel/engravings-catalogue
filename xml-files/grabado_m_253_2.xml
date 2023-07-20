@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_253_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_253_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110168/952,296,479,709/full/0/default.jpg" source="Moreno_253_1.jpg" n="952, 296, 479, 709"/>
+            <graphic url="fedora_ug8110168/952,296,479,709/full/0/default.jpg"
+              source="Moreno_253_1.jpg" n="952, 296, 479, 709"/>
             <figDesc>
               <locus target="Moreno_253.xml">Colección de canciones andaluzas</locus>
             </figDesc>
@@ -33,26 +35,26 @@
               <item>
                 <title corresp="grabado_m_255_2.xml">grabado_m_255_2</title>
                 <bibl>
-<title>Coplas glosadas en décimas y trovos muy discretos y entretenidos</title>
-                <date when="1856" cert="high">1856</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Coplas glosadas en décimas y trovos muy discretos y entretenidos</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_297_2.xml">grabado_m_297_2</title>
                 <bibl>
-<title>Colección de canciones nuevas</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Colección de canciones nuevas</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_313_2.xml">grabado_m_313_2</title>
                 <bibl>
-<title>Décimas nuevas para cantar los aficionados a la guitarra</title>
-                <date when="1864" cert="high">1864</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Décimas nuevas para cantar los aficionados a la guitarra</title>
+                  <date when="1864" cert="high">1864</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,23 +64,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>De pie</term>
-          <term>Tocando música</term>
-          <term>Sombrero/Tocado</term>
-          <term>Guitarra/Vihuela/Laúd</term>
+          <term>Instrumentos</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#instrumento_musical" target="#guitarra"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

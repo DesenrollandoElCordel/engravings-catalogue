@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_002_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_002_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104459/175,90,290,430/full/0/default.jpg" source="Moreno_002_1.jpg" n="175, 90, 290, 430"/>
+            <graphic url="fedora_ug8104459/175,90,290,430/full/0/default.jpg"
+              source="Moreno_002_1.jpg" n="175, 90, 290, 430"/>
             <figDesc>
               <locus target="Moreno_002.xml">Coplas nuevas para cantar los aficionados</locus>
             </figDesc>
@@ -71,13 +74,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Del pueblo</term>
-          <term>De pie</term>
+          <term>Mujer</term>
           <term>Puerta</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#del_pueblo_f"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#espacio_construido" target="#puerta"/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#construidos" target="#puerta"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

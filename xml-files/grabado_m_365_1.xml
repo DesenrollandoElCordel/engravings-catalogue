@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_365_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_365_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109821/335,158,1059,1381/full/0/default.jpg" source="Moreno_365_1.jpg" n="335, 158, 1059, 1381"/>
+            <graphic url="fedora_ug8109821/335,158,1059,1381/full/0/default.jpg"
+              source="Moreno_365_1.jpg" n="335, 158, 1059, 1381"/>
             <figDesc>
               <locus target="Moreno_365.xml">La batalla de los ángeles</locus>
             </figDesc>
@@ -35,27 +38,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>De pie</term>
-          <term>Tumbado, -a</term>
-          <term>Ángel/Ángeles</term>
-          <term>Monstruo/Criatura fantástica</term>
-          <term>Asta</term>
-          <term>Armadura</term>
-          <term>Escudo</term>
+          <term>Ángel(es)</term>
+          <term>Demonio(s)</term>
+          <term>Narración bíblica</term>
+          <term>Armas</term>
         </keywords>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#tumbado"/>
         <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#monstruo" target="#criatura"/>
-        <catRef scheme="#arma_blanca" target="#asta"/>
-        <catRef scheme="#arma_blanca" target="#armadura"/>
-        <catRef scheme="#arma_blanca" target="#escudo"/>
+        <catRef scheme="#religion" target="#demonio"/>
+        <catRef scheme="#religion" target="#narracion"/>
+        <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

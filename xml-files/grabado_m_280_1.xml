@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_280_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_280_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110310/591,268,342,681/full/0/default.jpg" source="Moreno_280_1.jpg" n="591, 268, 342, 681"/>
+            <graphic url="fedora_ug8110310/591,268,342,681/full/0/default.jpg"
+              source="Moreno_280_1.jpg" n="591, 268, 342, 681"/>
             <figDesc>
-              <locus target="Moreno_280.xml">Cada cual arrima el ascua. Pasillo nuevo entre hombre y muger</locus>
+              <locus target="Moreno_280.xml">Cada cual arrima el ascua. Pasillo nuevo entre hombre y
+                muger</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -33,10 +37,10 @@
               <item>
                 <title corresp="grabado_m_044_2.xml">grabado_m_044_2</title>
                 <bibl>
-<title>Décimas glosadas y trovos para cantar los aficionados</title>
-                <date when="1854" cert="high">1854</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Décimas glosadas y trovos para cantar los aficionados</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,19 +50,18 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
-          <term>Bailando</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#bailando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

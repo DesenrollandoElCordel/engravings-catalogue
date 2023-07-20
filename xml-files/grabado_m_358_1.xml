@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_358_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_358_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8104315/707,312,652,728/full/0/default.jpg" source="Moreno_358_1.jpg" n="707, 312, 652, 728"/>
+            <graphic url="fedora_ug8104315/707,312,652,728/full/0/default.jpg"
+              source="Moreno_358_1.jpg" n="707, 312, 652, 728"/>
             <figDesc>
               <locus target="Moreno_358.xml">Nueva relación El mariscal de Virón</locus>
             </figDesc>
@@ -35,17 +38,20 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Esqueleto</term>
-          <term>Sepulcro</term>
+          <term>Muerte</term>
+          <term>Lugar de sepultura</term>
         </keywords>
-        <catRef scheme="#muerte" target="#esqueleto"/>
-        <catRef scheme="#espacio_construido" target="#sepulcro"/>
+        <catRef scheme="#muerte" target="#muerte"/>
+        <catRef scheme="#construidos" target="#sepultura"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

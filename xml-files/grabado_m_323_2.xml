@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_323_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_323_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103674/606,339,448,583/full/0/default.jpg" source="Moreno_323_1.jpg" n="606, 339, 448, 583"/>
+            <graphic url="fedora_ug8103674/606,339,448,583/full/0/default.jpg"
+              source="Moreno_323_1.jpg" n="606, 339, 448, 583"/>
             <figDesc>
               <locus target="Moreno_323.xml">Coplas de seguidillas</locus>
             </figDesc>
@@ -33,18 +36,18 @@
               <item>
                 <title corresp="grabado_m_119_1.xml">grabado_m_119_1</title>
                 <bibl>
-<title>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Colección de coplas nuevas de Fandango, Malagueñas y Rondeñas</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_290_2.xml">grabado_m_290_2</title>
                 <bibl>
-<title>Colección de canciones. El pilluelo de Madrid</title>
-                <date when="1859" cert="high">1859</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Colección de canciones. El pilluelo de Madrid</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,23 +57,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>De pie</term>
           <term>Bailando</term>
-          <term>Tocando música</term>
-          <term>Castañetas</term>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#bailando"/>
-        <catRef scheme="#actitud" target="#tocando_musica"/>
-        <catRef scheme="#instrumento_musical" target="#castanetas"/>
+        <catRef scheme="#accion" target="#bailando"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

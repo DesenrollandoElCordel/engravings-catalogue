@@ -1,4 +1,5 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_355_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_355_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +24,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107867/575,165,687,962/full/0/default.jpg" source="Moreno_355_1.jpg" n="575, 165, 687, 962"/>
+            <graphic url="fedora_ug8107867/575,165,687,962/full/0/default.jpg"
+              source="Moreno_355_1.jpg" n="575, 165, 687, 962"/>
             <figDesc>
               <locus target="Moreno_355.xml">Copia del credo con la toma de Morella</locus>
             </figDesc>
@@ -33,18 +35,19 @@
               <item>
                 <title corresp="grabado_m_038_1.xml">grabado_m_038_1</title>
                 <bibl>
-<title>Desposorio de Cristo nuestro señor con la santísima cruz</title>
-                <date when="1865" cert="high">1865</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Desposorio de Cristo nuestro señor con la santísima cruz</title>
+                  <date when="1865" cert="high">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_374_2.xml">grabado_m_374_2</title>
                 <bibl>
-<title>Décimas trovadas que cantan al valiente ejército español vencedor de la raza mahometana en África</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Décimas trovadas que cantan al valiente ejército español vencedor de la
+                    raza mahometana en África</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -54,23 +57,22 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
-          <term>Santa Cruz</term>
-          <term>Jesús</term>
-          <term>Ciudad/Pueblo</term>
-          <term>Cielo/Nube</term>
+          <term>Jesucristo</term>
+          <term>Simbolismo cristiano</term>
+          <term>Ciudad o pueblo</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#religion" target="#santa_cruz"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
         <catRef scheme="#religion" target="#jesus"/>
-        <catRef scheme="#espacio_construido" target="#ciudad"/>
-        <catRef scheme="#ambiente_natural" target="#cielo"/>
+        <catRef scheme="#construidos" target="#ciudad"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

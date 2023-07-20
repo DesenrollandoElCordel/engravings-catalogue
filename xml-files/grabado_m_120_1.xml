@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_120_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_120_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8107542/341,480,1242,782/full/0/default.jpg" source="Moreno_120_1.jpg" n="341, 480, 1242, 782"/>
+            <graphic url="fedora_ug8107542/341,480,1242,782/full/0/default.jpg"
+              source="Moreno_120_1.jpg" n="341, 480, 1242, 782"/>
             <figDesc>
               <locus target="Moreno_120.xml">El Molinero de Alcoy</locus>
             </figDesc>
@@ -35,27 +38,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombres y mujeres</term>
-          <term>De pie</term>
-          <term>Hablando</term>
-          <term>Asno/Mula</term>
-          <term>Sombrero/Tocado</term>
+          <term>Mujere(s) y Hombre(s)</term>
+          <term>Animales domésticos</term>
           <term>Molino</term>
-          <term>Campo</term>
+          <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hombres_mujeres"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#actitud" target="#hablando"/>
-        <catRef scheme="#animales" target="#asno"/>
-        <catRef scheme="#atuendo" target="#sombrero"/>
-        <catRef scheme="#espacio_construido" target="#molino"/>
-        <catRef scheme="#ambiente_natural" target="#campo"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#animales" target="#domesticos"/>
+        <catRef scheme="#construidos" target="#molino"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

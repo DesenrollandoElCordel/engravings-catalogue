@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_118_2">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_118_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,7 +25,8 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109759/484,177,729,971/full/0/default.jpg" source="Moreno_118_5.jpg" n="484, 177, 729, 971"/>
+            <graphic url="fedora_ug8109759/484,177,729,971/full/0/default.jpg"
+              source="Moreno_118_5.jpg" n="484, 177, 729, 971"/>
             <figDesc>
               <locus target="Moreno_118.xml">Vida ejemplar de santa Rosalía</locus>
             </figDesc>
@@ -33,10 +36,11 @@
               <item>
                 <title corresp="grabado_m_117_2.xml">grabado_m_117_2</title>
                 <bibl>
-<title>Vida de santa Rosalía, princesa de Palermo, especial abogada contra la peste</title>
-                <date when="1800" cert="low">[s.a.]</date>
-<publisher>José María Moreno</publisher>
-</bibl>
+                  <title>Vida de santa Rosalía, princesa de Palermo, especial abogada contra la
+                    peste</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -46,23 +50,24 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujer</term>
-          <term>De pie</term>
-          <term>Esqueleto</term>
-          <term>Crucifijo</term>
-          <term>Flor/Ramo de flores</term>
+          <term>Santo/Santa</term>
+          <term>Simbolismo cristiano</term>
+          <term>Flores</term>
+          <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#de_pie"/>
-        <catRef scheme="#muerte" target="#esqueleto"/>
-        <catRef scheme="#accesorios_varios" target="#crucifijo"/>
-        <catRef scheme="#accesorios_varios" target="#flor"/>
+        <catRef scheme="#religion" target="#santo"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#accesorios" target="#flor"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

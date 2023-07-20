@@ -1,4 +1,6 @@
-<?xml-model href="schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_309_1">
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_309_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -23,9 +25,11 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103392/343,232,1210,1083/full/0/default.jpg" source="Moreno_309_1.jpg" n="343, 232, 1210, 1083"/>
+            <graphic url="fedora_ug8103392/343,232,1210,1083/full/0/default.jpg"
+              source="Moreno_309_1.jpg" n="343, 232, 1210, 1083"/>
             <figDesc>
-              <locus target="Moreno_309.xml">Trobos discretos y divertidos para entretener a los curiosos y cantar los galanes</locus>
+              <locus target="Moreno_309.xml">Trobos discretos y divertidos para entretener a los
+                curiosos y cantar los galanes</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -35,7 +39,10 @@
     </fileDesc>
     <encodingDesc>
       <projectDesc>
-        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de Meuron.</p>
+        <p>Este archivo fue creado en el marco del proyecto Desenrollando el Cordel/Démêler le
+          cordel/Untangling the cordel, dirigido por la profesora Constance Carta de la Universidad
+          de Ginebra, con el apoyo de la Fundación filantrópica Famille Sandoz-Monique de
+          Meuron.</p>
       </projectDesc>
     </encodingDesc>
     <profileDesc>
@@ -43,11 +50,9 @@
         <keywords>
           <term>Mujer</term>
           <term>Bailando</term>
-          <term>Campo</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#actitud" target="#bailando"/>
-        <catRef scheme="#ambiente_natural" target="#campo"/>
+        <catRef scheme="#accion" target="#bailando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
