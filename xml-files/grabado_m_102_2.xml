@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_102_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_102_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106040/629,371,989,955/full/0/default.jpg"
-              source="Moreno_102_1.jpg" n="629, 371, 989, 955"/>
+            <graphic url="fedora_ug8106040/629,371,989,955/full/0/default.jpg" source="Moreno_102_1.jpg" n="629, 371, 989, 955"/>
             <figDesc>
               <locus target="Moreno_102.xml">La doncella condenada. Nueva relación</locus>
             </figDesc>
@@ -72,11 +69,13 @@
           <term>Infierno</term>
           <term>Demonio(s)</term>
           <term>Animales imaginarios</term>
+          <term>Fuego</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#religion" target="#infierno"/>
         <catRef scheme="#religion" target="#demonio"/>
         <catRef scheme="#animales" target="#imaginarios"/>
+        <catRef scheme="#naturales" target="#fuego"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

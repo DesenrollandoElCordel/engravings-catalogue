@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_176_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_176_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1865" cert="high">1865</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109834/182,211,1351,707/full/0/default.jpg"
-              source="Moreno_176_1.jpg" n="182, 211, 1351, 707"/>
+            <graphic url="fedora_ug8109834/182,211,1351,707/full/0/default.jpg" source="Moreno_176_1.jpg" n="182, 211, 1351, 707"/>
             <figDesc>
               <locus target="Moreno_176.xml">Juan García Nebrón</locus>
             </figDesc>
@@ -57,14 +55,12 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
-          <term>Mujer</term>
+          <term>Mujer(es) y hombre(s)</term>
           <term>Discutiendo</term>
           <term>Armas</term>
           <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#discutiendo"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#paisaje"/>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_080_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_080_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110119/395,320,992,1356/full/0/default.jpg"
-              source="Moreno_080_1.jpg" n="395, 320, 992, 1356"/>
+            <graphic url="fedora_ug8110119/395,320,992,1356/full/0/default.jpg" source="Moreno_080_1.jpg" n="395, 320, 992, 1356"/>
             <figDesc>
               <locus target="Moreno_080.xml">Despertador espiritual</locus>
             </figDesc>
@@ -64,6 +61,7 @@
           <term>Ángel(es)</term>
           <term>Infierno</term>
           <term>Simbolismo cristiano</term>
+          <term>Fuego</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#rezando"/>
@@ -71,6 +69,7 @@
         <catRef scheme="#religion" target="#angel"/>
         <catRef scheme="#religion" target="#infierno"/>
         <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#naturales" target="#fuego"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_006_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_006_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103379/459,126,956,653/full/0/default.jpg"
-              source="Moreno_006_1.jpg" n="459, 126, 956, 653"/>
+            <graphic url="fedora_ug8103379/459,126,956,653/full/0/default.jpg" source="Moreno_006_1.jpg" n="459, 126, 956, 653"/>
             <figDesc>
               <locus target="Moreno_006.xml">Villancicos nuevos, alegres y divertidos, para cantar
                 en estas próximas Navidades</locus>

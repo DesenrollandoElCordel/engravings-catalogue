@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_352_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_352_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110083/284,265,532,801/full/0/default.jpg"
-              source="Moreno_352_1.jpg" n="284, 265, 532, 801"/>
+            <graphic url="fedora_ug8110083/284,265,532,801/full/0/default.jpg" source="Moreno_352_1.jpg" n="284, 265, 532, 801"/>
             <figDesc>
               <locus target="Moreno_352.xml">Pasillo divertido entre Mazapán y Chicharrón</locus>
             </figDesc>

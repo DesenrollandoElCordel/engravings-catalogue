@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_246_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_246_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109470/754,203,450,842/full/0/default.jpg"
-              source="Moreno_246_3.jpg" n="754, 203, 450, 842"/>
+            <graphic url="fedora_ug8109470/754,203,450,842/full/0/default.jpg" source="Moreno_246_3.jpg" n="754, 203, 450, 842"/>
             <figDesc>
               <locus target="Moreno_246.xml">Canción del rosero</locus>
             </figDesc>
@@ -67,8 +64,10 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
+          <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

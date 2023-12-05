@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_082_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_082_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1850" cert="high">1850</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110273/365,240,1320,809/full/0/default.jpg"
-              source="Moreno_082_1.jpg" n="365, 240, 1320, 809"/>
+            <graphic url="fedora_ug8110273/365,240,1320,809/full/0/default.jpg" source="Moreno_082_1.jpg" n="365, 240, 1320, 809"/>
             <figDesc>
               <locus target="Moreno_082.xml">Juan de Prados o el chasco del arriero</locus>
             </figDesc>
@@ -48,15 +45,15 @@
       <textClass>
         <keywords>
           <term>Religioso</term>
-          <term>Mujeres</term>
+          <term>Mujer(es) y hombre(s)</term>
           <term>Cabalgando</term>
-          <term/>
+          <term>Animales domésticos</term>
           <term>Puerta</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#religioso"/>
-        <catRef scheme="#grupos_personajes" target="#mujeres"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#cabalgando"/>
-        <catRef scheme="#animales" target="#domestico"/>
+        <catRef scheme="#animales" target="#domesticos"/>
         <catRef scheme="#construidos" target="#puerta"/>
       </textClass>
     </profileDesc>

@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_239_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_239_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108589/348,266,1106,779/full/0/default.jpg"
-              source="Moreno_239_1.jpg" n="348, 266, 1106, 779"/>
+            <graphic url="fedora_ug8108589/348,266,1106,779/full/0/default.jpg" source="Moreno_239_1.jpg" n="348, 266, 1106, 779"/>
             <figDesc>
               <locus target="Moreno_239.xml">Relación para alabar a los novios en cualquier
                 boda</locus>
@@ -59,7 +56,7 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujere(s) y Hombre(s)</term>
+          <term>Mujer(es) y hombre(s)</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
       </textClass>

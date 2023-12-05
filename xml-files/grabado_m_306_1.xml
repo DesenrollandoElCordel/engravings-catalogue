@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_306_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_306_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108997/302,292,1114,945/full/0/default.jpg"
-              source="Moreno_306_1.jpg" n="302, 292, 1114, 945"/>
+            <graphic url="fedora_ug8108997/302,292,1114,945/full/0/default.jpg" source="Moreno_306_1.jpg" n="302, 292, 1114, 945"/>
             <figDesc>
               <locus target="Moreno_306.xml">Romance en que se da cuenta y declara la trágica y
                 verdadera historia de la Hermosa Rosimunda</locus>
@@ -48,11 +45,13 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujere(s) y Hombre(s)</term>
+          <term>Mujer(es) y hombre(s)</term>
+          <term>Abrazando</term>
           <term>Bebiendo</term>
           <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#abrazando"/>
         <catRef scheme="#accion" target="#bebiendo"/>
         <catRef scheme="#construidos" target="#interior"/>
       </textClass>

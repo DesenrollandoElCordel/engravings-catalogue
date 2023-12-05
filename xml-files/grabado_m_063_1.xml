@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_063_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_063_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110118/245,360,1200,731/full/0/default.jpg"
-              source="Moreno_063_1.jpg" n="245, 360, 1200, 731"/>
+            <graphic url="fedora_ug8110118/245,360,1200,731/full/0/default.jpg" source="Moreno_063_1.jpg" n="245, 360, 1200, 731"/>
             <figDesc>
               <locus target="Moreno_063.xml">El raton de Canarias</locus>
             </figDesc>

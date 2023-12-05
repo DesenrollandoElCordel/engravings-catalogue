@@ -59,13 +59,10 @@
                </category>
 
                <!-- Categoria 'Personajes masculinos' -->
-               <category xml:id="personaje_masculino" corresp="Q6581097" n="4">
+               <category xml:id="personaje_masculino" corresp="Q6581097" n="3">
                   <catDesc>Personajes masculinos</catDesc>
                   <category xml:id="hombre" corresp="Q8441">
                      <catDesc>Hombre</catDesc>
-                  </category>
-                  <category xml:id="soldado" corresp="Q4991371">
-                     <catDesc>Soldado</catDesc>
                   </category>
                   <category xml:id="religioso" corresp="Q2566598">
                      <catDesc>Religioso</catDesc>
@@ -100,10 +97,13 @@
                </category>
 
                <!-- Categoria 'Acciones' -->
-               <category xml:id="accion" corresp="Q1914636" n="10">
+               <category xml:id="accion" corresp="Q1914636" n="12">
                   <catDesc>Acciones</catDesc>
                   <category xml:id="hablando" corresp="Q52946">
                      <catDesc>Hablando</catDesc>
+                  </category>
+                  <category xml:id="abrazando" corresp="Q328703">
+                     <catDesc>Abrazando</catDesc>
                   </category>
                   <category xml:id="discutiendo" corresp="Q2357965">
                      <catDesc>Discutiendo</catDesc>
@@ -129,13 +129,16 @@
                   <category xml:id="bebiendo" corresp="Q876776">
                      <catDesc>Bebiendo</catDesc>
                   </category>
+                  <category xml:id="comiendo" corresp="Q213449">
+                     <catDesc>Comiendo</catDesc>
+                  </category>
                   <category xml:id="campo" corresp="Q213753">
                      <catDesc>Trabajando en el campo</catDesc>
                   </category>
                </category>
 
                <!-- Categoria 'Accesorios' -->
-               <category xml:id="accesorios" corresp="Q362200" n="6">
+               <category xml:id="accesorios" corresp="Q362200" n="7">
                   <catDesc>Accesorios</catDesc>
                   <category xml:id="armas" corresp="Q728">
                      <catDesc>Armas</catDesc>
@@ -155,10 +158,13 @@
                   <category xml:id="papel" corresp="Q11472">
                      <catDesc>Papeles</catDesc>
                   </category>
+                  <category xml:id="otros" corresp="Q55107540">
+                     <catDesc>Otros accesorios</catDesc>
+                  </category>
                </category>
 
                <!-- Categoria 'Ambientes construidos' -->
-               <category xml:id="construidos" corresp="Q4986688" n="16">
+               <category xml:id="construidos" corresp="Q4986688" n="17">
                   <catDesc>Ambientes construidos</catDesc>
                   <category xml:id="ciudad" corresp="Q7930989">
                      <catDesc>Ciudad o pueblo</catDesc>
@@ -208,30 +214,33 @@
                   <category xml:id="interior" corresp="Q30062422">
                      <catDesc>Interior de un edificio</catDesc>
                   </category>
+                  <category xml:id="pozo" corresp="Q43483">
+                     <catDesc>Pozo</catDesc>
+                  </category>
                </category>
 
                <!-- Categoria 'Medio de transporte' -->
-               <category xml:id="transporte" corresp="Q106839123" n="3">
+               <category xml:id="transporte" corresp="Q106839123" n="2">
                   <catDesc>Medios de transporte</catDesc>
                   <category xml:id="navio" corresp="Q11446">
                      <catDesc>Navío/Barco</catDesc>
                   </category>
-                  <category xml:id="carroza" corresp="Q14565995">
-                     <catDesc>Carroza</catDesc>
-                  </category>
-                  <category xml:id="bicicleta" corresp="Q11442">
-                     <catDesc>Bicicleta</catDesc>
+                  <category xml:id="vehiculo" corresp="Q15618781">
+                     <catDesc>Vehículo</catDesc>
                   </category>
                </category>
 
                <!-- Categoria 'Espacios naturales' -->
-               <category xml:id="naturales" corresp="Q1286517" n="6">
-                  <catDesc>Espacios naturales</catDesc>
+               <category xml:id="naturales" corresp="Q1286517" n="8">
+                  <catDesc>Espacios y elementos naturales</catDesc>
                   <category xml:id="paisaje" corresp="Q107425">
                      <catDesc>Paisaje</catDesc>
                   </category>
                   <category xml:id="astros" corresp="Q6999">
                      <catDesc>Cuerpo(s) astronómico(s)</catDesc>
+                  </category>
+                  <category xml:id="arbol" corresp="Q10884">
+                     <catDesc>Árbol</catDesc>
                   </category>
                   <category xml:id="bosque" corresp="Q4421">
                      <catDesc>Bosque</catDesc>
@@ -244,6 +253,9 @@
                   </category>
                   <category xml:id="cueva" corresp="Q35509">
                      <catDesc>Cueva</catDesc>
+                  </category>
+                  <category xml:id="fuego" corresp="Q3196">
+                     <catDesc>Fuego</catDesc>
                   </category>
                </category>
 

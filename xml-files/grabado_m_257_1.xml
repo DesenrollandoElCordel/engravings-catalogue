@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_257_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_257_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108974/367,295,962,1359/full/0/default.jpg"
-              source="Moreno_257_1.jpg" n="367, 295, 962, 1359"/>
+            <graphic url="fedora_ug8108974/367,295,962,1359/full/0/default.jpg" source="Moreno_257_1.jpg" n="367, 295, 962, 1359"/>
             <figDesc>
               <locus target="Moreno_257.xml">Famosos romances del gigante cananeo san
                 Cristóbal</locus>

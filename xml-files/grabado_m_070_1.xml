@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_070_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_070_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8108454/148,337,1333,999/full/0/default.jpg"
-              source="Moreno_070_1.jpg" n="148, 337, 1333, 999"/>
+            <graphic url="fedora_ug8108454/148,337,1333,999/full/0/default.jpg" source="Moreno_070_1.jpg" n="148, 337, 1333, 999"/>
             <figDesc>
               <locus target="Moreno_070.xml">Verdadera relación y curioso romance de la vida y
                 muerte del bienaventurado San Alejo</locus>
@@ -47,7 +45,7 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombres y mujeres</term>
+          <term>Mujere(s) y hombre(s)</term>
           <term>Muerte</term>
           <term>Santo</term>
           <term>Área de agua</term>

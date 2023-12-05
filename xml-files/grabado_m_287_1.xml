@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_287_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_287_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109151/469,324,1005,812/full/0/default.jpg"
-              source="Moreno_287_1.jpg" n="469, 324, 1005, 812"/>
+            <graphic url="fedora_ug8109151/469,324,1005,812/full/0/default.jpg" source="Moreno_287_1.jpg" n="469, 324, 1005, 812"/>
             <figDesc>
               <locus target="Moreno_287.xml">Relación burlesca titulada el modo de vivir</locus>
             </figDesc>
@@ -49,9 +46,11 @@
         <keywords>
           <term>Hombres</term>
           <term>Interior de un edificio</term>
+          <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#construidos" target="#interior"/>
+        <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

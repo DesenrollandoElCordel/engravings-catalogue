@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_017_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_017_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109311/487,261,1088,755/full/0/default.jpg"
-              source="Moreno_017_1.jpg" n="487, 261, 1088, 755"/>
+            <graphic url="fedora_ug8109311/487,261,1088,755/full/0/default.jpg" source="Moreno_017_1.jpg" n="487, 261, 1088, 755"/>
             <figDesc>
               <locus target="Moreno_017.xml">Relación del jitano de Cartagena</locus>
             </figDesc>
@@ -58,7 +55,7 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujere(s) y Hombre(s)</term>
+          <term>Mujer(es) y hombres</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
       </textClass>

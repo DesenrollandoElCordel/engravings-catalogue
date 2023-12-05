@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_280_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_280_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110310/591,268,342,681/full/0/default.jpg"
-              source="Moreno_280_1.jpg" n="591, 268, 342, 681"/>
+            <graphic url="fedora_ug8110310/591,268,342,681/full/0/default.jpg" source="Moreno_280_1.jpg" n="591, 268, 342, 681"/>
             <figDesc>
               <locus target="Moreno_280.xml">Cada cual arrima el ascua. Pasillo nuevo entre hombre y
                 muger</locus>

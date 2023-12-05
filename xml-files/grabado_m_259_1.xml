@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_259_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_259_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105183/168,210,401,756/full/0/default.jpg"
-              source="Moreno_259_1.jpg" n="168, 210, 401, 756"/>
+            <graphic url="fedora_ug8105183/168,210,401,756/full/0/default.jpg" source="Moreno_259_1.jpg" n="168, 210, 401, 756"/>
             <figDesc>
               <locus target="Moreno_259.xml">Coplas nuevas glosadas en décimas para cantar los
                 aficionados</locus>

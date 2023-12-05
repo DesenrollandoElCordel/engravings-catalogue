@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_251_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_251_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109703/699,282,467,782/full/0/default.jpg"
-              source="Moreno_251_3.jpg" n="699, 282, 467, 782"/>
+            <graphic url="fedora_ug8109703/699,282,467,782/full/0/default.jpg" source="Moreno_251_3.jpg" n="699, 282, 467, 782"/>
             <figDesc>
               <locus target="Moreno_251.xml">Colección de canciones españolas</locus>
             </figDesc>

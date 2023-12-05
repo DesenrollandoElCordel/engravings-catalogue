@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_342_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_342_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109828/879,230,464,690/full/0/default.jpg"
-              source="Moreno_342_1.jpg" n="879, 230, 464, 690"/>
+            <graphic url="fedora_ug8109828/879,230,464,690/full/0/default.jpg" source="Moreno_342_1.jpg" n="879, 230, 464, 690"/>
             <figDesc>
               <locus target="Moreno_342.xml">Pregunta que hace un curioso a su amigo
                 aventurero</locus>

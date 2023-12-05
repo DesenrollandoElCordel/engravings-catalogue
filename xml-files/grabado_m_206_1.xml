@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_206_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_206_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110212/396,330,652,743/full/0/default.jpg"
-              source="Moreno_206_1.jpg" n="396, 330, 652, 743"/>
+            <graphic url="fedora_ug8110212/396,330,652,743/full/0/default.jpg" source="Moreno_206_1.jpg" n="396, 330, 652, 743"/>
             <figDesc>
               <locus target="Moreno_206.xml">Antonio Montero y Diego de Frías</locus>
             </figDesc>
@@ -66,13 +63,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
-          <term>Mujer</term>
+          <term>Mujer(es) y hombre(s)</term>
           <term>Cabalgando</term>
           <term>Animales domésticos</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#cabalgando"/>
         <catRef scheme="#animales" target="#domesticos"/>
       </textClass>

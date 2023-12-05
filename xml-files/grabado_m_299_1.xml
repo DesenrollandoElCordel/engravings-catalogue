@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_299_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_299_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8106837/113,703,648,817/full/0/default.jpg"
-              source="Moreno_299_1.jpg" n="113, 703, 648, 817"/>
+            <graphic url="fedora_ug8106837/113,703,648,817/full/0/default.jpg" source="Moreno_299_1.jpg" n="113, 703, 648, 817"/>
             <figDesc>
               <locus target="Moreno_299.xml">Receta para las mujeres mal casadas</locus>
             </figDesc>
@@ -47,12 +44,10 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
-          <term>Mujer</term>
+          <term>Mujer(es) y hombre(s)</term>
           <term>Discutiendo</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#discutiendo"/>
       </textClass>
     </profileDesc>

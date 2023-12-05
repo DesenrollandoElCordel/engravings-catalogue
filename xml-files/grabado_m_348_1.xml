@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_348_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_348_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105997/327,388,450,740/full/0/default.jpg"
-              source="Moreno_348_1.jpg" n="327, 388, 450, 740"/>
+            <graphic url="fedora_ug8105997/327,388,450,740/full/0/default.jpg" source="Moreno_348_1.jpg" n="327, 388, 450, 740"/>
             <figDesc>
               <locus target="Moreno_348.xml">Nueva relación burlesca en la que se refiere el chasco
                 que le dio un arriero a un sacristán</locus>

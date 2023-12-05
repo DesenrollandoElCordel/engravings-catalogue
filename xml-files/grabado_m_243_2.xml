@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_243_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_243_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109318/891,364,444,752/full/0/default.jpg"
-              source="Moreno_243_1.jpg" n="891, 364, 444, 752"/>
+            <graphic url="fedora_ug8109318/891,364,444,752/full/0/default.jpg" source="Moreno_243_1.jpg" n="891, 364, 444, 752"/>
             <figDesc>
               <locus target="Moreno_243.xml">Daños que vienen a los hombres por las señoras
                 mugeres</locus>
@@ -86,9 +83,11 @@
         <keywords>
           <term>Hombre</term>
           <term>Instrumentos musicales</term>
+          <term>Árbol</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
+        <catRef scheme="#naturales" target="#arbol"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

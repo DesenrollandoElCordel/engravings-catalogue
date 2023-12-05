@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_060_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_060_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8110027/635,257,525,914/full/0/default.jpg"
-              source="Moreno_060_1.jpg" n="635, 257, 525, 914"/>
+            <graphic url="fedora_ug8110027/635,257,525,914/full/0/default.jpg" source="Moreno_060_1.jpg" n="635, 257, 525, 914"/>
             <figDesc>
               <locus target="Moreno_060.xml">Residencia a mozos casados y viudos</locus>
             </figDesc>

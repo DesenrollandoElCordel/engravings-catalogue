@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_045_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_045_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8109384/474,262,1070,838/full/0/default.jpg"
-              source="Moreno_045_1.jpg" n="474, 262, 1070, 838"/>
+            <graphic url="fedora_ug8109384/474,262,1070,838/full/0/default.jpg" source="Moreno_045_1.jpg" n="474, 262, 1070, 838"/>
             <figDesc>
               <locus target="Moreno_045.xml">Doña Francisca la Cautiva</locus>
             </figDesc>
@@ -47,7 +44,7 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujere(s) y Hombre(s)</term>
+          <term>Mujer(es) y Hombre(s)</term>
           <term>Muerte</term>
           <term>Paisaje</term>
         </keywords>

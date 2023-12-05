@@ -1,5 +1,4 @@
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_037_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_037_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,8 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103867/491,325,380,800/full/0/default.jpg"
-              source="Moreno_037_1.jpg" n="491, 325, 880, 800"/>
+            <graphic url="fedora_ug8103867/491,325,380,800/full/0/default.jpg" source="Moreno_037_1.jpg" n="491, 325, 880, 800"/>
             <figDesc>
               <locus target="Moreno_037.xml">Chiste gracioso de un médico y un arriero</locus>
             </figDesc>

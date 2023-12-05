@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_186_2">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_186_2">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,13 +19,11 @@
           <title>grabado_m_186_2</title>
           <author/>
           <publisher corresp="impresor.xml#moreno">José María Moreno</publisher>
-          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona"
-            >Carmona (Sevilla)</pubPlace>
+          <pubPlace ref="https://www.geonames.org/2520118/carmona.html" corresp="lugar.xml#carmona">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8105337/95,193,1509,2359/full/0/default.jpg"
-              source="Moreno_186_1.jpg" n="95, 193, 1509, 2359"/>
+            <graphic url="fedora_ug8105337/95,193,1509,2359/full/0/default.jpg" source="Moreno_186_1.jpg" n="95, 193, 1509, 2359"/>
             <figDesc>
               <locus target="Moreno_186.xml">Las siete palabras que habló Nuestro señor Jesucristo y
                 el decendimiento de la cruz</locus>

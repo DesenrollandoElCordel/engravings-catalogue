@@ -1,6 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_171_1">
+<?xml-model href="../schema/pliegos_illustrations.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_m_171_1">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,8 +23,7 @@
           <date when="1855" cert="high">1855</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="fedora_ug8103090/840,243,387,825/full/0/default.jpg"
-              source="Moreno_171_1.jpg" n="840, 243, 387, 825"/>
+            <graphic url="fedora_ug8103090/840,243,387,825/full/0/default.jpg" source="Moreno_171_1.jpg" n="840, 243, 387, 825"/>
             <figDesc>
               <locus target="Moreno_171.xml">Carta amorosa que escribe un soldado</locus>
             </figDesc>
