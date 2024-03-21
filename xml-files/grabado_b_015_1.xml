@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_015_1.jpg/563,240,1261,860/full/0/default.jpg" source="BCN_015_1.jpg" n="563,240,1261,860"/>
+            <graphic url="varios/BCN_015_1.jpg/563,240,700,600/full/0/default.jpg" source="BCN_015_1.jpg" n="563,240,700,600"/>
             <figDesc>
               <locus target="BCN_015.xml">Romance famoso, en que se refieren las grandes hazañas del valiente negro en flandes</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_017_1.xml">grabado_b_017_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Romance, de como el conde don ramon de Barcelona libró a la emperatriz de Alemania</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de Juan Jolis</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_015_1.jpg/563,240,1261,860/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_015_1.jpg/563,240,700,600/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_022_1.jpg/1167,316,1568,937/full/0/default.jpg" source="BCN_022_1.jpg" n="1167,316,1568,937"/>
+            <graphic url="varios/BCN_022_1.jpg/1167,316,410,610/full/0/default.jpg" source="BCN_022_1.jpg" n="1167,316,410,610"/>
             <figDesc>
               <locus target="BCN_022.xml">Folias para cantar a las damas</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_b_021_3.xml">grabado_b_021_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Folias para cantar a las damas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de Juan Jolis</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_b_048_2.xml">grabado_b_048_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Romance nuevo, y curioso, en que se refieren y declaran las quejas y lamentos de un amante</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_022_1.jpg/1167,316,1568,937/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_022_1.jpg/1167,316,410,610/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

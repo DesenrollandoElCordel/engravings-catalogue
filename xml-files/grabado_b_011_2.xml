@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_011_5.jpg/271,249,759,919/full/0/default.jpg" source="BCN_011_5.jpg" n="271,249,759,919"/>
+            <graphic url="varios/BCN_011_5.jpg/271,249,470,650/full/0/default.jpg" source="BCN_011_5.jpg" n="271,249,470,650"/>
             <figDesc>
               <locus target="BCN_011.xml">Nueva relacion, y curioso romance</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_031_3.xml">grabado_b_031_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relacion del conde alarcos y de la infanta</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_011_5.jpg/271,249,759,919/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_011_5.jpg/271,249,470,650/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

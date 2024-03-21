@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_013_1.jpg/467,203,1217,778/full/0/default.jpg" source="BCN_013_1.jpg" n="467,203,1217,778"/>
+            <graphic url="varios/BCN_013_1.jpg/467,203,750,600/full/0/default.jpg" source="BCN_013_1.jpg" n="467,203,750,600"/>
             <figDesc>
               <locus target="BCN_013.xml">Romance nuevo</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_005_1.xml">grabado_b_005_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Romance famoso que hizo un forsado</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de Juan Jolis</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_013_1.jpg/467,203,1217,778/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_013_1.jpg/467,203,750,600/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
