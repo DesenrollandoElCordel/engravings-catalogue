@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_030_1.jpg/1127,96,1394,745/full/0/default.jpg" source="BCN_030_1.jpg" n="1127,96,1394,745"/>
+            <graphic url="varios/BCN_030_1.jpg/1127,96,270,650/full/0/default.jpg" source="BCN_030_1.jpg" n="1127,96,270,650"/>
             <figDesc>
               <locus target="BCN_030.xml">La muerte de don rodrigo calderon</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_017_3.xml">grabado_b_017_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Romance, de como el conde don ramon de barcelona libró a la emperatriz de alemania</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de Juan Jolis</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_030_1.jpg/1127,96,1394,745/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_030_1.jpg/1127,96,270,650/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

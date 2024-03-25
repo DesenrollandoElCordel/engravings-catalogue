@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_039_1.jpg/1069,246,1536,841/full/0/default.jpg" source="BCN_039_1.jpg" n="1069,246,1536,841"/>
+            <graphic url="varios/BCN_039_1.jpg/1070,246,450,600/full/0/default.jpg" source="BCN_039_1.jpg" n="1070,246,450,600"/>
             <figDesc>
               <locus target="BCN_039.xml">Nuevo romance, en que se declara una prision que ha hecho la santa inquisicion en esta corte de madrid</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_034_3.xml">grabado_b_034_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nuevo romance, en que se declara una prision que ha hecho la santa inquisicion en esta corte de Madrid</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_039_1.jpg/1069,246,1536,841/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_039_1.jpg/1070,246,450,600/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

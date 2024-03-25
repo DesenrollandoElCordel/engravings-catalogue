@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_023_1.jpg/397,253,740,828/full/0/default.jpg" source="BCN_023_1.jpg" n="397,253,740,828"/>
+            <graphic url="varios/BCN_023_1.jpg/370,253,440,600/full/0/default.jpg" source="BCN_023_1.jpg" n="370,253,440,600"/>
             <figDesc>
               <locus target="BCN_023.xml">Lletra nova consolatoria</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_b_049_1.xml">grabado_b_049_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Matraca de un estudiante a una dama</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_b_050_1.xml">grabado_b_050_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Matraca de un estudiante a una dama</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_023_1.jpg/397,253,740,828/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_023_1.jpg/370,253,440,600/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

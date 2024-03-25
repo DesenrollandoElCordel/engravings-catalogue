@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_032_1.jpg/996,279,1638,890/full/0/default.jpg" source="BCN_032_1.jpg" n="996,279,1638,890"/>
+            <graphic url="varios/BCN_032_1.jpg/986,279,650,620/full/0/default.jpg" source="BCN_032_1.jpg" n="986,279,650,620"/>
             <figDesc>
               <locus target="BCN_032.xml">Nueva relacion y curioso romance</locus>
             </figDesc>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_032_1.jpg/996,279,1638,890/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_032_1.jpg/986,279,650,620/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

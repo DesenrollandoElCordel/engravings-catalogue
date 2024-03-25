@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_027_1.jpg/691,166,1022,863/full/0/default.jpg" source="BCN_027_1.jpg" n="691,166,1022,863"/>
+            <graphic url="varios/BCN_027_1.jpg/691,186,370,670/full/0/default.jpg" source="BCN_027_1.jpg" n="691,186,370,670"/>
             <figDesc>
               <locus target="BCN_027.xml">Seguidillas para cantar boleros con estrivillo</locus>
             </figDesc>
@@ -51,10 +51,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumento(s) musical(es)</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#intrumentos"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_027_1.jpg/691,166,1022,863/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_027_1.jpg/691,186,370,670/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

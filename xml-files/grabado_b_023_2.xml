@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_023_1.jpg/998,238,1430,848/full/0/default.jpg" source="BCN_023_1.jpg" n="998,238,1430,848"/>
+            <graphic url="varios/BCN_023_1.jpg/1010,238,450,620/full/0/default.jpg" source="BCN_023_1.jpg" n="1010,238,450,620"/>
             <figDesc>
               <locus target="BCN_023.xml">Lletra nova consolatoria</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_023_1.jpg/998,238,1430,848/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_023_1.jpg/1010,238,450,620/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_040_1.jpg/1203,107,1664,806/full/0/default.jpg" source="BCN_040_1.jpg" n="1203,107,1664,806"/>
+            <graphic url="varios/BCN_040_1.jpg/1203,107,450,700/full/0/default.jpg" source="BCN_040_1.jpg" n="1203,107,450,700"/>
             <figDesc>
               <locus target="BCN_040.xml">Nuevo y curioso romance, en que se declara lo que les sucedió á dos finos amantes llamados don jacinto del castillo, y doña leonor de la rosa</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_b_004_1.xml">grabado_b_004_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Blas de Leon</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de Juan Jolis</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_b_063_6.xml">grabado_b_063_6</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la Virgen Santísima del Carmen</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_040_1.jpg/1203,107,1664,806/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_040_1.jpg/1203,107,450,700/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

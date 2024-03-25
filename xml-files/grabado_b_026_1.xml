@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_026_1.jpg/1052,185,1433,864/full/0/default.jpg" source="BCN_026_1.jpg" n="1052,185,1433,864"/>
+            <graphic url="varios/BCN_026_1.jpg/1022,185,450,700/full/0/default.jpg" source="BCN_026_1.jpg" n="1022,185,450,700"/>
             <figDesc>
               <locus target="BCN_026.xml">Seguidillas para cantar boleros con estrivillo</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_027_1.xml">grabado_b_027_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Seguidillas para cantar boleros con estrivillo</title>
+                  <date>[s.a.]</date>
+                  <publisher>Bernado Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -51,10 +54,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumento(s) musical(es)</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#intrumentos"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_026_1.jpg/1052,185,1433,864/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_026_1.jpg/1022,185,450,700/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

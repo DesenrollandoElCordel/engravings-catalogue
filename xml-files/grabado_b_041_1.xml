@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_041_1.jpg/250,180,1421,732/full/0/default.jpg" source="BCN_041_1.jpg" n="250,180,1421,732"/>
+            <graphic url="varios/BCN_041_1.jpg/250,170,1161,580/full/0/default.jpg" source="BCN_041_1.jpg" n="250,170,1161,580"/>
             <figDesc>
               <locus target="BCN_041.xml">Nuevo y curioso romance, del modo de vivir de los pobres estudiantes, que estudian en valencia</locus>
             </figDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_041_1.jpg/250,180,1421,732/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_041_1.jpg/250,170,1161,580/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

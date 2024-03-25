@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_031_1.jpg/729,1036,1124,1685/full/0/default.jpg" source="BCN_031_1.jpg" n="729,1036,1124,1685"/>
+            <graphic url="varios/BCN_031_1.jpg/709,1036,450,670/full/0/default.jpg" source="BCN_031_1.jpg" n="709,1036,450,670"/>
             <figDesc>
               <locus target="BCN_031.xml">Relacion del conde alarcos y de la infanta</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_030_2.xml">grabado_b_030_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La muerte de Don Rodrigo Calderon</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_031_1.jpg/729,1036,1124,1685/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_031_1.jpg/709,1036,450,670/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
