@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_058_1.jpg/1170,61,1523,708/full/0/default.jpg" source="BCN_058_1.jpg" n="1170,61,1523,708"/>
+            <graphic url="varios/BCN_058_1.jpg/1160,61,410,650/full/0/default.jpg" source="BCN_058_1.jpg" n="1160,61,410,650"/>
             <figDesc>
               <locus target="BCN_058.xml">Col-loqui de quatre aprenents</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_059_4.xml">grabado_b_059_4</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Col-loqui de quatre aprenents</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_058_1.jpg/1170,61,1523,708/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_058_1.jpg/1160,61,410,650/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

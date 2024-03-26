@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_046_1.jpg/430,159,1256,734/full/0/default.jpg" source="BCN_046_1.jpg" n="430,159,1256,734"/>
+            <graphic url="varios/BCN_046_1.jpg/430,159,850,580/full/0/default.jpg" source="BCN_046_1.jpg" n="430,159,850,580"/>
             <figDesc>
               <locus target="BCN_046.xml">Curioso romance, donde se da cuenta de la horrible pendencia</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_046_1.jpg/430,159,1256,734/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_046_1.jpg/430,159,850,580/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

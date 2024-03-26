@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_043_1.jpg/422,101,876,705/full/0/default.jpg" source="BCN_043_1.jpg" n="422,101,876,705"/>
+            <graphic url="varios/BCN_043_1.jpg/422,101,450,610/full/0/default.jpg" source="BCN_043_1.jpg" n="422,101,450,610"/>
             <figDesc>
               <locus target="BCN_043.xml">Jácara nueva en que se refiere un lastimoso caso</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_064_1.xml">grabado_b_064_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva relación y curioso romance en que se declaran los maravillosos sucesos de una muy noble señora</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de Juan Jolis</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_043_1.jpg/422,101,876,705/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_043_1.jpg/422,101,450,610/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
