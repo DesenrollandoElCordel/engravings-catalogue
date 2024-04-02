@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_064_1.jpg/1317,260,1660,913/full/0/default.jpg" source="BCN_064_1.jpg" n="1317,260,1660,913"/>
+            <graphic url="varios/BCN_064_1.jpg/1317,260,343,653/full/0/default.jpg" source="BCN_064_1.jpg" n="1317,260,343,653"/>
             <figDesc>
               <locus target="BCN_064.xml">Nueva relación y curioso romance en que se declaran los maravillosos sucesos de una muy noble señora</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_043_2.xml">grabado_b_043_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Jácara nueva en que se refiere un lastimoso caso</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_064_1.jpg/1317,260,1660,913/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_064_1.jpg/1317,260,343,653/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

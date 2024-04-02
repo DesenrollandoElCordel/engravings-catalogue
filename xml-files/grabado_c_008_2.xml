@@ -24,12 +24,73 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Carmona_008_1.jpg/957,274,1375,972/full/0/default.jpg" source="Carmona_008_1.jpg" n="957,274,1375,972"/>
+            <graphic url="varios/Carmona_008_1.jpg/957,274,418,698/full/0/default.jpg" source="Carmona_008_1.jpg" n="957,274,418,698"/>
             <figDesc>
               <locus target="Carmona_008.xml">Quejas de una dama a su galan</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="7">
+              <item>
+                <title corresp="grabado_m_113_2.xml">grabado_m_113_2</title>
+                <bibl>
+                  <title>Trovos nuevos para saber corresponder los finos amantes</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_198_3.xml">grabado_m_198_3</title>
+                <bibl>
+                  <title>Pasillo de Diego Corriente</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_250_2.xml">grabado_m_250_2</title>
+                <bibl>
+                  <title>Décimas glosadas en las que se manifiesta los desprecios que hace una dama
+                    a todos los que la pretenden</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_268_1.xml">grabado_m_268_1</title>
+                <bibl>
+                  <title>Relación de Quintana</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_278_2.xml">grabado_m_278_2</title>
+                <bibl>
+                  <title>Décimas</title>
+                  <date when="1860" cert="high">1860</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_314_1.xml">grabado_m_314_1</title>
+                <bibl>
+                  <title>Curioso romance de la vida, hechos y atrocidades de don Agustín Florencio,
+                    natural de Jerez de la Frontera</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_331_2.xml">grabado_m_331_2</title>
+                <bibl>
+                  <title>Relación en contra de las mugeres</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Carmona_008</note>
         </bibl>
       </sourceDesc>
@@ -54,7 +115,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Carmona_008_1.jpg/957,274,1375,972/200,/0/default.jpg"/>
+    <graphic url="varios/Carmona_008_1.jpg/957,274,418,698/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

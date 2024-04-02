@@ -70,6 +70,14 @@
                   <publisher>José María Moreno</publisher>
                 </bibl>
               </item>
+              <item>
+                <title corresp="grabado_c_004_1.xml">grabado_c_004_1</title>
+                <bibl>
+                  <title>Pasillo de José María y Rosa</title>
+                  <date when="1878" cert="high">1878</date>
+                  <publisher>La Aurora</publisher>
+                </bibl>
+              </item>
             </list>
           </note>
           <note type="origen">Grabado extraído del pliego Moreno_275</note>

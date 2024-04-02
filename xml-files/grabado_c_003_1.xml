@@ -21,10 +21,10 @@
           <author/>
           <publisher>[s.n.]</publisher>
           <pubPlace ref="xxxx">[s.l.]</pubPlace>
-          <date when="1800" cert="low">[s.a.]</date>
+          <date when="1800-01-01" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Carmona_003_1.jpg/421,290,1395,1693/full/0/default.jpg" source="Carmona_003_1.jpg" n="421,290,1395,1693"/>
+            <graphic url="varios/Carmona_003_1.jpg/421,290,974,1403/full/0/default.jpg" source="Carmona_003_1.jpg" n="421,290,974,1403"/>
             <figDesc>
               <locus target="Carmona_003.xml">Romance espiritual que esplica los misterios de la santisima trinidad, por francisco gallegos</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Carmona_003_1.jpg/421,290,1395,1693/200,/0/default.jpg"/>
+    <graphic url="varios/Carmona_003_1.jpg/421,290,974,1403/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

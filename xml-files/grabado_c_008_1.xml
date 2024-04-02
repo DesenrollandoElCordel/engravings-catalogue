@@ -24,12 +24,39 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Carmona_008_1.jpg/496,212,917,961/full/0/default.jpg" source="Carmona_008_1.jpg" n="496,212,917,961"/>
+            <graphic url="varios/Carmona_008_1.jpg/496,212,421,749/full/0/default.jpg" source="Carmona_008_1.jpg" n="496,212,421,749"/>
             <figDesc>
               <locus target="Carmona_008.xml">Quejas de una dama a su galan</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="3">
+              <item>
+                <title corresp="grabado_m_113_1.xml">grabado_m_113_1</title>
+                <bibl>
+                  <title>Trovos nuevos para saber corresponder los finos amantes</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_151_1.xml">grabado_m_151_1</title>
+                <bibl>
+                  <title>Los amores de Madrid</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_276_2.xml">grabado_m_276_2</title>
+                <bibl>
+                  <title>Relación de las cigarreras</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Carmona_008</note>
         </bibl>
       </sourceDesc>
@@ -52,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Carmona_008_1.jpg/496,212,917,961/200,/0/default.jpg"/>
+    <graphic url="varios/Carmona_008_1.jpg/496,212,421,749/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

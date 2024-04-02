@@ -29,7 +29,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_113_1.xml">grabado_m_113_1</title>
                 <bibl>
@@ -44,6 +44,14 @@
                   <title>Los amores de Madrid</title>
                   <date when="1861" cert="high">1861</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_c_008_1.xml">grabado_c_008_1</title>
+                <bibl>
+                  <title>Quejas de una dama a su galan</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
                 </bibl>
               </item>
             </list>

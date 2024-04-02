@@ -25,12 +25,11 @@
           <figure>
             <graphic url="fedora_ug8106666/480,200,430,801/full/0/default.jpg" source="Moreno_113_1.jpg" n="480, 200, 430, 801"/>
             <figDesc>
-              <locus target="Moreno_113.xml">Trovos nuevos para saber corresponder los finos
-                amantes</locus>
+              <locus target="Moreno_113.xml">Trovos nuevos para saber corresponder los finos amantes</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_151_1.xml">grabado_m_151_1</title>
                 <bibl>
@@ -45,6 +44,14 @@
                   <title>Relación de las cigarreras</title>
                   <date when="1858" cert="high">1858</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_c_008_1.xml">grabado_c_008_1</title>
+                <bibl>
+                  <title>Quejas de una dama a su galan</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
                 </bibl>
               </item>
             </list>

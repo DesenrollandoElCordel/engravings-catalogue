@@ -29,7 +29,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_067_1.xml">grabado_m_067_1</title>
                 <bibl>
@@ -45,6 +45,14 @@
                   <title>Coplas nuevas en que se declara un amante y dama su amor</title>
                   <date when="1861" cert="high">1861</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_c_004_2.xml">grabado_c_004_2</title>
+                <bibl>
+                  <title>Pasillo de José María y Rosa</title>
+                  <date when="1878" cert="high">1878</date>
+                  <publisher>La Aurora</publisher>
                 </bibl>
               </item>
             </list>

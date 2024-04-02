@@ -21,10 +21,10 @@
           <author/>
           <publisher>José María Marés</publisher>
           <pubPlace ref="xxxx">Madrid</pubPlace>
-          <date when="1870" cert="high">1870</date>
+          <date when="1870-01-01" cert="high">1870</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Carmona_002_1.jpg/514,124,1278,1087/full/0/default.jpg" source="Carmona_002_1.jpg" n="514,124,1278,1087"/>
+            <graphic url="varios/Carmona_002_1.jpg/514,124,764,963/full/0/default.jpg" source="Carmona_002_1.jpg" n="514,124,764,963"/>
             <figDesc>
               <locus target="Carmona_002.xml">Colección de canciones andaluzas</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Carmona_002_1.jpg/514,124,1278,1087/200,/0/default.jpg"/>
+    <graphic url="varios/Carmona_002_1.jpg/514,124,764,963/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

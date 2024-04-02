@@ -20,7 +20,7 @@
           <author/>
           <publisher>José María Moreno</publisher>
           <pubPlace ref="https://www.geonames.org/2520118/carmona.html">Carmona (Sevilla)</pubPlace>
-          <date when="1860" cert="high">1860</date>
+          <date when="1860-01-01" cert="high">1860</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="fedora_ug8106059/393,180,469,879/full/0/default.jpg" source="Moreno_067_1.jpg" n="393, 180, 469, 879"/>
@@ -30,7 +30,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_283_2.xml">grabado_m_283_2</title>
                 <bibl>
@@ -45,6 +45,14 @@
                   <title>Coplas nuevas en que se declara un amante y dama su amor</title>
                   <date when="1861" cert="high">1861</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_c_004_2.xml">grabado_c_004_2</title>
+                <bibl>
+                  <title>Pasillo de José María y Rosa</title>
+                  <date when="1878" cert="high">1878</date>
+                  <publisher>La Aurora</publisher>
                 </bibl>
               </item>
             </list>

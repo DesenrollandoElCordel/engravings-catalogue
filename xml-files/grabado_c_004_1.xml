@@ -21,15 +21,66 @@
           <author/>
           <publisher>La Aurora</publisher>
           <pubPlace ref="xxxx">Carmona (Sevilla)</pubPlace>
-          <date when="1878" cert="high">1878</date>
+          <date when="1878-01-01" cert="high">1878</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Carmona_004_1.jpg/273,286,786,1111/full/0/default.jpg" source="Carmona_004_1.jpg" n="273,286,786,1111"/>
+            <graphic url="varios/Carmona_004_1.jpg/273,286,513,825/full/0/default.jpg" source="Carmona_004_1.jpg" n="273,286,513,825"/>
             <figDesc>
-              <locus target="Carmona_004.xml">Pasillo de josé maría y rosa</locus>
+              <locus target="Carmona_004.xml">Pasillo de José María y Rosa</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="6">
+              <item>
+                <title corresp="grabado_m_198_1.xml">grabado_m_198_1</title>
+                <bibl>
+                  <title>Pasillo de Diego Corriente</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_266_1.xml">grabado_m_266_1</title>
+                <bibl>
+                  <title>Relación andaluza. El Tremendo</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_267_1.xml">grabado_m_267_1</title>
+                <bibl>
+                  <title>Relación andaluza. El Tremendo</title>
+                  <date when="1866" cert="high">1866</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_271_1.xml">grabado_m_271_1</title>
+                <bibl>
+                  <title>Pedro Becerra o el corazón de un bandido</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_275_1.xml">grabado_m_275_1</title>
+                <bibl>
+                  <title>Relación de Periquillo el Tunante</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_288_1.xml">grabado_m_288_1</title>
+                <bibl>
+                  <title>Pasillo en verso andaluz. Lo ejecutan Curro, Dolores y El Tremendo</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Carmona_004</note>
         </bibl>
       </sourceDesc>
@@ -52,7 +103,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Carmona_004_1.jpg/273,286,786,1111/200,/0/default.jpg"/>
+    <graphic url="varios/Carmona_004_1.jpg/273,286,513,825/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

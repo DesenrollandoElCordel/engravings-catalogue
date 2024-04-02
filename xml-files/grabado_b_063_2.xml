@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_063_1.jpg/1270,426,1664,1049/full/0/default.jpg" source="BCN_063_1.jpg" n="1270,426,1664,1049"/>
+            <graphic url="varios/BCN_063_1.jpg/1270,426,394,623/full/0/default.jpg" source="BCN_063_1.jpg" n="1270,426,394,623"/>
             <figDesc>
-              <locus target="BCN_063.xml">Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la virgen santísima del carmen</locus>
+              <locus target="BCN_063.xml">Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la Virgen Santísima del Carmen</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_b_063_3.xml">grabado_b_063_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la Virgen Santísima del Carmen</title>
+                  <date>[s.a.]</date>
+                  <publisher>Los herederos de la Viuda Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/BCN_063_1.jpg/1270,426,1664,1049/200,/0/default.jpg"/>
+    <graphic url="varios/BCN_063_1.jpg/1270,426,394,623/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

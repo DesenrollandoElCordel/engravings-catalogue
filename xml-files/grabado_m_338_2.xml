@@ -30,7 +30,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="11">
+            <list n="12">
               <item>
                 <title corresp="grabado_m_111_1.xml">grabado_m_111_1</title>
                 <bibl>
@@ -123,6 +123,14 @@
                 <bibl>
                   <title>Relación que pueden representar dos niños esplicando los principales
                     Misterios de nuestra Santa Fé</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_c_008_3.xml">grabado_c_008_3</title>
+                <bibl>
+                  <title>Quejas de una dama a su galan</title>
                   <date when="1800" cert="low">[s.a.]</date>
                   <publisher>José María Moreno</publisher>
                 </bibl>
