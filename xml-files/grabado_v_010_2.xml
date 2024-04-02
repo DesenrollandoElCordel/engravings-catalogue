@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_010_3.jpg/578,173,1246,990/full/0/default.jpg" source="Varios_010_3.jpg" n="578,173,1246,990"/>
+            <graphic url="varios/Varios_010_3.jpg/578,173,668,817/full/0/default.jpg" source="Varios_010_3.jpg" n="578,173,668,817"/>
             <figDesc>
               <locus target="Varios_010.xml">Padre seductor de su hija</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_010_3.jpg/578,173,1246,990/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_010_3.jpg/578,173,668,817/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

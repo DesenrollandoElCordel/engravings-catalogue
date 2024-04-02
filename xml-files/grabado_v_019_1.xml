@@ -20,17 +20,35 @@
           <title>grabado_v_019_1</title>
           <author/>
           <publisher>José María Moreno</publisher>
-          <pubPlace ref="xxxx">Carmona
-              (Sevilla)</pubPlace>
+          <pubPlace ref="xxxx">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_019_1.jpg/873,240,1629,1224/full/0/default.jpg" source="Varios_019_1.jpg" n="873,240,1629,1224"/>
+            <graphic url="varios/Varios_019_1.jpg/873,240,756,984/full/0/default.jpg" source="Varios_019_1.jpg" n="873,240,756,984"/>
             <figDesc>
               <locus target="Varios_019.xml">Décimas trovadas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="2">
+              <item>
+                <title corresp="grabado_m_338_1.xml">grabado_m_338_1</title>
+                <bibl>
+                  <title>Décimas trovadas, que cantan al valiente ejército español</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_374_1.xml">grabado_m_374_1</title>
+                <bibl>
+                  <title>Décimas trovadas que cantan al valiente ejército español vencedor de la raza mahometana en África</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Varios_019</note>
         </bibl>
       </sourceDesc>
@@ -57,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_019_1.jpg/873,240,1629,1224/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_019_1.jpg/873,240,756,984/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

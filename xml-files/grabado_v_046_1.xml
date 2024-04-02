@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_046_1.jpg/611,338,1378,1089/full/0/default.jpg" source="Varios_046_1.jpg" n="611,338,1378,1089"/>
+            <graphic url="varios/Varios_046_1.jpg/1000,480,667,700/full/0/default.jpg" source="Varios_046_1.jpg" n="1000,480,667,700"/>
             <figDesc>
-              <locus target="Varios_046.xml">Nuevo y curioso papel en el que se da cuenta y declara el horrible asesinato que han ejecutado en el pueblo de berzocana</locus>
+              <locus target="Varios_046.xml">Nuevo y curioso papel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_161_1.xml">grabado_v_161_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nuevo y curioso papel</title>
+                  <date>[s.a.]</date>
+                  <publisher>M. García</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_046_1.jpg/611,338,1378,1089/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_046_1.jpg/1000,480,667,700/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -20,22 +20,40 @@
           <title>grabado_v_019_2</title>
           <author/>
           <publisher>José María Moreno</publisher>
-          <pubPlace ref="xxxx">Carmona
-              (Sevilla)</pubPlace>
+          <pubPlace ref="xxxx">Carmona (Sevilla)</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_019_1.jpg/234,247,814,1215/full/0/default.jpg" source="Varios_019_1.jpg" n="234,247,814,1215"/>
+            <graphic url="varios/Varios_019_1.jpg/234,247,580,968/full/0/default.jpg" source="Varios_019_1.jpg" n="234,247,580,968"/>
             <figDesc>
               <locus target="Varios_019.xml">Décimas trovadas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_038_1.xml">grabado_m_038_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Desposorio de Cristo nuestro señor con la santísima cruz</title>
+                  <date when="1865" cert="high">1865</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_355_1.xml">grabado_m_355_1</title>
+                <bibl>
+                  <title>Copia del credo con la toma de Morella</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_374_2.xml">grabado_m_374_2</title>
+                <bibl>
+                  <title>Décimas trovadas que cantan al valiente ejército español vencedor de la raza mahometana en África</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,7 +83,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_019_1.jpg/234,247,814,1215/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_019_1.jpg/234,247,580,968/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

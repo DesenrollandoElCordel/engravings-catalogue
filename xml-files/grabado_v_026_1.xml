@@ -24,25 +24,12 @@
           <date when="1876" cert="high">1876</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_026_1.jpg/342,668,1396,2121/full/0/default.jpg" source="Varios_026_1.jpg" n="342,668,1396,2121"/>
+            <graphic url="varios/Varios_026_1.jpg/342,668,1054,1453/full/0/default.jpg" source="Varios_026_1.jpg" n="342,668,1054,1453"/>
             <figDesc>
-              <locus target="Varios_026.xml">El cantor de las hermosas.</locus>
+              <locus target="Varios_026.xml">El cantor de las hermosas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar">
-            <list n="2">
-              <item>
-                <title corresp="grabado_v_027_1.xml">grabado_v_027_1</title>
-                <locus/>
-                <date/>
-              </item>
-              <item>
-                <title corresp="grabado_v_083_1.xml">grabado_v_083_1</title>
-                <locus/>
-                <date/>
-              </item>
-            </list>
-          </note>
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Varios_026</note>
         </bibl>
       </sourceDesc>
@@ -69,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_026_1.jpg/342,668,1396,2121/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_026_1.jpg/342,668,1054,1453/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_004_1.jpg/401,343,938,1274/full/0/default.jpg" source="Varios_004_1.jpg" n="401,343,938,1274"/>
+            <graphic url="varios/Varios_004_1.jpg/401,343,537,931/full/0/default.jpg" source="Varios_004_1.jpg" n="401,343,537,931"/>
             <figDesc>
-              <locus target="Varios_004.xml">Orᗅción de sᗅn antonio de los pajaritos</locus>
+              <locus target="Varios_004.xml">Oración de San Antonio de los pajaritos</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_004_1.jpg/401,343,938,1274/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_004_1.jpg/401,343,537,931/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

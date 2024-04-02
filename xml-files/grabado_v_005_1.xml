@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_005_1.jpg/157,247,798,1153/full/0/default.jpg" source="Varios_005_1.jpg" n="157,247,798,1153"/>
+            <graphic url="varios/Varios_005_1.jpg/157,247,641,906/full/0/default.jpg" source="Varios_005_1.jpg" n="157,247,641,906"/>
             <figDesc>
-              <locus target="Varios_005.xml">Oración a s. rafael arcangel</locus>
+              <locus target="Varios_005.xml">Oración a S. Rafael Arcangel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_144_1.xml">grabado_v_144_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La confesion de una niña</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_005_1.jpg/157,247,798,1153/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_005_1.jpg/157,247,641,906/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_022_1.jpg/350,113,1340,1376/full/0/default.jpg" source="Varios_022_1.jpg" n="350,113,1340,1376"/>
+            <graphic url="varios/Varios_022_1.jpg/350,113,990,1263/full/0/default.jpg" source="Varios_022_1.jpg" n="350,113,990,1263"/>
             <figDesc>
               <locus target="Varios_022.xml">Verdadero y nuevo ejemplar</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_022_1.jpg/350,113,1340,1376/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_022_1.jpg/350,113,990,1263/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

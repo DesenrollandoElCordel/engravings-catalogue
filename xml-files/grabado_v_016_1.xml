@@ -24,7 +24,7 @@
           <date when="1887" cert="high">1887</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_016_1.jpg/566,131,1232,744/full/0/default.jpg" source="Varios_016_1.jpg" n="566,131,1232,744"/>
+            <graphic url="varios/Varios_016_1.jpg/566,131,666,613/full/0/default.jpg" source="Varios_016_1.jpg" n="566,131,666,613"/>
             <figDesc>
               <locus target="Varios_016.xml">Alegres villancicos al santo nacimiento del hijo de dios</locus>
             </figDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_016_1.jpg/566,131,1232,744/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_016_1.jpg/566,131,666,613/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

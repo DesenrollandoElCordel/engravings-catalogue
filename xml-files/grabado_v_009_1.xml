@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_009_1.jpg/232,275,1433,1443/full/0/default.jpg" source="Varios_009_1.jpg" n="232,275,1433,1443"/>
+            <graphic url="varios/Varios_009_1.jpg/232,275,1201,1168/full/0/default.jpg" source="Varios_009_1.jpg" n="232,275,1201,1168"/>
             <figDesc>
               <locus target="Varios_009.xml">Colección de canciones</locus>
             </figDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_009_1.jpg/232,275,1433,1443/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_009_1.jpg/232,275,1201,1168/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

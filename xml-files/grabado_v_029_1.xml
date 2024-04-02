@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_029_1.jpg/61,289,785,761/full/0/default.jpg" source="Varios_029_1.jpg" n="61,289,785,761"/>
+            <graphic url="varios/Varios_029_1.jpg/61,289,724,472/full/0/default.jpg" source="Varios_029_1.jpg" n="61,289,724,472"/>
             <figDesc>
-              <locus target="Varios_029.xml">El cantor de las hermosas.</locus>
+              <locus target="Varios_029.xml">El cantor de las hermosas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_103_4.xml">grabado_v_103_4</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Doctor Don Tixeras</title>
+                  <date when="1886" cert="high">1886</date>
+                  <publisher>Tipografía española</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_029_1.jpg/61,289,785,761/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_029_1.jpg/61,289,724,472/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

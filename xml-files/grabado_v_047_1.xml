@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_047_1.jpg/48,192,1695,1386/full/0/default.jpg" source="Varios_047_1.jpg" n="48,192,1695,1386"/>
+            <graphic url="varios/Varios_047_1.jpg/48,192,1647,1194/full/0/default.jpg" source="Varios_047_1.jpg" n="48,192,1647,1194"/>
             <figDesc>
-              <locus target="Varios_047.xml">D. jacinto del castillo y dona leonor de la rosa</locus>
+              <locus target="Varios_047.xml">D. Jacinto del Castillo y Dona Leonor de la Rosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_248_1.xml">grabado_v_248_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>D. Jacinto del Castillo y Doña Leonor de la Rosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_047_1.jpg/48,192,1695,1386/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_047_1.jpg/48,192,1647,1194/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

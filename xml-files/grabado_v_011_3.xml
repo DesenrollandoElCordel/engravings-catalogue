@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_011_4.jpg/714,192,1269,908/full/0/default.jpg" source="Varios_011_4.jpg" n="714,192,1269,908"/>
+            <graphic url="varios/Varios_011_4.jpg/714,192,555,716/full/0/default.jpg" source="Varios_011_4.jpg" n="714,192,555,716"/>
             <figDesc>
               <locus target="Varios_011.xml">Chiste nou y divertit</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_169_1.xml">grabado_v_169_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Decimas nuevas</title>
+                  <date>[s.a.]</date>
+                  <publisher>J. B. Campoy</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_320_3.xml">grabado_v_320_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Chiste nou y divertit</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -69,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_011_4.jpg/714,192,1269,908/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_011_4.jpg/714,192,555,716/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

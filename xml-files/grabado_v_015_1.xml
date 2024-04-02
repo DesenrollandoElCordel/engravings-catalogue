@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_015_1.jpg/563,190,1333,781/full/0/default.jpg" source="Varios_015_1.jpg" n="563,190,1333,781"/>
+            <graphic url="varios/Varios_015_1.jpg/563,190,770,591/full/0/default.jpg" source="Varios_015_1.jpg" n="563,190,770,591"/>
             <figDesc>
-              <locus target="Varios_015.xml">Bonito tango dedicado al difunto brigadier villacampa</locus>
+              <locus target="Varios_015.xml">Bonito tango dedicado al difunto Brigadier Villacampa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_307_1.xml">grabado_v_307_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Bonito tango dedicado al difunto Brigadier Villacampa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_015_1.jpg/563,190,1333,781/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_015_1.jpg/563,190,770,591/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
