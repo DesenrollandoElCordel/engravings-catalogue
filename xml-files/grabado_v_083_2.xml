@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_083_1.jpg/924,201,1316,867/full/0/default.jpg" source="Varios_083_1.jpg" n="924,201,1316,867"/>
+            <graphic url="varios/Varios_083_1.jpg/924,201,392,666/full/0/default.jpg" source="Varios_083_1.jpg" n="924,201,392,666"/>
             <figDesc>
               <locus target="Varios_083.xml">La verdad en chanza</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_088_2.xml">grabado_v_088_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Despedida de los dos finos amantes</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Vidal y Angel Camí</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_083_1.jpg/924,201,1316,867/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_083_1.jpg/924,201,392,666/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

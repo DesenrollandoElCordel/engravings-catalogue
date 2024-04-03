@@ -24,7 +24,7 @@
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_096_1.jpg/289,382,1340,1242/full/0/default.jpg" source="Varios_096_1.jpg" n="289,382,1340,1242"/>
+            <graphic url="varios/Varios_096_1.jpg/289,382,1051,860/full/0/default.jpg" source="Varios_096_1.jpg" n="289,382,1051,860"/>
             <figDesc>
               <locus target="Varios_096.xml">Décimas</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_265_1.xml">grabado_v_265_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Décimas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_350_1.xml">grabado_v_350_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Décimas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -55,11 +61,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
           <term>Simbolismo cristiano</term>
           <term>Cárcel</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#religion" target="#simbolismo"/>
         <catRef scheme="#construidos" target="#carcel"/>
       </textClass>
@@ -69,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_096_1.jpg/289,382,1340,1242/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_096_1.jpg/289,382,1051,860/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

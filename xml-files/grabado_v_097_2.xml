@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_097_3.jpg/554,74,1265,1101/full/0/default.jpg" source="Varios_097_3.jpg" n="554,74,1265,1101"/>
+            <graphic url="varios/Varios_097_3.jpg/554,74,711,1027/full/0/default.jpg" source="Varios_097_3.jpg" n="554,74,711,1027"/>
             <figDesc>
               <locus target="Varios_097.xml">Carta amorosa</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_256_2.xml">grabado_v_256_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_334_2.xml">grabado_v_334_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_408_2.xml">grabado_v_408_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion del pajarito</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_413_2.xml">grabado_v_413_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y décimas glosadas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,12 +77,12 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
-          <term/>
+          <term>Hombre</term>
+          <term>Instrumento(s) musical(es)</term>
           <term>Árbol</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
-        <catRef scheme="#accesorios" target="#instrumentos "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#naturales" target="#arbol"/>
       </textClass>
     </profileDesc>
@@ -79,7 +91,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_097_3.jpg/554,74,1265,1101/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_097_3.jpg/554,74,711,1027/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

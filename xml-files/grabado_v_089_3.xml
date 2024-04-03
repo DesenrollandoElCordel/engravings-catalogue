@@ -24,7 +24,7 @@
           <date when="1842" cert="high">1842</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_089_1.jpg/1114,212,1560,981/full/0/default.jpg" source="Varios_089_1.jpg" n="1114,212,1560,981"/>
+            <graphic url="varios/Varios_089_1.jpg/1114,212,446,769/full/0/default.jpg" source="Varios_089_1.jpg" n="1114,212,446,769"/>
             <figDesc>
               <locus target="Varios_089.xml">Satira nueva</locus>
             </figDesc>
@@ -42,11 +42,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Mujer</term>
           <term>Flores</term>
           <term>Otros accesorios</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer "/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#accesorios" target="#flor"/>
         <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_089_1.jpg/1114,212,1560,981/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_089_1.jpg/1114,212,446,769/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

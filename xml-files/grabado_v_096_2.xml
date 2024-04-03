@@ -24,7 +24,7 @@
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_096_4.jpg/535,587,1436,1145/full/0/default.jpg" source="Varios_096_4.jpg" n="535,587,1436,1145"/>
+            <graphic url="varios/Varios_096_4.jpg/535,587,901,558/full/0/default.jpg" source="Varios_096_4.jpg" n="535,587,901,558"/>
             <figDesc>
               <locus target="Varios_096.xml">Décimas</locus>
             </figDesc>
@@ -32,14 +32,20 @@
           <note type="similar_ejemplar">
             <list n="2">
               <item>
-                <title corresp="grabado_v_265_2.xml">grabado_v_265_2</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_v_265_1.xml">grabado_v_265_1</title>
+                <bibl>
+                  <title>Décimas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
-                <title corresp="grabado_v_350_2.xml">grabado_v_350_2</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_v_350_1.xml">grabado_v_350_1</title>
+                <bibl>
+                  <title>Décimas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -56,13 +62,13 @@
       <textClass>
         <keywords>
           <term>Religioso</term>
-          <term/>
+          <term>Hombres</term>
           <term>Muerte</term>
           <term>Armas</term>
           <term>Ciudad o pueblo</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#religioso"/>
-        <catRef scheme="#grupos_personajes" target="#hombres "/>
+        <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#ciudad"/>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_096_4.jpg/535,587,1436,1145/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_096_4.jpg/535,587,901,558/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

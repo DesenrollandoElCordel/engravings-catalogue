@@ -24,7 +24,7 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_085_3.jpg/842,256,1296,1014/full/0/default.jpg" source="Varios_085_3.jpg" n="842,256,1296,1014"/>
+            <graphic url="varios/Varios_085_3.jpg/842,256,454,758/full/0/default.jpg" source="Varios_085_3.jpg" n="842,256,454,758"/>
             <figDesc>
               <locus target="Varios_085.xml">Coleccion de canciones modernas.</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_m_001_2.xml">grabado_m_001_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Testamento de D. Guindo y Pascual Cerezo</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -50,9 +53,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_085_3.jpg/842,256,1296,1014/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_085_3.jpg/842,256,454,758/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

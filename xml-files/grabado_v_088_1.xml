@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_088_1.jpg/816,359,1366,1180/full/0/default.jpg" source="Varios_088_1.jpg" n="816,359,1366,1180"/>
+            <graphic url="varios/Varios_088_1.jpg/816,359,550,821/full/0/default.jpg" source="Varios_088_1.jpg" n="816,359,550,821"/>
             <figDesc>
-              <locus target="Varios_088.xml">Despedida de los dos finos amantes.</locus>
+              <locus target="Varios_088.xml">Despedida de los dos finos amantes</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_272_2.xml">grabado_v_272_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trobos nuevos y divertidos</title>
+                  <date>[s.a.]</date>
+                  <publisher>Imprenta Española</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -50,11 +53,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
-          <term/>
+          <term>Hombre</term>
+          <term>Instrumentos musicales</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
-        <catRef scheme="#accesorios" target="#instrumentos "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_088_1.jpg/816,359,1366,1180/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_088_1.jpg/816,359,550,821/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

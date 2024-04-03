@@ -24,7 +24,7 @@
           <date when="1845" cert="high">1845</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_054_4.jpg/836,1593,1089,1803/full/0/default.jpg" source="Varios_054_4.jpg" n="836,1593,1089,1803"/>
+            <graphic url="varios/Varios_054_4.jpg/836,1593,253,210/full/0/default.jpg" source="Varios_054_4.jpg" n="836,1593,253,210"/>
             <figDesc>
               <locus target="Varios_054.xml">El sepulcro</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_054_4.jpg/836,1593,1089,1803/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_054_4.jpg/836,1593,253,210/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

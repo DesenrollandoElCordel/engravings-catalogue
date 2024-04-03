@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_083_1.jpg/292,195,676,871/full/0/default.jpg" source="Varios_083_1.jpg" n="292,195,676,871"/>
+            <graphic url="varios/Varios_083_1.jpg/292,195,384,676/full/0/default.jpg" source="Varios_083_1.jpg" n="292,195,384,676"/>
             <figDesc>
               <locus target="Varios_083.xml">La verdad en chanza</locus>
             </figDesc>
@@ -32,14 +32,20 @@
           <note type="similar_ejemplar">
             <list n="2">
               <item>
-                <title corresp="grabado_v_026_1.xml">grabado_v_026_1</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_b_026_1.xml">grabado_b_026_1</title>
+                <bibl>
+                  <title>Seguidillas para cantar boleros con estrivillo</title>
+                  <date>[s.a.]</date>
+                  <publisher>Bernado Pla</publisher>
+                </bibl>
               </item>
               <item>
-                <title corresp="grabado_v_027_1.xml">grabado_v_027_1</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_b_027_1.xml">grabado_b_027_1</title>
+                <bibl>
+                  <title>Seguidillas para cantar boleros con estrivillo</title>
+                  <date>[s.a.]</date>
+                  <publisher>Bernado Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_083_1.jpg/292,195,676,871/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_083_1.jpg/292,195,384,676/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

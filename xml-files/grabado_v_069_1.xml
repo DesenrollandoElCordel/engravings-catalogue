@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_069_1.jpg/120,169,1724,1345/full/0/default.jpg" source="Varios_069_1.jpg" n="120,169,1724,1345"/>
+            <graphic url="varios/Varios_069_1.jpg/120,169,1604,1176/full/0/default.jpg" source="Varios_069_1.jpg" n="120,169,1604,1176"/>
             <figDesc>
-              <locus target="Varios_069.xml">Don jacinto del castillo y dona leonor de la rosa</locus>
+              <locus target="Varios_069.xml">Don Jacinto del Castillo y Dona Leonor de la Rosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_264_1.xml">grabado_v_264_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Don Jacinto del Castillo y Doña Leonor de la Rosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -52,13 +55,13 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Cabalgando</term>
-          <term/>
+          <term>Animales domésticos</term>
           <term>Armas</term>
           <term>Bosque</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#cabalgando"/>
-        <catRef scheme="#animales" target="#domesticos "/>
+        <catRef scheme="#animales" target="#domesticos"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#bosque"/>
       </textClass>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_069_1.jpg/120,169,1724,1345/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_069_1.jpg/120,169,1604,1176/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

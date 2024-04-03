@@ -19,27 +19,33 @@
         <bibl>
           <title>grabado_v_080_1</title>
           <author/>
-          <publisher>Joan Grau</publisher>
+          <publisher>Juan Grau</publisher>
           <pubPlace ref="xxxx">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_080_1.jpg/1030,122,1594,1173/full/0/default.jpg" source="Varios_080_1.jpg" n="1030,122,1594,1173"/>
+            <graphic url="varios/Varios_080_1.jpg/1030,122,564,1051/full/0/default.jpg" source="Varios_080_1.jpg" n="1030,122,564,1051"/>
             <figDesc>
-              <locus target="Varios_080.xml">Delirio de espronceda ó últimos momentos de este célebre poeta.</locus>
+              <locus target="Varios_080.xml">Delirio de espronceda ó últimos momentos de este célebre poeta</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_199_1.xml">grabado_v_199_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos de despedidas</title>
+                  <date>[s.a.]</date>
+                  <publisher>La Fleca</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_273_1.xml">grabado_v_273_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos del pájaro</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Grau</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_080_1.jpg/1030,122,1594,1173/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_080_1.jpg/1030,122,564,1051/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

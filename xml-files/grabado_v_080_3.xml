@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_080_1.jpg/52,195,517,1166/full/0/default.jpg" source="Varios_080_1.jpg" n="52,195,517,1166"/>
+            <graphic url="varios/Varios_080_1.jpg/52,195,465,971/full/0/default.jpg" source="Varios_080_1.jpg" n="52,195,465,971"/>
             <figDesc>
               <locus target="Varios_080.xml">Delirio de espronceda ó últimos momentos de este célebre poeta.</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_255_1.xml">grabado_v_255_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira nueva</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_080_1.jpg/52,195,517,1166/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_080_1.jpg/52,195,465,971/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -28,7 +28,18 @@
               <locus target="Moreno_001.xml">Testamento de D. Guindo y Pascual Cerezo</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="1">
+              <item>
+                <title corresp="grabado_v_085_5.xml">grabado_v_085_5</title>
+                <bibl>
+                  <title>Coleccion de canciones modernas</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Moreno_001</note>
         </bibl>
       </sourceDesc>

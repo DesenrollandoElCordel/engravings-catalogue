@@ -24,7 +24,7 @@
           <date when="1882" cert="high">1882</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_092_3.jpg/138,500,807,1119/full/0/default.jpg" source="Varios_092_3.jpg" n="138,500,807,1119"/>
+            <graphic url="varios/Varios_092_3.jpg/138,500,669,619/full/0/default.jpg" source="Varios_092_3.jpg" n="138,500,669,619"/>
             <figDesc>
               <locus target="Varios_092.xml">Carta amorosa</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_275_2.xml">grabado_v_275_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cansó nova y divertida</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Grau</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -50,9 +53,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_092_3.jpg/138,500,807,1119/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_092_3.jpg/138,500,669,619/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

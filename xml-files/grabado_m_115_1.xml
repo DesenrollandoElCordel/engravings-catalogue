@@ -107,6 +107,30 @@
                   <publisher>José María Moreno</publisher>
                 </bibl>
               </item>
+              <item>
+                <title corresp="grabado_v_085_2.xml">grabado_v_085_2</title>
+                <bibl>
+                  <title>Coleccion de canciones modernas</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_093_2.xml">grabado_v_093_2</title>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date when="1882" cert="high">1882</date>
+                  <publisher>Imprenta Española</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_148_2.xml">grabado_v_148_2</title>
+                <bibl>
+                  <title>Sátira graciosa</title>
+                  <date when="1873" cert="high">1873</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
             </list>
           </note>
           <note type="origen">Grabado extraído del pliego Moreno_115</note>

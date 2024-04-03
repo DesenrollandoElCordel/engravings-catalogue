@@ -24,7 +24,7 @@
           <date when="1882" cert="high">1882</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_092_1.jpg/336,198,1531,1051/full/0/default.jpg" source="Varios_092_1.jpg" n="336,198,1531,1051"/>
+            <graphic url="varios/Varios_092_1.jpg/336,198,1195,853/full/0/default.jpg" source="Varios_092_1.jpg" n="336,198,1195,853"/>
             <figDesc>
               <locus target="Varios_092.xml">Carta amorosa</locus>
             </figDesc>
@@ -42,12 +42,12 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
           <term>Papeles</term>
           <term>Otros accesorios</term>
           <term>Interior de un edificio</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accesorios" target="#papel"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#interior"/>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_092_1.jpg/336,198,1531,1051/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_092_1.jpg/336,198,1195,853/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

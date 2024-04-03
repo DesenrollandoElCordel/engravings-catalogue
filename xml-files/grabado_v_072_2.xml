@@ -24,7 +24,7 @@
           <date when="1849" cert="high">1849</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_072_1.jpg/1091,381,1535,1014/full/0/default.jpg" source="Varios_072_1.jpg" n="1091,381,1535,1014"/>
+            <graphic url="varios/Varios_072_1.jpg/1091,381,444,633/full/0/default.jpg" source="Varios_072_1.jpg" n="1091,381,444,633"/>
             <figDesc>
               <locus target="Varios_072.xml">Marcos de cabra.</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_397_1.xml">grabado_v_397_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Marcos de Cabra</title>
+                  <date>[s.a.]</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_072_1.jpg/1091,381,1535,1014/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_072_1.jpg/1091,381,444,633/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

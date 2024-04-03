@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_099_1.jpg/482,192,1384,1321/full/0/default.jpg" source="Varios_099_1.jpg" n="482,192,1384,1321"/>
+            <graphic url="varios/Varios_099_1.jpg/482,192,902,1129/full/0/default.jpg" source="Varios_099_1.jpg" n="482,192,902,1129"/>
             <figDesc>
               <locus target="Varios_099.xml">Bonito y chistoso tango</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_099_1.jpg/482,192,1384,1321/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_099_1.jpg/482,192,902,1129/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -30,7 +30,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="4">
+            <list n="7">
               <item>
                 <title corresp="grabado_m_018_1.xml">grabado_m_018_1</title>
                 <bibl>
@@ -62,6 +62,30 @@
                   <title>Teresa Mojarro y Gangarilla</title>
                   <date when="1856" cert="high">1856</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_085_4.xml">grabado_v_085_4</title>
+                <bibl>
+                  <title>Coleccion de canciones modernas</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_131_1.xml">grabado_v_131_1</title>
+                <bibl>
+                  <title>Satira burlesca de la vida</title>
+                  <date when="1849" cert="high">1849</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_403_1.xml">grabado_v_403_1</title>
+                <bibl>
+                  <title>Satira graciosa</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Marés</publisher>
                 </bibl>
               </item>
             </list>

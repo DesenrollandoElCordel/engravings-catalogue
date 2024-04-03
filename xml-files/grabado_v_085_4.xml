@@ -24,42 +24,70 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_085_3.jpg/479,264,825,1004/full/0/default.jpg" source="Varios_085_3.jpg" n="479,264,825,1004"/>
+            <graphic url="varios/Varios_085_3.jpg/479,264,346,740/full/0/default.jpg" source="Varios_085_3.jpg" n="479,264,346,740"/>
             <figDesc>
-              <locus target="Varios_085.xml">Coleccion de canciones modernas.</locus>
+              <locus target="Varios_085.xml">Coleccion de canciones modernas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="6">
+            <list n="7">
+              <item>
+                <title corresp="grabado_m_018_1.xml">grabado_m_018_1</title>
+                <bibl>
+                  <title>Sátira burlesca de la vida, milagros, usos y costumbres de cuatro clases de
+                    mugeres que hay en Madrid</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_m_138_2.xml">grabado_m_138_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Décimas en trovos modernos y divertidos</title>
+                  <date when="1852" cert="high">1852</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_155_2.xml">grabado_m_155_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira graciosa en que se avisa a todos los hombres los motivo que hay para
+                    no casarse</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_191_3.xml">grabado_m_191_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El Maltés de Madrid</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_214_3.xml">grabado_m_214_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Teresa Mojarro y Gangarilla</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_131_1.xml">grabado_v_131_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Satira burlesca de la vida</title>
+                  <date when="1849" cert="high">1849</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_403_1.xml">grabado_v_403_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Satira graciosa</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -75,9 +103,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Mujer</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer "/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -85,7 +113,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_085_3.jpg/479,264,825,1004/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_085_3.jpg/479,264,346,740/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
