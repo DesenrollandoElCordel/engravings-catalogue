@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_109_1.jpg/956,590,1652,908/full/0/default.jpg" source="Varios_109_1.jpg" n="956,590,1652,908"/>
+            <graphic url="varios/Varios_109_1.jpg/956,590,696,318/full/0/default.jpg" source="Varios_109_1.jpg" n="956,590,696,318"/>
             <figDesc>
-              <locus target="Varios_109.xml">Nuevo romance de la pasion de nuestro senor jesucristo, explicada por las piezas del arado.</locus>
+              <locus target="Varios_109.xml">Nuevo romance de la pasion de nuestro Senor Jesucristo, explicada por las piezas del Arado.</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_109_1.jpg/956,590,1652,908/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_109_1.jpg/956,590,696,318/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

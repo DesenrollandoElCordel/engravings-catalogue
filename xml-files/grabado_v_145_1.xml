@@ -24,17 +24,20 @@
           <date when="1856" cert="high">1856</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_145_1.jpg/254,350,1445,1145/full/0/default.jpg" source="Varios_145_1.jpg" n="254,350,1445,1145"/>
+            <graphic url="varios/Varios_145_1.jpg/254,350,1191,795/full/0/default.jpg" source="Varios_145_1.jpg" n="254,350,1191,795"/>
             <figDesc>
-              <locus target="Varios_145.xml">Relacion chistosa. titulàda: todas me gustan, seguida de otra seria, cuyo titulo es desengaños de las doncellas.</locus>
+              <locus target="Varios_145.xml">Relacion chistosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_399_2.xml">grabado_v_399_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos y divertidos</title>
+                  <date>1870</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_145_1.jpg/254,350,1445,1145/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_145_1.jpg/254,350,1191,795/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

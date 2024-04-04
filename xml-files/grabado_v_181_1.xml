@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_181_1.jpg/114,452,1598,2141/full/0/default.jpg" source="Varios_181_1.jpg" n="114,452,1598,2141"/>
+            <graphic url="varios/Varios_181_1.jpg/114,452,1484,1689/full/0/default.jpg" source="Varios_181_1.jpg" n="114,452,1484,1689"/>
             <figDesc>
               <locus target="Varios_181.xml">Carmencita</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_053_1.xml">grabado_v_053_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Lo que hizo una madre para robar la herencio de su hijo</title>
+                  <date>[s.a.]</date>
+                  <publisher>Industrias gráficas Olympia</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_181_1.jpg/114,452,1598,2141/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_181_1.jpg/114,452,1484,1689/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

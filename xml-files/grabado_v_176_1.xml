@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_176_1.jpg/52,666,1620,1838/full/0/default.jpg" source="Varios_176_1.jpg" n="52,666,1620,1838"/>
+            <graphic url="varios/Varios_176_1.jpg/52,666,1568,1172/full/0/default.jpg" source="Varios_176_1.jpg" n="52,666,1568,1172"/>
             <figDesc>
               <locus target="Varios_176.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_041_1.xml">grabado_v_041_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1864" cert="high">1864</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_297_1.xml">grabado_v_297_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -75,7 +81,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_176_1.jpg/52,666,1620,1838/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_176_1.jpg/52,666,1568,1172/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

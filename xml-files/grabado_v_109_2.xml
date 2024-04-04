@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_109_1.jpg/431,438,910,909/full/0/default.jpg" source="Varios_109_1.jpg" n="431,438,910,909"/>
+            <graphic url="varios/Varios_109_1.jpg/431,438,479,471/full/0/default.jpg" source="Varios_109_1.jpg" n="431,438,479,471"/>
             <figDesc>
               <locus target="Varios_109.xml">Nuevo romance de la pasion de nuestro senor jesucristo, explicada por las piezas del arado.</locus>
             </figDesc>
@@ -42,9 +42,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Ángel(es)</term>
+          <term>Simbolismo cristiano</term>
         </keywords>
-        <catRef scheme="#religion" target="#angel - simbolismo"/>
+        <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -52,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_109_1.jpg/431,438,910,909/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_109_1.jpg/431,438,479,471/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

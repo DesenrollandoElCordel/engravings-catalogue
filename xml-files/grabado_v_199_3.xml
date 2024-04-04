@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_199_1.jpg/1169,289,1629,1250/full/0/default.jpg" source="Varios_199_1.jpg" n="1169,289,1629,1250"/>
+            <graphic url="varios/Varios_199_1.jpg/1169,289,460,961/full/0/default.jpg" source="Varios_199_1.jpg" n="1169,289,460,961"/>
             <figDesc>
               <locus target="Varios_199.xml">Trovos nuevos de despedidas</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_199_1.jpg/1169,289,1629,1250/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_199_1.jpg/1169,289,460,961/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_134_1.jpg/517,184,1182,1137/full/0/default.jpg" source="Varios_134_1.jpg" n="517,184,1182,1137"/>
+            <graphic url="varios/Varios_134_1.jpg/517,184,665,953/full/0/default.jpg" source="Varios_134_1.jpg" n="517,184,665,953"/>
             <figDesc>
               <locus target="Varios_134.xml">Relacion jocosa de la calabaza y el vino</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_134_1.jpg/517,184,1182,1137/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_134_1.jpg/517,184,665,953/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

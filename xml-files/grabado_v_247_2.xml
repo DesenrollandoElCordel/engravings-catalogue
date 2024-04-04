@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_247_1.jpg/87,359,896,1566/full/0/default.jpg" source="Varios_247_1.jpg" n="87,359,896,1566"/>
+            <graphic url="varios/Varios_247_1.jpg/87,359,809,1207/full/0/default.jpg" source="Varios_247_1.jpg" n="87,359,809,1207"/>
             <figDesc>
               <locus target="Varios_247.xml">El sepulcro</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_339_2.xml">grabado_v_339_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El sepulcro</title>
+                  <date>[s.a.]</date>
+                  <publisher>Luis Raynaud</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -66,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_247_1.jpg/87,359,896,1566/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_247_1.jpg/87,359,809,1207/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_206_1.jpg/1135,200,1629,1060/full/0/default.jpg" source="Varios_206_1.jpg" n="1135,200,1629,1060"/>
+            <graphic url="varios/Varios_206_1.jpg/1135,200,494,860/full/0/default.jpg" source="Varios_206_1.jpg" n="1135,200,494,860"/>
             <figDesc>
               <locus target="Varios_206.xml">Relació xistosa</locus>
             </figDesc>
@@ -33,33 +33,51 @@
             <list n="6">
               <item>
                 <title corresp="grabado_v_021_2.xml">grabado_v_021_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_219_2.xml">grabado_v_219_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_242_2.xml">grabado_v_242_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relació xistosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_251_2.xml">grabado_v_251_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_308_2.xml">grabado_v_308_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_460_3.xml">grabado_v_460_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relació xistosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -85,7 +103,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_206_1.jpg/1135,200,1629,1060/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_206_1.jpg/1135,200,494,860/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

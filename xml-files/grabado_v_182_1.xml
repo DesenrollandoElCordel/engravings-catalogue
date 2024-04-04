@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_182_1.jpg/485,566,1785,1464/full/0/default.jpg" source="Varios_182_1.jpg" n="485,566,1785,1464"/>
+            <graphic url="varios/Varios_182_1.jpg/495,866,2050,1620/full/0/default.jpg" source="Varios_182_1.jpg" n="495,866,2050,1620"/>
             <figDesc>
-              <locus target="Varios_182.xml">Doña francisca la cautiva</locus>
+              <locus target="Varios_182.xml">Doña Francisca la Cautiva</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_182_1.jpg/485,566,1785,1464/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_182_1.jpg/495,866,2050,1620/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

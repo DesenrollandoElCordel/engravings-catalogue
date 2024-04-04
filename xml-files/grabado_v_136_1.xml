@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_136_1.jpg/118,203,1628,1307/full/0/default.jpg" source="Varios_136_1.jpg" n="118,203,1628,1307"/>
+            <graphic url="varios/Varios_136_1.jpg/118,203,1510,1104/full/0/default.jpg" source="Varios_136_1.jpg" n="118,203,1510,1104"/>
             <figDesc>
-              <locus target="Varios_136.xml">Juan portela relación puesta en trovos de los asesinatos y robos que cometió en las inmediaciones de córdoba</locus>
+              <locus target="Varios_136.xml">Juan Portela</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_068_1.xml">grabado_v_068_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Juan Portela</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_343_1.xml">grabado_v_343_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Juan Portela</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -71,7 +77,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_136_1.jpg/118,203,1628,1307/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_136_1.jpg/118,203,1510,1104/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

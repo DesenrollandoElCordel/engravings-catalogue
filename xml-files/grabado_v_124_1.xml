@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_124_1.jpg/216,63,1787,1178/full/0/default.jpg" source="Varios_124_1.jpg" n="216,63,1787,1178"/>
+            <graphic url="varios/Varios_124_1.jpg/216,63,1571,1115/full/0/default.jpg" source="Varios_124_1.jpg" n="216,63,1571,1115"/>
             <figDesc>
               <locus target="Varios_124.xml">Cancion nueva</locus>
             </figDesc>
@@ -43,12 +43,12 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Hablando</term>
           <term>Ciudad o pueblo</term>
           <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accion" target="#hablando "/>
+        <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#construidos" target="#ciudad"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_124_1.jpg/216,63,1787,1178/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_124_1.jpg/216,63,1571,1115/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

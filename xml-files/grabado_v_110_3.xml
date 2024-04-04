@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_110_4.jpg/796,885,1522,1509/full/0/default.jpg" source="Varios_110_4.jpg" n="796,885,1522,1509"/>
+            <graphic url="varios/Varios_110_4.jpg/796,885,726,624/full/0/default.jpg" source="Varios_110_4.jpg" n="796,885,726,624"/>
             <figDesc>
-              <locus target="Varios_110.xml">Los misterios de belen.</locus>
+              <locus target="Varios_110.xml">Los misterios de Belen</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_110_4.jpg/796,885,1522,1509/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_110_4.jpg/796,885,726,624/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_240_1.jpg/228,175,1770,1298/full/0/default.jpg" source="Varios_240_1.jpg" n="228,175,1770,1298"/>
+            <graphic url="varios/Varios_240_1.jpg/228,175,1542,1123/full/0/default.jpg" source="Varios_240_1.jpg" n="228,175,1542,1123"/>
             <figDesc>
               <locus target="Varios_240.xml">Famosas hazañas de un conejo y una langosta</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_007_1.xml">grabado_v_007_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Famosas hazañas de un conejo y una langosta</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_468_1.xml">grabado_v_468_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Famosas hazañas de un conejo y una langosta</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -71,7 +77,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_240_1.jpg/228,175,1770,1298/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_240_1.jpg/228,175,1542,1123/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_213_1.jpg/1164,160,1687,1085/full/0/default.jpg" source="Varios_213_1.jpg" n="1164,160,1687,1085"/>
+            <graphic url="varios/Varios_213_1.jpg/1164,160,523,925/full/0/default.jpg" source="Varios_213_1.jpg" n="1164,160,523,925"/>
             <figDesc>
               <locus target="Varios_213.xml">Los diez mandamientos amorosos</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_213_1.jpg/1164,160,1687,1085/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_213_1.jpg/1164,160,523,925/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

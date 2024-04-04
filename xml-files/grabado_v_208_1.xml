@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_208_1.jpg/149,280,1629,1531/full/0/default.jpg" source="Varios_208_1.jpg" n="149,280,1629,1531"/>
+            <graphic url="varios/Varios_208_1.jpg/149,280,1480,1251/full/0/default.jpg" source="Varios_208_1.jpg" n="149,280,1480,1251"/>
             <figDesc>
-              <locus target="Varios_208.xml">Los amantes de teruel</locus>
+              <locus target="Varios_208.xml">Los amantes de Teruel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_086_1.xml">grabado_v_086_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Los amantes de Teruel</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_464_1.xml">grabado_v_464_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Los amantes de Teruel</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_208_1.jpg/149,280,1629,1531/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_208_1.jpg/149,280,1480,1251/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

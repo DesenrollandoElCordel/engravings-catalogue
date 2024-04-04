@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_138_1.jpg/605,81,1164,681/full/0/default.jpg" source="Varios_138_1.jpg" n="605,81,1164,681"/>
+            <graphic url="varios/Varios_138_1.jpg/605,81,559,600/full/0/default.jpg" source="Varios_138_1.jpg" n="605,81,559,600"/>
             <figDesc>
               <locus target="Varios_138.xml">Trovos y glosas discretas</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_289_1.xml">grabado_v_289_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y glosas discretas</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_458_1.xml">grabado_v_458_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y glosas discretas</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_138_1.jpg/605,81,1164,681/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_138_1.jpg/605,81,559,600/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

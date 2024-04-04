@@ -24,9 +24,9 @@
           <date when="1848" cert="high">1848</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_190_1.jpg/184,227,548,990/full/0/default.jpg" source="Varios_190_1.jpg" n="184,227,548,990"/>
+            <graphic url="varios/Varios_190_1.jpg/184,227,364,763/full/0/default.jpg" source="Varios_190_1.jpg" n="184,227,364,763"/>
             <figDesc>
-              <locus target="Varios_190.xml">Los nombres costumbres y propiedades de las señoras mugeres.</locus>
+              <locus target="Varios_190.xml">Los nombres costumbres y propiedades de las señoras mugeres</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_190_1.jpg/184,227,548,990/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_190_1.jpg/184,227,364,763/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

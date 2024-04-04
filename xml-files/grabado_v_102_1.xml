@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_102_1.jpg/852,352,1279,1238/full/0/default.jpg" source="Varios_102_1.jpg" n="852,352,1279,1238"/>
+            <graphic url="varios/Varios_102_1.jpg/852,352,427,886/full/0/default.jpg" source="Varios_102_1.jpg" n="852,352,427,886"/>
             <figDesc>
               <locus target="Varios_102.xml">Nueva despedida</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_280_1.xml">grabado_v_280_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Juan el Afortunado</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Bautista Vidal</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -50,9 +53,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Mujer</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer "/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_102_1.jpg/852,352,1279,1238/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_102_1.jpg/852,352,427,886/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

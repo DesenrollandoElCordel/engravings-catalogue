@@ -29,7 +29,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_281_1.xml">grabado_m_281_1</title>
                 <bibl>
@@ -44,6 +44,14 @@
                   <title>Relación nueva. Reglas de un dictámen, y dictámen de unas reglas</title>
                   <date when="1865" cert="1865">1865</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_222_1.xml">grabado_v_222_1</title>
+                <bibl>
+                  <title>Gracioso y divertido chasco</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>Sucesores de Hernando</publisher>
                 </bibl>
               </item>
             </list>

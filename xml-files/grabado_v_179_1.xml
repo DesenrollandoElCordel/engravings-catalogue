@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_179_1.jpg/96,201,1603,1150/full/0/default.jpg" source="Varios_179_1.jpg" n="96,201,1603,1150"/>
+            <graphic url="varios/Varios_179_1.jpg/96,201,1507,949/full/0/default.jpg" source="Varios_179_1.jpg" n="96,201,1507,949"/>
             <figDesc>
-              <locus target="Varios_179.xml">Lo tot sans en barcelona</locus>
+              <locus target="Varios_179.xml">Lo tot sans en Barcelona</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_179_1.jpg/96,201,1603,1150/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_179_1.jpg/96,201,1507,949/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

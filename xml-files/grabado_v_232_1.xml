@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_232_1.jpg/176,225,1735,1363/full/0/default.jpg" source="Varios_232_1.jpg" n="176,225,1735,1363"/>
+            <graphic url="varios/Varios_232_1.jpg/176,225,1559,1138/full/0/default.jpg" source="Varios_232_1.jpg" n="176,225,1559,1138"/>
             <figDesc>
               <locus target="Varios_232.xml">Gran historia de un pollí</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_078_1.xml">grabado_v_078_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Gran historia de un pollí</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_461_1.xml">grabado_v_461_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Gran historia de un polli</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -75,7 +81,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_232_1.jpg/176,225,1735,1363/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_232_1.jpg/176,225,1559,1138/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

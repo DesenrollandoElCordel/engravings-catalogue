@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_199_1.jpg/105,257,574,1238/full/0/default.jpg" source="Varios_199_1.jpg" n="105,257,574,1238"/>
+            <graphic url="varios/Varios_199_1.jpg/105,257,469,981/full/0/default.jpg" source="Varios_199_1.jpg" n="105,257,469,981"/>
             <figDesc>
               <locus target="Varios_199.xml">Trovos nuevos de despedidas</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_194_3.xml">grabado_v_194_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas nuevas y divertidas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Tosquellas y Zamora</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_195_1.xml">grabado_v_195_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Gran variedad de canciones de la jota</title>
+                  <date>[s.a.]</date>
+                  <publisher>Tosquellas y Zamora</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_273_3.xml">grabado_v_273_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos del pájaro</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Grau</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_406_3.xml">grabado_v_406_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trobos nuevos amorosos y elegantes</title>
+                  <date when="1864" cert="high">1864</date>
+                  <publisher>Narciso Roca</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -77,7 +89,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_199_1.jpg/105,257,574,1238/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_199_1.jpg/105,257,469,981/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

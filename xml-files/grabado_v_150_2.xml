@@ -24,7 +24,7 @@
           <date when="1847" cert="high">1847</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_150_1.jpg/797,280,1357,943/full/0/default.jpg" source="Varios_150_1.jpg" n="797,280,1357,943"/>
+            <graphic url="varios/Varios_150_1.jpg/797,280,560,663/full/0/default.jpg" source="Varios_150_1.jpg" n="797,280,560,663"/>
             <figDesc>
               <locus target="Varios_150.xml">Decimas glosadas</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_150_1.jpg/797,280,1357,943/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_150_1.jpg/797,280,560,663/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

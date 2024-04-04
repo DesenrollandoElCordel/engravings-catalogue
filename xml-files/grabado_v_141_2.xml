@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_141_2.jpg/149,219,1752,1417/full/0/default.jpg" source="Varios_141_2.jpg" n="149,219,1752,1417"/>
+            <graphic url="varios/Varios_141_2.jpg/149,219,1603,1198/full/0/default.jpg" source="Varios_141_2.jpg" n="149,219,1603,1198"/>
             <figDesc>
               <locus target="Varios_141.xml">Arrojo de un amante</locus>
             </figDesc>
@@ -42,13 +42,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Cabalgando</term>
           <term>Animales domésticos</term>
           <term>Bosque</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#soldado"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#cabalgando"/>
         <catRef scheme="#animales" target="#domesticos"/>
@@ -60,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_141_2.jpg/149,219,1752,1417/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_141_2.jpg/149,219,1603,1198/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

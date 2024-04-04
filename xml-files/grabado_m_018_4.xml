@@ -30,13 +30,21 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
               <item>
                 <title corresp="grabado_m_022_1.xml">grabado_m_022_1</title>
                 <bibl>
                   <title>Relación del desprecio bien vengado</title>
                   <date when="1857" cert="high">1857</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_131_3.xml">grabado_v_131_3</title>
+                <bibl>
+                  <title>Satira burlesca</title>
+                  <date when="1849" cert="high">1849</date>
+                  <publisher>José María Marés</publisher>
                 </bibl>
               </item>
             </list>

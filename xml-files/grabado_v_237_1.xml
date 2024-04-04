@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_237_1.jpg/63,279,1564,1479/full/0/default.jpg" source="Varios_237_1.jpg" n="63,279,1564,1479"/>
+            <graphic url="varios/Varios_237_1.jpg/63,279,1501,1200/full/0/default.jpg" source="Varios_237_1.jpg" n="63,279,1501,1200"/>
             <figDesc>
               <locus target="Varios_237.xml">Nueva canción del corregidor y la molinera</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_075_1.xml">grabado_v_075_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva cancion del corregidor y la molinera</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -66,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_237_1.jpg/63,279,1564,1479/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_237_1.jpg/63,279,1501,1200/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

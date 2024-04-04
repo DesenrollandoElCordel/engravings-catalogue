@@ -24,7 +24,7 @@
           <date when="1872" cert="high">1872</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_164_4.jpg/785,2117,1054,2380/full/0/default.jpg" source="Varios_164_4.jpg" n="785,2117,1054,2380"/>
+            <graphic url="varios/Varios_164_4.jpg/785,2117,269,263/full/0/default.jpg" source="Varios_164_4.jpg" n="785,2117,269,263"/>
             <figDesc>
               <locus target="Varios_164.xml">Zaragoza</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_354_2.xml">grabado_v_354_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El rastro</title>
+                  <date when="1872" cert="high">1872</date>
+                  <publisher>José Noguera</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_164_4.jpg/785,2117,1054,2380/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_164_4.jpg/785,2117,269,263/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

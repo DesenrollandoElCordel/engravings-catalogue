@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_101_1.jpg/314,266,820,1414/full/0/default.jpg" source="Varios_101_1.jpg" n="314,266,820,1414"/>
+            <graphic url="varios/Varios_101_1.jpg/314,266,506,1148/full/0/default.jpg" source="Varios_101_1.jpg" n="314,266,506,1148"/>
             <figDesc>
               <locus target="Varios_101.xml">Trobos nuevos</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_094_3.xml">grabado_v_094_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion nueva a mi hermosa Elvira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_209_2.xml">grabado_v_209_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos para cantarse con guitarra el cuatro y el tres</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_381_3.xml">grabado_v_381_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Canciones de despedida que dirigen los quintos a sus queridas damas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Bautista Vidal</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_392_3.xml">grabado_v_392_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion nueva a mi hermosa Elvira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,11 +77,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
-          <term/>
+          <term>Hombre</term>
+          <term>Instrumento(s) musical(es)</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
-        <catRef scheme="#accesorios" target="#instrumentos "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -77,7 +89,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_101_1.jpg/314,266,820,1414/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_101_1.jpg/314,266,506,1148/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

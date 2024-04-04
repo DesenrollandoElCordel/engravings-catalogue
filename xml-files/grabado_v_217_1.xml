@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_217_1.jpg/103,307,1706,1619/full/0/default.jpg" source="Varios_217_1.jpg" n="103,307,1706,1619"/>
+            <graphic url="varios/Varios_217_1.jpg/103,307,1603,1312/full/0/default.jpg" source="Varios_217_1.jpg" n="103,307,1603,1312"/>
             <figDesc>
               <locus target="Varios_217.xml">Muerte del toro</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_366_2.xml">grabado_v_366_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Banderillas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_217_1.jpg/103,307,1706,1619/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_217_1.jpg/103,307,1603,1312/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

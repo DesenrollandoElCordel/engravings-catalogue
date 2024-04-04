@@ -24,7 +24,7 @@
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_228_1.jpg/56,270,1788,1475/full/0/default.jpg" source="Varios_228_1.jpg" n="56,270,1788,1475"/>
+            <graphic url="varios/Varios_228_1.jpg/56,270,1732,1205/full/0/default.jpg" source="Varios_228_1.jpg" n="56,270,1732,1205"/>
             <figDesc>
               <locus target="Varios_228.xml">Relacion</locus>
             </figDesc>
@@ -64,7 +64,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_228_1.jpg/56,270,1788,1475/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_228_1.jpg/56,270,1732,1205/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1843" cert="high">1843</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_149_1.jpg/587,219,1129,1005/full/0/default.jpg" source="Varios_149_1.jpg" n="587,219,1129,1005"/>
+            <graphic url="varios/Varios_149_1.jpg/587,219,542,786/full/0/default.jpg" source="Varios_149_1.jpg" n="587,219,542,786"/>
             <figDesc>
               <locus target="Varios_149.xml">Décimas nuevas para cantar los aficionados.</locus>
             </figDesc>
@@ -43,10 +43,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#instrumento"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_149_1.jpg/587,219,1129,1005/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_149_1.jpg/587,219,542,786/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

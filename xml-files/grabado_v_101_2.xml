@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_101_1.jpg/1456,228,1901,1394/full/0/default.jpg" source="Varios_101_1.jpg" n="1456,228,1901,1394"/>
+            <graphic url="varios/Varios_101_1.jpg/1456,228,445,1166/full/0/default.jpg" source="Varios_101_1.jpg" n="1456,228,445,1166"/>
             <figDesc>
               <locus target="Varios_101.xml">Trobos nuevos</locus>
             </figDesc>
@@ -42,13 +42,13 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
           <term>Bailando</term>
-          <term/>
+          <term>Instrumento(s) musical(es)</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre "/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accion" target="#bailando"/>
-        <catRef scheme="#accesorios" target="#instrumentos "/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_101_1.jpg/1456,228,1901,1394/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_101_1.jpg/1456,228,445,1166/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

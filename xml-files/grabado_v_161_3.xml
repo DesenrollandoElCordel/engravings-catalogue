@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_161_3.jpg/595,388,1337,1113/full/0/default.jpg" source="Varios_161_3.jpg" n="595,388,1337,1113"/>
+            <graphic url="varios/Varios_161_3.jpg/595,388,742,725/full/0/default.jpg" source="Varios_161_3.jpg" n="595,388,742,725"/>
             <figDesc>
               <locus target="Varios_161.xml">Nuevo y curioso papel</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_046_3.xml">grabado_v_046_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nuevo y curioso papel</title>
+                  <date>[s.a.]</date>
+                  <publisher>García</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_161_3.jpg/595,388,1337,1113/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_161_3.jpg/595,388,742,725/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

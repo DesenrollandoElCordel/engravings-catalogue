@@ -24,7 +24,7 @@
           <date when="1860" cert="high">1860</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_172_1.jpg/91,224,1565,1872/full/0/default.jpg" source="Varios_172_1.jpg" n="91,224,1565,1872"/>
+            <graphic url="varios/Varios_172_1.jpg/91,224,1474,1648/full/0/default.jpg" source="Varios_172_1.jpg" n="91,224,1474,1648"/>
             <figDesc>
               <locus target="Varios_173.xml">Lo carrer del hospital de barcelona ó relació que ha fet an carnestoltas del bullici</locus>
             </figDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_172_1.jpg/91,224,1565,1872/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_172_1.jpg/91,224,1474,1648/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

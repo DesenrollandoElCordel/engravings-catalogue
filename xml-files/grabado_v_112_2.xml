@@ -19,14 +19,14 @@
         <bibl>
           <title>grabado_v_112_2</title>
           <author/>
-          <publisher/>
-          <pubPlace ref="xxxx"/>
-          <date when="None" cert="high">None</date>
+          <publisher>Blas Bellver</publisher>
+          <pubPlace ref="xxxx">Xátiva</pubPlace>
+          <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_112_1.jpg/536,391,1121,1358/full/0/default.jpg" source="Varios_112_1.jpg" n="536,391,1121,1358"/>
+            <graphic url="varios/Varios_112_1.jpg/536,391,585,967/full/0/default.jpg" source="Varios_112_1.jpg" n="536,391,585,967"/>
             <figDesc>
-              <locus target="Varios_112.xml"/>
+              <locus target="Varios_112.xml">Chiste alegre y divertido</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_112_1.jpg/536,391,1121,1358/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_112_1.jpg/536,391,585,967/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

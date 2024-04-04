@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_153_1.jpg/245,315,1392,1207/full/0/default.jpg" source="Varios_153_1.jpg" n="245,315,1392,1207"/>
+            <graphic url="varios/Varios_153_1.jpg/245,315,1147,892/full/0/default.jpg" source="Varios_153_1.jpg" n="245,315,1147,892"/>
             <figDesc>
               <locus target="Varios_153.xml">Graciosos villancicos</locus>
             </figDesc>
@@ -42,11 +42,21 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
-          <term/>
+          <term>Narración bíblica</term>
+          <term>Jesucristo</term>
+          <term>Virgen María</term>
+          <term>San José</term>
+          <term>Simbolismo cristiano</term>
+          <term>Paisaje</term>
+          <term>Cueva</term>
         </keywords>
-        <catRef scheme="#religion" target="#narracion jesus virgen jose simbolismo"/>
-        <catRef scheme="#naturales" target="#paisaje- cueva"/>
+        <catRef scheme="#religion" target="#narracion"/>
+        <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#religion" target="#virgen"/>
+        <catRef scheme="#religion" target="#jose"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
+        <catRef scheme="#naturales" target="#cueva"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -54,7 +64,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_153_1.jpg/245,315,1392,1207/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_153_1.jpg/245,315,1147,892/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

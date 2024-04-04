@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_235_1.jpg/93,279,1593,1464/full/0/default.jpg" source="Varios_235_1.jpg" n="93,279,1593,1464"/>
+            <graphic url="varios/Varios_235_1.jpg/93,279,1500,1185/full/0/default.jpg" source="Varios_235_1.jpg" n="93,279,1500,1185"/>
             <figDesc>
-              <locus target="Varios_235.xml">Sebastiana del castillo</locus>
+              <locus target="Varios_235.xml">Sebastiana del Castillo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_137_1.xml">grabado_v_137_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sebastiana del Castillo</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_235_1.jpg/93,279,1593,1464/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_235_1.jpg/93,279,1500,1185/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

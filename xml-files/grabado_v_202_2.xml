@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_202_1.jpg/882,192,1708,1397/full/0/default.jpg" source="Varios_202_1.jpg" n="882,192,1708,1397"/>
+            <graphic url="varios/Varios_202_1.jpg/882,192,826,1205/full/0/default.jpg" source="Varios_202_1.jpg" n="882,192,826,1205"/>
             <figDesc>
               <locus target="Varios_202.xml">Juguet en català</locus>
             </figDesc>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_202_1.jpg/882,192,1708,1397/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_202_1.jpg/882,192,826,1205/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

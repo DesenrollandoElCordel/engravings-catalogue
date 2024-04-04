@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_115_1.jpg/323,131,1885,1317/full/0/default.jpg" source="Varios_115_1.jpg" n="323,131,1885,1317"/>
+            <graphic url="varios/Varios_115_1.jpg/323,131,1562,1186/full/0/default.jpg" source="Varios_115_1.jpg" n="323,131,1562,1186"/>
             <figDesc>
-              <locus target="Varios_115.xml">Boccaccio serenata del primer acto.</locus>
+              <locus target="Varios_115.xml">Boccaccio serenata del primer acto</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -45,14 +45,16 @@
           <term>Mujere(s) y Hombre(s)</term>
           <term>Abrazando</term>
           <term>Armas</term>
-          <term/>
-          <term/>
+          <term>Casa</term>
+          <term>Calle</term>
+          <term>Árbol</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#abrazando"/>
         <catRef scheme="#accesorios" target="#armas"/>
-        <catRef scheme="#construidos" target="#casa - calle"/>
-        <catRef scheme="#naturales" target="#árbol"/>
+        <catRef scheme="#construidos" target="#casa"/>
+        <catRef scheme="#construidos" target="#calle"/>
+        <catRef scheme="#naturales" target="#arbol"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_115_1.jpg/323,131,1885,1317/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_115_1.jpg/323,131,1562,1186/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

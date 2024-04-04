@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_223_3.jpg/895,152,1700,2446/full/0/default.jpg" source="Varios_223_3.jpg" n="895,152,1700,2446"/>
+            <graphic url="varios/Varios_223_3.jpg/895,152,805,2294/full/0/default.jpg" source="Varios_223_3.jpg" n="895,152,805,2294"/>
             <figDesc>
               <locus target="Varios_223.xml">Silencîo</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_223_3.jpg/895,152,1700,2446/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_223_3.jpg/895,152,805,2294/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

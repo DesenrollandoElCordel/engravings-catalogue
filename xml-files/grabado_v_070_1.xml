@@ -49,7 +49,7 @@
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#hablando"/>
-        <catRef scheme="#construidos" target="#armas"/>
+        <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#jardin"/>
       </textClass>
     </profileDesc>

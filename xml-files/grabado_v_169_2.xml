@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_169_1.jpg/149,341,647,1023/full/0/default.jpg" source="Varios_169_1.jpg" n="149,341,647,1023"/>
+            <graphic url="varios/Varios_169_1.jpg/149,341,498,682/full/0/default.jpg" source="Varios_169_1.jpg" n="149,341,498,682"/>
             <figDesc>
               <locus target="Varios_169.xml">Decimas nuevas</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_169_1.jpg/149,341,647,1023/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_169_1.jpg/149,341,498,682/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

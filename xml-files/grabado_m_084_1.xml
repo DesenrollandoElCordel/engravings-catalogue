@@ -28,7 +28,26 @@
               <locus target="Moreno_084.xml">Don Claudio y Doña Margarita</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="2">
+              <item>
+                <title corresp="grabado_v_116_1.xml">grabado_v_116_1</title>
+                <bibl>
+                  <title>Don Claudio y Doña Margarita</title>
+                  <date when="1848" cert="high">1848</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_357_1.xml">grabado_v_357_1</title>
+                <bibl>
+                  <title>Don Claudio y Dona Margarita</title>
+                  <date>[s.a.]</date>
+                  <publisher>Sucesores de Hernando</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Moreno_084</note>
         </bibl>
       </sourceDesc>

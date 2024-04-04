@@ -24,7 +24,7 @@
           <date when="1847" cert="high">1847</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_150_1.jpg/298,184,737,935/full/0/default.jpg" source="Varios_150_1.jpg" n="298,184,737,935"/>
+            <graphic url="varios/Varios_150_1.jpg/298,184,439,751/full/0/default.jpg" source="Varios_150_1.jpg" n="298,184,439,751"/>
             <figDesc>
               <locus target="Varios_150.xml">Decimas glosadas</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_108_1.xml">grabado_v_108_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas nuevas glosadas en decimas, para cantar los aficionados</title>
+                  <date>[s.a.]</date>
+                  <publisher>Laborda</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -51,10 +54,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#instrumento"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_150_1.jpg/298,184,737,935/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_150_1.jpg/298,184,439,751/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

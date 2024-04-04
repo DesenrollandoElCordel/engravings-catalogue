@@ -24,17 +24,20 @@
           <date when="1886" cert="high">1886</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_103_3.jpg/1236,222,1550,1018/full/0/default.jpg" source="Varios_103_3.jpg" n="1236,222,1550,1018"/>
+            <graphic url="varios/Varios_103_3.jpg/1236,222,314,796/full/0/default.jpg" source="Varios_103_3.jpg" n="1236,222,314,796"/>
             <figDesc>
-              <locus target="Varios_103.xml">Doctor don tixeras</locus>
+              <locus target="Varios_103.xml">Doctor Don Tixeras</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_090_3.xml">grabado_v_090_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date when="1870" cert="high">1870</date>
+                  <publisher>Tipografía española</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_103_3.jpg/1236,222,1550,1018/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_103_3.jpg/1236,222,314,796/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

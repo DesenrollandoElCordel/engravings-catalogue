@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_177_8.jpg/614,1524,1366,2022/full/0/default.jpg" source="Varios_177_8.jpg" n="614,1524,1366,2022"/>
+            <graphic url="varios/Varios_177_8.jpg/614,1524,752,498/full/0/default.jpg" source="Varios_177_8.jpg" n="614,1524,752,498"/>
             <figDesc>
-              <locus target="Varios_177.xml">D. policarpio</locus>
+              <locus target="Varios_177.xml">D. Policarpio</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_177_8.jpg/614,1524,1366,2022/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_177_8.jpg/614,1524,752,498/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -29,13 +29,21 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
               <item>
                 <title corresp="grabado_m_093_1.xml">grabado_m_093_1</title>
                 <bibl>
                   <title>Gritos fúnebres, lastimosos y contemplativos</title>
                   <date when="1859" cert="high">1859</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_129_1.xml">grabado_v_129_1</title>
+                <bibl>
+                  <title>Coplas funebres, lastimosas y contemplativas</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>Sucesores de Hernando</publisher>
                 </bibl>
               </item>
             </list>

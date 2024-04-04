@@ -30,7 +30,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_001_1.xml">grabado_m_001_1</title>
                 <bibl>
@@ -45,6 +45,14 @@
                   <title>Nueva relación burlesca</title>
                   <date when="1855" cert="high">1855</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_222_1.xml">grabado_v_222_1</title>
+                <bibl>
+                  <title>Gracioso y divertido chasco</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>Sucesores de Hernando</publisher>
                 </bibl>
               </item>
             </list>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_186_1.jpg/232,246,1703,1468/full/0/default.jpg" source="Varios_186_1.jpg" n="232,246,1703,1468"/>
+            <graphic url="varios/Varios_186_1.jpg/232,246,1471,1222/full/0/default.jpg" source="Varios_186_1.jpg" n="232,246,1471,1222"/>
             <figDesc>
               <locus target="Varios_186.xml">El nuevo curro marinero con su curra marinera</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_347_1.xml">grabado_v_347_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El curro marinero</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_186_1.jpg/232,246,1703,1468/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_186_1.jpg/232,246,1471,1222/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

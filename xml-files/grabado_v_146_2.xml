@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_146_1.jpg/701,517,1585,1329/full/0/default.jpg" source="Varios_146_1.jpg" n="701,517,1585,1329"/>
+            <graphic url="varios/Varios_146_1.jpg/701,517,884,812/full/0/default.jpg" source="Varios_146_1.jpg" n="701,517,884,812"/>
             <figDesc>
               <locus target="Varios_146.xml">Las tres canciones</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_263_2.xml">grabado_v_263_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_332_2.xml">grabado_v_332_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El nuevo tango americano</title>
+                  <date>[s.a.]</date>
+                  <publisher>José Tauló</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_341_2.xml">grabado_v_341_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_456_2.xml">grabado_v_456_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -66,12 +78,12 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term/>
+          <term>Otros accesorios</term>
           <term>Interior de un edificio</term>
           <term>Fuego</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#accesorios" target="#otro"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#interior"/>
         <catRef scheme="#naturales" target="#fuego"/>
       </textClass>
@@ -81,7 +93,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_146_1.jpg/701,517,1585,1329/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_146_1.jpg/701,517,884,812/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_105_2.jpg/628,333,1509,1539/full/0/default.jpg" source="Varios_105_2.jpg" n="628,333,1509,1539"/>
+            <graphic url="varios/Varios_105_3.jpg/628,333,881,1206/full/0/default.jpg" source="Varios_105_2.jpg" n="628,333,881,1206"/>
             <figDesc>
               <locus target="Varios_105.xml">La pescatera catalana</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_262_2.xml">grabado_v_262_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_462_2.xml">grabado_v_462_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -58,12 +64,12 @@
           <term>Hombre</term>
           <term>Luchando</term>
           <term>Armas</term>
-          <term/>
+          <term>Paisaje</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accion" target="#luchando"/>
         <catRef scheme="#accesorios" target="#armas"/>
-        <catRef scheme="#naturales" target="#paisaje "/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -71,7 +77,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_105_2.jpg/628,333,1509,1539/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_105_3.jpg/628,333,881,1206/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

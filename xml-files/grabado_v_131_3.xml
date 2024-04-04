@@ -24,22 +24,29 @@
           <date when="1849" cert="high">1849</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_131_1.jpg/529,306,851,985/full/0/default.jpg" source="Varios_131_1.jpg" n="529,306,851,985"/>
+            <graphic url="varios/Varios_131_1.jpg/529,306,322,679/full/0/default.jpg" source="Varios_131_1.jpg" n="529,306,322,679"/>
             <figDesc>
-              <locus target="Varios_131.xml">Satira burlesca de la vida</locus>
+              <locus target="Varios_131.xml">Satira burlesca</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_m_018_4.xml">grabado_m_018_4</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira burlesca de la vida, milagros, usos y costumbres de cuatro clases de
+                    mugeres que hay en Madrid</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_022_1.xml">grabado_m_022_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relación del desprecio bien vengado</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,7 +72,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_131_1.jpg/529,306,851,985/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_131_1.jpg/529,306,322,679/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

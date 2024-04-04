@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_170_1.jpg/119,172,680,750/full/0/default.jpg" source="Varios_170_1.jpg" n="119,172,680,750"/>
+            <graphic url="varios/Varios_170_1.jpg/119,172,561,578/full/0/default.jpg" source="Varios_170_1.jpg" n="119,172,561,578"/>
             <figDesc>
-              <locus target="Varios_170.xml">Doña josefa ramirez</locus>
+              <locus target="Varios_170.xml">Doña Josefa Ramirez</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_170_1.jpg/119,172,680,750/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_170_1.jpg/119,172,561,578/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

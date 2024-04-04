@@ -24,67 +24,112 @@
           <date when="1873" cert="high">1873</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_148_1.jpg/263,493,732,1215/full/0/default.jpg" source="Varios_148_1.jpg" n="263,493,732,1215"/>
+            <graphic url="varios/Varios_148_1.jpg/263,493,469,722/full/0/default.jpg" source="Varios_148_1.jpg" n="263,493,469,722"/>
             <figDesc>
               <locus target="Varios_148.xml">Sátira graciosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="11">
+            <list n="12">
+              <item>
+                <title corresp="grabado_m_059_1.xml">grabado_m_059_1</title>
+                <bibl>
+                  <title>El valiente enamorao</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_m_114_1.xml">grabado_m_114_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas,
+                    que las mugeres han notado</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_115_1.xml">grabado_m_115_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira graciosa en que se manifiestan los nombres, propiedades y faltas que
+                    las mujeres han notado</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_200_1.xml">grabado_m_200_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nuevo y curioso romance en el que se declaran las excelencias de la gente
+                    del campo</title>
+                  <date when="1853" cert="high">1853</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_264_1.xml">grabado_m_264_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relación de Currillo y Don Camilo en verso andaluz</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_265_1.xml">grabado_m_265_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relación de Currillo y Don Camilo en verso andaluz</title>
+                  <date when="1866" cert="high">1866</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_274_1.xml">grabado_m_274_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trobos nuevos y canciones</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_332_1.xml">grabado_m_332_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Pasillo nuevo andaluz ejecutado entre tío Curro el enamorado y Pepe el
+                    valentón</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_342_1.xml">grabado_m_342_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Pregunta que hace un curioso a su amigo aventurero</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_348_1.xml">grabado_m_348_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva relación burlesca en la que se refiere el chasco que le dio un arriero a un sacristán</title>
+                  <date>[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_085_2.xml">grabado_v_085_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coleccion de canciones modernas</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_093_2.xml">grabado_v_093_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira graciosa en que se declaran las continuas disputas que ocurren entre suegra y nuera</title>
+                  <date>[s.a.]</date>
+                  <publisher>Hernando</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -110,7 +155,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_148_1.jpg/263,493,732,1215/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_148_1.jpg/263,493,469,722/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_250_3.jpg/537,173,1329,1130/full/0/default.jpg" source="Varios_250_3.jpg" n="537,173,1329,1130"/>
+            <graphic url="varios/Varios_250_3.jpg/537,173,792,957/full/0/default.jpg" source="Varios_250_3.jpg" n="537,173,792,957"/>
             <figDesc>
               <locus target="Varios_250.xml">Iris de paz</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_250_3.jpg/537,173,1329,1130/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_250_3.jpg/537,173,792,957/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
