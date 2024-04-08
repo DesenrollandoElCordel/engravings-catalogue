@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_277_1.jpg/447,563,616,779/full/0/default.jpg" source="Varios_277_1.jpg" n="447,563,616,779"/>
+            <graphic url="varios/Varios_277_1.jpg/447,563,169,216/full/0/default.jpg" source="Varios_277_1.jpg" n="447,563,169,216"/>
             <figDesc>
               <locus target="Varios_277.xml">Coplas funebres, lastimosas y contenplativas</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_277_2.xml">grabado_v_277_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas funebres, lastimosas y contenplativas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Julián Pastor</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -60,7 +63,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_277_1.jpg/447,563,616,779/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_277_1.jpg/447,563,169,216/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

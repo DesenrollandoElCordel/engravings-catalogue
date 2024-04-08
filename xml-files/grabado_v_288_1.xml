@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_288_1.jpg/552,175,1234,1049/full/0/default.jpg" source="Varios_288_1.jpg" n="552,175,1234,1049"/>
+            <graphic url="varios/Varios_288_1.jpg/552,175,682,874/full/0/default.jpg" source="Varios_288_1.jpg" n="552,175,682,874"/>
             <figDesc>
               <locus target="Varios_288.xml">Canción con los milagros que obró el santo angel de la guarda</locus>
             </figDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_288_1.jpg/552,175,1234,1049/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_288_1.jpg/552,175,682,874/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

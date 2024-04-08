@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_277_1.jpg/695,254,1127,804/full/0/default.jpg" source="Varios_277_1.jpg" n="695,254,1127,804"/>
+            <graphic url="varios/Varios_277_1.jpg/695,254,432,550/full/0/default.jpg" source="Varios_277_1.jpg" n="695,254,432,550"/>
             <figDesc>
               <locus target="Varios_277.xml">Coplas funebres, lastimosas y contenplativas</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_277_1.jpg/695,254,1127,804/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_277_1.jpg/695,254,432,550/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

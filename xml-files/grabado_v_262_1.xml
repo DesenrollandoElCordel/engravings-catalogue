@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_262_1.jpg/447,148,1199,1303/full/0/default.jpg" source="Varios_262_1.jpg" n="447,148,1199,1303"/>
+            <graphic url="varios/Varios_262_1.jpg/447,148,752,1155/full/0/default.jpg" source="Varios_262_1.jpg" n="447,148,752,1155"/>
             <figDesc>
               <locus target="Varios_262.xml">La pescatera catalana</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_105_1.xml">grabado_v_105_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_462_1.xml">grabado_v_462_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_262_1.jpg/447,148,1199,1303/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_262_1.jpg/447,148,752,1155/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

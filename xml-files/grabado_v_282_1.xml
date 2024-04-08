@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_282_1.jpg/0,166,1583,1167/full/0/default.jpg" source="Varios_282_1.jpg" n="0,166,1583,1167"/>
+            <graphic url="varios/Varios_282_1.jpg/0,166,1583,1001/full/0/default.jpg" source="Varios_282_1.jpg" n="0,166,1583,1001"/>
             <figDesc>
               <locus target="Varios_282.xml">Novas camarellas y goigs de las butifarras</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_013_1.xml">grabado_v_013_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Novas camarellas y goigs de las butifarras</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_463_1.xml">grabado_v_463_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Novas camarellas y goigs de las butifarras</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -58,12 +64,12 @@
           <term>Mujere(s) y Hombre(s)</term>
           <term>Instrumentos musicales</term>
           <term>Casa</term>
-          <term/>
+          <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#construidos" target="#casa"/>
-        <catRef scheme="#naturales" target="#paisaje "/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -71,7 +77,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_282_1.jpg/0,166,1583,1167/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_282_1.jpg/0,166,1583,1001/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

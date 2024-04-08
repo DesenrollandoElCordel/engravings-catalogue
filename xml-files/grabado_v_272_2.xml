@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_272_1.jpg/254,350,765,1145/full/0/default.jpg" source="Varios_272_1.jpg" n="254,350,765,1145"/>
+            <graphic url="varios/Varios_272_1.jpg/254,350,511,795/full/0/default.jpg" source="Varios_272_1.jpg" n="254,350,511,795"/>
             <figDesc>
               <locus target="Varios_272.xml">Trobos nuevos y divertidos</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_088_1.xml">grabado_v_088_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Despedida de los dos finos amantes</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Vidal y Angel Camí</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_272_1.jpg/254,350,765,1145/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_272_1.jpg/254,350,511,795/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_274_1.jpg/447,373,824,1120/full/0/default.jpg" source="Varios_274_1.jpg" n="447,373,824,1120"/>
+            <graphic url="varios/Varios_274_1.jpg/447,373,377,747/full/0/default.jpg" source="Varios_274_1.jpg" n="447,373,377,747"/>
             <figDesc>
               <locus target="Varios_274.xml">Nuevas seguidillas</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_274_1.jpg/447,373,824,1120/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_274_1.jpg/447,373,377,747/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

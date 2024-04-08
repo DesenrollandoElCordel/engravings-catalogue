@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_270_1.jpg/166,227,1647,1312/full/0/default.jpg" source="Varios_270_1.jpg" n="166,227,1647,1312"/>
+            <graphic url="varios/Varios_270_1.jpg/166,227,1481,1085/full/0/default.jpg" source="Varios_270_1.jpg" n="166,227,1481,1085"/>
             <figDesc>
-              <locus target="Varios_270.xml">D. juan de serrallonga</locus>
+              <locus target="Varios_270.xml">D. Juan de Serrallonga</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_012_1.xml">grabado_v_012_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>D. Juan de Serrallonga</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_465_1.xml">grabado_v_465_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>D. Juan de Serrallonga</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_270_1.jpg/166,227,1647,1312/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_270_1.jpg/166,227,1481,1085/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

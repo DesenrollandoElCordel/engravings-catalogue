@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_283_1.jpg/554,152,2793,2239/full/0/default.jpg" source="Varios_283_1.jpg" n="554,152,2793,2239"/>
+            <graphic url="varios/Varios_283_1.jpg/0,170,1300,1400/full/0/default.jpg" source="Varios_283_1.jpg" n="0,170,1300,1400"/>
             <figDesc>
-              <locus target="Varios_283.xml">El niño cupido canción</locus>
+              <locus target="Varios_283.xml">El niño Cupido</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_165_1.xml">grabado_v_165_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El niño Cupido</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_283_1.jpg/554,152,2793,2239/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_283_1.jpg/0,170,1300,1400/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

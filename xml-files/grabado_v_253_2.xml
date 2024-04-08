@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_253_1.jpg/824,359,1480,1399/full/0/default.jpg" source="Varios_253_1.jpg" n="824,359,1480,1399"/>
+            <graphic url="varios/Varios_253_1.jpg/824,359,656,1040/full/0/default.jpg" source="Varios_253_1.jpg" n="824,359,656,1040"/>
             <figDesc>
               <locus target="Varios_253.xml">Décimas nuevas disputa entre un moro y un cristiano</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_253_1.jpg/824,359,1480,1399/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_253_1.jpg/824,359,656,1040/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

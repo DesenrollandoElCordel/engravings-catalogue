@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_291_1.jpg/210,306,1541,1434/full/0/default.jpg" source="Varios_291_1.jpg" n="210,306,1541,1434"/>
+            <graphic url="varios/Varios_291_1.jpg/210,306,1331,1128/full/0/default.jpg" source="Varios_291_1.jpg" n="210,306,1331,1128"/>
             <figDesc>
-              <locus target="Varios_291.xml">Nueva cancion sepulcral titulada el panteon</locus>
+              <locus target="Varios_291.xml">Nueva cancion sepulcral titulada El Panteon</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_325_1.xml">grabado_v_325_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva cancion sepulcral titulada El Panteon</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -66,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_291_1.jpg/210,306,1541,1434/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_291_1.jpg/210,306,1331,1128/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

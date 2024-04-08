@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_267_1.jpg/298,297,1287,1303/full/0/default.jpg" source="Varios_267_1.jpg" n="298,297,1287,1303"/>
+            <graphic url="varios/Varios_267_1.jpg/298,297,989,1006/full/0/default.jpg" source="Varios_267_1.jpg" n="298,297,989,1006"/>
             <figDesc>
               <locus target="Varios_267.xml">Chiste nuevo del pobre y el rico</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_469_1.xml">grabado_v_469_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Chiste nuevo del pobre y el rico</title>
+                  <date>[s.a.]</date>
+                  <publisher>Sellés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -66,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_267_1.jpg/298,297,1287,1303/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_267_1.jpg/298,297,989,1006/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

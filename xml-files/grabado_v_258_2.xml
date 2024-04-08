@@ -20,11 +20,11 @@
           <title>grabado_v_258_2</title>
           <author/>
           <publisher/>
-          <pubPlace ref="xxxx"/>
-          <date when="None" cert="high">None</date>
-          <ident type="DOI"/>
+          <publisher>José María Moreno</publisher>
+          <pubPlace ref="xxxx">Carmona (Sevilla)</pubPlace>
+          <date when="1800" cert="low">[s.a.]</date>
           <figure>
-            <graphic url="varios/Varios_258_1.jpg/254,315,669,1058/full/0/default.jpg" source="Varios_258_1.jpg" n="254,315,669,1058"/>
+            <graphic url="varios/Varios_258_1.jpg/254,315,415,743/full/0/default.jpg" source="Varios_258_1.jpg" n="254,315,415,743"/>
             <figDesc>
               <locus target="Varios_258.xml"/>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_258_1.jpg/254,315,669,1058/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_258_1.jpg/254,315,415,743/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

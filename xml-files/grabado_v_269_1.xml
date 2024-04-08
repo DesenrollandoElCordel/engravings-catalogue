@@ -24,7 +24,7 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_269_1.jpg/298,262,890,1286/full/0/default.jpg" source="Varios_269_1.jpg" n="298,262,890,1286"/>
+            <graphic url="varios/Varios_269_1.jpg/298,262,592,1024/full/0/default.jpg" source="Varios_269_1.jpg" n="298,262,592,1024"/>
             <figDesc>
               <locus target="Varios_269.xml">Las ligas de mi morena</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_269_1.jpg/298,262,890,1286/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_269_1.jpg/298,262,592,1024/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

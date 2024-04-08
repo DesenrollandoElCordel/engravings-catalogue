@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_278_3.jpg/879,248,1511,1188/full/0/default.jpg" source="Varios_278_3.jpg" n="879,248,1511,1188"/>
+            <graphic url="varios/Varios_278_3.jpg/879,248,632,940/full/0/default.jpg" source="Varios_278_3.jpg" n="879,248,632,940"/>
             <figDesc>
-              <locus target="Varios_278.xml">Canciones de los comediantes de antaño</locus>
+              <locus target="Varios_278.xml">Canciones de los comediantes de Antaño</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_255_2.xml">grabado_v_255_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira nueva</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_370_4.xml">grabado_v_370_4</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Canciones de los comediantes de Antaño</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Grau</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_278_3.jpg/879,248,1511,1188/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_278_3.jpg/879,248,632,940/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

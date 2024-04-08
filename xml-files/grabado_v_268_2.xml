@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_268_3.jpg/297,57,1453,1188/full/0/default.jpg" source="Varios_268_3.jpg" n="297,57,1453,1188"/>
+            <graphic url="varios/Varios_268_3.jpg/297,57,1156,1131/full/0/default.jpg" source="Varios_268_3.jpg" n="297,57,1156,1131"/>
             <figDesc>
               <locus target="Varios_268.xml">Las tres canciones nuevas</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_268_3.jpg/297,57,1453,1188/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_268_3.jpg/297,57,1156,1131/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_260_1.jpg/61,261,1691,1434/full/0/default.jpg" source="Varios_260_1.jpg" n="61,261,1691,1434"/>
+            <graphic url="varios/Varios_260_1.jpg/61,261,1630,1173/full/0/default.jpg" source="Varios_260_1.jpg" n="61,261,1630,1173"/>
             <figDesc>
               <locus target="Varios_260.xml">La estisora</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_055_1.xml">grabado_v_055_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La estisora</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_260_1.jpg/61,261,1691,1434/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_260_1.jpg/61,261,1630,1173/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

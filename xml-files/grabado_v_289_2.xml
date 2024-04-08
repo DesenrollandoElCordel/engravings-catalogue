@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_289_4.jpg/772,219,1094,698/full/0/default.jpg" source="Varios_289_4.jpg" n="772,219,1094,698"/>
+            <graphic url="varios/Varios_289_4.jpg/772,219,322,479/full/0/default.jpg" source="Varios_289_4.jpg" n="772,219,322,479"/>
             <figDesc>
               <locus target="Varios_289.xml">Trovos y glosas discretas</locus>
             </figDesc>
@@ -33,18 +33,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_v_100_1.xml">grabado_v_100_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relacion hecha por un mozo soltero</title>
+                  <date>[s.a.]</date>
+                  <publisher>Luis de Ramos y Coria</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_138_2.xml">grabado_v_138_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y glosas discretas</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_458_2.xml">grabado_v_458_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y glosas discretas</title>
+                  <date>[s.a.]</date>
+                  <publisher>[s.n.]</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -72,7 +81,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_289_4.jpg/772,219,1094,698/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_289_4.jpg/772,219,322,479/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

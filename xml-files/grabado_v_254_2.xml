@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_254_2.jpg/339,90,1279,849/full/0/default.jpg" source="Varios_254_2.jpg" n="339,90,1279,849"/>
+            <graphic url="varios/Varios_254_2.jpg/339,90,940,759/full/0/default.jpg" source="Varios_254_2.jpg" n="339,90,940,759"/>
             <figDesc>
               <locus target="Varios_254.xml">La insurrección en cuba</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_113_2.xml">grabado_v_113_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La insurrección en Cuba</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_383_2.xml">grabado_v_383_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La insurrección en Cuba</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -69,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_254_2.jpg/339,90,1279,849/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_254_2.jpg/339,90,940,759/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

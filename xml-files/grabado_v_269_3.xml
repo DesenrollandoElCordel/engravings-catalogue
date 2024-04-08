@@ -24,7 +24,7 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_269_3.jpg/330,124,998,1122/full/0/default.jpg" source="Varios_269_3.jpg" n="330,124,998,1122"/>
+            <graphic url="varios/Varios_269_3.jpg/330,124,668,998/full/0/default.jpg" source="Varios_269_3.jpg" n="330,124,668,998"/>
             <figDesc>
               <locus target="Varios_269.xml">Las ligas de mi morena</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_333_1.xml">grabado_v_333_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Bonito tango</title>
+                  <date>[s.a.]</date>
+                  <publisher>P. Bofarull</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_269_3.jpg/330,124,998,1122/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_269_3.jpg/330,124,668,998/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

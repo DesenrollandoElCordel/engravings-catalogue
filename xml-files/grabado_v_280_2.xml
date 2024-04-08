@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_280_1.jpg/8,479,497,1491/full/0/default.jpg" source="Varios_280_1.jpg" n="8,479,497,1491"/>
+            <graphic url="varios/Varios_280_1.jpg/8,479,489,1012/full/0/default.jpg" source="Varios_280_1.jpg" n="8,479,489,1012"/>
             <figDesc>
-              <locus target="Varios_280.xml">Juan el afortunado</locus>
+              <locus target="Varios_280.xml">Juan el Afortunado</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -41,7 +41,12 @@
     </encodingDesc>
     <profileDesc>
       <textClass>
-        <keywords/>
+        <keywords>
+          <term>Hombre</term>
+          <term>Instrumentos musicales</term>
+        </keywords>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -49,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_280_1.jpg/8,479,497,1491/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_280_1.jpg/8,479,489,1012/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_257_1.jpg/393,144,816,747/full/0/default.jpg" source="Varios_257_1.jpg" n="393,144,816,747"/>
+            <graphic url="varios/Varios_257_1.jpg/393,144,423,603/full/0/default.jpg" source="Varios_257_1.jpg" n="393,144,423,603"/>
             <figDesc>
               <locus target="Varios_257.xml">El sepulcro ó lo que puede el amor</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_454_2.xml">grabado_v_454_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El sepulcro o lo que puede el amor</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_257_1.jpg/393,144,816,747/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_257_1.jpg/393,144,423,603/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

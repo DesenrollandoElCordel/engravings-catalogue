@@ -24,32 +24,44 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_256_3.jpg/554,49,1254,1072/full/0/default.jpg" source="Varios_256_3.jpg" n="554,49,1254,1072"/>
+            <graphic url="varios/Varios_256_3.jpg/554,49,700,1023/full/0/default.jpg" source="Varios_256_3.jpg" n="554,49,700,1023"/>
             <figDesc>
-              <locus target="Varios_256.xml">Carta amorosa que escribió el memorialista a una joven, para remitir a su querido amante</locus>
+              <locus target="Varios_256.xml">Carta amorosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="4">
               <item>
-                <title corresp="grabado_v_097_2.xml">grabado_v_097_2</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_v_097_1.xml">grabado_v_097_1</title>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
-                <title corresp="grabado_v_334_2.xml">grabado_v_334_2</title>
-                <locus/>
-                <date/>
+                <title corresp="grabado_v_334_1.xml">grabado_v_334_1</title>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_408_2.xml">grabado_v_408_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion del pajarito</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_413_2.xml">grabado_v_413_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y décimas glosadas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -79,7 +91,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_256_3.jpg/554,49,1254,1072/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_256_3.jpg/554,49,700,1023/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

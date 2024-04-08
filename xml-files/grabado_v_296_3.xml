@@ -24,7 +24,7 @@
           <date when="1862" cert="high">1862</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_296_3.jpg/620,82,1147,1014/full/0/default.jpg" source="Varios_296_3.jpg" n="620,82,1147,1014"/>
+            <graphic url="varios/Varios_296_3.jpg/620,82,527,932/full/0/default.jpg" source="Varios_296_3.jpg" n="620,82,527,932"/>
             <figDesc>
               <locus target="Varios_296.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -33,18 +33,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_v_038_3.xml">grabado_v_038_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1881" cert="high">1881</date>
+                  <publisher>Tipografía Española</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_422_3.xml">grabado_v_422_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1881" cert="high">1881</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_423_3.xml">grabado_v_423_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1862" cert="high">1862</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_296_3.jpg/620,82,1147,1014/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_296_3.jpg/620,82,527,932/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

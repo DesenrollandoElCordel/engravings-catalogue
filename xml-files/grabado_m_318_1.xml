@@ -29,7 +29,18 @@
                 habitantes de las diferentes provincias de España</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="1">
+              <item>
+                <title corresp="grabado_v_293_1.xml">grabado_v_293_1</title>
+                <bibl>
+                  <title>Relacion del carácter, genio y condiciones que tienen los habitantes de las provincias de España</title>
+                  <date>[s.a.]</date>
+                  <publisher>Sucesores de Hernando</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Moreno_318</note>
         </bibl>
       </sourceDesc>

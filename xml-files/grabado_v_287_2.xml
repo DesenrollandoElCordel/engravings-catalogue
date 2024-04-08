@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_287_3.jpg/595,90,1254,989/full/0/default.jpg" source="Varios_287_3.jpg" n="595,90,1254,989"/>
+            <graphic url="varios/Varios_287_3.jpg/595,90,659,899/full/0/default.jpg" source="Varios_287_3.jpg" n="595,90,659,899"/>
             <figDesc>
               <locus target="Varios_287.xml">Oracion de la virgen del carmen</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_003_1.xml">grabado_v_003_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Oración á nuestra Señora del Cármen</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_287_1.xml">grabado_v_287_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Oracion de la Virgen del Carmen</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_287_3.jpg/595,90,1254,989/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_287_3.jpg/595,90,659,899/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

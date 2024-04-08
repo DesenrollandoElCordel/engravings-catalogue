@@ -24,7 +24,7 @@
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_259_1.jpg/36,291,518,1038/full/0/default.jpg" source="Varios_259_1.jpg" n="36,291,518,1038"/>
+            <graphic url="varios/Varios_259_1.jpg/36,291,482,747/full/0/default.jpg" source="Varios_259_1.jpg" n="36,291,482,747"/>
             <figDesc>
               <locus target="Varios_259.xml">El triunfo del ave maría, ó garcilaso de la vega y el moro tarfe.</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_259_1.jpg/36,291,518,1038/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_259_1.jpg/36,291,482,747/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
