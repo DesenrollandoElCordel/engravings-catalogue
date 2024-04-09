@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_346_2.jpg/147,206,1623,1283/full/0/default.jpg" source="Varios_346_2.jpg" n="147,206,1623,1283"/>
+            <graphic url="varios/Varios_346_3.jpg/147,206,1476,1077/full/0/default.jpg" source="Varios_346_3.jpg" n="147,206,1476,1077"/>
             <figDesc>
-              <locus target="Varios_346.xml">Vals de la zaruela las campanas de carrion</locus>
+              <locus target="Varios_346.xml">Vals de la zarzuela</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -45,16 +45,16 @@
           <term>Mujere(s) y Hombre(s)</term>
           <term>Discutiendo</term>
           <term>Instrumentos musicales</term>
-          <term/>
+          <term>Otros accesorios</term>
           <term>Interior de un edificio</term>
-          <term/>
+          <term>Puerta</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#discutiendo"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
-        <catRef scheme="#accesorios" target="# otros"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#interior"/>
-        <catRef scheme="#construidos" target="# puerta  "/>
+        <catRef scheme="#construidos" target="#puerta"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_346_2.jpg/147,206,1623,1283/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_346_3.jpg/147,206,1476,1077/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

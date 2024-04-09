@@ -64,8 +64,8 @@
         <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#accesorios" target="#otros"/>
-        <catRef scheme="#construidos" target="#paisaje"/>
-        <catRef scheme="#naturales" target="#ruinas"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
+        <catRef scheme="#construidos" target="#ruinas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

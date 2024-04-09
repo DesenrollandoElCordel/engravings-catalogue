@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_321_4.jpg/868,284,1559,875/full/0/default.jpg" source="Varios_321_4.jpg" n="868,284,1559,875"/>
+            <graphic url="varios/Varios_321_4.jpg/868,284,691,591/full/0/default.jpg" source="Varios_321_4.jpg" n="868,284,691,591"/>
             <figDesc>
               <locus target="Varios_321.xml">Triste historia de un marino</locus>
             </figDesc>
@@ -48,7 +48,7 @@
           <term/>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#construidos" target="#navio"/>
+        <catRef scheme="#transporte" target="#navio"/>
         <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#naturales" target="# paisaje"/>
       </textClass>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_321_4.jpg/868,284,1559,875/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_321_4.jpg/868,284,691,591/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

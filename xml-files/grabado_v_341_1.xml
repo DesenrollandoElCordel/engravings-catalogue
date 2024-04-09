@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_341_1.jpg/179,129,780,1176/full/0/default.jpg" source="Varios_341_1.jpg" n="179,129,780,1176"/>
+            <graphic url="varios/Varios_341_1.jpg/179,129,601,1047/full/0/default.jpg" source="Varios_341_1.jpg" n="179,129,601,1047"/>
             <figDesc>
               <locus target="Varios_341.xml">Las tres canciones</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_146_1.xml">grabado_v_146_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_263_1.xml">grabado_v_263_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_269_2.xml">grabado_v_269_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las ligas de mi morena</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José Tauló</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_456_1.xml">grabado_v_456_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Las tres canciones</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -77,7 +89,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_341_1.jpg/179,129,780,1176/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_341_1.jpg/179,129,601,1047/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

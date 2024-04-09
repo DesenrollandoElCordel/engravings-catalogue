@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_349_4.jpg/738,1446,1142,2013/full/0/default.jpg" source="Varios_349_4.jpg" n="738,1446,1142,2013"/>
+            <graphic url="varios/Varios_349_4.jpg/738,1446,404,567/full/0/default.jpg" source="Varios_349_4.jpg" n="738,1446,404,567"/>
             <figDesc>
-              <locus target="Varios_349.xml">Pasillo del tio camacho y el tio mateo</locus>
+              <locus target="Varios_349.xml">Pasillo del Tio Camacho y el Tio Mateo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_c_007_3.xml">grabado_c_007_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Pasillo del Tio Camacho y el Tio Mateo</title>
+                  <date when="1863" cert="high">1863</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_349_4.jpg/738,1446,1142,2013/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_349_4.jpg/738,1446,404,567/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

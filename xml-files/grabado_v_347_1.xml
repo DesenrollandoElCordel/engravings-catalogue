@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_347_1.jpg/71,183,1594,1250/full/0/default.jpg" source="Varios_347_1.jpg" n="71,183,1594,1250"/>
+            <graphic url="varios/Varios_347_1.jpg/71,183,1523,1067/full/0/default.jpg" source="Varios_347_1.jpg" n="71,183,1523,1067"/>
             <figDesc>
               <locus target="Varios_347.xml">El curro marinero</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_186_1.xml">grabado_v_186_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El nuevo curro marinero con su curra marinera</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Bautista Vidal</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -51,15 +54,15 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Hablando</term>
           <term>Paisaje</term>
-          <term/>
+          <term>Area de agua</term>
           <term>Navío/Barco</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accion" target="#hablando "/>
+        <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#naturales" target="#paisaje"/>
-        <catRef scheme="#naturales" target="# agua"/>
+        <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#transporte" target="#navio"/>
       </textClass>
     </profileDesc>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_347_1.jpg/71,183,1594,1250/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_347_1.jpg/71,183,1523,1067/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

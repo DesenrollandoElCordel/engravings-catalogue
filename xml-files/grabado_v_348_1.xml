@@ -24,7 +24,7 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_348_1.jpg/201,324,1532,1311/full/0/default.jpg" source="Varios_348_1.jpg" n="201,324,1532,1311"/>
+            <graphic url="varios/Varios_348_1.jpg/201,324,1331,987/full/0/default.jpg" source="Varios_348_1.jpg" n="201,324,1331,987"/>
             <figDesc>
               <locus target="Varios_348.xml">Testamento de un gallo</locus>
             </figDesc>
@@ -45,14 +45,14 @@
           <term>Muerte</term>
           <term>Animales antropomórficos</term>
           <term>Papeles</term>
-          <term/>
-          <term/>
+          <term>Otros accesorios</term>
+          <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#animales" target="#antropomorfico"/>
         <catRef scheme="#accesorios" target="#papel"/>
-        <catRef scheme="#accesorios" target="# otros "/>
-        <catRef scheme="#construidos" target="#interior "/>
+        <catRef scheme="#accesorios" target="#otros"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_348_1.jpg/201,324,1532,1311/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_348_1.jpg/201,324,1331,987/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

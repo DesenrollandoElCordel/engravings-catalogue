@@ -24,7 +24,7 @@
           <date when="1859" cert="high">1859</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_329_1.jpg/158,157,657,1005/full/0/default.jpg" source="Varios_329_1.jpg" n="158,157,657,1005"/>
+            <graphic url="varios/Varios_329_1.jpg/158,157,499,848/full/0/default.jpg" source="Varios_329_1.jpg" n="158,157,499,848"/>
             <figDesc>
               <locus target="Varios_329.xml">Hechos gloriosos de nuestro ejército en los campos de africa</locus>
             </figDesc>
@@ -42,10 +42,10 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
           <term>Armas</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#soldado"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_329_1.jpg/158,157,657,1005/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_329_1.jpg/158,157,499,848/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

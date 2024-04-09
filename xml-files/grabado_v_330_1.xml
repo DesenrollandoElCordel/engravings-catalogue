@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_330_1.jpg/57,99,1577,1356/full/0/default.jpg" source="Varios_330_1.jpg" n="57,99,1577,1356"/>
+            <graphic url="varios/Varios_330_1.jpg/57,99,1520,1257/full/0/default.jpg" source="Varios_330_1.jpg" n="57,99,1520,1257"/>
             <figDesc>
-              <locus target="Varios_330.xml">Isabel la católica</locus>
+              <locus target="Varios_330.xml">Isabel la Católica</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -42,17 +42,17 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Hombre</term>
           <term>Monarca (Reina/Princesa)</term>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Interior de un edificio</term>
-          <term/>
+          <term>Castillo</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#soldado"/>
+        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#personaje_femenino" target="#monarca_f"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#construidos" target="#interior"/>
-        <catRef scheme="#construidos" target="# castillo"/>
+        <catRef scheme="#construidos" target="#castillo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_330_1.jpg/57,99,1577,1356/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_330_1.jpg/57,99,1520,1257/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

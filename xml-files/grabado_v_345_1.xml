@@ -24,7 +24,7 @@
           <date when="1853" cert="high">1853</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_345_1.jpg/460,154,1278,1348/full/0/default.jpg" source="Varios_345_1.jpg" n="460,154,1278,1348"/>
+            <graphic url="varios/Varios_345_1.jpg/460,154,818,1194/full/0/default.jpg" source="Varios_345_1.jpg" n="460,154,818,1194"/>
             <figDesc>
               <locus target="Varios_345.xml">Trovos nuevos y divertidos</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_367_1.xml">grabado_v_367_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos y divertidos</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Bautista Vidal</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_345_1.jpg/460,154,1278,1348/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_345_1.jpg/460,154,818,1194/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

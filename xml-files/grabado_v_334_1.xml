@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_334_1.jpg/437,147,1401,1077/full/0/default.jpg" source="Varios_334_1.jpg" n="437,147,1401,1077"/>
+            <graphic url="varios/Varios_334_1.jpg/437,147,964,930/full/0/default.jpg" source="Varios_334_1.jpg" n="437,147,964,930"/>
             <figDesc>
               <locus target="Varios_334.xml">Carta amorosa</locus>
             </figDesc>
@@ -33,18 +33,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_v_097_1.xml">grabado_v_097_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_256_1.xml">grabado_v_256_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa que escribió el memorialista a una joven</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_368_1.xml">grabado_v_368_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,11 +71,11 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Calle</term>
-          <term/>
+          <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#construidos" target="#calle"/>
-        <catRef scheme="#construidos" target="# interior"/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -74,7 +83,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_334_1.jpg/437,147,1401,1077/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_334_1.jpg/437,147,964,930/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

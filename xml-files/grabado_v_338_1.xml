@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_338_1.jpg/514,428,914,1103/full/0/default.jpg" source="Varios_338_1.jpg" n="514,428,914,1103"/>
+            <graphic url="varios/Varios_338_1.jpg/514,428,400,675/full/0/default.jpg" source="Varios_338_1.jpg" n="514,428,400,675"/>
             <figDesc>
-              <locus target="Varios_338.xml">Pasillo de d. sancho y su mayordomo crispin</locus>
+              <locus target="Varios_338.xml">Pasillo de D. Sancho y su mayordomo Crispin</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_m_003_1.xml">grabado_m_003_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Pasillo de D. Sancho y su mayordomo Crispín</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_042_1.xml">grabado_m_042_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Despedida de dos finos amantes</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -65,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_338_1.jpg/514,428,914,1103/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_338_1.jpg/514,428,400,675/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

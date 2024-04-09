@@ -24,32 +24,44 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_338_1.jpg/911,434,1269,1112/full/0/default.jpg" source="Varios_338_1.jpg" n="911,434,1269,1112"/>
+            <graphic url="varios/Varios_338_1.jpg/911,434,358,678/full/0/default.jpg" source="Varios_338_1.jpg" n="911,434,358,678"/>
             <figDesc>
-              <locus target="Varios_338.xml">Pasillo de d. sancho y su mayordomo crispin</locus>
+              <locus target="Varios_338.xml">Pasillo de D. Sancho y su mayordomo Crispin</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="4">
               <item>
                 <title corresp="grabado_m_003_2.xml">grabado_m_003_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Pasillo de D. Sancho y su mayordomo Crispín</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_072_2.xml">grabado_m_072_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Pasillo curioso y divertido de Enrique y Juana</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_214_2.xml">grabado_m_214_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Teresa Mojarro y Gangarilla</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_280_2.xml">grabado_m_280_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cada cual arrima el ascua. Pasillo nuevo entre hombre y muger</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -75,7 +87,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_338_1.jpg/911,434,1269,1112/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_338_1.jpg/911,434,358,678/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

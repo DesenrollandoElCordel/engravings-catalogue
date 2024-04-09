@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_350_1.jpg/403,186,1466,1043/full/0/default.jpg" source="Varios_350_1.jpg" n="403,186,1466,1043"/>
+            <graphic url="varios/Varios_350_1.jpg/403,186,1063,857/full/0/default.jpg" source="Varios_350_1.jpg" n="403,186,1063,857"/>
             <figDesc>
               <locus target="Varios_350.xml">Décimas</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_096_1.xml">grabado_v_096_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Décimas</title>
+                  <date when="1851" cert="high">1851</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_265_1.xml">grabado_v_265_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Décimas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -56,12 +62,12 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>Lugar de culto</term>
-          <term>Interior de un edificio</term>
+          <term>Simbolismo cristiano</term>
+          <term>Cárcel</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#religion" target="#culto"/>
-        <catRef scheme="#construidos" target="#interior"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#construidos" target="#carcel"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -69,7 +75,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_350_1.jpg/403,186,1466,1043/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_350_1.jpg/403,186,1063,857/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

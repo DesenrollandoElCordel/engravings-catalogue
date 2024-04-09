@@ -24,7 +24,7 @@
           <date when="1854" cert="high">1854</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_322_1.jpg/616,307,1420,1507/full/0/default.jpg" source="Varios_322_1.jpg" n="616,307,1420,1507"/>
+            <graphic url="varios/Varios_322_1.jpg/616,307,804,1200/full/0/default.jpg" source="Varios_322_1.jpg" n="616,307,804,1200"/>
             <figDesc>
               <locus target="Varios_322.xml">El valiente badulaque</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_322_1.jpg/616,307,1420,1507/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_322_1.jpg/616,307,804,1200/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

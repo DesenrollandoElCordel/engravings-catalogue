@@ -19,12 +19,12 @@
         <bibl>
           <title>grabado_v_305_1</title>
           <author>M.C.</author>
-          <publisher>Narciso Rodríguez</publisher>
+          <publisher>Narciso Ramírez</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_305_1.jpg/0,717,1683,1921/full/0/default.jpg" source="Varios_305_1.jpg" n="0,717,1683,1921"/>
+            <graphic url="varios/Varios_305_1.jpg/0,717,1683,1204/full/0/default.jpg" source="Varios_305_1.jpg" n="0,717,1683,1204"/>
             <figDesc>
               <locus target="Varios_305.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_031_1.xml">grabado_v_031_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -66,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_305_1.jpg/0,717,1683,1921/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_305_1.jpg/0,717,1683,1204/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

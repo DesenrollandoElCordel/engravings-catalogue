@@ -24,7 +24,7 @@
           <date when="1873" cert="high">1873</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_336_1.jpg/657,327,1120,1046/full/0/default.jpg" source="Varios_336_1.jpg" n="657,327,1120,1046"/>
+            <graphic url="varios/Varios_336_1.jpg/657,327,463,719/full/0/default.jpg" source="Varios_336_1.jpg" n="657,327,463,719"/>
             <figDesc>
               <locus target="Varios_336.xml">Nombres y faltas de los hombres</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_336_1.jpg/657,327,1120,1046/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_336_1.jpg/657,327,463,719/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

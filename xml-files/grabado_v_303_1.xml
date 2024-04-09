@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_303_1.jpg/179,213,1720,1431/full/0/default.jpg" source="Varios_303_1.jpg" n="179,213,1720,1431"/>
+            <graphic url="varios/Varios_303_1.jpg/179,213,1541,1218/full/0/default.jpg" source="Varios_303_1.jpg" n="179,213,1541,1218"/>
             <figDesc>
-              <locus target="Varios_303.xml">Los amantes de teruel</locus>
+              <locus target="Varios_303.xml">Los amantes de Teruel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_303_1.jpg/179,213,1720,1431/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_303_1.jpg/179,213,1541,1218/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

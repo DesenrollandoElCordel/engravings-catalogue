@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_340_1.jpg/278,228,1207,905/full/0/default.jpg" source="Varios_340_1.jpg" n="278,228,1207,905"/>
+            <graphic url="varios/Varios_340_1.jpg/278,228,929,677/full/0/default.jpg" source="Varios_340_1.jpg" n="278,228,929,677"/>
             <figDesc>
               <locus target="Varios_340.xml">Decimas glosadas</locus>
             </figDesc>
@@ -44,11 +44,11 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Instrumentos musicales</term>
-          <term/>
+          <term>Árbol</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
-        <catRef scheme="#naturales" target="#árbol"/>
+        <catRef scheme="#naturales" target="#arbol"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_340_1.jpg/278,228,1207,905/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_340_1.jpg/278,228,929,677/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

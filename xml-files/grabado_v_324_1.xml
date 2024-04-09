@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_324_1.jpg/541,215,957,1046/full/0/default.jpg" source="Varios_324_1.jpg" n="541,215,957,1046"/>
+            <graphic url="varios/Varios_324_1.jpg/541,215,416,831/full/0/default.jpg" source="Varios_324_1.jpg" n="541,215,416,831"/>
             <figDesc>
-              <locus target="Varios_324.xml">Testamento de un asno.</locus>
+              <locus target="Varios_324.xml">Testamento de un asno</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_324_1.jpg/541,215,957,1046/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_324_1.jpg/541,215,416,831/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

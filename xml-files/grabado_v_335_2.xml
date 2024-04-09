@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_335_1.jpg/881,711,1461,1388/full/0/default.jpg" source="Varios_335_1.jpg" n="881,711,1461,1388"/>
+            <graphic url="varios/Varios_335_1.jpg/881,711,580,677/full/0/default.jpg" source="Varios_335_1.jpg" n="881,711,580,677"/>
             <figDesc>
-              <locus target="Varios_335.xml">Melchor y laurencia</locus>
+              <locus target="Varios_335.xml">Melchor y Laurencia</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_335_1.jpg/881,711,1461,1388/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_335_1.jpg/881,711,580,677/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

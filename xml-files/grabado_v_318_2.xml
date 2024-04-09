@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_318_1.jpg/332,299,1453,1607/full/0/default.jpg" source="Varios_318_1.jpg" n="332,299,1453,1607"/>
+            <graphic url="varios/Varios_318_1.jpg/332,299,1121,1308/full/0/default.jpg" source="Varios_318_1.jpg" n="332,299,1121,1308"/>
             <figDesc>
-              <locus target="Varios_318.xml">Villancicos nuevos al sagrado nacimiento de nuestro señor jesucristo</locus>
+              <locus target="Varios_318.xml">Villancicos nuevos al Sagrado Nacimiento de nuestro Señor Jesucristo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -66,7 +66,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_318_1.jpg/332,299,1453,1607/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_318_1.jpg/332,299,1121,1308/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

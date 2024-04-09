@@ -25,17 +25,23 @@
           <figure>
             <graphic url="fedora_ug8109411/1180,420,453,715/full/0/default.jpg" source="Moreno_114_1.jpg" n="1180, 420, 453, 715"/>
             <figDesc>
-              <locus target="Moreno_114.xml">Sátira graciosa en la que se manifiestan los nombres,
-                propiedades y faltas, que las mugeres han notado</locus>
+              <locus target="Moreno_114.xml">Sátira graciosa en la que se manifiestan los nombres, propiedades y faltas, que las mugeres han notado</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
+              <item>
+                <title corresp="grabado_v_336_3.xml">grabado_v_336_3</title>
+                <bibl>
+                  <title>Nombres y faltas de los hombres</title>
+                  <date when="1873" cert="high">1873</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_m_115_3.xml">grabado_m_115_3</title>
                 <bibl>
-                  <title>Sátira graciosa en que se manifiestan los nombres, propiedades y faltas que
-                    las mujeres han notado</title>
+                  <title>Sátira graciosa en que se manifiestan los nombres, propiedades y faltas que las mujeres han notado</title>
                   <date when="1800" cert="low">[s.a.]</date>
                   <publisher>José María Moreno</publisher>
                 </bibl>

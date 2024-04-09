@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_314_1.jpg/211,266,1647,1252/full/0/default.jpg" source="Varios_314_1.jpg" n="211,266,1647,1252"/>
+            <graphic url="varios/Varios_314_1.jpg/211,266,1436,986/full/0/default.jpg" source="Varios_314_1.jpg" n="211,266,1436,986"/>
             <figDesc>
-              <locus target="Varios_314.xml">La desgraciada rosaura</locus>
+              <locus target="Varios_314.xml">La desgraciada Rosaura</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_314_1.jpg/211,266,1647,1252/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_314_1.jpg/211,266,1436,986/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

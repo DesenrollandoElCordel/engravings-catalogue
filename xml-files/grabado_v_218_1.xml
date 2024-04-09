@@ -52,7 +52,7 @@
         <catRef scheme="#accion" target="#bailando"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#naturales" target="#paisaje"/>
-        <catRef scheme="#naturales" target="#puerta"/>
+        <catRef scheme="#construidos" target="#puerta"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

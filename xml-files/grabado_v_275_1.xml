@@ -52,7 +52,7 @@
         <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#calle"/>
-        <catRef scheme="#naturales" target="#vehiculo"/>
+        <catRef scheme="#transporte" target="#vehiculo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

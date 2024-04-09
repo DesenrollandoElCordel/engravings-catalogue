@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_306_1.jpg/191,371,1457,1420/full/0/default.jpg" source="Varios_306_1.jpg" n="191,371,1457,1420"/>
+            <graphic url="varios/Varios_306_1.jpg/191,371,1266,1049/full/0/default.jpg" source="Varios_306_1.jpg" n="191,371,1266,1049"/>
             <figDesc>
               <locus target="Varios_306.xml">La dama casimira</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_042_1.xml">grabado_v_042_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La dama casimira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_306_1.jpg/191,371,1457,1420/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_306_1.jpg/191,371,1266,1049/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

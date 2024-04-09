@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_326_3.jpg/928,125,1564,1200/full/0/default.jpg" source="Varios_326_3.jpg" n="928,125,1564,1200"/>
+            <graphic url="varios/Varios_326_3.jpg/928,125,636,1075/full/0/default.jpg" source="Varios_326_3.jpg" n="928,125,636,1075"/>
             <figDesc>
               <locus target="Varios_326.xml">Hermosa canción del pastor y la zagala</locus>
             </figDesc>
@@ -42,10 +42,10 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Mujer</term>
           <term>Otros accesorios</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer "/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_326_3.jpg/928,125,1564,1200/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_326_3.jpg/928,125,636,1075/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

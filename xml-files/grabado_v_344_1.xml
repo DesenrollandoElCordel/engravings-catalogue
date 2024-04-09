@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_344_3.jpg/557,260,1213,1133/full/0/default.jpg" source="Varios_344_3.jpg" n="557,260,1213,1133"/>
+            <graphic url="varios/Varios_344_3.jpg/557,260,656,873/full/0/default.jpg" source="Varios_344_3.jpg" n="557,260,656,873"/>
             <figDesc>
               <locus target="Varios_344.xml">Cancion del curro marinero</locus>
             </figDesc>
@@ -33,33 +33,51 @@
             <list n="6">
               <item>
                 <title corresp="grabado_v_043_2.xml">grabado_v_043_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion del curro marinero</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_061_2.xml">grabado_v_061_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion del curro marinero</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_113_4.xml">grabado_v_113_4</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La insurrección en Cuba</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_254_3.xml">grabado_v_254_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La insurrección en Cuba</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_383_3.xml">grabado_v_383_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La insurrección en Cuba</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_408_3.xml">grabado_v_408_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion del pajarito</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -89,7 +107,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_344_3.jpg/557,260,1213,1133/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_344_3.jpg/557,260,656,873/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
