@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_398_3.jpg/443,1273,1263,1937/full/0/default.jpg" source="Varios_398_3.jpg" n="443,1273,1263,1937"/>
+            <graphic url="varios/Varios_398_3.jpg/443,1273,820,664/full/0/default.jpg" source="Varios_398_3.jpg" n="443,1273,820,664"/>
             <figDesc>
               <locus target="Varios_398.xml">Carta en trovos</locus>
             </figDesc>
@@ -44,11 +44,11 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Otros accesorios</term>
-          <term/>
+          <term>Papeles</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accesorios" target="#otros"/>
-        <catRef scheme="#accesorios" target="# papel"/>
+        <catRef scheme="#accesorios" target="#papel"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_398_3.jpg/443,1273,1263,1937/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_398_3.jpg/443,1273,820,664/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

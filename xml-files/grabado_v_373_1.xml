@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_373_1.jpg/455,289,1304,1470/full/0/default.jpg" source="Varios_373_1.jpg" n="455,289,1304,1470"/>
+            <graphic url="varios/Varios_373_1.jpg/455,289,849,1181/full/0/default.jpg" source="Varios_373_1.jpg" n="455,289,849,1181"/>
             <figDesc>
-              <locus target="Varios_373.xml">Pepito y juanita</locus>
+              <locus target="Varios_373.xml">Pepito y Juanita</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_373_1.jpg/455,289,1304,1470/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_373_1.jpg/455,289,849,1181/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

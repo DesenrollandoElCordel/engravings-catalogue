@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_391_1.jpg/128,255,1588,1309/full/0/default.jpg" source="Varios_391_1.jpg" n="128,255,1588,1309"/>
+            <graphic url="varios/Varios_391_1.jpg/128,255,1460,1054/full/0/default.jpg" source="Varios_391_1.jpg" n="128,255,1460,1054"/>
             <figDesc>
-              <locus target="Varios_391.xml">Canciones de la marsellesa</locus>
+              <locus target="Varios_391.xml">Canciones de la Marsellesa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_391_1.jpg/128,255,1588,1309/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_391_1.jpg/128,255,1460,1054/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

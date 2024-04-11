@@ -19,12 +19,12 @@
         <bibl>
           <title>grabado_v_376_1</title>
           <author/>
-          <publisher>Joan Grau</publisher>
+          <publisher>Juan Grau</publisher>
           <pubPlace ref="xxxx">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_376_1.jpg/84,142,1747,1410/full/0/default.jpg" source="Varios_376_1.jpg" n="84,142,1747,1410"/>
+            <graphic url="varios/Varios_376_1.jpg/84,142,1663,1268/full/0/default.jpg" source="Varios_376_1.jpg" n="84,142,1663,1268"/>
             <figDesc>
               <locus target="Varios_376.xml">Juguet nou, en catalá y en vers titulat aventuras de un papé</locus>
             </figDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_376_1.jpg/84,142,1747,1410/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_376_1.jpg/84,142,1663,1268/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

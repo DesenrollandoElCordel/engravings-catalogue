@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_366_2.jpg/121,269,1677,1642/full/0/default.jpg" source="Varios_366_2.jpg" n="121,269,1677,1642"/>
+            <graphic url="varios/Varios_366_2.jpg/121,269,1556,1373/full/0/default.jpg" source="Varios_366_2.jpg" n="121,269,1556,1373"/>
             <figDesc>
               <locus target="Varios_366.xml">Banderillas</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_217_1.xml">grabado_v_217_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Muerte del toro</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -52,12 +55,12 @@
         <keywords>
           <term>Hombres</term>
           <term>Muerte</term>
-          <term/>
+          <term>Animales domésticos</term>
           <term>Armas</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#muerte" target="#muerte"/>
-        <catRef scheme="#animales" target="#domésticos "/>
+        <catRef scheme="#animales" target="#domesticos"/>
         <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
@@ -66,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_366_2.jpg/121,269,1677,1642/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_366_2.jpg/121,269,1556,1373/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

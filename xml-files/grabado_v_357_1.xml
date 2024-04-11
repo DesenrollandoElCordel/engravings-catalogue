@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_357_1.jpg/167,378,1466,1270/full/0/default.jpg" source="Varios_357_1.jpg" n="167,378,1466,1270"/>
+            <graphic url="varios/Varios_357_1.jpg/167,378,1299,892/full/0/default.jpg" source="Varios_357_1.jpg" n="167,378,1299,892"/>
             <figDesc>
-              <locus target="Varios_357.xml">Don claudio y dona margarita</locus>
+              <locus target="Varios_357.xml">Don Claudio y Dona Margarita</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_116_1.xml">grabado_v_116_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Don Claudio y Doña Margarita</title>
+                  <date when="1848" cert="high">1848</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_084_1.xml">grabado_m_084_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Don Claudio y Doña Margarita</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -59,13 +65,13 @@
           <term>Mujere(s) y Hombre(s)</term>
           <term>Animales antropomórficos</term>
           <term>Cueva</term>
-          <term/>
+          <term>Paisaje</term>
         </keywords>
         <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#animales" target="#antropomorfico"/>
         <catRef scheme="#naturales" target="#cueva"/>
-        <catRef scheme="#naturales" target="# paisaje"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_357_1.jpg/167,378,1466,1270/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_357_1.jpg/167,378,1299,892/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

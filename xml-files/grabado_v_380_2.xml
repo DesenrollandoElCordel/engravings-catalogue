@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_380_4.jpg/687,145,1520,1046/full/0/default.jpg" source="Varios_380_4.jpg" n="687,145,1520,1046"/>
+            <graphic url="varios/Varios_380_4.jpg/687,145,833,901/full/0/default.jpg" source="Varios_380_4.jpg" n="687,145,833,901"/>
             <figDesc>
               <locus target="Varios_380.xml">El calesero andaluz</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_380_4.jpg/687,145,1520,1046/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_380_4.jpg/687,145,833,901/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

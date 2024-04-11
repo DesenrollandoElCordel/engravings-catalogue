@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_375_1.jpg/299,500,666,1151/full/0/default.jpg" source="Varios_375_1.jpg" n="299,500,666,1151"/>
+            <graphic url="varios/Varios_375_1.jpg/299,500,367,651/full/0/default.jpg" source="Varios_375_1.jpg" n="299,500,367,651"/>
             <figDesc>
-              <locus target="Varios_375.xml">Satira jocosa de los nombres, costumbres y propiedades de las senoras mujeres.</locus>
+              <locus target="Varios_375.xml">Satira jocosa de los nombres, costumbres y propiedades de las senoras mujeres</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_375_1.jpg/299,500,666,1151/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_375_1.jpg/299,500,367,651/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_381_1.jpg/615,431,1117,1363/full/0/default.jpg" source="Varios_381_1.jpg" n="615,431,1117,1363"/>
+            <graphic url="varios/Varios_381_1.jpg/615,431,502,932/full/0/default.jpg" source="Varios_381_1.jpg" n="615,431,502,932"/>
             <figDesc>
               <locus target="Varios_381.xml">Canciones de despedida que dirigen los quintos a sus queridas damas</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_381_1.jpg/615,431,1117,1363/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_381_1.jpg/615,431,502,932/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

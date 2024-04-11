@@ -24,7 +24,7 @@
           <date when="1870" cert="high">1870</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_399_1.jpg/802,262,1142,1078/full/0/default.jpg" source="Varios_399_1.jpg" n="802,262,1142,1078"/>
+            <graphic url="varios/Varios_399_1.jpg/802,262,340,816/full/0/default.jpg" source="Varios_399_1.jpg" n="802,262,340,816"/>
             <figDesc>
               <locus target="Varios_399.xml">Trovos nuevos y divertidos</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_222_3.xml">grabado_v_222_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Gracioso y divertido chasco</title>
+                  <date>[s.a.]</date>
+                  <publisher>Sucesores de Hernando</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_399_1.jpg/802,262,1142,1078/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_399_1.jpg/802,262,340,816/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

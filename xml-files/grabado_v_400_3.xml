@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_400_3.jpg/616,15,1218,319/full/0/default.jpg" source="Varios_400_3.jpg" n="616,15,1218,319"/>
+            <graphic url="varios/Varios_400_3.jpg/616,15,602,304/full/0/default.jpg" source="Varios_400_3.jpg" n="616,15,602,304"/>
             <figDesc>
               <locus target="Varios_400.xml">Décimas agudas y alegres</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_400_3.jpg/616,15,1218,319/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_400_3.jpg/616,15,602,304/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

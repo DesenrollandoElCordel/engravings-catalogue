@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_368_1.jpg/385,324,1394,1282/full/0/default.jpg" source="Varios_368_1.jpg" n="385,324,1394,1282"/>
+            <graphic url="varios/Varios_368_1.jpg/385,324,1009,958/full/0/default.jpg" source="Varios_368_1.jpg" n="385,324,1009,958"/>
             <figDesc>
               <locus target="Varios_368.xml">Carta amorosa</locus>
             </figDesc>
@@ -33,18 +33,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_v_097_1.xml">grabado_v_097_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_256_1.xml">grabado_v_256_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_334_1.xml">grabado_v_334_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -80,7 +89,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_368_1.jpg/385,324,1394,1282/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_368_1.jpg/385,324,1009,958/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

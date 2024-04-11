@@ -19,22 +19,25 @@
         <bibl>
           <title>grabado_v_392_1</title>
           <author/>
-          <publisher/>
+          <publisher>Antonio Llorens</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_392_1.jpg/176,273,854,1387/full/0/default.jpg" source="Varios_392_1.jpg" n="176,273,854,1387"/>
+            <graphic url="varios/Varios_392_1.jpg/176,273,678,1114/full/0/default.jpg" source="Varios_392_1.jpg" n="176,273,678,1114"/>
             <figDesc>
-              <locus target="Varios_392.xml">Cancion nueva a mi hermosa elvira</locus>
+              <locus target="Varios_392.xml">Cancion nueva a mi hermosa Elvira</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_094_1.xml">grabado_v_094_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion nueva a mi hermosa Elvira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_392_1.jpg/176,273,854,1387/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_392_1.jpg/176,273,678,1114/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

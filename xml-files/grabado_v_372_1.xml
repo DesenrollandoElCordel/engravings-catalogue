@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_372_1.jpg/102,566,576,1581/full/0/default.jpg" source="Varios_372_1.jpg" n="102,566,576,1581"/>
+            <graphic url="varios/Varios_372_1.jpg/102,566,474,1015/full/0/default.jpg" source="Varios_372_1.jpg" n="102,566,474,1015"/>
             <figDesc>
               <locus target="Varios_372.xml">Conspiració de dos capellans</locus>
             </figDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_372_1.jpg/102,566,576,1581/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_372_1.jpg/102,566,474,1015/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

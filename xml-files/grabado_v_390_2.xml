@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_390_2.jpg/576,267,1209,1142/full/0/default.jpg" source="Varios_390_2.jpg" n="576,267,1209,1142"/>
+            <graphic url="varios/Varios_390_2.jpg/576,267,633,875/full/0/default.jpg" source="Varios_390_2.jpg" n="576,267,633,875"/>
             <figDesc>
-              <locus target="Varios_390.xml">Oracion a san miguel arcangel</locus>
+              <locus target="Varios_390.xml">Oracion a San Miguel Arcangel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -54,7 +54,7 @@
         <catRef scheme="#religion" target="#simbolismo"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#castillo"/>
-        <catRef scheme="#construidos" target="#paisaje"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_390_2.jpg/576,267,1209,1142/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_390_2.jpg/576,267,633,875/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

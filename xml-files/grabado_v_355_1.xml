@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_355_1.jpg/65,248,1664,1317/full/0/default.jpg" source="Varios_355_1.jpg" n="65,248,1664,1317"/>
+            <graphic url="varios/Varios_355_1.jpg/65,248,1599,1069/full/0/default.jpg" source="Varios_355_1.jpg" n="65,248,1599,1069"/>
             <figDesc>
               <locus target="Varios_355.xml">Atrocidades de margarita cisneros</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_309_1.xml">grabado_v_309_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title/>
+                  <date/>
+                  <publisher/>
+                </bibl>
               </item>
             </list>
           </note>
@@ -50,16 +53,16 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Mujer</term>
           <term>Cabalgando</term>
           <term>Animales domésticos</term>
-          <term/>
+          <term>Armas</term>
           <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer "/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#accion" target="#cabalgando"/>
         <catRef scheme="#animales" target="#domesticos"/>
-        <catRef scheme="#accesorios" target="#armas  "/>
+        <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_355_1.jpg/65,248,1664,1317/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_355_1.jpg/65,248,1599,1069/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_361_1.jpg/959,272,1519,1191/full/0/default.jpg" source="Varios_361_1.jpg" n="959,272,1519,1191"/>
+            <graphic url="varios/Varios_361_1.jpg/959,272,560,919/full/0/default.jpg" source="Varios_361_1.jpg" n="959,272,560,919"/>
             <figDesc>
               <locus target="Varios_361.xml">Canciones de los comediantes de antaño.</locus>
             </figDesc>
@@ -43,10 +43,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#otros "/>
+        <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_361_1.jpg/959,272,1519,1191/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_361_1.jpg/959,272,560,919/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

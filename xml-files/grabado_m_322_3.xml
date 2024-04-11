@@ -31,13 +31,21 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
               <item>
                 <title corresp="grabado_m_321_3.xml">grabado_m_321_3</title>
                 <bibl>
                   <title>Don Pedro Juan de la Rosa y Doña María de Bargas</title>
                   <date when="1859" cert="high">1859</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_379_2.xml">grabado_v_379_2</title>
+                <bibl>
+                  <title>Las bromas de las mugeres</title>
+                  <date when="1850" cert="high">1850</date>
+                  <publisher>José María Marés</publisher>
                 </bibl>
               </item>
             </list>

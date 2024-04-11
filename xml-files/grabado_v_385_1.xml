@@ -24,9 +24,9 @@
           <date when="1862" cert="high">1862</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_385_1.jpg/21,139,1785,1563/full/0/default.jpg" source="Varios_385_1.jpg" n="21,139,1785,1563"/>
+            <graphic url="varios/Varios_385_1.jpg/21,139,1764,1424/full/0/default.jpg" source="Varios_385_1.jpg" n="21,139,1764,1424"/>
             <figDesc>
-              <locus target="Varios_385.xml">Relacion veridica de la gran catástrofe por la inundacion de la ciudad de barcelona</locus>
+              <locus target="Varios_385.xml">Relacion veridica de la gran catástrofe por la inundacion de la ciudad de Barcelona</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -48,7 +48,7 @@
           <term>Animales domésticos</term>
           <term>Otros accesorios</term>
           <term>Calle</term>
-          <term/>
+          <term>Casa</term>
           <term>Área de agua</term>
           <term>Vehículo</term>
         </keywords>
@@ -58,7 +58,7 @@
         <catRef scheme="#animales" target="#domesticos"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#calle"/>
-        <catRef scheme="#construidos" target="# casa "/>
+        <catRef scheme="#construidos" target="#casa"/>
         <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#transporte" target="#vehiculo"/>
       </textClass>
@@ -68,7 +68,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_385_1.jpg/21,139,1785,1563/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_385_1.jpg/21,139,1764,1424/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

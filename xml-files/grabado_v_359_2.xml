@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_359_1.jpg/131,814,545,1147/full/0/default.jpg" source="Varios_359_1.jpg" n="131,814,545,1147"/>
+            <graphic url="varios/Varios_359_1.jpg/131,814,414,333/full/0/default.jpg" source="Varios_359_1.jpg" n="131,814,414,333"/>
             <figDesc>
               <locus target="Varios_359.xml">Jocosa relación para reir y pasar el tiempo</locus>
             </figDesc>
@@ -42,9 +42,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Otros animales</term>
         </keywords>
-        <catRef scheme="#animales" target="#otros_animales "/>
+        <catRef scheme="#animales" target="#otros_animales"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_359_1.jpg/131,814,545,1147/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_359_1.jpg/131,814,414,333/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

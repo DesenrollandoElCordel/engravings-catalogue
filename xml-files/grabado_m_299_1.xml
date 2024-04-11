@@ -28,7 +28,18 @@
               <locus target="Moreno_299.xml">Receta para las mujeres mal casadas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="1">
+              <item>
+                <title corresp="grabado_v_379_4.xml">grabado_v_379_4</title>
+                <bibl>
+                  <title>Las bromas de las mugeres</title>
+                  <date when="1850" cert="high">1850</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Moreno_299</note>
         </bibl>
       </sourceDesc>

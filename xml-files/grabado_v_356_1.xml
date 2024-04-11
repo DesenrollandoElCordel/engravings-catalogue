@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_356_1.jpg/346,273,1373,954/full/0/default.jpg" source="Varios_356_1.jpg" n="346,273,1373,954"/>
+            <graphic url="varios/Varios_356_1.jpg/346,273,1027,681/full/0/default.jpg" source="Varios_356_1.jpg" n="346,273,1027,681"/>
             <figDesc>
               <locus target="Varios_356.xml">Nueva relacion del que metió la cabeza</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_m_024_1.xml">grabado_m_024_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Imprenta Peninsular</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -51,16 +54,16 @@
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term/>
+          <term>Luchando</term>
           <term>Muerte</term>
-          <term/>
-          <term/>
+          <term>Armas</term>
+          <term>Calle</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#accion" target="#luchando "/>
+        <catRef scheme="#accion" target="#luchando"/>
         <catRef scheme="#muerte" target="#muerte"/>
-        <catRef scheme="#accesorios" target="#armas "/>
-        <catRef scheme="#construidos" target="#calle  "/>
+        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#construidos" target="#calle "/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -68,7 +71,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_356_1.jpg/346,273,1373,954/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_356_1.jpg/346,273,1027,681/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_392_3.jpg/580,148,1201,1206/full/0/default.jpg" source="Varios_392_3.jpg" n="580,148,1201,1206"/>
+            <graphic url="varios/Varios_392_3.jpg/580,148,621,1058/full/0/default.jpg" source="Varios_392_3.jpg" n="580,148,621,1058"/>
             <figDesc>
               <locus target="Varios_392.xml">Cancion nueva a mi hermosa elvira</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_094_3.xml">grabado_v_094_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion nueva a mi hermosa Elvira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_101_1.xml">grabado_v_101_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trobos nuevos</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_209_2.xml">grabado_v_209_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos para cantarse con guitarra el cuatro y el tres</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_381_3.xml">grabado_v_381_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Canciones de despedida que dirigen los quintos a sus queridas damas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Bautista Vidal</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -77,7 +89,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_392_3.jpg/580,148,1201,1206/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_392_3.jpg/580,148,621,1058/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

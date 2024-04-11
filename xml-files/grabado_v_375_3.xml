@@ -24,37 +24,52 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_375_1.jpg/1111,473,1436,1136/full/0/default.jpg" source="Varios_375_1.jpg" n="1111,473,1436,1136"/>
+            <graphic url="varios/Varios_375_1.jpg/1111,473,325,663/full/0/default.jpg" source="Varios_375_1.jpg" n="1111,473,325,663"/>
             <figDesc>
-              <locus target="Varios_375.xml">Satira jocosa de los nombres, costumbres y propiedades de las senoras mujeres.</locus>
+              <locus target="Varios_375.xml">Satira jocosa de los nombres, costumbres y propiedades de las senoras mujeres</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="5">
               <item>
                 <title corresp="grabado_m_018_2.xml">grabado_m_018_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira burlesca</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_107_1.xml">grabado_m_107_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta de amor</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_286_2.xml">grabado_m_286_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos y divertidos</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_370_1.xml">grabado_m_370_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva relación que hace Doña Margarita Cachuela</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_131_2.xml">grabado_v_131_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Satira burlesca</title>
+                  <date when="1849" cert="high">1849</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -82,7 +97,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_375_1.jpg/1111,473,1436,1136/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_375_1.jpg/1111,473,325,663/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

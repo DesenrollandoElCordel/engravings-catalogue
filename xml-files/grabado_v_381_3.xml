@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_381_1.jpg/1120,279,1630,1369/full/0/default.jpg" source="Varios_381_1.jpg" n="1120,279,1630,1369"/>
+            <graphic url="varios/Varios_381_1.jpg/1120,279,510,1090/full/0/default.jpg" source="Varios_381_1.jpg" n="1120,279,510,1090"/>
             <figDesc>
               <locus target="Varios_381.xml">Canciones de despedida que dirigen los quintos a sus queridas damas</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_094_3.xml">grabado_v_094_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion nueva a mi hermosa Elvira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_101_1.xml">grabado_v_101_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trobos nuevos</title>
+                  <date>[s.a.]</date>
+                  <publisher>Juan Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_209_2.xml">grabado_v_209_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos nuevos para cantarse con guitarra el cuatro y el tres</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_392_3.xml">grabado_v_392_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Cancion nueva a mi hermosa Elvira</title>
+                  <date>[s.a.]</date>
+                  <publisher>Antonio Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -77,7 +89,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_381_1.jpg/1120,279,1630,1369/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_381_1.jpg/1120,279,510,1090/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

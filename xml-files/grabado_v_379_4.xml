@@ -24,17 +24,20 @@
           <date when="1850" cert="high">1850</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_379_3.jpg/245,255,1013,1014/full/0/default.jpg" source="Varios_379_3.jpg" n="245,255,1013,1014"/>
+            <graphic url="varios/Varios_379_3.jpg/245,255,768,759/full/0/default.jpg" source="Varios_379_3.jpg" n="245,255,768,759"/>
             <figDesc>
-              <locus target="Varios_379.xml">Las bromas de las mugeres.</locus>
+              <locus target="Varios_379.xml">Las bromas de las mugeres</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_m_299_1.xml">grabado_m_299_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Receta para las mujeres mal casadas</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_379_3.jpg/245,255,1013,1014/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_379_3.jpg/245,255,768,759/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
