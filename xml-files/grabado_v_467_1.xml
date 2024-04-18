@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_467_1.jpg/175,1018,1328,1945/full/0/default.jpg" source="Varios_467_1.jpg" n="175,1018,1328,1945"/>
+            <graphic url="varios/Varios_467_1.jpg/175,1018,1153,927/full/0/default.jpg" source="Varios_467_1.jpg" n="175,1018,1153,927"/>
             <figDesc>
-              <locus target="Varios_467.xml">Saynete intitulat divorsi den saldoni y la margarida</locus>
+              <locus target="Varios_467.xml">Saynete intitulat divorsi den Saldoni y la Margarida</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -45,13 +45,13 @@
           <term>Religioso</term>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Lugar de culto</term>
-          <term/>
+          <term>Sacramentos</term>
           <term>Libros</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#religioso"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#religion" target="#culto"/>
-        <catRef scheme="#religion" target="# sacramentos"/>
+        <catRef scheme="#construidos" target="#culto"/>
+        <catRef scheme="#religion" target="#sacramentos"/>
         <catRef scheme="#accesorios" target="#libro"/>
       </textClass>
     </profileDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_467_1.jpg/175,1018,1328,1945/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_467_1.jpg/175,1018,1153,927/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

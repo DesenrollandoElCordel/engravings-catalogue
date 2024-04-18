@@ -19,7 +19,7 @@
         <bibl>
           <title>grabado_b_064_2</title>
           <author/>
-          <publisher>Los herederos de Juan Jolis</publisher>
+          <publisher>Herederos de Juan Jolis</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
@@ -36,7 +36,7 @@
                 <bibl>
                   <title>Romance nuevo</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de Juan Jolis</publisher>
+                  <publisher>Herederos de Juan Jolis</publisher>
                 </bibl>
               </item>
             </list>

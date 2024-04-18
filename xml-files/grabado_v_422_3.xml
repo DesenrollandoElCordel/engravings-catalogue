@@ -24,7 +24,7 @@
           <date when="1881" cert="high">1881</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_422_1.jpg/1377,676,435,974/full/0/default.jpg" source="Varios_422_1.jpg" n="1377,676,435,974"/>
+            <graphic url="varios/Varios_422_1.jpg/1377,676,-942,298/full/0/default.jpg" source="Varios_422_1.jpg" n="1377,676,-942,298"/>
             <figDesc>
               <locus target="Varios_422.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -33,18 +33,27 @@
             <list n="3">
               <item>
                 <title corresp="grabado_v_038_3.xml">grabado_v_038_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1881" cert="high">1881</date>
+                  <publisher>Tipografía Española</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_296_3.xml">grabado_v_296_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1862" cert="high">1862</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_423_3.xml">grabado_v_423_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1862" cert="high">1862</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_422_1.jpg/1377,676,435,974/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_422_1.jpg/1377,676,-942,298/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

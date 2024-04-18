@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_408_1.jpg/741,238,713,1045/full/0/default.jpg" source="Varios_408_1.jpg" n="741,238,713,1045"/>
+            <graphic url="varios/Varios_408_1.jpg/741,238,-28,807/full/0/default.jpg" source="Varios_408_1.jpg" n="741,238,-28,807"/>
             <figDesc>
               <locus target="Varios_408.xml">Cancion del pajarito</locus>
             </figDesc>
@@ -33,23 +33,35 @@
             <list n="4">
               <item>
                 <title corresp="grabado_v_097_2.xml">grabado_v_097_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_256_2.xml">grabado_v_256_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_334_2.xml">grabado_v_334_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_413_2.xml">grabado_v_413_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trovos y décimas glosadas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -79,7 +91,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_408_1.jpg/741,238,713,1045/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_408_1.jpg/741,238,-28,807/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

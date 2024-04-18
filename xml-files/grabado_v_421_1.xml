@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_421_1.jpg/183,626,1403,1249/full/0/default.jpg" source="Varios_421_1.jpg" n="183,626,1403,1249"/>
+            <graphic url="varios/Varios_421_1.jpg/183,626,1420,1233/full/0/default.jpg" source="Varios_421_1.jpg" n="183,626,1420,1233"/>
             <figDesc>
               <locus target="Varios_421.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_421_1.jpg/183,626,1403,1249/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_421_1.jpg/183,626,1420,1233/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

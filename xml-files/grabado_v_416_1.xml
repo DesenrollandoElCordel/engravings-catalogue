@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_416_1.jpg/3,672,1642,1289/full/0/default.jpg" source="Varios_416_1.jpg" n="3,672,1642,1289"/>
+            <graphic url="varios/Varios_416_1.jpg/3,672,1639,617/full/0/default.jpg" source="Varios_416_1.jpg" n="3,672,1639,617"/>
             <figDesc>
               <locus target="Varios_416.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -43,14 +43,14 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Hablando</term>
           <term>Armas</term>
-          <term/>
+          <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accion" target="#hablando "/>
+        <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#armas"/>
-        <catRef scheme="#construidos" target="#interior "/>
+        <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_416_1.jpg/3,672,1642,1289/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_416_1.jpg/3,672,1639,617/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_414_1.jpg/875,403,553,902/full/0/default.jpg" source="Varios_414_1.jpg" n="875,403,553,902"/>
+            <graphic url="varios/Varios_414_1.jpg/875,403,-322,499/full/0/default.jpg" source="Varios_414_1.jpg" n="875,403,-322,499"/>
             <figDesc>
               <locus target="Varios_414.xml">Coplas nuevas y divertidas</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_414_1.jpg/875,403,553,902/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_414_1.jpg/875,403,-322,499/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

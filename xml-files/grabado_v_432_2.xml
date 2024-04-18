@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_432_12.jpg/169,504,1317,1420/full/0/default.jpg" source="Varios_432_12.jpg" n="169,504,1317,1420"/>
+            <graphic url="varios/Varios_432_12.jpg/169,504,1148,916/full/0/default.jpg" source="Varios_432_12.jpg" n="169,504,1148,916"/>
             <figDesc>
-              <locus target="Varios_432.xml">Historia de los amores de matilde y malek-adhel, ó memorias sacadas de la historia de las cruzadas.</locus>
+              <locus target="Varios_432.xml">Historia de los amores de Matilde y Malek-Adhel, ó memorias sacadas de la historia de las Cruzadas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -42,15 +42,15 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Religiosa</term>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Luchando</term>
           <term>Muerte</term>
           <term>Armas</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#religiosa "/>
+        <catRef scheme="#personaje_femenino" target="#religiosa"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accion" target="#luchando "/>
+        <catRef scheme="#accion" target="#luchando"/>
         <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_432_12.jpg/169,504,1317,1420/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_432_12.jpg/169,504,1148,916/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

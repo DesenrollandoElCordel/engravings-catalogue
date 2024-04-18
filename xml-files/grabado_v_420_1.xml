@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_420_1.jpg/197,807,1457,1278/full/0/default.jpg" source="Varios_420_1.jpg" n="197,807,1457,1278"/>
+            <graphic url="varios/Varios_420_1.jpg/197,807,1260,471/full/0/default.jpg" source="Varios_420_1.jpg" n="197,807,1260,471"/>
             <figDesc>
               <locus target="Varios_420.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -43,12 +43,12 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumentos musicales</term>
           <term>Ciudad o pueblo</term>
           <term>Paisaje</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#intrumentos "/>
+        <catRef scheme="#accesorios" target="#intrumentos"/>
         <catRef scheme="#construidos" target="#ciudad"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_420_1.jpg/197,807,1457,1278/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_420_1.jpg/197,807,1260,471/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

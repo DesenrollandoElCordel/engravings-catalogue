@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_457_1.jpg/276,234,1427,1539/full/0/default.jpg" source="Varios_457_1.jpg" n="276,234,1427,1539"/>
+            <graphic url="varios/Varios_457_1.jpg/276,234,1151,1305/full/0/default.jpg" source="Varios_457_1.jpg" n="276,234,1151,1305"/>
             <figDesc>
-              <locus target="Varios_457.xml">Vida y martirio de los gloriosos, san cipriano y santa justina</locus>
+              <locus target="Varios_457.xml">Vida y martirio de los gloriosos, San Cipriano y Santa Justina</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_006_1.xml">grabado_v_006_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Vida y martirio de los gloriosos, San Cipriano y Santa Justina</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_212_1.xml">grabado_v_212_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Vida y martirio de los gloriosos, San Cipriano y Santa Justina</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_457_1.jpg/276,234,1427,1539/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_457_1.jpg/276,234,1151,1305/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

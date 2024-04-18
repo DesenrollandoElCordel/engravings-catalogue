@@ -24,27 +24,36 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_460_1.jpg/183,188,707,1072/full/0/default.jpg" source="Varios_460_1.jpg" n="183,188,707,1072"/>
+            <graphic url="varios/Varios_460_1.jpg/183,188,524,884/full/0/default.jpg" source="Varios_460_1.jpg" n="183,188,524,884"/>
             <figDesc>
-              <locus target="Varios_460.xml">Relació xistosa, ó xasco que va doná une guapa valenciana á set galans pretendents que volian conquistaria</locus>
+              <locus target="Varios_460.xml">Relació xistosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="3">
               <item>
                 <title corresp="grabado_v_018_1.xml">grabado_v_018_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La mitja</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_206_2.xml">grabado_v_206_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relació xistosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_242_1.xml">grabado_v_242_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relació xistosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_460_1.jpg/183,188,707,1072/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_460_1.jpg/183,188,524,884/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

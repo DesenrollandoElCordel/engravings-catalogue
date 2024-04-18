@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_426_23.jpg/60,1208,1202,868/full/0/default.jpg" source="Varios_426_23.jpg" n="60,1208,1202,868"/>
+            <graphic url="varios/Varios_426_23.jpg/80,1208,1162,890/full/0/default.jpg" source="Varios_426_23.jpg" n="80,1208,1162,890"/>
             <figDesc>
-              <locus target="Varios_426.xml">Historia maravillosa de roberpo el diablo</locus>
+              <locus target="Varios_426.xml">Historia maravillosa de Roberto el Diablo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -42,13 +42,13 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Religioso</term>
           <term>Monarca (Rey/Príncipe)</term>
           <term>Hombres</term>
           <term>Armas</term>
           <term>Interior de un edificio</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#reliogioso"/>
+        <catRef scheme="#personaje_masculino" target="#religioso"/>
         <catRef scheme="#personaje_masculino" target="#monarca_h"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accesorios" target="#armas"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_426_23.jpg/60,1208,1202,868/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_426_23.jpg/80,1208,1162,890/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

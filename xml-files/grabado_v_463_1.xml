@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_463_1.jpg/0,190,1541,1210/full/0/default.jpg" source="Varios_463_1.jpg" n="0,190,1541,1210"/>
+            <graphic url="varios/Varios_463_1.jpg/0,190,1541,1020/full/0/default.jpg" source="Varios_463_1.jpg" n="0,190,1541,1020"/>
             <figDesc>
               <locus target="Varios_463.xml">Novas camarellas y goigs de las butifarras</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_013_1.xml">grabado_v_013_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Novas camarellas y goigs de las butifarras</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_282_1.xml">grabado_v_282_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Novas camarellas y goigs de las butifarras</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -73,7 +79,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_463_1.jpg/0,190,1541,1210/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_463_1.jpg/0,190,1541,1020/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

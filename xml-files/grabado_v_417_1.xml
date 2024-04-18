@@ -24,7 +24,7 @@
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_417_1.jpg/212,584,1245,1624/full/0/default.jpg" source="Varios_417_1.jpg" n="212,584,1245,1624"/>
+            <graphic url="varios/Varios_417_1.jpg/212,584,1033,1040/full/0/default.jpg" source="Varios_417_1.jpg" n="212,584,1033,1040"/>
             <figDesc>
               <locus target="Varios_417.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_417_1.jpg/212,584,1245,1624/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_417_1.jpg/212,584,1033,1040/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

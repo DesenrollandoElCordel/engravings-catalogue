@@ -24,22 +24,28 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_462_1.jpg/497,134,1251,1308/full/0/default.jpg" source="Varios_462_1.jpg" n="497,134,1251,1308"/>
+            <graphic url="varios/Varios_462_1.jpg/497,134,754,1174/full/0/default.jpg" source="Varios_462_1.jpg" n="497,134,754,1174"/>
             <figDesc>
-              <locus target="Varios_462.xml">La pescatera catalana, lo cansoné de las barraquetas y una per lo poble baix</locus>
+              <locus target="Varios_462.xml">La pescatera catalana</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="2">
               <item>
                 <title corresp="grabado_v_105_1.xml">grabado_v_105_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_262_1.xml">grabado_v_262_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_462_1.jpg/497,134,1251,1308/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_462_1.jpg/497,134,754,1174/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

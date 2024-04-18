@@ -19,7 +19,7 @@
         <bibl>
           <title>grabado_b_004_1</title>
           <author/>
-          <publisher>Los herederos de Juan Jolis</publisher>
+          <publisher>Herederos de Juan Jolis</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800-01-01" cert="low">[s.a.]</date>
           <ident type="DOI"/>
@@ -36,7 +36,7 @@
                 <bibl>
                   <title>Nuevo y curioso romance, en que se declara lo que les sucedió á dos finos amantes llamados don jacinto del castillo, y doña leonor de la rosa</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de la Viuda Pla</publisher>
+                  <publisher>Herederos de la Viuda Pla</publisher>
                 </bibl>
               </item>
               <item>
@@ -44,7 +44,7 @@
                 <bibl>
                   <title>Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la virgen santísima del carmen</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de la Viuda Pla</publisher>
+                  <publisher>Herederos de la Viuda Pla</publisher>
                 </bibl>
               </item>
             </list>

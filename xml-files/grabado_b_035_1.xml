@@ -19,14 +19,14 @@
         <bibl>
           <title>grabado_b_035_1</title>
           <author/>
-          <publisher>Los herederos de la Viuda Pla</publisher>
+          <publisher>Herederos de la Viuda Pla</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/BCN_035_1.jpg/132,25,470,644/full/0/default.jpg" source="BCN_035_1.jpg" n="132,25,470,644"/>
             <figDesc>
-              <locus target="BCN_035.xml">Nuevo y famoso romance en que se refiere las atrocidades de sebastiana del castillo</locus>
+              <locus target="BCN_035.xml">Nuevo y famoso romance en que se refiere las atrocidades de Sebastiana del Castillo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

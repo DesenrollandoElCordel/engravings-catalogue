@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_439_1.jpg/382,183,1218,1302/full/0/default.jpg" source="Varios_439_1.jpg" n="382,183,1218,1302"/>
+            <graphic url="varios/Varios_439_1.jpg/382,183,836,1119/full/0/default.jpg" source="Varios_439_1.jpg" n="382,183,836,1119"/>
             <figDesc>
-              <locus target="Varios_439.xml">El anillo de zafira leyenda francesa del tiempo de carlo-magno</locus>
+              <locus target="Varios_439.xml">El anillo de Zafira leyenda francesa del tiempo de Carlo-Magno</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_439_1.jpg/382,183,1218,1302/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_439_1.jpg/382,183,836,1119/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

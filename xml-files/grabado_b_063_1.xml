@@ -19,14 +19,14 @@
         <bibl>
           <title>grabado_b_063_1</title>
           <author/>
-          <publisher>Los herederos de la Viuda Pla</publisher>
+          <publisher>Herederos de la Viuda Pla</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/BCN_063_1.jpg/573,283,691,917/full/0/default.jpg" source="BCN_063_1.jpg" n="573,283,691,917"/>
             <figDesc>
-              <locus target="BCN_063.xml">Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la virgen santísima del carmen</locus>
+              <locus target="BCN_063.xml">Nueva relacion y curioso romance, donde se refiere un prodigioso milagro que ha obrado la Virgen Santísima del Carmen</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

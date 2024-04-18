@@ -24,9 +24,9 @@
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_450_1.jpg/219,289,1708,1066/full/0/default.jpg" source="Varios_450_1.jpg" n="219,289,1708,1066"/>
+            <graphic url="varios/Varios_450_1.jpg/19,209,980,777/full/0/default.jpg" source="Varios_450_1.jpg" n="19,209,980,777"/>
             <figDesc>
-              <locus target="Varios_450.xml">La venganza catalana ó los catalanes en oriente.</locus>
+              <locus target="Varios_450.xml">La venganza catalana ó los Catalanes en Oriente</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -43,12 +43,12 @@
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term/>
+          <term>Luchando</term>
           <term>Armas</term>
           <term>Bosque</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#accion" target="#combatiendo"/>
+        <catRef scheme="#accion" target="#luchando"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#bosque"/>
       </textClass>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_450_1.jpg/219,289,1708,1066/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_450_1.jpg/19,209,980,777/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

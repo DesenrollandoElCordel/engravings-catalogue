@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_455_1.jpg/670,1883,1444,2281/full/0/default.jpg" source="Varios_455_1.jpg" n="670,1883,1444,2281"/>
+            <graphic url="varios/Varios_455_1.jpg/670,1883,774,398/full/0/default.jpg" source="Varios_455_1.jpg" n="670,1883,774,398"/>
             <figDesc>
-              <locus target="Varios_455.xml">Historia del infante don pedro de portugal</locus>
+              <locus target="Varios_455.xml">Historia del infante Don Pedro de Portugal</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_455_1.jpg/670,1883,1444,2281/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_455_1.jpg/670,1883,774,398/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

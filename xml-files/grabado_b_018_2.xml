@@ -19,14 +19,14 @@
         <bibl>
           <title>grabado_b_018_2</title>
           <author/>
-          <publisher>Los herederos de Juan Jolis</publisher>
+          <publisher>Herederos de Juan Jolis</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/BCN_018_1.jpg/914,245,430,630/full/0/default.jpg" source="BCN_018_1.jpg" n="914,245,430,630"/>
             <figDesc>
-              <locus target="BCN_018.xml">Romance de doña antonia de lisboa</locus>
+              <locus target="BCN_018.xml">Romance de Doña Antonia de Lisboa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

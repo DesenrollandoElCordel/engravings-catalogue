@@ -19,7 +19,7 @@
         <bibl>
           <title>grabado_b_060_1</title>
           <author/>
-          <publisher>Los herederos de la Viuda Pla</publisher>
+          <publisher>Herederos de la Viuda Pla</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
@@ -44,7 +44,7 @@
                 <bibl>
                   <title>Lletrillas al naixement de nostre senyor Jesucrist</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de la Viuda Pla</publisher>
+                  <publisher>Herederos de la Viuda Pla</publisher>
                 </bibl>
               </item>
               <item>
@@ -52,7 +52,7 @@
                 <bibl>
                   <title>Lletrillas</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de la Viuda Pla</publisher>
+                  <publisher>Herederos de la Viuda Pla</publisher>
                 </bibl>
               </item>
             </list>

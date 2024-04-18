@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_442_11.jpg/303,1238,786,1385/full/0/default.jpg" source="Varios_442_11.jpg" n="303,1238,786,1385"/>
+            <graphic url="varios/Varios_442_11.jpg/303,1238,483,147/full/0/default.jpg" source="Varios_442_11.jpg" n="303,1238,483,147"/>
             <figDesc>
-              <locus target="Varios_442.xml">Historia de simbad el marino</locus>
+              <locus target="Varios_442.xml">Historia de Simbad el Marino</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_442_11.jpg/303,1238,786,1385/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_442_11.jpg/303,1238,483,147/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

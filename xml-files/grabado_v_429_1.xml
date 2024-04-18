@@ -21,12 +21,12 @@
           <author>F-R.</author>
           <publisher>Imprenta Peninsular</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
-          <date when="None" cert="high">None</date>
+          <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_429_1.jpg/129,1003,1527,1881/full/0/default.jpg" source="Varios_429_1.jpg" n="129,1003,1527,1881"/>
+            <graphic url="varios/Varios_429_1.jpg/129,1003,1398,878/full/0/default.jpg" source="Varios_429_1.jpg" n="129,1003,1398,878"/>
             <figDesc>
-              <locus target="Varios_429.xml">Historia de la revolucion francesa</locus>
+              <locus target="Varios_429.xml">Historia de la Revolucion francesa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_429_1.jpg/129,1003,1527,1881/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_429_1.jpg/129,1003,1398,878/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

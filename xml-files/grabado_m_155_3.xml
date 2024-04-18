@@ -30,7 +30,15 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="9">
+            <list n="10">
+              <item>
+                <title corresp="grabado_v_403_3.xml">grabado_v_403_3</title>
+                <bibl>
+                  <title>Satira graciosa</title>
+                  <date when="1857" cert="high">1857</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_m_040_3.xml">grabado_m_040_3</title>
                 <bibl>

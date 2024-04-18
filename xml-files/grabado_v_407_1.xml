@@ -24,22 +24,36 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_407_1.jpg/368,264,469,931/full/0/default.jpg" source="Varios_407_1.jpg" n="368,264,469,931"/>
+            <graphic url="varios/Varios_407_1.jpg/368,264,101,667/full/0/default.jpg" source="Varios_407_1.jpg" n="368,264,101,667"/>
             <figDesc>
               <locus target="Varios_407.xml">Satira graciosa de la dama de los quince novios</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
+              <item>
+                <title corresp="grabado_m_012_1.xml">grabado_m_012_1</title>
+                <bibl>
+                  <title>Sátira graciosa de los quince novios</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_m_171_2.xml">grabado_m_171_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Carta amorosa que escribe un soldado</title>
+                  <date when="1855" cert="high">1855</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_270_1.xml">grabado_m_270_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Nueva relación contra los hombres para mujer</title>
+                  <date when="1859" cert="high">1859</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -67,7 +81,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_407_1.jpg/368,264,469,931/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_407_1.jpg/368,264,101,667/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

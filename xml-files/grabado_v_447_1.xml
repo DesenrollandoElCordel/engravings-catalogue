@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_447_1.jpg/198,190,873,854/full/0/default.jpg" source="Varios_447_1.jpg" n="198,190,873,854"/>
+            <graphic url="varios/Varios_447_1.jpg/198,190,675,664/full/0/default.jpg" source="Varios_447_1.jpg" n="198,190,675,664"/>
             <figDesc>
-              <locus target="Varios_447.xml">Historia maravillosa de la hija del rey de hungría</locus>
+              <locus target="Varios_447.xml">Historia maravillosa de la hija del Rey de Hungría</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_447_1.jpg/198,190,873,854/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_447_1.jpg/198,190,675,664/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

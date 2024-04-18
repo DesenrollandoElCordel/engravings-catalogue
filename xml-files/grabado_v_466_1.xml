@@ -24,17 +24,20 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_466_1.jpg/251,925,1393,1833/full/0/default.jpg" source="Varios_466_1.jpg" n="251,925,1393,1833"/>
+            <graphic url="varios/Varios_466_1.jpg/251,925,1142,908/full/0/default.jpg" source="Varios_466_1.jpg" n="251,925,1142,908"/>
             <figDesc>
-              <locus target="Varios_466.xml">Saynete intitulat lo casament den saldoni y la margarida</locus>
+              <locus target="Varios_466.xml">Saynete intitulat lo casament den Saldoni y la Margarida</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_246_1.xml">grabado_v_246_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Saynete intitulat lo casament den Saldoni y la Margarida</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -51,11 +54,11 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Papeles</term>
           <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accesorios" target="#papel "/>
+        <catRef scheme="#accesorios" target="#papel"/>
         <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
@@ -64,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_466_1.jpg/251,925,1393,1833/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_466_1.jpg/251,925,1142,908/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

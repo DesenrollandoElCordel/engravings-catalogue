@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_438_1.jpg/165,238,1418,1263/full/0/default.jpg" source="Varios_438_1.jpg" n="165,238,1418,1263"/>
+            <graphic url="varios/Varios_438_1.jpg/165,238,1253,1025/full/0/default.jpg" source="Varios_438_1.jpg" n="165,238,1253,1025"/>
             <figDesc>
-              <locus target="Varios_438.xml">Melchor de la cruz alias el diablo</locus>
+              <locus target="Varios_438.xml">Melchor de la Cruz alias el Diablo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -44,13 +44,13 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Animales domésticos</term>
-          <term/>
+          <term>Otros domésticos</term>
           <term>Paisaje</term>
           <term>Vehículo</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#animales" target="#domesticos"/>
-        <catRef scheme="#accesorios" target="#otros "/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#naturales" target="#paisaje"/>
         <catRef scheme="#transporte" target="#vehiculo"/>
       </textClass>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_438_1.jpg/165,238,1418,1263/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_438_1.jpg/165,238,1253,1025/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

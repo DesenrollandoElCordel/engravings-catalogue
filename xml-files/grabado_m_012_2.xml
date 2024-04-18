@@ -33,10 +33,17 @@
               <item>
                 <title corresp="grabado_m_019_2.xml">grabado_m_019_2</title>
                 <bibl>
-                  <title>Despedimiento de un galán para ausentarse por la esquivez de una
-                    dama</title>
+                  <title>Despedimiento de un galán para ausentarse por la esquivez de una dama</title>
                   <date>[s.a.]</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_407_2.xml">grabado_v_407_2</title>
+                <bibl>
+                  <title>Satira graciosa de la dama de los quince novios</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Marés</publisher>
                 </bibl>
               </item>
             </list>

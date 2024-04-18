@@ -30,13 +30,21 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
               <item>
                 <title corresp="grabado_m_012_2.xml">grabado_m_012_2</title>
                 <bibl>
                   <title>Sátira graciosa de los quince novios</title>
                   <date when="1855" cert="high">1855</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_407_2.xml">grabado_v_407_2</title>
+                <bibl>
+                  <title>Satira graciosa de la dama de los quince novios</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Marés</publisher>
                 </bibl>
               </item>
             </list>

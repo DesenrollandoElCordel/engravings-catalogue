@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_433_1.jpg/127,915,1478,2018/full/0/default.jpg" source="Varios_433_1.jpg" n="127,915,1478,2018"/>
+            <graphic url="varios/Varios_433_1.jpg/127,915,1351,1103/full/0/default.jpg" source="Varios_433_1.jpg" n="127,915,1351,1103"/>
             <figDesc>
               <locus target="Varios_433.xml">Historia de un juramento de amor ó ¡flor de un dia!</locus>
             </figDesc>
@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_v_433_3.xml">grabado_v_433_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Historia de un juramento de amor ó ¡flor de un dia!</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -70,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_433_1.jpg/127,915,1478,2018/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_433_1.jpg/127,915,1351,1103/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

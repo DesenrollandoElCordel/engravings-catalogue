@@ -29,7 +29,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_m_012_1.xml">grabado_m_012_1</title>
                 <bibl>
@@ -44,6 +44,14 @@
                   <title>Nueva relación contra los hombres para mujer</title>
                   <date when="1859" cert="high">1859</date>
                   <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_407_1.xml">grabado_v_407_1</title>
+                <bibl>
+                  <title>Satira graciosa de la dama de los quince novios</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Marés</publisher>
                 </bibl>
               </item>
             </list>

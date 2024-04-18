@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_436_3.jpg/201,161,1352,757/full/0/default.jpg" source="Varios_436_3.jpg" n="201,161,1352,757"/>
+            <graphic url="varios/Varios_436_3.jpg/201,161,1151,596/full/0/default.jpg" source="Varios_436_3.jpg" n="201,161,1151,596"/>
             <figDesc>
-              <locus target="Varios_436.xml">Historia de robinson.</locus>
+              <locus target="Varios_436.xml">Historia de Robinson</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -52,7 +52,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_436_3.jpg/201,161,1352,757/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_436_3.jpg/201,161,1151,596/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

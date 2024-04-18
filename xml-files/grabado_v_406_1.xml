@@ -24,17 +24,20 @@
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_406_1.jpg/122,401,454,887/full/0/default.jpg" source="Varios_406_1.jpg" n="122,401,454,887"/>
+            <graphic url="varios/Varios_406_1.jpg/122,401,332,486/full/0/default.jpg" source="Varios_406_1.jpg" n="122,401,332,486"/>
             <figDesc>
-              <locus target="Varios_406.xml">Trobos nuevos amorosos y elegantes, para cantar</locus>
+              <locus target="Varios_406.xml">Trobos nuevos amorosos y elegantes</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
                 <title corresp="grabado_v_411_1.xml">grabado_v_411_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Trobos nuevos y divertidos</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>Juan Bautista Vidal</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -62,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_406_1.jpg/122,401,454,887/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_406_1.jpg/122,401,332,486/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

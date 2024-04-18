@@ -19,14 +19,14 @@
         <bibl>
           <title>grabado_b_040_3</title>
           <author/>
-          <publisher>Los herederos de la Viuda Pla</publisher>
+          <publisher>Herederos de la Viuda Pla</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/BCN_040_1.jpg/101,372,450,450/full/0/default.jpg" source="BCN_040_1.jpg" n="101,372,450,450"/>
             <figDesc>
-              <locus target="BCN_040.xml">Nuevo y curioso romance, en que se declara lo que les sucedió á dos finos amantes llamados don jacinto del castillo, y doña leonor de la rosa</locus>
+              <locus target="BCN_040.xml">Nuevo y curioso romance, en que se declara lo que les sucedió á dos finos amantes llamados Don Jacinto del Castillo, y Doña Leonor de la Rosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

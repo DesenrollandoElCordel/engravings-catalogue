@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_462_3.jpg/381,253,1257,1512/full/0/default.jpg" source="Varios_462_3.jpg" n="381,253,1257,1512"/>
+            <graphic url="varios/Varios_462_3.jpg/381,253,876,1259/full/0/default.jpg" source="Varios_462_3.jpg" n="381,253,876,1259"/>
             <figDesc>
               <locus target="Varios_462.xml">La pescatera catalana, lo cansoné de las barraquetas y una per lo poble baix</locus>
             </figDesc>
@@ -33,13 +33,19 @@
             <list n="2">
               <item>
                 <title corresp="grabado_v_105_2.xml">grabado_v_105_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_262_2.xml">grabado_v_262_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>La pescatera catalana</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -56,10 +62,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Armas</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#armas "/>
+        <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -67,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_462_3.jpg/381,253,1257,1512/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_462_3.jpg/381,253,876,1259/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,9 +24,9 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_427_1.jpg/124,276,1255,924/full/0/default.jpg" source="Varios_427_1.jpg" n="124,276,1255,924"/>
+            <graphic url="varios/Varios_427_1.jpg/124,276,1231,948/full/0/default.jpg" source="Varios_427_1.jpg" n="124,276,1231,948"/>
             <figDesc>
-              <locus target="Varios_427.xml">Historia verdadera de carlo-magno y de los doce pares de francia</locus>
+              <locus target="Varios_427.xml">Historia verdadera de Carlo-Magno y de los doce pares de Francia</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_427_1.jpg/124,276,1255,924/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_427_1.jpg/124,276,1231,948/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

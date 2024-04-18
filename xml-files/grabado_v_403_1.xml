@@ -24,42 +24,70 @@
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_403_1.jpg/194,622,591,1406/full/0/default.jpg" source="Varios_403_1.jpg" n="194,622,591,1406"/>
+            <graphic url="varios/Varios_403_1.jpg/194,622,397,784/full/0/default.jpg" source="Varios_403_1.jpg" n="194,622,397,784"/>
             <figDesc>
               <locus target="Varios_403.xml">Satira graciosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="6">
+            <list n="7">
+              <item>
+                <title corresp="grabado_m_018_1.xml">grabado_m_018_1</title>
+                <bibl>
+                  <title>Sátira burlesca de la vida, milagros, usos y costumbres de cuatro clases de
+                    mugeres que hay en Madrid</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_m_138_2.xml">grabado_m_138_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Décimas en trovos modernos y divertidos</title>
+                  <date when="1852" cert="high">1852</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_155_2.xml">grabado_m_155_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Sátira graciosa en que se avisa a todos los hombres los motivo que hay para
+                    no casarse</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_191_3.xml">grabado_m_191_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>El Maltés de Madrid</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_m_214_3.xml">grabado_m_214_3</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Teresa Mojarro y Gangarilla</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_085_4.xml">grabado_v_085_4</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coleccion de canciones modernas</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_131_1.xml">grabado_v_131_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Satira burlesca</title>
+                  <date cert="high" when="1849">1849</date>
+                  <publisher>José María Marés</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -87,7 +115,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_403_1.jpg/194,622,591,1406/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_403_1.jpg/194,622,397,784/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

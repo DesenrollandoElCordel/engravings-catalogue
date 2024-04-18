@@ -24,13 +24,13 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_436_19.jpg/219,289,1708,1066/full/0/default.jpg" source="Varios_436_19.jpg" n="219,289,1708,1066"/>
+            <graphic url="varios/Varios_436_19.jpg/469,699,599,817/full/0/default.jpg" source="Varios_436_19.jpg" n="469,699,599,817"/>
             <figDesc>
-              <locus target="Varios_437.xml">Historia de la guerra i independencia de cuba</locus>
+              <locus target="Varios_437.xml">Historia de Robinson</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
-          <note type="origen">Grabado extraído del pliego Varios_437</note>
+          <note type="origen">Grabado extraído del pliego Varios_436</note>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_436_19.jpg/219,289,1708,1066/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_436_19.jpg/469,699,599,817/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

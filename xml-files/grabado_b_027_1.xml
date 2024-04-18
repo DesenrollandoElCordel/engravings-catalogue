@@ -33,8 +33,11 @@
             <list n="1">
               <item>
                 <title corresp="grabado_b_026_1.xml">grabado_b_026_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Seguidillas para cantar boleros con estrivillo</title>
+                  <date>[s.a.]</date>
+                  <publisher>Bernado Pla</publisher>
+                </bibl>
               </item>
             </list>
           </note>

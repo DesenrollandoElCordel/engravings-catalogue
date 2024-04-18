@@ -19,7 +19,7 @@
         <bibl>
           <title>grabado_b_048_2</title>
           <author/>
-          <publisher>Los herederos de la Viuda Pla</publisher>
+          <publisher>Herederos de la Viuda Pla</publisher>
           <pubPlace ref="xxxx">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
@@ -36,7 +36,7 @@
                 <bibl>
                   <title>Folias para cantar a las damas</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de Juan Jolis</publisher>
+                  <publisher>Herederos de Juan Jolis</publisher>
                 </bibl>
               </item>
               <item>
@@ -44,7 +44,7 @@
                 <bibl>
                   <title>Folias para cantar a las damas</title>
                   <date>[s.a.]</date>
-                  <publisher>Los herederos de Juan Jolis</publisher>
+                  <publisher>Herederos de Juan Jolis</publisher>
                 </bibl>
               </item>
             </list>
@@ -62,10 +62,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#intrumentos"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

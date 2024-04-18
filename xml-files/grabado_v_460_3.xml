@@ -24,42 +24,60 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_460_1.jpg/1200,259,1685,1122/full/0/default.jpg" source="Varios_460_1.jpg" n="1200,259,1685,1122"/>
+            <graphic url="varios/Varios_460_1.jpg/1200,259,485,863/full/0/default.jpg" source="Varios_460_1.jpg" n="1200,259,485,863"/>
             <figDesc>
-              <locus target="Varios_460.xml">Relació xistosa, ó xasco que va doná une guapa valenciana á set galans pretendents que volian conquistaria</locus>
+              <locus target="Varios_460.xml">Relació xistosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="6">
               <item>
                 <title corresp="grabado_v_021_2.xml">grabado_v_021_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas, humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_206_1.xml">grabado_v_206_1</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relació xistosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>Llorens</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_219_2.xml">grabado_v_219_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas, humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_242_2.xml">grabado_v_242_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Relació xistosa</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_251_2.xml">grabado_v_251_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas, humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_308_2.xml">grabado_v_308_2</title>
-                <locus/>
-                <date/>
+                <bibl>
+                  <title>Coplas novas, humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
               </item>
             </list>
           </note>
@@ -87,7 +105,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_460_1.jpg/1200,259,1685,1122/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_460_1.jpg/1200,259,485,863/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -24,7 +24,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_434_1.jpg/172,305,1410,1414/full/0/default.jpg" source="Varios_434_1.jpg" n="172,305,1410,1414"/>
+            <graphic url="varios/Varios_434_1.jpg/172,305,1238,1109/full/0/default.jpg" source="Varios_434_1.jpg" n="172,305,1238,1109"/>
             <figDesc>
               <locus target="Varios_434.xml">Viaje por los aires, ó sea aventuras de tres incleses en africa.</locus>
             </figDesc>
@@ -43,8 +43,8 @@
       <textClass>
         <keywords>
           <term>Hombres</term>
-          <term/>
-          <term/>
+          <term>Luchando</term>
+          <term>Muerte</term>
           <term>Animales imaginarios</term>
           <term>Armas</term>
           <term>Área de agua</term>
@@ -52,8 +52,8 @@
           <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#accion" target="#luchando "/>
-        <catRef scheme="#muerte" target="#muerte "/>
+        <catRef scheme="#accion" target="#luchando"/>
+        <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#animales" target="#imaginarios"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#agua"/>
@@ -66,7 +66,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_434_1.jpg/172,305,1410,1414/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_434_1.jpg/172,305,1238,1109/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>
