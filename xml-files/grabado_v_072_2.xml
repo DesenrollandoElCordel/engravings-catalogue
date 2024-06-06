@@ -20,7 +20,7 @@
           <title>grabado_v_072_2</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1849" cert="high">1849</date>
           <ident type="DOI"/>
           <figure>
@@ -54,8 +54,12 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
+          <term>Hablando</term>
+          <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accion" target="#hablando"/>
+        <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

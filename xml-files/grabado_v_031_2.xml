@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_031_2</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -29,7 +29,18 @@
               <locus target="Varios_031.xml">El cantor de las hermosas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="1">
+              <item>
+                <title corresp="grabado_v_305_2.xml">grabado_v_305_2</title>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>Narciso Ramírez</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Varios_031</note>
         </bibl>
       </sourceDesc>

@@ -20,11 +20,11 @@
           <title>grabado_v_417_1</title>
           <author/>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_417_1.jpg/212,584,1033,1040/full/0/default.jpg" source="Varios_417_1.jpg" n="212,584,1033,1040"/>
+            <graphic url="varios/Varios_417_1.jpg/212,584,1233,1640/full/0/default.jpg" source="Varios_417_1.jpg" n="212,584,1233,1640"/>
             <figDesc>
               <locus target="Varios_417.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -53,7 +53,7 @@
         <catRef scheme="#accion" target="#rezando"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#sepultura"/>
-        <catRef scheme="#construidos" target="#arbol"/>
+        <catRef scheme="#naturales" target="#arbol"/>
         <catRef scheme="#naturales" target="#astros"/>
       </textClass>
     </profileDesc>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_417_1.jpg/212,584,1033,1040/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_417_1.jpg/212,584,1233,1640/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

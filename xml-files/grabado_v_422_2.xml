@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_422_2</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1881" cert="high">1881</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_422_1.jpg/632,649,136,343/full/0/default.jpg" source="Varios_422_1.jpg" n="632,649,136,343"/>
+            <graphic url="varios/Varios_422_1.jpg/422,680,776,1009/full/0/default.jpg" source="Varios_422_1.jpg" n="422,680,776,1009"/>
             <figDesc>
               <locus target="Varios_422.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -55,11 +55,9 @@
         <keywords>
           <term>Mujer</term>
           <term>Otros accesorios</term>
-          <term>Mercado</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#accesorios" target="#otros"/>
-        <catRef scheme="#construidos" target="#mercado"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -67,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_422_1.jpg/632,649,136,343/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_422_1.jpg/422,680,776,1009/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

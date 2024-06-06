@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_454_2</title>
-          <author/>
+          <author role="grabador">Noguera</author>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -53,9 +53,19 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
+          <term>Religioso</term>
+          <term>Rezando</term>
+          <term>Simbolismo cristiano</term>
+          <term>Otros accesorios</term>
+          <term>Lugar de culto</term>
+          <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#personaje_masculino" target="#religioso"/>
+        <catRef scheme="#accion" target="#rezando"/>
+        <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#accesorios" target="#otros"/>
+        <catRef scheme="#construidos" target="#culto"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

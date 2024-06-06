@@ -20,7 +20,7 @@
           <title>grabado_v_321_2</title>
           <author/>
           <publisher>Imprenta Mallorca</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -45,12 +45,12 @@
           <term>Hombres</term>
           <term>Navío/Barco</term>
           <term>Área de agua</term>
-          <term/>
+          <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#transporte" target="#navio"/>
         <catRef scheme="#naturales" target="#agua"/>
-        <catRef scheme="#naturales" target="# paisaje"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

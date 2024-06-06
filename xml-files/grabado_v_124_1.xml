@@ -20,13 +20,13 @@
           <title>grabado_v_124_1</title>
           <author/>
           <publisher>Ignacio Estivill</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_124_1.jpg/216,63,1571,1115/full/0/default.jpg" source="Varios_124_1.jpg" n="216,63,1571,1115"/>
             <figDesc>
-              <locus target="Varios_124.xml">Cancion nueva</locus>
+              <locus target="Varios_124.xml">Atala. Cancion nueva</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

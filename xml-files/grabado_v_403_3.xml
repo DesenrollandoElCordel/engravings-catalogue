@@ -20,7 +20,7 @@
           <title>grabado_v_403_3</title>
           <author/>
           <publisher>José María Marés</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
@@ -42,9 +42,9 @@
               <item>
                 <title corresp="grabado_m_085_3.xml">grabado_m_085_3</title>
                 <bibl>
-                  <title/>
-                  <date/>
-                  <publisher/>
+                  <title>Canción del segador de Lorca</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Moreno</publisher>
                 </bibl>
               </item>
               <item>
@@ -130,10 +130,8 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

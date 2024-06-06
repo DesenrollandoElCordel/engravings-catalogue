@@ -20,7 +20,7 @@
           <title>grabado_v_387_1</title>
           <author/>
           <publisher>Industrias Gráficas Olympia</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -46,13 +46,11 @@
           <term>Hablando</term>
           <term>Armas</term>
           <term>Otros accesorios</term>
-          <term/>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#accesorios" target="#otros"/>
-        <catRef scheme="#ornamentos" target="#foto"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

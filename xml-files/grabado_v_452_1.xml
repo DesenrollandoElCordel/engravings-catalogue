@@ -20,7 +20,7 @@
           <title>grabado_v_452_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -30,7 +30,15 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
+              <item>
+                <title corresp="grabado_v_054_1.xml">grabado_v_054_1</title>
+                <bibl>
+                  <title>El sepulcro o lo que puede el amor</title>
+                  <date when="1845" cert="high">1845</date>
+                  <publisher>José Lluch</publisher>
+                </bibl>
+              </item>
               <item>
                 <title corresp="grabado_v_453_1.xml">grabado_v_453_1</title>
                 <bibl>

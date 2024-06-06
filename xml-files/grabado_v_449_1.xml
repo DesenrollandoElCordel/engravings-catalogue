@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_449_1</title>
-          <author>Masi </author>
+          <author role="grabador">Masi</author>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -51,7 +51,7 @@
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accion" target="#discutiendo"/>
         <catRef scheme="#accesorios" target="#armas"/>
-        <catRef scheme="#construidos" target="#otros"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#transporte" target="#navio"/>
       </textClass>
     </profileDesc>

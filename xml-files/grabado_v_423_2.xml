@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_423_2</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1862" cert="high">1862</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_423_1.jpg/116,649,1443,494/full/0/default.jpg" source="Varios_423_1.jpg" n="116,649,1443,494"/>
+            <graphic url="varios/Varios_423_1.jpg/1003,649,650,1130/full/0/default.jpg" source="Varios_423_1.jpg" n="1003,649,650,1130"/>
             <figDesc>
               <locus target="Varios_423.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -54,12 +54,14 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Hablando</term>
           <term>Otros accesorios</term>
           <term>Armas</term>
           <term>Ruinas</term>
           <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#ruinas"/>
@@ -71,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_423_1.jpg/116,649,1443,494/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_423_1.jpg/1003,649,650,1130/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

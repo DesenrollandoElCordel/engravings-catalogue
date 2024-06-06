@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_029_1</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Antonio Bosch</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -30,13 +30,21 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="1">
+            <list n="2">
               <item>
                 <title corresp="grabado_v_103_4.xml">grabado_v_103_4</title>
                 <bibl>
                   <title>Doctor Don Tixeras</title>
                   <date when="1886" cert="high">1886</date>
                   <publisher>Tipografía española</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_415_1.xml">grabado_v_415_1</title>
+                <bibl>
+                  <title>El cantor de las hermosas</title>
+                  <date>[s.a.]</date>
+                  <publisher>Narciso Ramírez y Compañía</publisher>
                 </bibl>
               </item>
             </list>
@@ -55,10 +63,12 @@
         <keywords>
           <term>Niños/Niñas</term>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Otros accesorios</term>
           <term>Trabajando en el campo</term>
         </keywords>
         <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#accion" target="#campo"/>
       </textClass>
     </profileDesc>

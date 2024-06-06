@@ -20,7 +20,7 @@
           <title>grabado_v_403_1</title>
           <author/>
           <publisher>José María Marés</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1857" cert="high">1857</date>
           <ident type="DOI"/>
           <figure>
@@ -104,10 +104,8 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>Abanico</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#accesorios" target="#abanico"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

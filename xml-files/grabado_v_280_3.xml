@@ -20,13 +20,13 @@
           <title>grabado_v_280_3</title>
           <author/>
           <publisher>Juan Bautista Vidal</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_280_1.jpg/501,350,699,1155/full/0/default.jpg" source="Varios_280_1.jpg" n="501,350,699,1155"/>
             <figDesc>
-              <locus target="Varios_280.xml">Juan el Afortunado</locus>
+              <locus target="Varios_280.xml">Juan el afortunado</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -34,8 +34,8 @@
               <item>
                 <title corresp="grabado_v_147_1.xml">grabado_v_147_1</title>
                 <bibl>
-                  <title>Juan el Afortunado</title>
-                  <date>1868</date>
+                  <title>Juan el afortunado</title>
+                  <date cert="high" when="1868">1868</date>
                   <publisher>Narciso Roca</publisher>
                 </bibl>
               </item>

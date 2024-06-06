@@ -112,8 +112,10 @@
       <textClass>
         <keywords>
           <term>Monarca (Rey/Príncipe)</term>
+          <term>Armas</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#monarca_h"/>
+        <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

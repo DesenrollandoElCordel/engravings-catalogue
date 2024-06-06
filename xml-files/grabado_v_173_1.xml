@@ -18,15 +18,15 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_173_1</title>
-          <author>Noguera</author>
+          <author/>
           <publisher>Joseph Gaspar</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1860" cert="high">1860</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_172_1.jpg/91,224,1474,1648/full/0/default.jpg" source="Varios_172_1.jpg" n="91,224,1474,1648"/>
+            <graphic url="varios/Varios_173_1.jpg/0,204,1594,1208/full/0/default.jpg" source="Varios_173_1.jpg" n="0,204,1594,1208"/>
             <figDesc>
-              <locus target="Varios_173.xml">Lo carrer del hospital de barcelona ó relació que ha fet an carnestoltas del bullici</locus>
+              <locus target="Varios_173.xml">Lo carrer del hospital de Barcelona</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>
@@ -62,7 +62,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_172_1.jpg/91,224,1474,1648/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_173_1.jpg/0,204,1594,1208/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

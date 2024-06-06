@@ -20,7 +20,7 @@
           <title>grabado_v_072_1</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1849" cert="high">1849</date>
           <ident type="DOI"/>
           <figure>
@@ -53,7 +53,6 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
           <term>Hombres</term>
           <term>Luchando</term>
           <term>Animales domésticos</term>
@@ -62,7 +61,6 @@
           <term>Interior de un edificio</term>
           <term>Puerta</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accion" target="#luchando"/>
         <catRef scheme="#animales" target="#domesticos"/>

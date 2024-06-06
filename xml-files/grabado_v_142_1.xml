@@ -18,15 +18,15 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_142_1</title>
-          <author>Rico ?</author>
+          <author role="grabador">Ilegible</author>
           <publisher>Narciso Roca</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_142_1.jpg/1033,313,429,850/full/0/default.jpg" source="Varios_142_1.jpg" n="1033,313,429,850"/>
             <figDesc>
-              <locus target="Varios_142.xml">Trobos de amor, catalans</locus>
+              <locus target="Varios_142.xml">Trobos de amor</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -34,17 +34,17 @@
               <item>
                 <title corresp="grabado_v_224_2.xml">grabado_v_224_2</title>
                 <bibl>
-                  <title/>
-                  <date/>
-                  <publisher/>
+                  <title>Coplas de la jóta</title>
+                  <date when="1847" cert="high">1847</date>
+                  <publisher>Juan Bautista Vidal</publisher>
                 </bibl>
               </item>
               <item>
                 <title corresp="grabado_v_411_2.xml">grabado_v_411_2</title>
                 <bibl>
-                  <title/>
-                  <date/>
-                  <publisher/>
+                  <title>Trobos nuevos y divertidos</title>
+                  <date when="1861" cert="high">1861</date>
+                  <publisher>Juan Bautista Vidal</publisher>
                 </bibl>
               </item>
             </list>
@@ -62,10 +62,10 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term/>
+          <term>Instrumentos musicales</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#accesorios" target="#instrumento"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_172_1</title>
-          <author/>
+          <author role="grabador">Noguera</author>
           <publisher>Joseph Tauló</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_171_1.jpg/359,359,823,760/full/0/default.jpg" source="Varios_171_1.jpg" n="359,359,823,760"/>
+            <graphic url="varios/Varios_172_1.jpg/89,229,1453,1660/full/0/default.jpg" source="Varios_172_1.jpg" n="89,229,1453,1660"/>
             <figDesc>
               <locus target="Varios_172.xml">Última voluntad y llegitim testament, del molt honrat carnestoltas, en lo cual disposa lo seu enterro.</locus>
             </figDesc>
@@ -56,7 +56,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_171_1.jpg/359,359,823,760/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_172_1.jpg/89,229,1453,1660/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

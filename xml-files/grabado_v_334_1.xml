@@ -20,7 +20,7 @@
           <title>grabado_v_334_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -70,12 +70,18 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Hablando</term>
+          <term>Papeles</term>
+          <term>Otros accesorios</term>
           <term>Calle</term>
-          <term>Interior de un edificio</term>
+          <term>Casa</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#hablando"/>
+        <catRef scheme="#accesorios" target="#papel"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#calle"/>
-        <catRef scheme="#construidos" target="#interior"/>
+        <catRef scheme="#construidos" target="#casa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

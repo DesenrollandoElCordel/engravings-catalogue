@@ -20,7 +20,7 @@
           <title>grabado_v_344_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -93,11 +93,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term/>
+          <term>Mujer</term>
           <term>Instrumentos musicales</term>
           <term>Árbol</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer "/>
+        <catRef scheme="#personaje_femenino" target="#mujer"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#naturales" target="#arbol"/>
       </textClass>

@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_075_1</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -54,9 +54,11 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Rezando</term>
           <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#rezando"/>
         <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>

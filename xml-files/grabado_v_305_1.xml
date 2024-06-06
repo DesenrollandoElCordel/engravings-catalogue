@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_305_1</title>
-          <author>M.C.</author>
+          <author role="grabador">M.C.</author>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
@@ -55,13 +55,19 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Instrumentos musicales</term>
+          <term>Flores</term>
+          <term>Armas</term>
           <term>Casa</term>
           <term>Paisaje</term>
+          <term>Cuerpo(s) astronómico(s)</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
+        <catRef scheme="#accesorios" target="#flor"/>
+        <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#casa"/>
         <catRef scheme="#naturales" target="#paisaje"/>
+        <catRef scheme="#naturales" target="#astros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

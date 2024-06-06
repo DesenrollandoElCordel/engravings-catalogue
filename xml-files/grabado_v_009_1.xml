@@ -19,8 +19,8 @@
         <bibl>
           <title>grabado_v_009_1</title>
           <author/>
-          <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <publisher>Sucesores de Hernando</publisher>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

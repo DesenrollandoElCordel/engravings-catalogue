@@ -20,7 +20,7 @@
           <title>grabado_v_141_1</title>
           <author/>
           <publisher>Cristina Segura</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -43,10 +43,12 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Interior de un edificio</term>
+          <term>Puerta</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#construidos" target="#edificio"/>
+        <catRef scheme="#construidos" target="#interior"/>
+        <catRef scheme="#construidos" target="#puerta"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -20,7 +20,7 @@
           <title>grabado_v_152_1</title>
           <author/>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -29,7 +29,26 @@
               <locus target="Varios_152.xml">Don Rodulfo de Pedrajas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="2">
+              <item>
+                <title corresp="grabado_m_039_1.xml">grabado_m_039_1</title>
+                <bibl>
+                  <title>Don Rodulfo de Pedrajas. Nueva relación</title>
+                  <date when="1856" cert="high">1856</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_m_164_1.xml">grabado_m_164_1</title>
+                <bibl>
+                  <title>Don Pedro Salinas</title>
+                  <date when="1854" cert="high">1854</date>
+                  <publisher>José María Moreno</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Varios_152</note>
         </bibl>
       </sourceDesc>

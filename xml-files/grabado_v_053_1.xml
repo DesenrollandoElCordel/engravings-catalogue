@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_053_1</title>
-          <author>E??ball?</author>
+          <author role="grabador">Ilegible</author>
           <publisher>Industrias gráficas Olympia</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -57,12 +57,14 @@
           <term>Hablando</term>
           <term>Armas</term>
           <term>Calle</term>
+          <term>Casa</term>
           <term>Pozo</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#calle"/>
+        <catRef scheme="#construidos" target="#casa"/>
         <catRef scheme="#construidos" target="#pozo"/>
       </textClass>
     </profileDesc>

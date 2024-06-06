@@ -20,13 +20,13 @@
           <title>grabado_v_080_1</title>
           <author/>
           <publisher>Juan Grau</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_080_1.jpg/1030,122,564,1051/full/0/default.jpg" source="Varios_080_1.jpg" n="1030,122,564,1051"/>
             <figDesc>
-              <locus target="Varios_080.xml">Delirio de espronceda ó últimos momentos de este célebre poeta</locus>
+              <locus target="Varios_080.xml">Delirio de Espronceda ó últimos momentos de este célebre poeta</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">

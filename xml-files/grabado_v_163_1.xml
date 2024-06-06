@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_163_1</title>
-          <author>J.A.</author>
+          <author role="grabador">J.A.</author>
           <publisher>Llorens</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

@@ -18,15 +18,15 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_254_2</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_254_2.jpg/339,90,940,759/full/0/default.jpg" source="Varios_254_2.jpg" n="339,90,940,759"/>
             <figDesc>
-              <locus target="Varios_254.xml">La insurrección en cuba</locus>
+              <locus target="Varios_254.xml">La insurrección en Cuba</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">

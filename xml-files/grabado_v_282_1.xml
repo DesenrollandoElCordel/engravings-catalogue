@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_282_1</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -62,11 +62,13 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Otros accesorios</term>
           <term>Instrumentos musicales</term>
           <term>Casa</term>
           <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#construidos" target="#casa"/>
         <catRef scheme="#naturales" target="#paisaje"/>

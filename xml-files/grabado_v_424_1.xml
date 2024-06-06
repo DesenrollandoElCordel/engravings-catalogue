@@ -20,11 +20,11 @@
           <title>grabado_v_424_1</title>
           <author/>
           <publisher>Tipografía Española</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1881" cert="high">1881</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_424_1.jpg/132,609,1443,546/full/0/default.jpg" source="Varios_424_1.jpg" n="132,609,1443,546"/>
+            <graphic url="varios/Varios_424_1.jpg/132,609,1583,1146/full/0/default.jpg" source="Varios_424_1.jpg" n="132,609,1583,1146"/>
             <figDesc>
               <locus target="Varios_424.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_424_1.jpg/132,609,1443,546/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_424_1.jpg/132,609,1583,1146/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

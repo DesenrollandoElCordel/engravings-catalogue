@@ -20,7 +20,7 @@
           <title>grabado_v_255_1</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -34,9 +34,9 @@
               <item>
                 <title corresp="grabado_v_080_3.xml">grabado_v_080_3</title>
                 <bibl>
-                  <title>La verdad en chanza</title>
+                  <title>Delirio de Espronceda</title>
                   <date>[s.a.]</date>
-                  <publisher>Ignacio Estivill</publisher>
+                  <publisher>Joan Grau</publisher>
                 </bibl>
               </item>
             </list>

@@ -20,7 +20,7 @@
           <title>grabado_v_061_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -45,6 +45,14 @@
                   <title>El nuevo curro marinero</title>
                   <date>[s.a.]</date>
                   <publisher>Narciso Roca</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_344_2.xml">grabado_v_344_2</title>
+                <bibl>
+                  <title>Cancion del curro marinero</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
                 </bibl>
               </item>
             </list>

@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_226_1</title>
-          <author>Abadal</author>
+          <author role="grabador">Abadal</author>
           <publisher>Narciso Ramírez y Compañía</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

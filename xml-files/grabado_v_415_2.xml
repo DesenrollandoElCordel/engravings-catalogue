@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_415_2</title>
-          <author>?</author>
+          <author role="grabador">Ilegible</author>
           <publisher>Narciso Ramírez y Compañía</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_415_1.jpg/1088,817,-689,150/full/0/default.jpg" source="Varios_415_1.jpg" n="1088,817,-689,150"/>
+            <graphic url="varios/Varios_415_1.jpg/1088,817,401,953/full/0/default.jpg" source="Varios_415_1.jpg" n="1088,817,401,953"/>
             <figDesc>
               <locus target="Varios_415.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_415_1.jpg/1088,817,-689,150/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_415_1.jpg/1088,817,401,953/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

@@ -20,13 +20,13 @@
           <title>grabado_v_406_2</title>
           <author/>
           <publisher>Narciso Roca</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_406_1.jpg/603,395,-86,507/full/0/default.jpg" source="Varios_406_1.jpg" n="603,395,-86,507"/>
+            <graphic url="varios/Varios_406_1.jpg/593,395,536,907/full/0/default.jpg" source="Varios_406_1.jpg" n="593,395,536,907"/>
             <figDesc>
-              <locus target="Varios_406.xml">Trobos nuevos amorosos y elegantes, para cantar</locus>
+              <locus target="Varios_406.xml">Trobos nuevos amorosos y elegantes</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -34,9 +34,9 @@
               <item>
                 <title corresp="grabado_v_167_1.xml">grabado_v_167_1</title>
                 <bibl>
-                  <title/>
-                  <date/>
-                  <publisher/>
+                  <title>Despedida que hace un quinto a la prenda querida de su corazón</title>
+                  <date>[s.a.]</date>
+                  <publisher>La Fleca</publisher>
                 </bibl>
               </item>
             </list>
@@ -65,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_406_1.jpg/603,395,-86,507/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_406_1.jpg/593,395,536,907/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

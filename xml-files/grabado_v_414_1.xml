@@ -20,11 +20,11 @@
           <title>grabado_v_414_1</title>
           <author/>
           <publisher>Juan Colomar</publisher>
-          <pubPlace ref="xxxx">Palma</pubPlace>
+          <pubPlace ref="https://www.geonames.org/2512989/palma.html">Palma</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_414_1.jpg/302,356,269,587/full/0/default.jpg" source="Varios_414_1.jpg" n="302,356,269,587"/>
+            <graphic url="varios/Varios_414_1.jpg/302,356,539,959/full/0/default.jpg" source="Varios_414_1.jpg" n="302,356,539,959"/>
             <figDesc>
               <locus target="Varios_414.xml">Coplas nuevas y divertidas</locus>
             </figDesc>
@@ -44,11 +44,9 @@
         <keywords>
           <term>Hombre</term>
           <term>Instrumentos musicales</term>
-          <term>Árbol</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accesorios" target="#instrumentos"/>
-        <catRef scheme="#naturales" target="#arbol"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -56,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_414_1.jpg/302,356,269,587/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_414_1.jpg/302,356,539,959/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

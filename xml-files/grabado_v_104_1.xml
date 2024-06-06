@@ -20,7 +20,7 @@
           <title>grabado_v_104_1</title>
           <author/>
           <publisher>Joan Grau</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -46,13 +46,11 @@
           <term>Hombres</term>
           <term>Otros accesorios</term>
           <term>Interior de un edificio</term>
-          <term>Fuego</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#monarca_h"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#interior"/>
-        <catRef scheme="#naturales" target="#fuego"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

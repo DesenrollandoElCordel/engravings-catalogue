@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_456_3</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>Antonio Llorens</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -77,10 +77,12 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Niños/Niñas</term>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Bailando</term>
           <term>Bosque</term>
         </keywords>
+        <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#bailando"/>
         <catRef scheme="#naturales" target="#bosque"/>

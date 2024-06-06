@@ -20,11 +20,11 @@
           <title>grabado_v_409_1</title>
           <author/>
           <publisher>Imprenta Universal</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_409_1.jpg/380,356,597,1099/full/0/default.jpg" source="Varios_409_1.jpg" n="380,356,597,1099"/>
+            <graphic url="varios/Varios_409_1.jpg/380,356,997,1439/full/0/default.jpg" source="Varios_409_1.jpg" n="380,356,997,1439"/>
             <figDesc>
               <locus target="Varios_409.xml">Los propios tangos gaditanos coro de los abanicos</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_409_1.jpg/380,356,597,1099/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_409_1.jpg/380,356,997,1439/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

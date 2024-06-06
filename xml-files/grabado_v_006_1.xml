@@ -20,7 +20,7 @@
           <title>grabado_v_006_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -65,11 +65,13 @@
           <term>Rezando</term>
           <term>Santo/Santa</term>
           <term>Ángel(es)</term>
+          <term>Fuego</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accion" target="#rezando"/>
         <catRef scheme="#religion" target="#santo"/>
         <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#naturales" target="#fuego"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

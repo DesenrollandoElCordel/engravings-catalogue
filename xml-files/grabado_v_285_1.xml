@@ -20,13 +20,13 @@
           <title>grabado_v_285_1</title>
           <author/>
           <publisher>Imprenta Universal</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_285_1.jpg/58,371,1416,1039/full/0/default.jpg" source="Varios_285_1.jpg" n="58,371,1416,1039"/>
             <figDesc>
-              <locus target="Varios_285.xml">Rosaura la de trujillo</locus>
+              <locus target="Varios_285.xml">Rosaura la de Trujillo</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

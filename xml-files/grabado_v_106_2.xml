@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_106_2</title>
-          <author/>
+          <author role="grabador">Noguera</author>
           <publisher>Llorens</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -56,11 +56,13 @@
           <term>Religioso</term>
           <term>Niños/Niñas</term>
           <term>Hombres</term>
+          <term>Hablando</term>
           <term>Lugar de culto</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#religioso"/>
         <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#construidos" target="#culto"/>
       </textClass>
     </profileDesc>

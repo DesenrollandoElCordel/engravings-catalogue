@@ -20,7 +20,7 @@
           <title>grabado_v_204_1</title>
           <author/>
           <publisher>José María Marés</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>
@@ -29,26 +29,7 @@
               <locus target="Varios_204.xml">Coleccion de canciones nuevas</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar">
-            <list n="2">
-              <item>
-                <title corresp="grabado_v_159_2.xml">grabado_v_159_2</title>
-                <bibl>
-                  <title>Calendario nuevo y curioso</title>
-                  <date when="1854" cert="high">1854</date>
-                  <publisher>José María Marés</publisher>
-                </bibl>
-              </item>
-              <item>
-                <title corresp="grabado_v_323_1.xml">grabado_v_323_1</title>
-                <bibl>
-                  <title>Calendario nuevo y curioso</title>
-                  <date>[s.a.]</date>
-                  <publisher>Hernando</publisher>
-                </bibl>
-              </item>
-            </list>
-          </note>
+          <note type="similar_ejemplar"/>          
           <note type="origen">Grabado extraído del pliego Varios_204</note>
         </bibl>
       </sourceDesc>
@@ -61,15 +42,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujer</term>
-          <term>Hombres</term>
-          <term>Armas</term>
+          <term>Mujer(es) y hombre(s)</term>
           <term>Otros accesorios</term>
           <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#grupos_personajes" target="#hombres"/>
-        <catRef scheme="#accesorios" target="#armas"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>

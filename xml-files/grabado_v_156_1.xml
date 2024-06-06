@@ -20,13 +20,13 @@
           <title>grabado_v_156_1</title>
           <author/>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_156_1.jpg/298,259,954,1330/full/0/default.jpg" source="Varios_156_1.jpg" n="298,259,954,1330"/>
             <figDesc>
-              <locus target="Varios_156.xml">Villancicos que se cantan en Cádiz por noche buena</locus>
+              <locus target="Varios_156.xml">Villancicos que se cantan en Cádiz por Noche Buena</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

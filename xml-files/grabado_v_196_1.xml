@@ -20,7 +20,7 @@
           <title>grabado_v_196_1</title>
           <author/>
           <publisher>Narciso Roca</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -30,7 +30,7 @@
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="2">
+            <list n="3">
               <item>
                 <title corresp="grabado_v_043_1.xml">grabado_v_043_1</title>
                 <bibl>
@@ -41,6 +41,14 @@
               </item>
               <item>
                 <title corresp="grabado_v_061_1.xml">grabado_v_061_1</title>
+                <bibl>
+                  <title>Cancion del curro marinero</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_344_2.xml">grabado_v_344_2</title>
                 <bibl>
                   <title>Cancion del curro marinero</title>
                   <date>[s.a.]</date>
@@ -63,12 +71,14 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Abrazando</term>
+          <term>Animales salvajes</term>
           <term>Otros accesorios</term>
           <term>Área de agua</term>
           <term>Navío/Barco</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#abrazando"/>
+        <catRef scheme="#animales" target="#salvajes"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#transporte" target="#navio"/>

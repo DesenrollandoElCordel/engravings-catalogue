@@ -18,15 +18,15 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_197_1</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_197_1.jpg/105,201,1559,1093/full/0/default.jpg" source="Varios_197_1.jpg" n="105,201,1559,1093"/>
             <figDesc>
-              <locus target="Varios_197.xml">Estrados de un caracol</locus>
+              <locus target="Varios_197.xml">Estrados de un Caracol</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

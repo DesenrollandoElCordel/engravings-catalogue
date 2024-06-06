@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_038_1</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Tipografía Española</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1881" cert="high">1881</date>
           <ident type="DOI"/>
           <figure>

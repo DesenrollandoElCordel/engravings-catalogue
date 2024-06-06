@@ -20,13 +20,13 @@
           <title>grabado_v_046_2</title>
           <author/>
           <publisher>M. García</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_046_1.jpg/219,420,559,810/full/0/default.jpg" source="Varios_046_1.jpg" n="219,420,559,810"/>
             <figDesc>
-              <locus target="Varios_046.xml">Nuevo y curioso papel en el que se da cuenta y declara el horrible asesinato que han ejecutado en el pueblo de berzocana</locus>
+              <locus target="Varios_046.xml">Nuevo y curioso papel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">

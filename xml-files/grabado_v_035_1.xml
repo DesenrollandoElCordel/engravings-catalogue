@@ -20,7 +20,7 @@
           <title>grabado_v_035_1</title>
           <author/>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
@@ -54,13 +54,13 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
-          <term/>
+          <term>Instrumentos musicales</term>
           <term>Armas</term>
           <term>Área de agua</term>
           <term>Navío/Barco</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#accesorios" target="#intrumentos"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#transporte" target="#navio"/>

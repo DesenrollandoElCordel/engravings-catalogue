@@ -20,7 +20,7 @@
           <title>grabado_v_347_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -54,14 +54,10 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term>Hablando</term>
-          <term>Paisaje</term>
           <term>Area de agua</term>
           <term>Navío/Barco</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accion" target="#hablando"/>
-        <catRef scheme="#naturales" target="#paisaje"/>
         <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#transporte" target="#navio"/>
       </textClass>

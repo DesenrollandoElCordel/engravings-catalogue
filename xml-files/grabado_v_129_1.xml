@@ -20,7 +20,7 @@
           <title>grabado_v_129_1</title>
           <author/>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -61,13 +61,15 @@
     <profileDesc>
       <textClass>
         <keywords>
+          <term>Religioso</term>
           <term>Mujere(s) y Hombre(s)</term>
-          <term>Muerte</term>
+          <term>Rezando</term>
           <term>Infierno</term>
           <term>Fuego</term>
         </keywords>
+        <catRef scheme="#personaje_masculino" target="#religioso"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#muerte" target="#muerte"/>
+        <catRef scheme="#accion" target="#rezando"/>
         <catRef scheme="#religion" target="#infierno"/>
         <catRef scheme="#naturales" target="#fuego"/>
       </textClass>

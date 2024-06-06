@@ -20,7 +20,7 @@
           <title>grabado_v_339_2</title>
           <author/>
           <publisher>Luis Raynaud</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -54,9 +54,13 @@
       <textClass>
         <keywords>
           <term>Hombres</term>
+          <term>Hablando</term>
+          <term>Otros accesorios</term>
           <term>Lugar de sepultura</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#accion" target="#hablando"/>
+        <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#sepultura"/>
       </textClass>
     </profileDesc>

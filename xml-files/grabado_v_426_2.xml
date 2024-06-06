@@ -18,9 +18,10 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_426_2</title>
-          <author>Anselmo M. | Mugica</author>
+          <author role="grabador">Anselmo M.</author>
+          <author role="grabador">Mugica</author>
           <publisher>José María Marés</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

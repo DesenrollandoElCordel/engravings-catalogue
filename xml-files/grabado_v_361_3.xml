@@ -20,13 +20,13 @@
           <title>grabado_v_361_3</title>
           <author/>
           <publisher>Juan Grau</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_361_4.jpg/555,155,660,1028/full/0/default.jpg" source="Varios_361_4.jpg" n="555,155,660,1028"/>
             <figDesc>
-              <locus target="Varios_361.xml">Canciones de los comediantes de antaño.</locus>
+              <locus target="Varios_361.xml">Canciones de los comediantes de Antaño</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">

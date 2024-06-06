@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_415_1</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Narciso Ramírez y Compañía</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_415_1.jpg/219,772,657,249/full/0/default.jpg" source="Varios_415_1.jpg" n="219,772,657,249"/>
+            <graphic url="varios/Varios_415_1.jpg/219,772,865,1003/full/0/default.jpg" source="Varios_415_1.jpg" n="219,772,865,1003"/>
             <figDesc>
               <locus target="Varios_415.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -52,14 +52,16 @@
     </encodingDesc>
     <profileDesc>
       <textClass>
-        <keywords>
-          <term>Hombre</term>
-          <term>Niños/Niñas</term>
-          <term>Mercado</term>
-        </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#ninos" target="#ninos"/>
-        <catRef scheme="#construidos" target="#mercado"/>
+          <keywords>
+            <term>Hombre</term>
+            <term>Niños/Niñas</term>
+            <term>Otros accesorios</term>
+            <term>Trabajando en el campo</term>
+          </keywords>
+          <catRef scheme="#personaje_masculino" target="#hombre"/>
+          <catRef scheme="#ninos" target="#ninos"/>
+          <catRef scheme="#accesorios" target="#otros"/>
+          <catRef scheme="#accion" target="#campo"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -67,7 +69,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_415_1.jpg/219,772,657,249/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_415_1.jpg/219,772,865,1003/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

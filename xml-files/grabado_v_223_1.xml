@@ -20,7 +20,7 @@
           <title>grabado_v_223_1</title>
           <author/>
           <publisher>Industrias Gráficas Olympia</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -56,12 +56,14 @@
           <term>Mujere(s) y Hombre(s)</term>
           <term>Hablando</term>
           <term>Animales domésticos</term>
-          <term>Bosque</term>
+          <term>Papeles</term>
+          <term>Paisaje</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#animales" target="#domesticos"/>
-        <catRef scheme="#naturales" target="#bosque"/>
+        <catRef scheme="#accesorios" target="#papel"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_284_2</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -56,12 +56,14 @@
           <term>Jesucristo</term>
           <term>Virgen María</term>
           <term>Simbolismo cristiano</term>
+          <term>Armas</term>
           <term>Paisaje</term>
           <term>Cuerpo(s) astronómico(s)</term>
         </keywords>
         <catRef scheme="#religion" target="#jesus"/>
         <catRef scheme="#religion" target="#virgen"/>
         <catRef scheme="#religion" target="#simbolismo"/>
+        <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#paisaje"/>
         <catRef scheme="#naturales" target="#astros"/>
       </textClass>

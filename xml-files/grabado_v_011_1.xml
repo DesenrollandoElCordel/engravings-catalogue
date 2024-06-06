@@ -20,7 +20,7 @@
           <title>grabado_v_011_1</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -55,13 +55,11 @@
         <keywords>
           <term>Hombres</term>
           <term>Bebiendo</term>
-          <term>Hablando</term>
           <term>Armas</term>
           <term>Jardín</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accion" target="#bebiendo"/>
-        <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#jardin"/>
       </textClass>

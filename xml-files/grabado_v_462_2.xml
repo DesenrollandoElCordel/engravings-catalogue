@@ -18,15 +18,15 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_462_2</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>Cristina Segura</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_462_3.jpg/381,253,876,1259/full/0/default.jpg" source="Varios_462_3.jpg" n="381,253,876,1259"/>
             <figDesc>
-              <locus target="Varios_462.xml">La pescatera catalana, lo cansoné de las barraquetas y una per lo poble baix</locus>
+              <locus target="Varios_462.xml">La pescatera catalana</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">

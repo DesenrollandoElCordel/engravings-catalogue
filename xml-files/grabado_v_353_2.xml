@@ -20,7 +20,7 @@
           <title>grabado_v_353_2</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -54,8 +54,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
+          <term>Bailando</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accion" target="#bailando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

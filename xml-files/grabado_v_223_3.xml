@@ -20,7 +20,7 @@
           <title>grabado_v_223_3</title>
           <author/>
           <publisher>Industrias Gráficas Olympia</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -43,8 +43,10 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
+          <term>Fumando</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#accion" target="#fumando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

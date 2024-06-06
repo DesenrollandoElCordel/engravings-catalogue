@@ -18,15 +18,15 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_435_1</title>
-          <author>Cali (?)</author>
+          <author role="grabador">Ilegible</author>
           <publisher>Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_435_1.jpg/189,149,1260,967/full/0/default.jpg" source="Varios_435_1.jpg" n="189,149,1260,967"/>
             <figDesc>
-              <locus target="Varios_435.xml">El patriarca josé llamado el casto por su gran virtud</locus>
+              <locus target="Varios_435.xml">El patriarca José llamado el Casto por su gran virtud</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

@@ -20,19 +20,19 @@
           <title>grabado_v_046_3</title>
           <author/>
           <publisher>M. García</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_046_3.jpg/884,2274,315,129/full/0/default.jpg" source="Varios_046_3.jpg" n="884,2274,315,129"/>
             <figDesc>
-              <locus target="Varios_046.xml">Nuevo y curioso papel en el que se da cuenta y declara el horrible asesinato que han ejecutado en el pueblo de berzocana</locus>
+              <locus target="Varios_046.xml">Nuevo y curioso papel</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
             <list n="1">
               <item>
-                <title corresp="grabado_v_161_3.xml">grabado_v_161_3</title>
+                <title corresp="grabado_v_161_4.xml">grabado_v_161_3</title>
                 <bibl>
                   <title>Nuevo y curioso papel</title>
                   <date>[s.a.]</date>
@@ -53,9 +53,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Mujere(s) y Hombre(s)</term>
+          <term>Otros ornamentos</term>
         </keywords>
-        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#ornamentos" target="#otros_ornamentos"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

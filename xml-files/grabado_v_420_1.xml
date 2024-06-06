@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_420_1</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Tipografía Española</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_420_1.jpg/197,807,1260,471/full/0/default.jpg" source="Varios_420_1.jpg" n="197,807,1260,471"/>
+            <graphic url="varios/Varios_420_1.jpg/197,807,1420,1271/full/0/default.jpg" source="Varios_420_1.jpg" n="197,807,1420,1271"/>
             <figDesc>
               <locus target="Varios_420.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -58,7 +58,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_420_1.jpg/197,807,1260,471/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_420_1.jpg/197,807,1420,1271/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

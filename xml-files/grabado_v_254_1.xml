@@ -20,13 +20,13 @@
           <title>grabado_v_254_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_254_1.jpg/421,324,822,436/full/0/default.jpg" source="Varios_254_1.jpg" n="421,324,822,436"/>
             <figDesc>
-              <locus target="Varios_254.xml">La insurrección en cuba</locus>
+              <locus target="Varios_254.xml">La insurrección en Cuba</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">

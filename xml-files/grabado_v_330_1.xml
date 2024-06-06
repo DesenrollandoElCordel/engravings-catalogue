@@ -18,9 +18,10 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_330_1</title>
-          <author>MG | Noguera</author>
+          <author role="grabador">Noguera</author>
+          <author role="grabador">MG</author>
           <publisher>Llorens</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

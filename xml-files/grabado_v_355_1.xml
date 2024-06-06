@@ -20,13 +20,13 @@
           <title>grabado_v_355_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_355_1.jpg/65,248,1599,1069/full/0/default.jpg" source="Varios_355_1.jpg" n="65,248,1599,1069"/>
             <figDesc>
-              <locus target="Varios_355.xml">Atrocidades de margarita cisneros</locus>
+              <locus target="Varios_355.xml">Atrocidades de Margarita Cisneros</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
@@ -34,9 +34,9 @@
               <item>
                 <title corresp="grabado_v_309_1.xml">grabado_v_309_1</title>
                 <bibl>
-                  <title/>
-                  <date/>
-                  <publisher/>
+                  <title>Atrocidades de Margarita Cisneros</title>
+                  <date when="1800" cert="low">[s.a.]</date>
+                  <publisher>El Abanico</publisher>
                 </bibl>
               </item>
             </list>

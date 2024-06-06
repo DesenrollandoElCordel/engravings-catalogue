@@ -20,7 +20,7 @@
           <title>grabado_v_386_1</title>
           <author/>
           <publisher>Industrias Gráficas Olympia</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -43,11 +43,9 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
-          <term>Niños/Niñas</term>
           <term>Flores</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
-        <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#accesorios" target="#flor"/>
       </textClass>
     </profileDesc>

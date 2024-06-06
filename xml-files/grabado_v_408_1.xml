@@ -20,11 +20,11 @@
           <title>grabado_v_408_1</title>
           <author/>
           <publisher>Llorens</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_408_1.jpg/137,327,401,-5/full/0/default.jpg" source="Varios_408_1.jpg" n="137,327,401,-5"/>
+            <graphic url="varios/Varios_408_1.jpg/177,367,481,270/full/0/default.jpg" source="Varios_408_1.jpg" n="177,367,481,270"/>
             <figDesc>
               <locus target="Varios_408.xml">Cancion del pajarito</locus>
             </figDesc>
@@ -65,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_408_1.jpg/137,327,401,-5/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_408_1.jpg/177,367,481,270/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

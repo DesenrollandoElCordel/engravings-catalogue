@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_096_1</title>
-          <author>Perez</author>
+          <author role="grabador">Perez</author>
           <publisher>José María Marés</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>

@@ -20,11 +20,11 @@
           <title>grabado_v_405_2</title>
           <author/>
           <publisher>Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_405_1.jpg/149,294,1364,885/full/0/default.jpg" source="Varios_405_1.jpg" n="149,294,1364,885"/>
+            <graphic url="varios/Varios_405_1.jpg/149,294,1004,885/full/0/default.jpg" source="Varios_405_1.jpg" n="149,294,1004,885"/>
             <figDesc>
               <locus target="Varios_405.xml">Nueva y curiosa relacion de la peregrina doctora</locus>
             </figDesc>
@@ -34,9 +34,9 @@
               <item>
                 <title corresp="grabado_m_027_1.xml">grabado_m_027_1</title>
                 <bibl>
-                  <title>El cantor de las hermosas</title>
-                  <date when="1869" cert="high">1869</date>
-                  <publisher>Hijos de Domenech</publisher>
+                  <title>Nueva y curiosa relación de la peregrina doctora</title>
+                  <date when="1858" cert="high">1858</date>
+                  <publisher>José María Moreno</publisher>
                 </bibl>
               </item>
             </list>
@@ -54,9 +54,11 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Muerte</term>
           <term>Interior de un edificio</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#construidos" target="#interior"/>
       </textClass>
     </profileDesc>
@@ -65,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_405_1.jpg/149,294,1364,885/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_405_1.jpg/149,294,1004,885/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

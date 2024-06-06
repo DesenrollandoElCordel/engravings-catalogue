@@ -20,7 +20,7 @@
           <title>grabado_v_284_4</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -42,12 +42,18 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Niños/Niñas</term>
           <term>Mujere(s) y Hombre(s)</term>
+          <term>Muerte</term>
+          <term>Jesucristo</term>
+          <term>Virgen María</term>
+          <term>Narración bíblica</term>
           <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#muerte" target="#muerte"/>
+        <catRef scheme="#religion" target="#jesus"/>
+        <catRef scheme="#religion" target="#virgen"/>
+        <catRef scheme="#religion" target="#narracion"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
     </profileDesc>

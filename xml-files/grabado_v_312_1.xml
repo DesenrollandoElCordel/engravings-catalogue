@@ -20,13 +20,13 @@
           <title>grabado_v_312_1</title>
           <author/>
           <publisher>Víctor Berdós</publisher>
-          <pubPlace ref="xxxx">San Suplicio del Regómir</pubPlace>
+          <pubPlace>San Suplicio del Regómir</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_312_1.jpg/65,68,1562,1262/full/0/default.jpg" source="Varios_312_1.jpg" n="65,68,1562,1262"/>
             <figDesc>
-              <locus target="Varios_312.xml">Adriana Angot</locus>
+              <locus target="Varios_312.xml">Coplas para cantarse con la música da las zarzuelas</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

@@ -20,7 +20,7 @@
           <title>grabado_v_283_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -55,15 +55,15 @@
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Ángel(es)</term>
+          <term>Libros</term>
           <term>Otros accesorios</term>
-          <term>Papeles</term>
           <term>Interior de un edificio</term>
           <term>Cuerpo(s) astronómico(s)</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#religion" target="#angel"/>
+        <catRef scheme="#accesorios" target="#libro"/>
         <catRef scheme="#accesorios" target="#otros"/>
-        <catRef scheme="#accesorios" target="#papel"/>
         <catRef scheme="#construidos" target="#interior"/>
         <catRef scheme="#naturales" target="#astros"/>
       </textClass>

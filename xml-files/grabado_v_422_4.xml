@@ -18,13 +18,13 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_422_4</title>
-          <author>?</author>
+          <author role="grabador">Ilegible</author>
           <publisher>Narciso Ramírez</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1881" cert="high">1881</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_422_3.jpg/331,28,868,934/full/0/default.jpg" source="Varios_422_3.jpg" n="331,28,868,934"/>
+            <graphic url="varios/Varios_422_3.jpg/331,28,1200,964/full/0/default.jpg" source="Varios_422_3.jpg" n="331,28,1200,964"/>
             <figDesc>
               <locus target="Varios_422.xml">El cantor de las hermosas</locus>
             </figDesc>
@@ -53,15 +53,11 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Niños/Niñas</term>
           <term>Mujere(s) y Hombre(s)</term>
           <term>Instrumentos musicales</term>
-          <term>Otros accesorios</term>
           <term>Calle</term>
         </keywords>
-        <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accesorios" target="#instrumentos"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#calle"/>
       </textClass>
@@ -71,7 +67,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_422_3.jpg/331,28,868,934/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_422_3.jpg/331,28,1200,964/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

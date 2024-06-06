@@ -20,13 +20,13 @@
           <title>grabado_v_445_1</title>
           <author/>
           <publisher>Manuel Martí</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1781" cert="high">1781</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_445_1.jpg/241,41,539,577/full/0/default.jpg" source="Varios_445_1.jpg" n="241,41,539,577"/>
             <figDesc>
-              <locus target="Varios_445.xml">Historia sagrada de la creacion del mumdo y formacion del hombre</locus>
+              <locus target="Varios_445.xml">Historia sagrada de la creacion del mundo y formacion del hombre</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

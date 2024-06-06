@@ -20,7 +20,7 @@
           <title>grabado_v_357_1</title>
           <author/>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -63,13 +63,13 @@
         <keywords>
           <term>Niños/Niñas</term>
           <term>Mujere(s) y Hombre(s)</term>
-          <term>Animales antropomórficos</term>
+          <term>Animales salvajes</term>
           <term>Cueva</term>
           <term>Paisaje</term>
         </keywords>
         <catRef scheme="#ninos" target="#ninos"/>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#animales" target="#antropomorfico"/>
+        <catRef scheme="#animales" target="#salvajes"/>
         <catRef scheme="#naturales" target="#cueva"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>

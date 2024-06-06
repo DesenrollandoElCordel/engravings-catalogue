@@ -20,7 +20,7 @@
           <title>grabado_v_238_1</title>
           <author/>
           <publisher>Cristina Segura</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -29,7 +29,18 @@
               <locus target="Varios_238.xml">La gitanilla</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="1">
+              <item>
+                <title corresp="grabado_v_081_1.xml">grabado_v_081_1</title>
+                <bibl>
+                  <title>La gitanilla</title>
+                  <date>[s.a.]</date>
+                  <publisher>Cristina Segura</publisher>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Varios_238</note>
         </bibl>
       </sourceDesc>

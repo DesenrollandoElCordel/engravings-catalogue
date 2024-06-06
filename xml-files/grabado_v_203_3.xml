@@ -20,7 +20,7 @@
           <title>grabado_v_203_3</title>
           <author/>
           <publisher>Narciso Ramírez y Compañía</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -44,10 +44,12 @@
         <keywords>
           <term>Hombres</term>
           <term>Luchando</term>
+          <term>Muerte</term>
           <term>Armas</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
         <catRef scheme="#accion" target="#luchando"/>
+        <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#accesorios" target="#armas"/>
       </textClass>
     </profileDesc>

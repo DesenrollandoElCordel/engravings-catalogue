@@ -20,13 +20,13 @@
           <title>grabado_v_229_3</title>
           <author/>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_229_3.jpg/596,138,376,791/full/0/default.jpg" source="Varios_229_3.jpg" n="596,138,376,791"/>
             <figDesc>
-              <locus target="Varios_229.xml">Coleccion de canciones.</locus>
+              <locus target="Varios_229.xml">Coleccion de canciones</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

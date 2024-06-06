@@ -20,11 +20,11 @@
           <title>grabado_v_239_1</title>
           <author/>
           <publisher>Sucesores de Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_239_1.jpg/187,517,967,829/full/0/default.jpg" source="Varios_239_1.jpg" n="187,517,967,829"/>
+            <graphic url="varios/Varios_239_1.jpg/187,817,967,559/full/0/default.jpg" source="Varios_239_1.jpg" n="187,817,967,559"/>
             <figDesc>
               <locus target="Varios_239.xml">La divina peregrina</locus>
             </figDesc>
@@ -53,11 +53,9 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Animales salvajes</term>
           <term>Casa</term>
           <term>Paisaje</term>
         </keywords>
-        <catRef scheme="#animales" target="#salvajes"/>
         <catRef scheme="#construidos" target="#casa"/>
         <catRef scheme="#naturales" target="#paisaje"/>
       </textClass>
@@ -67,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_239_1.jpg/187,517,967,829/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_239_1.jpg/187,817,967,559/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

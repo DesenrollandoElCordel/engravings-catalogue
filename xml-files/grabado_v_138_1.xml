@@ -20,7 +20,7 @@
           <title>grabado_v_138_1</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -62,10 +62,10 @@
       <textClass>
         <keywords>
           <term>Mujere(s) y Hombre(s)</term>
-          <term/>
+          <term>Hablando</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
-        <catRef scheme="#accion" target="#hablando "/>
+        <catRef scheme="#accion" target="#hablando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

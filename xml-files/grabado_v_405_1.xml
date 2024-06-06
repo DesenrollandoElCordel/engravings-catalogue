@@ -20,11 +20,11 @@
           <title>grabado_v_405_1</title>
           <author/>
           <publisher>Hernando</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_405_1.jpg/149,294,1364,885/full/0/default.jpg" source="Varios_405_1.jpg" n="149,294,1364,885"/>
+            <graphic url="varios/Varios_405_1.jpg/1139,294,350,885/full/0/default.jpg" source="Varios_405_1.jpg" n="1139,294,350,885"/>
             <figDesc>
               <locus target="Varios_405.xml">Nueva y curiosa relacion de la peregrina doctora</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_405_1.jpg/149,294,1364,885/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_405_1.jpg/1139,294,350,885/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

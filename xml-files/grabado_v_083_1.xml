@@ -20,7 +20,7 @@
           <title>grabado_v_083_1</title>
           <author/>
           <publisher>Ignacio Estivill</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -29,26 +29,7 @@
               <locus target="Varios_083.xml">La verdad en chanza</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar">
-            <list n="2">
-              <item>
-                <title corresp="grabado_b_026_1.xml">grabado_b_026_1</title>
-                <bibl>
-                  <title>Seguidillas para cantar boleros con estrivillo</title>
-                  <date>[s.a.]</date>
-                  <publisher>Bernado Pla</publisher>
-                </bibl>
-              </item>
-              <item>
-                <title corresp="grabado_b_027_1.xml">grabado_b_027_1</title>
-                <bibl>
-                  <title>Seguidillas para cantar boleros con estrivillo</title>
-                  <date>[s.a.]</date>
-                  <publisher>Bernado Pla</publisher>
-                </bibl>
-              </item>
-            </list>
-          </note>
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Varios_083</note>
         </bibl>
       </sourceDesc>

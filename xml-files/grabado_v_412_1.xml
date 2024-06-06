@@ -20,11 +20,11 @@
           <title>grabado_v_412_1</title>
           <author/>
           <publisher>Narciso Ramírez y Compañía</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1870" cert="high">1870</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_412_1.jpg/74,240,1551,1065/full/0/default.jpg" source="Varios_412_1.jpg" n="74,240,1551,1065"/>
+            <graphic url="varios/Varios_412_1.jpg/74,240,1611,1295/full/0/default.jpg" source="Varios_412_1.jpg" n="74,240,1611,1295"/>
             <figDesc>
               <locus target="Varios_412.xml">La febre groga</locus>
             </figDesc>
@@ -60,7 +60,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_412_1.jpg/74,240,1551,1065/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_412_1.jpg/74,240,1611,1295/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

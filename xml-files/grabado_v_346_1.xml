@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_346_1</title>
-          <author>Cabanach</author>
+          <author role="grabador">Cabanach</author>
           <publisher>Tipografía Española</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -57,12 +57,12 @@
           <term>Discutiendo</term>
           <term>Armas</term>
           <term>Paisaje</term>
-          <term>Area de agua</term>
+          <term>Área de agua</term>
           <term>Navío/Barco</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#discutiendo"/>
-        <catRef scheme="#accesorios" target="#armas "/>
+        <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#naturales" target="#paisaje"/>
         <catRef scheme="#naturales" target="#agua"/>
         <catRef scheme="#transporte" target="#navio"/>

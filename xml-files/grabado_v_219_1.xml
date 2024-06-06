@@ -20,7 +20,7 @@
           <title>grabado_v_219_1</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -35,6 +35,14 @@
                 <title corresp="grabado_v_021_1.xml">grabado_v_021_1</title>
                 <bibl>
                   <title>Coplas novas, humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_242_3.xml">grabado_v_242_3</title>
+                <bibl>
+                  <title>Relació xistosa</title>
                   <date>[s.a.]</date>
                   <publisher>El Abanico</publisher>
                 </bibl>
@@ -78,8 +86,10 @@
       <textClass>
         <keywords>
           <term>Mujer</term>
+          <term>Otros accesorios</term>
         </keywords>
         <catRef scheme="#personaje_femenino" target="#mujer"/>
+        <catRef scheme="#accesorios" target="#otros"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

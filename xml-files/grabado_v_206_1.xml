@@ -20,7 +20,7 @@
           <title>grabado_v_206_1</title>
           <author/>
           <publisher>Llorens</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -94,8 +94,10 @@
       <textClass>
         <keywords>
           <term>Hombre</term>
+          <term>Hablando</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
+        <catRef scheme="#accion" target="#hablando"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

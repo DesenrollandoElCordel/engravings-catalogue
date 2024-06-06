@@ -20,11 +20,11 @@
           <title>grabado_v_371_1</title>
           <author/>
           <publisher>Pedro Fullá</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_371_1.jpg/534,321,481,1042/full/0/default.jpg" source="Varios_371_1.jpg" n="534,321,481,1042"/>
+            <graphic url="varios/Varios_371_1.jpg/34,201,1481,1292/full/0/default.jpg" source="Varios_371_1.jpg" n="34,201,1481,1292"/>
             <figDesc>
               <locus target="Varios_371.xml">Cansó de la carbonera</locus>
             </figDesc>
@@ -54,7 +54,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_371_1.jpg/534,321,481,1042/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_371_1.jpg/34,201,1481,1292/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

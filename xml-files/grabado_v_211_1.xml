@@ -20,13 +20,13 @@
           <title>grabado_v_211_1</title>
           <author/>
           <publisher>La Catalana</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_211_1.jpg/499,63,747,1036/full/0/default.jpg" source="Varios_211_1.jpg" n="499,63,747,1036"/>
             <figDesc>
-              <locus target="Varios_211.xml">Celos y venganza</locus>
+              <locus target="Varios_211.xml">Celos y Venganza</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar"/>

@@ -20,17 +20,17 @@
           <title>grabado_v_460_2</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_460_1.jpg/683,238,496,864/full/0/default.jpg" source="Varios_460_1.jpg" n="683,238,496,864"/>
             <figDesc>
-              <locus target="Varios_460.xml">Relació xistosa, ó xasco que va doná une guapa valenciana á set galans pretendents que volian conquistaria</locus>
+              <locus target="Varios_460.xml">Relació xistosa</locus>
             </figDesc>
           </figure>
           <note type="similar_ejemplar">
-            <list n="4">
+            <list n="5">
               <item>
                 <title corresp="grabado_v_021_1.xml">grabado_v_021_1</title>
                 <bibl>
@@ -43,6 +43,14 @@
                 <title corresp="grabado_v_219_1.xml">grabado_v_219_1</title>
                 <bibl>
                   <title>Coplas novas, humorísticas y epigramáticas</title>
+                  <date>[s.a.]</date>
+                  <publisher>El Abanico</publisher>
+                </bibl>
+              </item>
+              <item>
+                <title corresp="grabado_v_242_3.xml">grabado_v_242_3</title>
+                <bibl>
+                  <title>Relació xistosa</title>
                   <date>[s.a.]</date>
                   <publisher>El Abanico</publisher>
                 </bibl>

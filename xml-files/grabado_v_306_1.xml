@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_306_1</title>
-          <author>Noguera</author>
+          <author role="grabador">Noguera</author>
           <publisher>Cristina Segura</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -34,7 +34,7 @@
               <item>
                 <title corresp="grabado_v_042_1.xml">grabado_v_042_1</title>
                 <bibl>
-                  <title>La dama casimira</title>
+                  <title>La dama Casimira</title>
                   <date>[s.a.]</date>
                   <publisher>Cristina Segura</publisher>
                 </bibl>

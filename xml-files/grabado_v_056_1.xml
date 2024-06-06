@@ -20,27 +20,16 @@
           <title>grabado_v_056_1</title>
           <author/>
           <publisher>José María Marés</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1858" cert="high">1858</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_056_3.jpg/340,165,968,772/full/0/default.jpg" source="Varios_056_3.jpg" n="340,165,968,772"/>
+            <graphic url="varios/Varios_056_1.jpg/300,265,1168,802/full/0/default.jpg" source="Varios_056_1.jpg" n="300,265,1168,802"/>
             <figDesc>
               <locus target="Varios_056.xml">Cancion graciosa de la linda zagala</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar">
-            <list n="1">
-              <item>
-                <title corresp="grabado_v_388_1.xml">grabado_v_388_1</title>
-                <bibl>
-                  <title>Curiosa relacion</title>
-                  <date>[s.a.]</date>
-                  <publisher>Vidal Arrabal</publisher>
-                </bibl>
-              </item>
-            </list>
-          </note>
+          <note type="similar_ejemplar"/>
           <note type="origen">Grabado extraído del pliego Varios_056</note>
         </bibl>
       </sourceDesc>
@@ -53,19 +42,21 @@
     <profileDesc>
       <textClass>
         <keywords>
-          <term>Hombre</term>
-          <term>Simbolismo cristiano</term>
-          <term>Papeles</term>
-          <term>Armas</term>
-          <term>Otros accesorios</term>
-          <term>Interior de un edificio</term>
+          <term>Mujere(s) y Hombre(s)</term>
+          <term>Hablando</term>
+          <term>Instrumentos musicales</term>
+          <term>Lugar de culto</term>
+          <term>Paisaje</term>
+          <term>Animales domésticos</term>
+          <term>Animales salvajes</term>
         </keywords>
-        <catRef scheme="#personaje_masculino" target="#hombre"/>
-        <catRef scheme="#religion" target="#simbolismo"/>
-        <catRef scheme="#accesorios" target="#papel"/>
-        <catRef scheme="#accesorios" target="#armas"/>
-        <catRef scheme="#accesorios" target="#otros"/>
-        <catRef scheme="#construidos" target="#interior"/>
+        <catRef scheme="#grupos_personajes" target="#hf"/>
+        <catRef scheme="#accion" target="#hablando"/>
+        <catRef scheme="#accesorios" target="#instrumentos"/>
+        <catRef scheme="#construidos" target="#culto"/>
+        <catRef scheme="#naturales" target="#paisaje"/>
+        <catRef scheme="#animales" target="#domesticos"/>
+        <catRef scheme="#animales" target="#salvajes"/>
       </textClass>
     </profileDesc>
     <revisionDesc>
@@ -73,7 +64,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_056_3.jpg/340,165,968,772/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_056_1.jpg/300,265,1168,802/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

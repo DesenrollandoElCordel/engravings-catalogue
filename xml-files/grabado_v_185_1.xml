@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_185_1</title>
-          <author>Vallero</author>
+          <author role="grabador">Vallero</author>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">[s.l.]</pubPlace>
+          <pubPlace>[s.l.]</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

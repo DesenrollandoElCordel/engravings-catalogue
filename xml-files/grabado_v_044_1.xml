@@ -18,9 +18,9 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_044_1</title>
-          <author>?</author>
+          <author role="grabador">Ilegible</author>
           <publisher>Tipografía Valencia 200</publisher>
-          <pubPlace ref="xxxx">Valencia</pubPlace>
+          <pubPlace ref="http://www.geonames.org/2509954/valencia.html">Valencia</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

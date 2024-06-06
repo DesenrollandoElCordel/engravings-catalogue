@@ -20,7 +20,7 @@
           <title>grabado_v_262_1</title>
           <author/>
           <publisher>Cristina Segura</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -36,7 +36,7 @@
                 <bibl>
                   <title>La pescatera catalana</title>
                   <date>[s.a.]</date>
-                  <publisher>El Abanico</publisher>
+                  <publisher>Cristina Segura</publisher>
                 </bibl>
               </item>
               <item>

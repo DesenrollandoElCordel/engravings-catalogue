@@ -20,11 +20,11 @@
           <title>grabado_v_411_2</title>
           <author/>
           <publisher>Juan Bautista Vidal</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1861" cert="high">1861</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_411_1.jpg/970,309,-438,506/full/0/default.jpg" source="Varios_411_1.jpg" n="970,309,-438,506"/>
+            <graphic url="varios/Varios_411_1.jpg/1010,309,438,850/full/0/default.jpg" source="Varios_411_1.jpg" n="1010,309,438,850"/>
             <figDesc>
               <locus target="Varios_411.xml">Trobos nuevos y divertidos</locus>
             </figDesc>
@@ -73,7 +73,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_411_1.jpg/970,309,-438,506/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_411_1.jpg/1010,309,438,850/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

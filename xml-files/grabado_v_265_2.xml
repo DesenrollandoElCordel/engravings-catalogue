@@ -20,7 +20,7 @@
           <title>grabado_v_265_2</title>
           <author/>
           <publisher>El Abanico</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -63,12 +63,14 @@
         <keywords>
           <term>Religioso</term>
           <term>Hombres</term>
+          <term>Muerte</term>
           <term>Armas</term>
           <term>Casa</term>
           <term>Plaza</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#religioso"/>
         <catRef scheme="#grupos_personajes" target="#hombres"/>
+        <catRef scheme="#muerte" target="#muerte"/>
         <catRef scheme="#accesorios" target="#armas"/>
         <catRef scheme="#construidos" target="#casa"/>
         <catRef scheme="#construidos" target="#plaza"/>

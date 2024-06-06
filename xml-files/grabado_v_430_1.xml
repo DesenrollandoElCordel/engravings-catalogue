@@ -18,9 +18,10 @@
       <sourceDesc>
         <bibl>
           <title>grabado_v_430_1</title>
-          <author>Vallejo | GR</author>
+          <author role="grabador">Vallejo</author>
+          <author role="grabador">GR</author>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">Madrid</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3117735/madrid.html">Madrid</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>

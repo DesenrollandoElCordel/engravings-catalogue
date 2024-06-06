@@ -20,7 +20,7 @@
           <title>grabado_v_368_1</title>
           <author/>
           <publisher>Cristina Segura</publisher>
-          <pubPlace ref="xxxx">Barcelona</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
@@ -74,14 +74,14 @@
           <term>Papeles</term>
           <term>Otros accesorios</term>
           <term>Calle</term>
-          <term>Puerta</term>
+          <term>Casa</term>
         </keywords>
         <catRef scheme="#grupos_personajes" target="#hf"/>
         <catRef scheme="#accion" target="#hablando"/>
         <catRef scheme="#accesorios" target="#papel"/>
         <catRef scheme="#accesorios" target="#otros"/>
         <catRef scheme="#construidos" target="#calle"/>
-        <catRef scheme="#construidos" target="#puerta"/>
+        <catRef scheme="#construidos" target="#casa"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

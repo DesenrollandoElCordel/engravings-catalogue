@@ -20,11 +20,11 @@
           <title>grabado_v_406_1</title>
           <author/>
           <publisher>Narciso Roca</publisher>
-          <pubPlace ref="xxxx">Reus</pubPlace>
+          <pubPlace ref="https://www.geonames.org/3111933/reus.html">Reus</pubPlace>
           <date when="1864" cert="high">1864</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_406_1.jpg/122,401,332,486/full/0/default.jpg" source="Varios_406_1.jpg" n="122,401,332,486"/>
+            <graphic url="varios/Varios_406_1.jpg/122,401,472,906/full/0/default.jpg" source="Varios_406_1.jpg" n="122,401,472,906"/>
             <figDesc>
               <locus target="Varios_406.xml">Trobos nuevos amorosos y elegantes</locus>
             </figDesc>
@@ -65,7 +65,7 @@
     </revisionDesc>
   </teiHeader>
   <facsimile>
-    <graphic url="varios/Varios_406_1.jpg/122,401,332,486/200,/0/default.jpg"/>
+    <graphic url="varios/Varios_406_1.jpg/122,401,472,906/200,/0/default.jpg"/>
   </facsimile>
   <text>
     <body>

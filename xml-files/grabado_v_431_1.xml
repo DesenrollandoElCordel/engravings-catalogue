@@ -20,16 +20,27 @@
           <title>grabado_v_431_1</title>
           <author/>
           <publisher>[s.n.]</publisher>
-          <pubPlace ref="xxxx">Palma</pubPlace>
+          <pubPlace ref="https://www.geonames.org/2512989/palma.html">Palma</pubPlace>
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
             <graphic url="varios/Varios_431_1.jpg/122,154,1308,998/full/0/default.jpg" source="Varios_431_1.jpg" n="122,154,1308,998"/>
             <figDesc>
-              <locus target="Varios_431.xml">Historia del infante don pedro de portugal.</locus>
+              <locus target="Varios_431.xml">Historia del infante don Pedro de Portugal</locus>
             </figDesc>
           </figure>
-          <note type="similar_ejemplar"/>
+          <note type="similar_ejemplar">
+            <list n="1">
+              <item>
+                <title corresp="grabado_v_455_1.xml">grabado_v_455_1</title>
+                <bibl>
+                  <title>Historia del infante don Pedro de Portugal</title>
+                  <publisher>Sucesores de Hernando</publisher>
+                  <date when="1800" cert="low">[s.a.]</date>
+                </bibl>
+              </item>
+            </list>
+          </note>
           <note type="origen">Grabado extraído del pliego Varios_431</note>
         </bibl>
       </sourceDesc>
