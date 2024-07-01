@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_b_059_1">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_059_1.jpg/185,108,330,640/full/0/default.jpg" source="BCN_059_1.jpg" n="185,108,330,640"/>
+            <graphic url="varios/BCN_059_1.jpg/185,108,330,640/max/0/default.jpg" source="BCN_059_1.jpg" n="185,108,330,640"/>
             <figDesc>
               <locus target="BCN_059.xml">Col-loqui de quatre aprenents</locus>
             </figDesc>
@@ -32,7 +31,7 @@
           <note type="similar_ejemplar">
             <list n="2">
               <item>
-                <title corresp="grabado_002_1.xml">grabado_002_1</title>
+                <title corresp="grabado_b_002_1.xml">grabado_b_002_1</title>
                 <bibl>
                   <title>Xacara nueva</title>
                   <date>[s.a.]</date>
@@ -40,7 +39,7 @@
                 </bibl>
               </item>
               <item>
-                <title corresp="grabado_058_2.xml">grabado_058_2</title>
+                <title corresp="grabado_b_058_2.xml">grabado_b_058_2</title>
                 <bibl>
                   <title>Col-loqui de quatre aprenents</title>
                   <date>[s.a.]</date>

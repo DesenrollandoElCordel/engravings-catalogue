@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_096_2">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1851" cert="high">1851</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_096_4.jpg/535,587,901,558/full/0/default.jpg" source="Varios_096_4.jpg" n="535,587,901,558"/>
+            <graphic url="varios/Varios_096_4.jpg/535,587,901,558/max/0/default.jpg" source="Varios_096_4.jpg" n="535,587,901,558"/>
             <figDesc>
               <locus target="Varios_096.xml">Décimas</locus>
             </figDesc>

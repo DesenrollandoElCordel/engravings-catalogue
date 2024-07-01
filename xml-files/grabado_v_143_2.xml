@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_143_2">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_143_2.jpg/327,256,1457,1494/full/0/default.jpg" source="Varios_143_2.jpg" n="327,256,1457,1494"/>
+            <graphic url="varios/Varios_143_2.jpg/327,256,1457,1494/max/0/default.jpg" source="Varios_143_2.jpg" n="327,256,1457,1494"/>
             <figDesc>
               <locus target="Varios_143.xml">Un marido como hay muchos</locus>
             </figDesc>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_142_1">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1866" cert="high">1866</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_142_1.jpg/1033,313,429,850/full/0/default.jpg" source="Varios_142_1.jpg" n="1033,313,429,850"/>
+            <graphic url="varios/Varios_142_1.jpg/1033,313,429,850/max/0/default.jpg" source="Varios_142_1.jpg" n="1033,313,429,850"/>
             <figDesc>
               <locus target="Varios_142.xml">Trobos de amor</locus>
             </figDesc>

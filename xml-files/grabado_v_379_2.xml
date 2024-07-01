@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_379_2">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1850" cert="high">1850</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_379_1.jpg/767,476,565,720/full/0/default.jpg" source="Varios_379_1.jpg" n="767,476,565,720"/>
+            <graphic url="varios/Varios_379_1.jpg/767,476,565,720/max/0/default.jpg" source="Varios_379_1.jpg" n="767,476,565,720"/>
             <figDesc>
               <locus target="Varios_379.xml">Las bromas de las mugeres</locus>
             </figDesc>

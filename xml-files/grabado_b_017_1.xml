@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_b_017_1">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/BCN_017_1.jpg/477,254,700,620/full/0/default.jpg" source="BCN_017_1.jpg" n="477,254,700,620"/>
+            <graphic url="varios/BCN_017_1.jpg/477,254,700,620/max/0/default.jpg" source="BCN_017_1.jpg" n="477,254,700,620"/>
             <figDesc>
               <locus target="BCN_017.xml">Romance, de como el conde don ramon de barcelona libró a la emperatriz de alemania</locus>
             </figDesc>

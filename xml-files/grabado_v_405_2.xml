@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_405_2">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_405_1.jpg/149,294,1004,885/full/0/default.jpg" source="Varios_405_1.jpg" n="149,294,1004,885"/>
+            <graphic url="varios/Varios_405_1.jpg/149,294,1004,885/max/0/default.jpg" source="Varios_405_1.jpg" n="149,294,1004,885"/>
             <figDesc>
               <locus target="Varios_405.xml">Nueva y curiosa relacion de la peregrina doctora</locus>
             </figDesc>

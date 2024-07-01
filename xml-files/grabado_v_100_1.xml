@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_100_1">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_100_1.jpg/607,333,404,534/full/0/default.jpg" source="Varios_100_1.jpg" n="607,333,404,534"/>
+            <graphic url="varios/Varios_100_1.jpg/607,333,404,534/max/0/default.jpg" source="Varios_100_1.jpg" n="607,333,404,534"/>
             <figDesc>
               <locus target="Varios_100.xml">Relacion hecha por un mozo soltero</locus>
             </figDesc>

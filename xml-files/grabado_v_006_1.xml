@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_006_1">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_006_1.jpg/295,193,1160,1305/full/0/default.jpg" source="Varios_006_1.jpg" n="295,193,1160,1305"/>
+            <graphic url="varios/Varios_006_1.jpg/295,193,1160,1305/max/0/default.jpg" source="Varios_006_1.jpg" n="295,193,1160,1305"/>
             <figDesc>
               <locus target="Varios_006.xml">Vida y martirio de los gloriosos San Cipriano y Santa Justina</locus>
             </figDesc>
@@ -65,13 +64,11 @@
           <term>Rezando</term>
           <term>Santo/Santa</term>
           <term>Ángel(es)</term>
-          <term>Fuego</term>
         </keywords>
         <catRef scheme="#personaje_masculino" target="#hombre"/>
         <catRef scheme="#accion" target="#rezando"/>
         <catRef scheme="#religion" target="#santo"/>
         <catRef scheme="#religion" target="#angel"/>
-        <catRef scheme="#naturales" target="#fuego"/>
       </textClass>
     </profileDesc>
     <revisionDesc>

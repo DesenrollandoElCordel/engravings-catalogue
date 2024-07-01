@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="grabado_v_153_2">
   <teiHeader>
     <fileDesc>
@@ -24,7 +23,7 @@
           <date when="1800" cert="low">[s.a.]</date>
           <ident type="DOI"/>
           <figure>
-            <graphic url="varios/Varios_153_3.jpg/479,72,860,665/full/0/default.jpg" source="Varios_153_3.jpg" n="479,72,860,665"/>
+            <graphic url="varios/Varios_153_3.jpg/479,72,860,665/max/0/default.jpg" source="Varios_153_3.jpg" n="479,72,860,665"/>
             <figDesc>
               <locus target="Varios_153.xml">Graciosos villancicos</locus>
             </figDesc>
